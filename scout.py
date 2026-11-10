@@ -175,6 +175,9 @@ def collect():
             return
         if in_list(h, CFG["known"]) or in_list(h, CFG["ignore"]):
             return
+        path = urllib.parse.urlsplit(url).path.lower()
+        if any(w in path for w in CFG.get("skip_path_words", [])):   # 개인정보·약관·구독 등 법적·안내 페이지 제외
+            return
         c = cites.setdefault(b, {"count": 0, "seeds": set(), "sample": url, "titles": []})
         c["count"] += 1
         c["seeds"].add(seed)
@@ -239,7 +242,7 @@ def test_candidate(domain, info):
     out["has_dates"] = bool(dated)
     out["items_7d"] = sum(1 for i in dated if (NOW - i["date"]).days <= 7)
     out["kw_ratio"] = round(sum(1 for i in items if has_kw(i["title"] + " " + i["html"])) / len(items), 2)
-    ok = out["has_dates"] and out["items_7d"] > 0
+    ok = out["has_dates"] and out["items_7d"] > 0 and out["kw_ratio"] > 0   # 키워드 적중 0이면 SpaceX 출처가 아님
     out["verdict"] = "기계 시험 통과(본문·신뢰도는 봇이 확인)" if ok else "부분(날짜·최신성 미달)"
     out["score"] = round(info["count"] * (1 + out["items_7d"]) * (0.2 + out["kw_ratio"]), 2)
     return out
