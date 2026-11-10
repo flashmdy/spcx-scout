@@ -1,19 +1,19 @@
 {
- "generated_at": "2026-11-10T04:42:16+00:00",
+ "generated_at": "2026-11-10T05:09:05+00:00",
  "signals": {
   "candidates_passed": 1,
-  "candidates_seen_30d": 79,
+  "candidates_seen_30d": 193,
   "feeds_failing_3x": [],
   "suggested_workers": 1
  },
  "top": [
   {
    "domain": "9to5mac.com",
-   "citations": 7,
+   "citations": 4,
    "cited_by": [
     "Electrek SpaceX"
    ],
-   "sample": "https://9to5mac.com/privacy/",
+   "sample": "https://9to5mac.com/",
    "titles": [
     "What does a blue Texas sweep mean for Elon Musk, Tesla & SpaceX?",
     "Tesla and SpaceX take first step towards merger, would dilute all shareholders"
@@ -23,8 +23,27 @@
    "has_dates": true,
    "items_7d": 100,
    "kw_ratio": 0.0,
-   "verdict": "부분(날짜·최신성 미달)",
-   "score": 141.4
+   "verdict": "부분(SpaceX 글 없음)",
+   "score": 80.8
+  },
+  {
+   "domain": "9to5google.com",
+   "citations": 3,
+   "cited_by": [
+    "Electrek SpaceX"
+   ],
+   "sample": "https://9to5google.com/",
+   "titles": [
+    "What does a blue Texas sweep mean for Elon Musk, Tesla & SpaceX?",
+    "Tesla and SpaceX take first step towards merger, would dilute all shareholders"
+   ],
+   "robots": "허용",
+   "feed": "https://9to5google.com/feed/",
+   "has_dates": true,
+   "items_7d": 100,
+   "kw_ratio": 0.0,
+   "verdict": "부분(SpaceX 글 없음)",
+   "score": 60.6
   },
   {
    "domain": "thefp.com",
@@ -35,15 +54,34 @@
    "sample": "https://www.thefp.com/p/elon-musk-left-doge-but-democrats?utm_source=cbs_news&utm_campaign=cbs_news_recirculation&utm_content=bottom_page",
    "titles": [
     "Memphis fails to pass 1-year data center moratorium, opts for shorter-term ban",
-    "Memphis fails to pass 1-year data center moratorium, opts for shorter-term ban"
+    "Musk says SpaceX-Tesla merger has \"a lot of merit.\" Here's why."
    ],
    "robots": "허용",
    "feed": "https://thefp.com/feed",
    "has_dates": true,
    "items_7d": 20,
    "kw_ratio": 0.0,
-   "verdict": "부분(날짜·최신성 미달)",
+   "verdict": "부분(SpaceX 글 없음)",
    "score": 37.8
+  },
+  {
+   "domain": "9to5toys.com",
+   "citations": 3,
+   "cited_by": [
+    "Electrek SpaceX"
+   ],
+   "sample": "https://9to5toys.com/",
+   "titles": [
+    "What does a blue Texas sweep mean for Elon Musk, Tesla & SpaceX?",
+    "Tesla and SpaceX take first step towards merger, would dilute all shareholders"
+   ],
+   "robots": "허용",
+   "feed": "https://9to5toys.com/feed/",
+   "has_dates": true,
+   "items_7d": 50,
+   "kw_ratio": 0.0,
+   "verdict": "부분(SpaceX 글 없음)",
+   "score": 30.6
   },
   {
    "domain": "nasa.gov",
@@ -73,26 +111,27 @@
    "sample": "https://futureplc.com/future-member-terms-and-conditions/",
    "titles": [
     "On this day in space! Nov. 9, 1967: NASA launches the Saturn V moon rocket for the first t",
-    "On this day in space! Nov. 9, 1967: NASA launches the Saturn V moon rocket for the first t"
+    "Starfish Space loses contact with 1st 'Otter' servicing spacecraft, ending NASA tech-demo "
    ],
    "robots": "허용",
    "feed": "https://futureplc.com/feed/",
    "has_dates": true,
    "items_7d": 1,
    "kw_ratio": 0.0,
-   "verdict": "부분(날짜·최신성 미달)",
+   "verdict": "부분(SpaceX 글 없음)",
    "score": 9.6
   },
   {
-   "domain": "paramount.com",
-   "citations": 10,
+   "domain": "whatsapp.com",
+   "citations": 8,
    "cited_by": [
-    "CBS News Technology"
+    "Space Intel Report",
+    "Tesla Oracle"
    ],
-   "sample": "https://legal.paramount.com/us/en/cbsi/terms-of-use",
+   "sample": "https://api.whatsapp.com/send?text=MDA%20Space%20on%20Telesat%20Lightspeed%20delay%20and%20how%20it%27s%20positioning%20itself%20to%20win%20US%20and%20European%20military%20satellite%20business %0A%0A https%3A%2F%2Fwww.spaceintelreport.com%2Fmda-space-on-telesat-lightspeed-delay-and-how-its-positioning-itself-to-win-us-and-european-military-satellite-business%2F",
    "titles": [
-    "Memphis fails to pass 1-year data center moratorium, opts for shorter-term ban",
-    "Memphis fails to pass 1-year data center moratorium, opts for shorter-term ban"
+    "MDA Space on Telesat Lightspeed delay and how it’s positioning itself to win US and Europe",
+    "After Fort Worth, Tesla launches Robotaxi Service in San Antonio, Texas today (Nov 9) — no"
    ],
    "robots": "허용",
    "feed": "",
@@ -100,7 +139,66 @@
    "items_7d": 0,
    "kw_ratio": 0.0,
    "verdict": "부분(피드 없음)",
-   "score": 1.0
+   "score": 0.8
+  },
+  {
+   "domain": "cbssports.com",
+   "citations": 6,
+   "cited_by": [
+    "CBS News Technology"
+   ],
+   "sample": "https://www.cbssports.com/college-football/rankings/cbs-sports-rankings/",
+   "titles": [
+    "Memphis fails to pass 1-year data center moratorium, opts for shorter-term ban",
+    "Musk says SpaceX-Tesla merger has \"a lot of merit.\" Here's why."
+   ],
+   "robots": "허용",
+   "feed": "",
+   "has_dates": false,
+   "items_7d": 0,
+   "kw_ratio": 0.0,
+   "verdict": "부분(피드 없음)",
+   "score": 0.6
+  },
+  {
+   "domain": "flipboard.com",
+   "citations": 6,
+   "cited_by": [
+    "Electrek SpaceX",
+    "Space.com"
+   ],
+   "sample": "https://flipboard.com/@electrek",
+   "titles": [
+    "What does a blue Texas sweep mean for Elon Musk, Tesla & SpaceX?",
+    "Tesla and SpaceX take first step towards merger, would dilute all shareholders"
+   ],
+   "robots": "허용",
+   "feed": "",
+   "has_dates": false,
+   "items_7d": 0,
+   "kw_ratio": 0.0,
+   "verdict": "부분(피드 없음)",
+   "score": 0.6
+  },
+  {
+   "domain": "addtoany.com",
+   "citations": 5,
+   "cited_by": [
+    "Advanced Television",
+    "SpacePolicyOnline"
+   ],
+   "sample": "https://www.addtoany.com/add_to/facebook?linkurl=https%3A%2F%2Fwww.advanced-television.com%2F2026%2F11%2F09%2Fviasat-our-new-satellites-will-drive-broadband%2F&linkname=Viasat%3A%20%E2%80%9COur%20new%20satellites%20will%20drive%20broadband%E2%80%9D",
+   "titles": [
+    "Viasat: “Our new satellites will drive broadband”",
+    "NASA Shares Moon Base Progress, Contract Awards"
+   ],
+   "robots": "허용",
+   "feed": "",
+   "has_dates": false,
+   "items_7d": 0,
+   "kw_ratio": 0.0,
+   "verdict": "부분(피드 없음)",
+   "score": 0.5
   }
  ],
  "seeds": [
@@ -151,25 +249,235 @@
    "result": "성공",
    "items": 20,
    "spacex_items": 20
+  },
+  {
+   "name": "SpaceNews",
+   "result": "성공",
+   "items": 12,
+   "spacex_items": 2
+  },
+  {
+   "name": "NASASpaceflight",
+   "result": "성공",
+   "items": 10,
+   "spacex_items": 6
+  },
+  {
+   "name": "Spaceflight Now",
+   "result": "성공",
+   "items": 10,
+   "spacex_items": 7
+  },
+  {
+   "name": "SpacePolicyOnline",
+   "result": "성공",
+   "items": 10,
+   "spacex_items": 3
+  },
+  {
+   "name": "Payload",
+   "result": "성공",
+   "items": 13,
+   "spacex_items": 9
+  },
+  {
+   "name": "Universe Today",
+   "result": "성공",
+   "items": 20,
+   "spacex_items": 0
+  },
+  {
+   "name": "Via Satellite",
+   "result": "성공",
+   "items": 10,
+   "spacex_items": 7
+  },
+  {
+   "name": "European Spaceflight",
+   "result": "성공",
+   "items": 10,
+   "spacex_items": 0
+  },
+  {
+   "name": "Space Intel Report",
+   "result": "성공",
+   "items": 10,
+   "spacex_items": 1
+  },
+  {
+   "name": "Orbital Today",
+   "result": "robots 확인 실패",
+   "items": 0,
+   "spacex_items": 0
+  },
+  {
+   "name": "SpaceQ",
+   "result": "성공",
+   "items": 10,
+   "spacex_items": 0
+  },
+  {
+   "name": "Spaceflight Insider",
+   "result": "robots 거부",
+   "items": 0,
+   "spacex_items": 0
+  },
+  {
+   "name": "Everyday Astronaut",
+   "result": "성공",
+   "items": 10,
+   "spacex_items": 10
+  },
+  {
+   "name": "NASA",
+   "result": "성공",
+   "items": 10,
+   "spacex_items": 1
+  },
+  {
+   "name": "US Space Force",
+   "result": "robots 거부",
+   "items": 0,
+   "spacex_items": 0
+  },
+  {
+   "name": "DoD Contracts",
+   "result": "robots 거부",
+   "items": 0,
+   "spacex_items": 0
+  },
+  {
+   "name": "Telecompetitor",
+   "result": "오류: HTTPError",
+   "items": 0,
+   "spacex_items": 0
+  },
+  {
+   "name": "Broadband Breakfast",
+   "result": "성공",
+   "items": 15,
+   "spacex_items": 4
+  },
+  {
+   "name": "Light Reading",
+   "result": "성공",
+   "items": 50,
+   "spacex_items": 6
+  },
+  {
+   "name": "RCR Wireless",
+   "result": "성공",
+   "items": 10,
+   "spacex_items": 4
+  },
+  {
+   "name": "Fierce Network",
+   "result": "성공",
+   "items": 25,
+   "spacex_items": 1
+  },
+  {
+   "name": "Breaking Defense",
+   "result": "성공",
+   "items": 15,
+   "spacex_items": 1
+  },
+  {
+   "name": "DefenseScoop",
+   "result": "성공",
+   "items": 10,
+   "spacex_items": 1
+  },
+  {
+   "name": "Air & Space Forces",
+   "result": "성공",
+   "items": 9,
+   "spacex_items": 2
+  },
+  {
+   "name": "Defense News",
+   "result": "성공",
+   "items": 10,
+   "spacex_items": 2
+  },
+  {
+   "name": "The War Zone",
+   "result": "성공",
+   "items": 29,
+   "spacex_items": 0
+  },
+  {
+   "name": "Drive Tesla Canada",
+   "result": "성공",
+   "items": 10,
+   "spacex_items": 3
+  },
+  {
+   "name": "Tesla Oracle",
+   "result": "성공",
+   "items": 10,
+   "spacex_items": 7
+  },
+  {
+   "name": "VentureBeat",
+   "result": "오류: HTTPError",
+   "items": 0,
+   "spacex_items": 0
+  },
+  {
+   "name": "The Decoder",
+   "result": "성공",
+   "items": 10,
+   "spacex_items": 0
+  },
+  {
+   "name": "Data Center Dynamics",
+   "result": "성공",
+   "items": 20,
+   "spacex_items": 0
+  },
+  {
+   "name": "Crunchbase News",
+   "result": "성공",
+   "items": 10,
+   "spacex_items": 1
+  },
+  {
+   "name": "GDELT SpaceX",
+   "result": "성공",
+   "items": 104,
+   "spacex_items": 10
+  },
+  {
+   "name": "GDELT Starlink",
+   "result": "성공",
+   "items": 46,
+   "spacex_items": 5
+  },
+  {
+   "name": "Hacker News Starlink",
+   "result": "성공",
+   "items": 50,
+   "spacex_items": 12
   }
  ],
  "blocked_cited": {
-  "x.com": 35,
-  "twitter.com": 30,
-  "reddit.com": 6,
+  "twitter.com": 51,
+  "x.com": 40,
+  "reddit.com": 11,
+  "t.co": 11,
+  "google.com": 10,
   "cnbc.com": 3,
-  "google.com": 3,
-  "reuters.com": 2,
-  "theguardian.com": 2,
-  "yahoo.com": 2,
-  "sec.gov": 2,
-  "washingtonpost.com": 1
+  "theguardian.com": 3,
+  "sec.gov": 3,
+  "bloomberg.com": 3,
+  "washingtonpost.com": 2
  },
  "stats": {
-  "requests": 54,
+  "requests": 183,
   "blocked_skipped": 0,
-  "robots_denied": 1,
-  "errors": 3,
+  "robots_denied": 5,
+  "errors": 13,
   "blocked_contacted": 0
  }
 }
