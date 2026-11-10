@@ -1,35 +1,380 @@
 {
   "user_agent": "spcx-scout/1.0 (personal research bot; honors robots.txt)",
-  "keywords": ["spacex", "starlink", "starship", "falcon 9", "falcon heavy", "starshield", "spcx", "xai", "terafab"],
-  "seeds": [
-    {"name": "Teslarati SpaceX", "kind": "rss", "url": "https://www.teslarati.com/category/spacex/feed/"},
-    {"name": "TechCrunch SpaceX", "kind": "rss", "url": "https://techcrunch.com/tag/spacex/feed/"},
-    {"name": "Electrek SpaceX", "kind": "rss", "url": "https://electrek.co/guides/spacex/feed/"},
-    {"name": "CBS News Technology", "kind": "rss", "url": "https://www.cbsnews.com/latest/rss/technology"},
-    {"name": "Space.com", "kind": "rss", "url": "https://www.space.com/feeds/all"},
-    {"name": "Advanced Television", "kind": "rss", "url": "https://www.advanced-television.com/feed/"},
-    {"name": "Hacker News SpaceX", "kind": "hn", "url": "https://hn.algolia.com/api/v1/search_by_date?query=SpaceX&tags=story&hitsPerPage=50"},
-    {"name": "Federal Register SpaceX", "kind": "fedreg", "url": "https://www.federalregister.gov/api/v1/documents.json?conditions[term]=SpaceX&order=newest&per_page=20"}
+  "keywords": [
+    "spacex",
+    "starlink",
+    "starship",
+    "falcon 9",
+    "falcon heavy",
+    "starshield",
+    "spcx",
+    "xai",
+    "terafab"
   ],
-  "skip_path_words": ["/privacy", "/terms", "/legal", "/cookie", "/subscribe", "/subscription", "/login", "/signin", "/signup", "/account", "/membership", "/newsletter", "/contact", "/advertis", "/about-us", "/sitemap", "/tag/", "/author/"],
+  "seeds": [
+    {
+      "name": "Teslarati SpaceX",
+      "kind": "rss",
+      "url": "https://www.teslarati.com/category/spacex/feed/"
+    },
+    {
+      "name": "TechCrunch SpaceX",
+      "kind": "rss",
+      "url": "https://techcrunch.com/tag/spacex/feed/"
+    },
+    {
+      "name": "Electrek SpaceX",
+      "kind": "rss",
+      "url": "https://electrek.co/guides/spacex/feed/"
+    },
+    {
+      "name": "CBS News Technology",
+      "kind": "rss",
+      "url": "https://www.cbsnews.com/latest/rss/technology"
+    },
+    {
+      "name": "Space.com",
+      "kind": "rss",
+      "url": "https://www.space.com/feeds/all"
+    },
+    {
+      "name": "Advanced Television",
+      "kind": "rss",
+      "url": "https://www.advanced-television.com/feed/"
+    },
+    {
+      "name": "Hacker News SpaceX",
+      "kind": "hn",
+      "url": "https://hn.algolia.com/api/v1/search_by_date?query=SpaceX&tags=story&hitsPerPage=50"
+    },
+    {
+      "name": "Federal Register SpaceX",
+      "kind": "fedreg",
+      "url": "https://www.federalregister.gov/api/v1/documents.json?conditions[term]=SpaceX&order=newest&per_page=20"
+    },
+    {
+      "name": "SpaceNews",
+      "kind": "rss",
+      "url": "https://spacenews.com/feed/"
+    },
+    {
+      "name": "NASASpaceflight",
+      "kind": "rss",
+      "url": "https://www.nasaspaceflight.com/feed/"
+    },
+    {
+      "name": "Spaceflight Now",
+      "kind": "rss",
+      "url": "https://spaceflightnow.com/feed/"
+    },
+    {
+      "name": "SpacePolicyOnline",
+      "kind": "rss",
+      "url": "https://spacepolicyonline.com/feed/"
+    },
+    {
+      "name": "Payload",
+      "kind": "rss",
+      "url": "https://payloadspace.com/feed/"
+    },
+    {
+      "name": "Universe Today",
+      "kind": "rss",
+      "url": "https://www.universetoday.com/feed/"
+    },
+    {
+      "name": "Via Satellite",
+      "kind": "rss",
+      "url": "https://www.satellitetoday.com/feed/"
+    },
+    {
+      "name": "European Spaceflight",
+      "kind": "rss",
+      "url": "https://europeanspaceflight.com/feed/"
+    },
+    {
+      "name": "Space Intel Report",
+      "kind": "rss",
+      "url": "https://www.spaceintelreport.com/feed/"
+    },
+    {
+      "name": "Orbital Today",
+      "kind": "rss",
+      "url": "https://orbitaltoday.com/feed/"
+    },
+    {
+      "name": "SpaceQ",
+      "kind": "rss",
+      "url": "https://spaceq.ca/feed/"
+    },
+    {
+      "name": "Spaceflight Insider",
+      "kind": "rss",
+      "url": "https://www.spaceflightinsider.com/feed/"
+    },
+    {
+      "name": "Everyday Astronaut",
+      "kind": "rss",
+      "url": "https://everydayastronaut.com/feed/"
+    },
+    {
+      "name": "NASA",
+      "kind": "rss",
+      "url": "https://www.nasa.gov/feed/"
+    },
+    {
+      "name": "US Space Force",
+      "kind": "rss",
+      "url": "https://www.spaceforce.mil/DesktopModules/ArticleCS/RSS.ashx?ContentType=1&Site=1060&max=20"
+    },
+    {
+      "name": "DoD Contracts",
+      "kind": "rss",
+      "url": "https://www.defense.gov/DesktopModules/ArticleCS/RSS.ashx?ContentType=400&Site=945&max=10"
+    },
+    {
+      "name": "Telecompetitor",
+      "kind": "rss",
+      "url": "https://www.telecompetitor.com/feed/"
+    },
+    {
+      "name": "Broadband Breakfast",
+      "kind": "rss",
+      "url": "https://broadbandbreakfast.com/feed/"
+    },
+    {
+      "name": "Light Reading",
+      "kind": "rss",
+      "url": "https://www.lightreading.com/rss.xml"
+    },
+    {
+      "name": "RCR Wireless",
+      "kind": "rss",
+      "url": "https://www.rcrwireless.com/feed"
+    },
+    {
+      "name": "Fierce Network",
+      "kind": "rss",
+      "url": "https://www.fierce-network.com/rss/xml"
+    },
+    {
+      "name": "Breaking Defense",
+      "kind": "rss",
+      "url": "https://breakingdefense.com/feed/"
+    },
+    {
+      "name": "DefenseScoop",
+      "kind": "rss",
+      "url": "https://defensescoop.com/feed/"
+    },
+    {
+      "name": "Air & Space Forces",
+      "kind": "rss",
+      "url": "https://www.airandspaceforces.com/feed/"
+    },
+    {
+      "name": "Defense News",
+      "kind": "rss",
+      "url": "https://www.defensenews.com/arc/outboundfeeds/rss/?outputType=xml"
+    },
+    {
+      "name": "The War Zone",
+      "kind": "rss",
+      "url": "https://www.twz.com/feed"
+    },
+    {
+      "name": "Drive Tesla Canada",
+      "kind": "rss",
+      "url": "https://driveteslacanada.ca/feed/"
+    },
+    {
+      "name": "Tesla Oracle",
+      "kind": "rss",
+      "url": "https://www.teslaoracle.com/feed/"
+    },
+    {
+      "name": "VentureBeat",
+      "kind": "rss",
+      "url": "https://venturebeat.com/feed/"
+    },
+    {
+      "name": "The Decoder",
+      "kind": "rss",
+      "url": "https://the-decoder.com/feed/"
+    },
+    {
+      "name": "Data Center Dynamics",
+      "kind": "rss",
+      "url": "https://www.datacenterdynamics.com/en/rss/"
+    },
+    {
+      "name": "Crunchbase News",
+      "kind": "rss",
+      "url": "https://news.crunchbase.com/feed/"
+    },
+    {
+      "name": "GDELT SpaceX",
+      "kind": "gdelt",
+      "url": "https://api.gdeltproject.org/api/v2/doc/doc?query=SpaceX%20sourcelang:english&mode=artlist&maxrecords=250&format=json&timespan=3d"
+    },
+    {
+      "name": "GDELT Starlink",
+      "kind": "gdelt",
+      "url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Starlink%20sourcelang:english&mode=artlist&maxrecords=250&format=json&timespan=3d"
+    },
+    {
+      "name": "Hacker News Starlink",
+      "kind": "hn",
+      "url": "https://hn.algolia.com/api/v1/search_by_date?query=Starlink&tags=story&hitsPerPage=50"
+    }
+  ],
+  "skip_path_words": [
+    "/privacy",
+    "/terms",
+    "/legal",
+    "/cookie",
+    "/subscribe",
+    "/subscription",
+    "/login",
+    "/signin",
+    "/signup",
+    "/account",
+    "/membership",
+    "/newsletter",
+    "/contact",
+    "/advertis",
+    "/about-us",
+    "/sitemap",
+    "/tag/",
+    "/author/"
+  ],
   "article_pages_per_seed": 3,
-  "max_candidates_tested": 8,
-  "top_n": 5,
+  "max_candidates_tested": 15,
+  "top_n": 10,
   "window_days": 30,
-  "blocked": ["sec.gov", "cnbc.com", "naver.com", "finance.yahoo.com", "stooq.com", "seekingalpha.com", "reuters.com",
-    "bloomberg.com", "nbcnews.com", "news.google.com", "reddit.com", "arstechnica.com", "x.com", "twitter.com", "t.co",
-    "nitter.net", "digitimes.com", "docs.fcc.gov", "axios.com", "washingtonpost.com", "mobileworldlive.com", "cnn.com",
-    "apnews.com", "ap.org", "theverge.com", "theguardian.com", "businessinsider.com", "dailymail.co.uk", "thehill.com",
-    "usatoday.com", "nypost.com", "marketwatch.com", "pcmag.com", "api.weather.gov", "celestrak.org", "fcc.report"],
-  "known": ["teslarati.com", "techcrunch.com", "electrek.co", "cbsnews.com", "space.com", "advanced-television.com",
-    "ycombinator.com", "federalregister.gov", "spacex.com", "starlink.com", "tesla.com", "keeptrack.space",
-    "thespacedevs.com", "noaa.gov", "marketscreener.com", "teslaoracle.com", "driveteslacanada.ca", "teslanorth.com",
-    "investinglive.com", "telecompetitor.com", "lightreading.com", "digitaltrends.com", "tipranks.com",
-    "stockanalysis.com", "fool.com", "foxbusiness.com", "nasaspaceflight.com", "spacenews.com", "broadbandbreakfast.com",
-    "manufacturingdive.com", "gizmodo.com", "androidheadlines.com", "investing.com", "govinfo.gov", "equibles.com", "x.ai", "terafab.ai"],
-  "ignore": ["youtube.com", "youtu.be", "facebook.com", "instagram.com", "linkedin.com", "tiktok.com", "threads.net",
-    "google.com", "apple.com", "amazon.com", "wikipedia.org", "wp.com", "wordpress.com", "gravatar.com", "feedburner.com",
-    "github.com", "githubusercontent.com", "archive.org", "bit.ly", "amzn.to", "w3.org", "schema.org", "cloudfront.net",
-    "googletagmanager.com", "doubleclick.net", "gstatic.com", "googleapis.com", "jsdelivr.net", "cloudflare.com",
-    "futurecdn.net", "medium.com", "substack.com", "patreon.com", "discord.gg", "spotify.com", "bsky.app", "mastodon.social"]
+  "blocked": [
+    "sec.gov",
+    "cnbc.com",
+    "naver.com",
+    "finance.yahoo.com",
+    "stooq.com",
+    "seekingalpha.com",
+    "reuters.com",
+    "bloomberg.com",
+    "nbcnews.com",
+    "news.google.com",
+    "reddit.com",
+    "arstechnica.com",
+    "x.com",
+    "twitter.com",
+    "t.co",
+    "nitter.net",
+    "digitimes.com",
+    "docs.fcc.gov",
+    "axios.com",
+    "washingtonpost.com",
+    "mobileworldlive.com",
+    "cnn.com",
+    "apnews.com",
+    "ap.org",
+    "theverge.com",
+    "theguardian.com",
+    "businessinsider.com",
+    "dailymail.co.uk",
+    "thehill.com",
+    "usatoday.com",
+    "nypost.com",
+    "marketwatch.com",
+    "pcmag.com",
+    "api.weather.gov",
+    "celestrak.org",
+    "fcc.report"
+  ],
+  "known": [
+    "teslarati.com",
+    "techcrunch.com",
+    "electrek.co",
+    "cbsnews.com",
+    "space.com",
+    "advanced-television.com",
+    "ycombinator.com",
+    "federalregister.gov",
+    "spacex.com",
+    "starlink.com",
+    "tesla.com",
+    "keeptrack.space",
+    "thespacedevs.com",
+    "noaa.gov",
+    "marketscreener.com",
+    "teslaoracle.com",
+    "driveteslacanada.ca",
+    "teslanorth.com",
+    "investinglive.com",
+    "telecompetitor.com",
+    "lightreading.com",
+    "digitaltrends.com",
+    "tipranks.com",
+    "stockanalysis.com",
+    "fool.com",
+    "foxbusiness.com",
+    "nasaspaceflight.com",
+    "spacenews.com",
+    "broadbandbreakfast.com",
+    "manufacturingdive.com",
+    "gizmodo.com",
+    "androidheadlines.com",
+    "investing.com",
+    "govinfo.gov",
+    "equibles.com",
+    "x.ai",
+    "terafab.ai"
+  ],
+  "ignore": [
+    "youtube.com",
+    "youtu.be",
+    "facebook.com",
+    "instagram.com",
+    "linkedin.com",
+    "tiktok.com",
+    "threads.net",
+    "google.com",
+    "apple.com",
+    "amazon.com",
+    "wikipedia.org",
+    "wp.com",
+    "wordpress.com",
+    "gravatar.com",
+    "feedburner.com",
+    "github.com",
+    "githubusercontent.com",
+    "archive.org",
+    "bit.ly",
+    "amzn.to",
+    "w3.org",
+    "schema.org",
+    "cloudfront.net",
+    "googletagmanager.com",
+    "doubleclick.net",
+    "gstatic.com",
+    "googleapis.com",
+    "jsdelivr.net",
+    "cloudflare.com",
+    "futurecdn.net",
+    "medium.com",
+    "substack.com",
+    "patreon.com",
+    "discord.gg",
+    "spotify.com",
+    "bsky.app",
+    "mastodon.social",
+    "msn.com",
+    "yahoo.com",
+    "aol.com",
+    "newsbreak.com",
+    "flipboard.com",
+    "ground.news",
+    "smartnews.com",
+    "gdeltproject.org",
+    "algolia.com"
+  ]
 }
