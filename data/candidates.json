@@ -1,9 +1,16 @@
 {
- "generated_at": "2026-11-10T05:29:10+00:00",
+ "generated_at": "2026-11-10T14:50:44+00:00",
  "signals": {
-  "candidates_passed": 1,
-  "candidates_seen_30d": 198,
-  "feeds_failing_3x": [],
+  "candidates_passed": 0,
+  "candidates_seen_30d": 201,
+  "feeds_failing_3x": [
+   "DoD Contracts",
+   "Orbital Today",
+   "Spaceflight Insider",
+   "Telecompetitor",
+   "US Space Force",
+   "VentureBeat"
+  ],
   "suggested_workers": 1
  },
  "top": [
@@ -98,9 +105,9 @@
    "feed": "https://www.nasa.gov/feed/",
    "has_dates": true,
    "items_7d": 10,
-   "kw_ratio": 0.1,
-   "verdict": "기계 시험 통과(본문·신뢰도는 봇이 확인)",
-   "score": 23.1
+   "kw_ratio": 0.0,
+   "verdict": "부분(SpaceX 글 없음)",
+   "score": 15.4
   },
   {
    "domain": "futureplc.com",
@@ -189,8 +196,8 @@
    ],
    "sample": "https://www.addtoany.com/add_to/facebook?linkurl=https%3A%2F%2Fwww.advanced-television.com%2F2026%2F11%2F09%2Fviasat-our-new-satellites-will-drive-broadband%2F&linkname=Viasat%3A%20%E2%80%9COur%20new%20satellites%20will%20drive%20broadband%E2%80%9D",
    "titles": [
-    "Viasat: “Our new satellites will drive broadband”",
-    "NASA Shares Moon Base Progress, Contract Awards"
+    "NASA Shares Moon Base Progress, Contract Awards",
+    "What’s Happening in Space Policy November 8-14, 2026"
    ],
    "robots": "허용",
    "feed": "",
@@ -230,13 +237,13 @@
    "name": "Space.com",
    "result": "성공",
    "items": 50,
-   "spacex_items": 18
+   "spacex_items": 15
   },
   {
    "name": "Advanced Television",
    "result": "성공",
    "items": 10,
-   "spacex_items": 1
+   "spacex_items": 0
   },
   {
    "name": "Hacker News SpaceX",
@@ -278,7 +285,7 @@
    "name": "Payload",
    "result": "성공",
    "items": 13,
-   "spacex_items": 9
+   "spacex_items": 8
   },
   {
    "name": "Universe Today",
@@ -332,7 +339,7 @@
    "name": "NASA",
    "result": "성공",
    "items": 10,
-   "spacex_items": 1
+   "spacex_items": 0
   },
   {
    "name": "US Space Force",
@@ -362,13 +369,13 @@
    "name": "Light Reading",
    "result": "성공",
    "items": 50,
-   "spacex_items": 6
+   "spacex_items": 7
   },
   {
    "name": "RCR Wireless",
    "result": "성공",
    "items": 10,
-   "spacex_items": 4
+   "spacex_items": 2
   },
   {
    "name": "Fierce Network",
@@ -398,7 +405,7 @@
    "name": "Defense News",
    "result": "성공",
    "items": 10,
-   "spacex_items": 2
+   "spacex_items": 1
   },
   {
    "name": "The War Zone",
@@ -444,7 +451,7 @@
   },
   {
    "name": "GDELT SpaceX",
-   "result": "오류: URLError",
+   "result": "오류: HTTPError",
    "items": 0,
    "spacex_items": 0
   },
@@ -462,19 +469,19 @@
   }
  ],
  "blocked_cited": {
-  "twitter.com": 52,
-  "x.com": 40,
+  "twitter.com": 49,
+  "x.com": 37,
+  "t.co": 12,
   "reddit.com": 11,
-  "t.co": 11,
   "google.com": 10,
   "cnbc.com": 3,
   "theguardian.com": 3,
-  "sec.gov": 3,
-  "bloomberg.com": 3,
-  "reuters.com": 3
+  "reuters.com": 3,
+  "apnews.com": 2,
+  "sec.gov": 2
  },
  "stats": {
-  "requests": 183,
+  "requests": 178,
   "blocked_skipped": 0,
   "robots_denied": 5,
   "errors": 14,
