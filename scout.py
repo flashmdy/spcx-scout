@@ -339,10 +339,54 @@ def main():
         ok = sum(1 for r in seed_log if r["result"] == "성공")
         f.write(f"{out['generated_at']},{ok},{len(seed_log)},{STATS['requests']},{STATS['blocked_skipped']},"
                 f"{STATS['robots_denied']},{STATS['errors']},{STATS['blocked_contacted']},{len(passed)},{workers}\n")
+    write_report(out, log)
     print(json.dumps({"signals": out["signals"], "stats": STATS,
                       "seeds": [(r["name"], r["result"], r["spacex_items"]) for r in seed_log]}, ensure_ascii=False))
     if STATS["blocked_contacted"]:
         sys.exit(2)                                    # 차단 사이트 접속은 실패로 처리
+
+
+def write_report(out, log_path):
+    """사람이 읽는 요약 data/REPORT.md (GitHub 화면에서 표로 보임)."""
+    sg, st = out["signals"], out["stats"]
+    ok = [r for r in out["seeds"] if r["result"] == "성공"]
+    bad = [r for r in out["seeds"] if r["result"] != "성공"]
+    kst = (NOW + dt.timedelta(hours=9)).strftime("%Y-%m-%d %H:%M")
+    L = [f"# SPCX 출처 탐색 결과", "",
+         f"마지막 실행: **{kst} (한국 시간)** · 6시간마다 자동 갱신", "",
+         "| 항목 | 값 |", "|---|---|",
+         f"| 차단 사이트 접속 | {'✅ 0건' if not st['blocked_contacted'] else '⛔ ' + str(st['blocked_contacted']) + '건'} |",
+         f"| 씨앗 출처 성공 | {len(ok)}/{len(out['seeds'])} |",
+         f"| 기계 시험 통과 후보 | {sg['candidates_passed']} |",
+         f"| 최근 30일 본 후보 | {sg['candidates_seen_30d']} |",
+         f"| 봇이 부를 일꾼 수 | {sg['suggested_workers']} |",
+         f"| 3회 연속 실패 씨앗 | {', '.join(sg['feeds_failing_3x']) or '없음'} |", "",
+         "## 새 출처 후보 (점수순)", "",
+         "| # | 사이트 | 판정 | 인용 | 7일 글 | SpaceX 비율 | 피드 |", "|---|---|---|---|---|---|---|"]
+    for i, t in enumerate(out["top"], 1):
+        mark = "✅" if t["verdict"].startswith("기계 시험 통과") else ("⛔" if t["verdict"].startswith("⛔") else "△")
+        feed = f"[피드]({t['feed']})" if t["feed"] else "-"
+        L.append(f"| {i} | {t['domain']} | {mark} {t['verdict']} | {t['citations']} | {t['items_7d']} | {int(t['kw_ratio']*100)}% | {feed} |")
+    L += ["", "✅ 통과(본문·신뢰도는 봇이 따로 확인) · △ 부분 · ⛔ 접속 불가", ""]
+    if bad:
+        L += ["## 실패한 씨앗 출처", "", "| 출처 | 사유 |", "|---|---|"]
+        L += [f"| {r['name']} | {r['result']} |" for r in bad]
+        L.append("")
+    L += ["## 씨앗 출처별 SpaceX 글 수", "", "| 출처 | 전체 | SpaceX |", "|---|---|---|"]
+    L += [f"| {r['name']} | {r['items']} | {r['spacex_items']} |" for r in sorted(ok, key=lambda r: -r["spacex_items"])]
+    if out["blocked_cited"]:
+        L += ["", "## 차단 사이트 인용 횟수 (접속 안 함)", "",
+              ", ".join(f"{d} {n}" for d, n in out["blocked_cited"].items())]
+    try:
+        rows = open(log_path, encoding="utf-8").read().strip().splitlines()[1:][-10:]
+        L += ["", "## 최근 실행 10회", "", "| 시각(UTC) | 씨앗 성공 | 요청 | 오류 | 차단 접속 | 통과 |", "|---|---|---|---|---|---|"]
+        for r in reversed(rows):
+            c = r.split(",")
+            L.append(f"| {c[0][:16].replace('T', ' ')} | {c[1]}/{c[2]} | {c[3]} | {c[6]} | {c[7]} | {c[8]} |")
+    except Exception:
+        pass
+    L += ["", "※ 기계 시험은 접속·형식만 본 것입니다. 정보 제공용이며 투자 자문이 아닙니다."]
+    open(os.path.join(DATA, "REPORT.md"), "w", encoding="utf-8").write("\n".join(L) + "\n")
 
 
 def selftest():
