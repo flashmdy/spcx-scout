@@ -1,0 +1,359 @@
+#!/usr/bin/env python3
+"""SPCX 출처 탐색 수집기 (모델 없음, 표준 라이브러리만).
+하는 일: 승인된 피드·API에서 SpaceX 글을 읽고, 글이 인용한 바깥 사이트를 세어 새 출처 후보를 찾고,
+기계 시험(robots 허용·피드 유무·게시일·최근 7일 글 수·키워드 적중)을 한 뒤 data/candidates.json 에 쓴다.
+규칙: config.json 의 blocked 사이트에는 절대 접속하지 않는다. robots.txt 가 거부하면 접속하지 않는다.
+사용: python3 scout.py            (실행)
+      python3 scout.py --selftest (네트워크 없이 규칙 시험)"""
+import json, os, re, sys, time, datetime as dt
+import urllib.request, urllib.parse, urllib.robotparser, urllib.error
+import xml.etree.ElementTree as ET
+from email.utils import parsedate_to_datetime
+from html.parser import HTMLParser
+
+HERE = os.path.dirname(os.path.abspath(__file__))
+DATA = os.path.join(HERE, "data")
+CFG = json.load(open(os.path.join(HERE, "config.json"), encoding="utf-8"))
+UA = CFG["user_agent"]
+NOW = dt.datetime.now(dt.timezone.utc)
+STATS = {"requests": 0, "blocked_skipped": 0, "robots_denied": 0, "errors": 0, "blocked_contacted": 0}
+_ROBOTS, _LAST, _ROBOTS_ERR = {}, {}, set()
+
+
+def host_of(url):
+    try:
+        return (urllib.parse.urlsplit(url).hostname or "").lower()
+    except ValueError:
+        return ""
+
+
+def in_list(host, names):
+    return next((n for n in names if host == n or host.endswith("." + n)), None)
+
+
+def base_domain(host):
+    parts = host.split(".")
+    if len(parts) >= 3 and parts[-2] in ("co", "com", "org", "ac", "go", "gov", "net") and len(parts[-1]) == 2:
+        return ".".join(parts[-3:])
+    return ".".join(parts[-2:]) if len(parts) >= 2 else host
+
+
+def _raw_get(url, limit=1_500_000, timeout=15):
+    """실제 네트워크 접속은 이 함수 하나뿐이다(시험에서 바꿔 끼운다)."""
+    req = urllib.request.Request(url, headers={"User-Agent": UA, "Accept": "*/*"})
+    with urllib.request.urlopen(req, timeout=timeout) as r:
+        return r.read(limit).decode(r.headers.get_content_charset() or "utf-8", "replace")
+
+
+def robots_ok(url):
+    p = urllib.parse.urlsplit(url)
+    root = f"{p.scheme}://{p.netloc}"
+    if root not in _ROBOTS:
+        rp = urllib.robotparser.RobotFileParser()
+        try:
+            STATS["requests"] += 1
+            rp.parse(_raw_get(root + "/robots.txt", limit=300_000).splitlines())
+        except urllib.error.HTTPError as e:
+            if e.code in (401, 403):
+                rp.parse(["User-agent: *", "Disallow: /"])   # 접근 거부 = 거부로 본다
+            else:
+                rp.parse([])                                   # 404 등 = 규칙 없음
+        except Exception:
+            rp.parse(["User-agent: *", "Disallow: /"])       # 확인 못 하면 접속하지 않는다
+            _ROBOTS_ERR.add(root)
+        _ROBOTS[root] = rp
+    return _ROBOTS[root].can_fetch(UA, url)
+
+
+def fetch(url):
+    """차단 목록 → robots → 접속 순서. 반환 (본문 또는 None, 사유)."""
+    h = host_of(url)
+    if not h or not url.startswith("http"):
+        return None, "주소 오류"
+    if in_list(h, CFG["blocked"]):
+        STATS["blocked_skipped"] += 1
+        return None, "차단 목록"
+    if not robots_ok(url):
+        STATS["robots_denied"] += 1
+        p = urllib.parse.urlsplit(url)
+        return None, "robots 확인 실패" if f"{p.scheme}://{p.netloc}" in _ROBOTS_ERR else "robots 거부"
+    wait = 1.0 - (time.time() - _LAST.get(h, 0))
+    if wait > 0:
+        time.sleep(wait)
+    try:
+        STATS["requests"] += 1
+        if in_list(h, CFG["blocked"]):            # 이중 확인: 여기 걸리면 버그
+            STATS["blocked_contacted"] += 1
+            return None, "차단 목록"
+        body = _raw_get(url)
+        _LAST[h] = time.time()
+        return body, "성공"
+    except Exception as e:
+        STATS["errors"] += 1
+        _LAST[h] = time.time()
+        return None, f"오류: {type(e).__name__}"
+
+
+class Links(HTMLParser):
+    def __init__(self):
+        super().__init__()
+        self.hrefs, self.feeds = [], []
+
+    def handle_starttag(self, tag, attrs):
+        a = dict(attrs)
+        if tag == "a" and a.get("href", "").startswith("http"):
+            self.hrefs.append(a["href"])
+        if tag == "link" and "alternate" in (a.get("rel") or "") and re.search(r"rss|atom", a.get("type") or ""):
+            self.feeds.append(a.get("href") or "")
+
+
+def links_in(html):
+    p = Links()
+    try:
+        p.feed(html or "")
+    except Exception:
+        pass
+    return p
+
+
+def parse_date(s):
+    if not s:
+        return None
+    s = s.strip()
+    try:
+        d = parsedate_to_datetime(s)
+    except Exception:
+        try:
+            d = dt.datetime.fromisoformat(s.replace("Z", "+00:00"))
+        except Exception:
+            return None
+    return d if d.tzinfo else d.replace(tzinfo=dt.timezone.utc)
+
+
+def parse_feed(xml):
+    """RSS·Atom → [{title, link, date, html}]"""
+    items = []
+    try:
+        root = ET.fromstring(xml.encode("utf-8", "replace"))
+    except ET.ParseError:
+        return items
+    for el in root.iter():
+        tag = el.tag.split("}")[-1]
+        if tag not in ("item", "entry"):
+            continue
+        d = {"title": "", "link": "", "date": None, "html": ""}
+        for c in el:
+            t = c.tag.split("}")[-1]
+            if t == "title":
+                d["title"] = (c.text or "").strip()
+            elif t == "link":
+                d["link"] = d["link"] or (c.text or "").strip() or c.attrib.get("href", "")
+            elif t in ("pubDate", "published", "updated", "date"):
+                d["date"] = d["date"] or parse_date(c.text)
+            elif t in ("description", "encoded", "content", "summary"):
+                d["html"] += " " + (c.text or "")
+        items.append(d)
+    return items
+
+
+def has_kw(text):
+    t = (text or "").lower()
+    return any(k in t for k in CFG["keywords"])
+
+
+def collect():
+    """씨앗 출처에서 SpaceX 글을 읽고 인용된 바깥 사이트를 센다."""
+    cites, seed_log, blocked_cited = {}, [], {}
+
+    def add(url, seed, title):
+        h = host_of(url)
+        if not h:
+            return
+        b = base_domain(h)
+        if in_list(h, CFG["blocked"]):
+            blocked_cited[b] = blocked_cited.get(b, 0) + 1
+            return
+        if in_list(h, CFG["known"]) or in_list(h, CFG["ignore"]):
+            return
+        c = cites.setdefault(b, {"count": 0, "seeds": set(), "sample": url, "titles": []})
+        c["count"] += 1
+        c["seeds"].add(seed)
+        if len(c["titles"]) < 2 and title:
+            c["titles"].append(title[:90])
+
+    for s in CFG["seeds"]:
+        body, why = fetch(s["url"])
+        row = {"name": s["name"], "result": why, "items": 0, "spacex_items": 0}
+        if body:
+            if s["kind"] == "hn":
+                hits = json.loads(body).get("hits", [])
+                row["items"] = len(hits)
+                for h in hits:
+                    if h.get("url") and has_kw(h.get("title")):
+                        row["spacex_items"] += 1
+                        add(h["url"], s["name"], h.get("title"))
+            elif s["kind"] == "fedreg":
+                res = json.loads(body).get("results", [])
+                row["items"] = row["spacex_items"] = len(res)
+            else:
+                items = parse_feed(body)
+                row["items"] = len(items)
+                own = base_domain(host_of(s["url"]))
+                pages = 0
+                for it in items:
+                    if not has_kw(it["title"] + " " + it["html"]):
+                        continue
+                    row["spacex_items"] += 1
+                    html = it["html"]
+                    if pages < CFG["article_pages_per_seed"] and it["link"]:
+                        page, _ = fetch(it["link"])
+                        pages += 1
+                        html += " " + (page or "")
+                    for u in set(links_in(html).hrefs):
+                        if base_domain(host_of(u)) != own:
+                            add(u, s["name"], it["title"])
+        seed_log.append(row)
+    return cites, seed_log, blocked_cited
+
+
+def test_candidate(domain, info):
+    """기계 시험: robots 허용 → 첫 화면 → 피드 → 게시일·최근 7일·키워드."""
+    out = {"domain": domain, "citations": info["count"], "cited_by": sorted(info["seeds"]), "sample": info["sample"],
+           "titles": info["titles"], "robots": "", "feed": "", "has_dates": False, "items_7d": 0, "kw_ratio": 0.0,
+           "verdict": "", "score": 0.0}
+    home = f"https://{domain}/"
+    page, why = fetch(home)
+    out["robots"] = "허용" if why == "성공" else why
+    if not page:
+        out["verdict"] = "⛔ 접속 불가" if why in ("robots 거부", "차단 목록") else "부분(첫 화면 실패)"
+        return out
+    feeds = [urllib.parse.urljoin(home, f) for f in links_in(page).feeds if f][:1] or [home + "feed/"]
+    xml, why2 = fetch(feeds[0])
+    items = parse_feed(xml) if xml else []
+    if not items:
+        out["verdict"] = "부분(피드 없음)"
+        out["score"] = round(info["count"] * 0.1, 2)
+        return out
+    out["feed"] = feeds[0]
+    dated = [i for i in items if i["date"]]
+    out["has_dates"] = bool(dated)
+    out["items_7d"] = sum(1 for i in dated if (NOW - i["date"]).days <= 7)
+    out["kw_ratio"] = round(sum(1 for i in items if has_kw(i["title"] + " " + i["html"])) / len(items), 2)
+    ok = out["has_dates"] and out["items_7d"] > 0
+    out["verdict"] = "기계 시험 통과(본문·신뢰도는 봇이 확인)" if ok else "부분(날짜·최신성 미달)"
+    out["score"] = round(info["count"] * (1 + out["items_7d"]) * (0.2 + out["kw_ratio"]), 2)
+    return out
+
+
+def load(name, default):
+    try:
+        return json.load(open(os.path.join(DATA, name), encoding="utf-8"))
+    except Exception:
+        return default
+
+
+def main():
+    os.makedirs(DATA, exist_ok=True)
+    state = load("state.json", {"cites": {}, "fail_streak": {}})
+    cites, seed_log, blocked_cited = collect()
+    today = NOW.date().isoformat()
+    cutoff = (NOW - dt.timedelta(days=CFG["window_days"])).date().isoformat()
+    for dom, c in cites.items():                      # 30일 누적(날짜별)
+        st = state["cites"].setdefault(dom, {"days": {}, "seeds": [], "sample": c["sample"], "titles": []})
+        st["days"][today] = max(st["days"].get(today, 0), c["count"])
+        st["seeds"] = sorted(set(st["seeds"]) | c["seeds"])
+        st["titles"] = (c["titles"] + st["titles"])[:2]
+    for dom in list(state["cites"]):
+        d = {k: v for k, v in state["cites"][dom]["days"].items() if k >= cutoff}
+        if d:
+            state["cites"][dom]["days"] = d
+        else:
+            del state["cites"][dom]
+    for r in seed_log:                                 # 연속 실패 수
+        n = r["name"]
+        state["fail_streak"][n] = 0 if r["result"] == "성공" else state["fail_streak"].get(n, 0) + 1
+    ranked = sorted(state["cites"].items(), key=lambda kv: (-sum(kv[1]["days"].values()), kv[0]))
+    tested = []
+    for dom, st in ranked[:CFG["max_candidates_tested"]]:
+        tested.append(test_candidate(dom, {"count": sum(st["days"].values()), "seeds": set(st["seeds"]),
+                                           "sample": st["sample"], "titles": st["titles"]}))
+    tested.sort(key=lambda x: -x["score"])
+    top = tested[:CFG["top_n"]]
+    passed = [t for t in tested if t["verdict"].startswith("기계 시험 통과")]
+    failing = sorted(n for n, k in state["fail_streak"].items() if k >= 3)
+    workers = 0 if not passed else (2 if len(passed) >= 6 else 1)
+    if failing:
+        workers = max(workers, 1)
+    out = {"generated_at": NOW.isoformat(timespec="seconds"),
+           "signals": {"candidates_passed": len(passed), "candidates_seen_30d": len(state["cites"]),
+                       "feeds_failing_3x": failing, "suggested_workers": workers},
+           "top": top, "seeds": seed_log,
+           "blocked_cited": dict(sorted(blocked_cited.items(), key=lambda kv: -kv[1])[:10]),
+           "stats": STATS}
+    json.dump(out, open(os.path.join(DATA, "candidates.json"), "w", encoding="utf-8"), ensure_ascii=False, indent=1)
+    json.dump(state, open(os.path.join(DATA, "state.json"), "w", encoding="utf-8"), ensure_ascii=False)
+    log = os.path.join(DATA, "log.csv")
+    new = not os.path.exists(log)
+    with open(log, "a", encoding="utf-8") as f:
+        if new:
+            f.write("time_utc,seeds_ok,seeds_total,requests,blocked_skipped,robots_denied,errors,blocked_contacted,passed,workers\n")
+        ok = sum(1 for r in seed_log if r["result"] == "성공")
+        f.write(f"{out['generated_at']},{ok},{len(seed_log)},{STATS['requests']},{STATS['blocked_skipped']},"
+                f"{STATS['robots_denied']},{STATS['errors']},{STATS['blocked_contacted']},{len(passed)},{workers}\n")
+    print(json.dumps({"signals": out["signals"], "stats": STATS,
+                      "seeds": [(r["name"], r["result"], r["spacex_items"]) for r in seed_log]}, ensure_ascii=False))
+    if STATS["blocked_contacted"]:
+        sys.exit(2)                                    # 차단 사이트 접속은 실패로 처리
+
+
+def selftest():
+    """네트워크 없이: 차단 사이트·robots 거부 사이트에 한 번도 접속하지 않는지 확인."""
+    global _raw_get
+    contacted = []
+    blocked_host = CFG["blocked"][0]
+    feed = ('<rss><channel><item><title>SpaceX Starlink test</title><link>https://seed.example/a1</link>'
+            '<pubDate>' + NOW.strftime("%a, %d %b %Y %H:%M:%S +0000") + '</pubDate><description><![CDATA['
+            f'<a href="https://www.{blocked_host}/x/1">b</a> <a href="https://good.example/p/1">g</a> '
+            '<a href="https://deny.example/p/2">d</a> <a href="https://good.example/p/3">g2</a>]]></description></item></channel></rss>')
+    pages = {
+        "https://seed.example/robots.txt": "User-agent: *\nAllow: /",
+        "https://seed.example/feed": feed,
+        "https://seed.example/a1": f'<a href="https://{blocked_host}/y">again</a>',
+        "https://good.example/robots.txt": "User-agent: *\nAllow: /",
+        "https://good.example/": '<link rel="alternate" type="application/rss+xml" href="/rss.xml">',
+        "https://good.example/rss.xml": feed.replace("seed.example", "good.example"),
+        "https://deny.example/robots.txt": "User-agent: *\nDisallow: /",
+    }
+
+    def fake(url, limit=0, timeout=0):
+        contacted.append(url)
+        if url in pages:
+            return pages[url]
+        raise urllib.error.HTTPError(url, 404, "nf", None, None)
+    _raw_get = fake
+    pages["https://api.example/robots.txt"] = ""
+    pages["https://api.example/hn"] = json.dumps({"hits": [{"title": "SpaceX news", "url": "https://good.example/p/9"}, {"title": "Other", "url": "https://other.example/z"}]})
+    pages["https://api.example/fr"] = json.dumps({"count": 1, "results": [{"title": "FCC rule"}]})
+    CFG["seeds"] = [{"name": "seed", "kind": "rss", "url": "https://seed.example/feed"},
+                    {"name": "hn", "kind": "hn", "url": "https://api.example/hn"},
+                    {"name": "fr", "kind": "fedreg", "url": "https://api.example/fr"}]
+    cites, seed_log, blocked_cited = collect()
+    res = {d: test_candidate(d, c) for d, c in cites.items()}
+    checks = {
+        "차단 사이트 접속 0건": not any(in_list(host_of(u), CFG["blocked"]) for u in contacted),
+        "차단 사이트는 인용 수만 기록": sum(blocked_cited.values()) == 2,
+        "robots 거부 사이트는 robots.txt 외 접속 0건": [u for u in contacted if "deny.example" in u] == ["https://deny.example/robots.txt"],
+        "robots 거부 판정 ⛔": res["deny.example"]["verdict"].startswith("⛔"),
+        "정상 후보 통과": res["good.example"]["verdict"].startswith("기계 시험 통과") and res["good.example"]["citations"] == 3,
+        "씨앗 자기 사이트는 후보 아님": "seed.example" not in cites,
+        "blocked_contacted 0": STATS["blocked_contacted"] == 0,
+        "HN은 키워드 글만 세고 정부 API도 읽음": "other.example" not in cites and [r["spacex_items"] for r in seed_log] == [1, 1, 1],
+    }
+    for k, v in checks.items():
+        print(("PASS " if v else "FAIL ") + k)
+    print(f"자체 시험 {sum(checks.values())}/{len(checks)}")
+    sys.exit(0 if all(checks.values()) else 1)
+
+
+if __name__ == "__main__":
+    selftest() if "--selftest" in sys.argv else main()
