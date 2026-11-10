@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-10T05:09:05+00:00",
+ "generated_at": "2026-11-10T05:29:10+00:00",
  "signals": {
   "candidates_passed": 1,
-  "candidates_seen_30d": 193,
+  "candidates_seen_30d": 198,
   "feeds_failing_3x": [],
   "suggested_workers": 1
  },
@@ -444,25 +444,25 @@
   },
   {
    "name": "GDELT SpaceX",
-   "result": "성공",
-   "items": 104,
-   "spacex_items": 10
+   "result": "오류: URLError",
+   "items": 0,
+   "spacex_items": 0
   },
   {
    "name": "GDELT Starlink",
-   "result": "성공",
-   "items": 46,
-   "spacex_items": 5
+   "result": "오류: HTTPError",
+   "items": 0,
+   "spacex_items": 0
   },
   {
    "name": "Hacker News Starlink",
    "result": "성공",
    "items": 50,
-   "spacex_items": 12
+   "spacex_items": 16
   }
  ],
  "blocked_cited": {
-  "twitter.com": 51,
+  "twitter.com": 52,
   "x.com": 40,
   "reddit.com": 11,
   "t.co": 11,
@@ -471,13 +471,13 @@
   "theguardian.com": 3,
   "sec.gov": 3,
   "bloomberg.com": 3,
-  "washingtonpost.com": 2
+  "reuters.com": 3
  },
  "stats": {
   "requests": 183,
   "blocked_skipped": 0,
   "robots_denied": 5,
-  "errors": 13,
+  "errors": 14,
   "blocked_contacted": 0
  }
 }
