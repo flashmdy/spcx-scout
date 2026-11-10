@@ -376,5 +376,96 @@
     "smartnews.com",
     "gdeltproject.org",
     "algolia.com"
+  ],
+  "topics": {
+    "금융·IPO": [
+      "ipo",
+      "valuation",
+      "tender",
+      "shares",
+      "spcx",
+      "nasdaq",
+      "investor",
+      "stock",
+      "revenue",
+      "earnings",
+      "funding",
+      "index"
+    ],
+    "정부·규제": [
+      "fcc",
+      "faa",
+      "federal register",
+      "congress",
+      "senate",
+      "regulat",
+      "license",
+      "lawsuit",
+      "court",
+      "spectrum",
+      "itu",
+      "eu "
+    ],
+    "국방": [
+      "starshield",
+      "space force",
+      "pentagon",
+      "nro",
+      "defense",
+      "golden dome",
+      "military",
+      "army",
+      "navy",
+      "dod",
+      "sda "
+    ],
+    "AI·xAI": [
+      "xai",
+      "grok",
+      "colossus",
+      "terafab",
+      "data center",
+      "datacenter",
+      "orbital compute",
+      "gpu",
+      "ai "
+    ],
+    "Starlink·통신": [
+      "starlink",
+      "direct to cell",
+      "direct-to-cell",
+      "broadband",
+      "satellite internet",
+      "echostar",
+      "t-mobile",
+      "airline",
+      "wi-fi",
+      "wifi"
+    ],
+    "발사·Starship": [
+      "starship",
+      "falcon",
+      "launch",
+      "booster",
+      "flight",
+      "dragon",
+      "crew",
+      "raptor",
+      "starbase",
+      "landing",
+      "orbit"
+    ],
+    "테슬라·머스크": [
+      "tesla",
+      "musk",
+      "boring",
+      "neuralink"
+    ]
+  },
+  "official_seeds": [
+    "NASA",
+    "US Space Force",
+    "DoD Contracts",
+    "Federal Register SpaceX"
   ]
 }
