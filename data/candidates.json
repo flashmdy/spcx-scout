@@ -1,0 +1,175 @@
+{
+ "generated_at": "2026-11-10T04:33:46+00:00",
+ "signals": {
+  "candidates_passed": 4,
+  "candidates_seen_30d": 79,
+  "feeds_failing_3x": [],
+  "suggested_workers": 1
+ },
+ "top": [
+  {
+   "domain": "9to5mac.com",
+   "citations": 7,
+   "cited_by": [
+    "Electrek SpaceX"
+   ],
+   "sample": "https://9to5mac.com/privacy/",
+   "titles": [
+    "What does a blue Texas sweep mean for Elon Musk, Tesla & SpaceX?",
+    "What does a blue Texas sweep mean for Elon Musk, Tesla & SpaceX?"
+   ],
+   "robots": "허용",
+   "feed": "https://9to5mac.com/feed/",
+   "has_dates": true,
+   "items_7d": 100,
+   "kw_ratio": 0.0,
+   "verdict": "기계 시험 통과(본문·신뢰도는 봇이 확인)",
+   "score": 141.4
+  },
+  {
+   "domain": "thefp.com",
+   "citations": 9,
+   "cited_by": [
+    "CBS News Technology"
+   ],
+   "sample": "https://www.thefp.com/p/elon-musk-left-doge-but-democrats?utm_source=cbs_news&utm_campaign=cbs_news_recirculation&utm_content=bottom_page",
+   "titles": [
+    "Memphis fails to pass 1-year data center moratorium, opts for shorter-term ban",
+    "Memphis fails to pass 1-year data center moratorium, opts for shorter-term ban"
+   ],
+   "robots": "허용",
+   "feed": "https://thefp.com/feed",
+   "has_dates": true,
+   "items_7d": 20,
+   "kw_ratio": 0.0,
+   "verdict": "기계 시험 통과(본문·신뢰도는 봇이 확인)",
+   "score": 37.8
+  },
+  {
+   "domain": "nasa.gov",
+   "citations": 7,
+   "cited_by": [
+    "Space.com"
+   ],
+   "sample": "https://www.nasa.gov/centers-and-facilities/kennedy/apollo-4-was-first-ever-launch-from-nasas-kennedy-space-center/",
+   "titles": [
+    "On this day in space! Nov. 9, 1967: NASA launches the Saturn V moon rocket for the first t",
+    "Starfish Space loses contact with 1st 'Otter' servicing spacecraft, ending NASA tech-demo "
+   ],
+   "robots": "허용",
+   "feed": "https://www.nasa.gov/feed/",
+   "has_dates": true,
+   "items_7d": 10,
+   "kw_ratio": 0.1,
+   "verdict": "기계 시험 통과(본문·신뢰도는 봇이 확인)",
+   "score": 23.1
+  },
+  {
+   "domain": "futureplc.com",
+   "citations": 24,
+   "cited_by": [
+    "Space.com"
+   ],
+   "sample": "https://futureplc.com/future-member-terms-and-conditions/",
+   "titles": [
+    "On this day in space! Nov. 9, 1967: NASA launches the Saturn V moon rocket for the first t",
+    "On this day in space! Nov. 9, 1967: NASA launches the Saturn V moon rocket for the first t"
+   ],
+   "robots": "허용",
+   "feed": "https://futureplc.com/feed/",
+   "has_dates": true,
+   "items_7d": 1,
+   "kw_ratio": 0.0,
+   "verdict": "기계 시험 통과(본문·신뢰도는 봇이 확인)",
+   "score": 9.6
+  },
+  {
+   "domain": "paramount.com",
+   "citations": 10,
+   "cited_by": [
+    "CBS News Technology"
+   ],
+   "sample": "https://legal.paramount.com/us/en/cbsi/terms-of-use",
+   "titles": [
+    "Memphis fails to pass 1-year data center moratorium, opts for shorter-term ban",
+    "Memphis fails to pass 1-year data center moratorium, opts for shorter-term ban"
+   ],
+   "robots": "허용",
+   "feed": "",
+   "has_dates": false,
+   "items_7d": 0,
+   "kw_ratio": 0.0,
+   "verdict": "부분(피드 없음)",
+   "score": 1.0
+  }
+ ],
+ "seeds": [
+  {
+   "name": "Teslarati SpaceX",
+   "result": "성공",
+   "items": 10,
+   "spacex_items": 10
+  },
+  {
+   "name": "TechCrunch SpaceX",
+   "result": "성공",
+   "items": 18,
+   "spacex_items": 15
+  },
+  {
+   "name": "Electrek SpaceX",
+   "result": "성공",
+   "items": 78,
+   "spacex_items": 72
+  },
+  {
+   "name": "CBS News Technology",
+   "result": "성공",
+   "items": 30,
+   "spacex_items": 2
+  },
+  {
+   "name": "Space.com",
+   "result": "성공",
+   "items": 50,
+   "spacex_items": 18
+  },
+  {
+   "name": "Advanced Television",
+   "result": "성공",
+   "items": 10,
+   "spacex_items": 1
+  },
+  {
+   "name": "Hacker News SpaceX",
+   "result": "성공",
+   "items": 50,
+   "spacex_items": 5
+  },
+  {
+   "name": "Federal Register SpaceX",
+   "result": "성공",
+   "items": 20,
+   "spacex_items": 20
+  }
+ ],
+ "blocked_cited": {
+  "x.com": 35,
+  "twitter.com": 30,
+  "reddit.com": 6,
+  "cnbc.com": 3,
+  "google.com": 3,
+  "reuters.com": 2,
+  "theguardian.com": 2,
+  "yahoo.com": 2,
+  "sec.gov": 2,
+  "washingtonpost.com": 1
+ },
+ "stats": {
+  "requests": 54,
+  "blocked_skipped": 0,
+  "robots_denied": 1,
+  "errors": 3,
+  "blocked_contacted": 0
+ }
+}
