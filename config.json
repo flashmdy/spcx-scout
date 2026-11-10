@@ -11,6 +11,7 @@
     {"name": "Hacker News SpaceX", "kind": "hn", "url": "https://hn.algolia.com/api/v1/search_by_date?query=SpaceX&tags=story&hitsPerPage=50"},
     {"name": "Federal Register SpaceX", "kind": "fedreg", "url": "https://www.federalregister.gov/api/v1/documents.json?conditions[term]=SpaceX&order=newest&per_page=20"}
   ],
+  "skip_path_words": ["/privacy", "/terms", "/legal", "/cookie", "/subscribe", "/subscription", "/login", "/signin", "/signup", "/account", "/membership", "/newsletter", "/contact", "/advertis", "/about-us", "/sitemap", "/tag/", "/author/"],
   "article_pages_per_seed": 3,
   "max_candidates_tested": 8,
   "top_n": 5,
