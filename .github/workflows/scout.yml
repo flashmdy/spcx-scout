@@ -1,1 +1,31 @@
+name: spcx-scout
+on:
+  schedule:
+    - cron: "17 */6 * * *"   # 6시간마다(UTC 00:17, 06:17, 12:17, 18:17)
+  workflow_dispatch: {}       # Actions 화면에서 수동 실행
+permissions:
+  contents: write
+concurrency:
+  group: spcx-scout
+  cancel-in-progress: false
+jobs:
+  scout:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Self test (no network)
+        run: python3 scout.py --selftest
+      - name: Collect
+        run: python3 scout.py
+      - name: Save results
+        run: |
+          git config user.name "spcx-scout"
+          git config user.email "spcx-scout@users.noreply.github.com"
+          git add data
+          git diff --cached --quiet || git commit -m "scout: $(date -u +%FT%RZ)"
+          git push
 
