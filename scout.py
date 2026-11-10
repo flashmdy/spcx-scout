@@ -16,6 +16,7 @@ DATA = os.path.join(HERE, "data")
 CFG = json.load(open(os.path.join(HERE, "config.json"), encoding="utf-8"))
 UA = CFG["user_agent"]
 NOW = dt.datetime.now(dt.timezone.utc)
+ARTICLES = []             # 이번 실행에서 읽은 SpaceX 글(정리 시스템 입력)
 SEED_DOMAINS = set()      # 씨앗 출처 자기 도메인(후보에서 제외) — collect()에서 채움
 STATS = {"requests": 0, "blocked_skipped": 0, "robots_denied": 0, "errors": 0, "blocked_contacted": 0}
 _ROBOTS, _LAST, _ROBOTS_ERR = {}, {}, set()
@@ -167,6 +168,31 @@ def legal_path(url):
     return any(w in path for w in CFG.get("skip_path_words", []))
 
 
+def to_dt(v):
+    """여러 날짜 형식 → UTC datetime (GDELT 20261110T041500Z, ISO, RFC822, 2026-11-09)."""
+    if isinstance(v, dt.datetime):
+        return v
+    v = (v or "").strip()
+    for f in ("%Y%m%dT%H%M%SZ", "%Y-%m-%d"):
+        try:
+            return dt.datetime.strptime(v, f).replace(tzinfo=dt.timezone.utc)
+        except ValueError:
+            pass
+    return parse_date(v)
+
+
+def keep(url, title, when, seed):
+    """정리 시스템에 넣을 글 1건. 차단·무시 사이트 글은 넣지 않는다(접속도 안 함)."""
+    h = host_of(url)
+    if not h or not title or in_list(h, CFG["blocked"]) or in_list(h, CFG["ignore"]) or legal_path(url):
+        return
+    d = to_dt(when)
+    if d and (NOW - d).days > 7:                      # 피드에 섞인 옛날 글은 버린다
+        return
+    ARTICLES.append({"url": url, "title": " ".join(title.split())[:200], "domain": base_domain(h),
+                     "published": d.isoformat(timespec="minutes") if d else "", "seed": seed})
+
+
 def collect(fail_streak=None):
     """씨앗 출처에서 SpaceX 글을 읽고 인용된 바깥 사이트를 센다.
     5회 연속 실패한 씨앗은 하루 1번(UTC 0시대 실행)만 다시 시도한다."""
@@ -211,6 +237,7 @@ def collect(fail_streak=None):
                     if a.get("url") and has_kw(a.get("title")):
                         row["spacex_items"] += 1
                         add(a["url"], s["name"], a.get("title"))
+                        keep(a["url"], a.get("title"), a.get("seendate"), s["name"])
             elif s["kind"] == "hn":
                 hits = js.get("hits", [])
                 row["items"] = len(hits)
@@ -218,9 +245,12 @@ def collect(fail_streak=None):
                     if h.get("url") and has_kw(h.get("title")):
                         row["spacex_items"] += 1
                         add(h["url"], s["name"], h.get("title"))
+                        keep(h["url"], h.get("title"), h.get("created_at"), s["name"])
             elif s["kind"] == "fedreg":
                 res = js.get("results", [])
                 row["items"] = row["spacex_items"] = len(res)
+                for r in res:
+                    keep(r.get("html_url", ""), r.get("title"), r.get("publication_date"), s["name"])
             else:
                 items = parse_feed(body)
                 row["items"] = len(items)
@@ -230,6 +260,7 @@ def collect(fail_streak=None):
                     if not has_kw(it["title"] + " " + it["html"]):
                         continue
                     row["spacex_items"] += 1
+                    keep(it["link"], it["title"], it["date"], s["name"])
                     html = it["html"]
                     if pages < CFG["article_pages_per_seed"] and it["link"]:
                         page, _ = fetch(it["link"])
@@ -339,11 +370,119 @@ def main():
         ok = sum(1 for r in seed_log if r["result"] == "성공")
         f.write(f"{out['generated_at']},{ok},{len(seed_log)},{STATS['requests']},{STATS['blocked_skipped']},"
                 f"{STATS['robots_denied']},{STATS['errors']},{STATS['blocked_contacted']},{len(passed)},{workers}\n")
+    out["news"] = update_news(ARTICLES)
     write_report(out, log)
     print(json.dumps({"signals": out["signals"], "stats": STATS,
                       "seeds": [(r["name"], r["result"], r["spacex_items"]) for r in seed_log]}, ensure_ascii=False))
     if STATS["blocked_contacted"]:
         sys.exit(2)                                    # 차단 사이트 접속은 실패로 처리
+
+
+def norm_url(u):
+    p = urllib.parse.urlsplit(u)
+    q = "&".join(x for x in p.query.split("&") if x and not x.startswith(("utm_", "fbclid", "gclid", "ref=", "cmpid")))
+    return f"{(p.hostname or '').lower().removeprefix('www.')}{p.path.rstrip('/')}" + (f"?{q}" if q else "")
+
+
+def norm_title(t):
+    return re.sub(r"[^a-z0-9]+", "", t.lower())[:80]
+
+
+def topics_of(title):
+    t = title.lower()
+    hit = [name for name, words in CFG.get("topics", {}).items() if any(w in t for w in words)]
+    return hit or ["기타"]
+
+
+def update_news(new_items):
+    """글 정리: 중복 합치기(같은 주소·같은 제목) → 주제 분류 → 교차 확인 수 → 저장·요약 화면.
+    파일: data/articles.json(최근 30일), data/archive/YYYY-MM.jsonl(영구), data/news/날짜.md(하루치),
+          data/NEWS.md(최근 48시간 화면), data/news_latest.json(봇이 읽을 작은 파일)."""
+    store = load("articles.json", {})
+    by_url = {a["key_url"]: k for k, a in store.items()}
+    by_title = {a["key_title"]: k for k, a in store.items()}
+    official = set(CFG.get("official_seeds", []))
+    now_s = NOW.isoformat(timespec="minutes")
+    fresh = []
+    for it in new_items:
+        ku, kt = norm_url(it["url"]), norm_title(it["title"])
+        k = by_url.get(ku) or (by_title.get(kt) if len(kt) >= 25 else None)
+        if k:                                          # 이미 있는 글 → 출처만 합친다
+            a = store[k]
+            if it["domain"] not in a["domains"]:
+                a["domains"].append(it["domain"])
+            if it["seed"] not in a["seeds"]:
+                a["seeds"].append(it["seed"])
+            a["published"] = a["published"] or it["published"]
+            continue
+        k = re.sub(r"[^a-z0-9]", "", ku)[-60:] or kt
+        a = {"title": it["title"], "url": it["url"], "domains": [it["domain"]], "seeds": [it["seed"]],
+             "published": it["published"], "first_seen": now_s, "topics": topics_of(it["title"]),
+             "key_url": ku, "key_title": kt}
+        store[k] = a
+        by_url[ku], by_title[kt] = k, k
+        fresh.append(a)
+    cutoff = (NOW - dt.timedelta(days=CFG["window_days"])).isoformat()
+    store = {k: a for k, a in store.items() if (a["published"] or a["first_seen"]) >= cutoff}
+    for a in store.values():
+        a["official"] = any(sd in official for sd in a["seeds"])
+        a["score"] = len(a["domains"]) + (2 if a["official"] else 0)
+    json.dump(store, open(os.path.join(DATA, "articles.json"), "w", encoding="utf-8"), ensure_ascii=False)
+    if fresh:                                          # 영구 보관(월별, 새 글만 덧붙임)
+        os.makedirs(os.path.join(DATA, "archive"), exist_ok=True)
+        with open(os.path.join(DATA, "archive", NOW.strftime("%Y-%m") + ".jsonl"), "a", encoding="utf-8") as f:
+            for a in fresh:
+                f.write(json.dumps({x: a[x] for x in ("title", "url", "domains", "seeds", "published", "first_seen", "topics")},
+                                   ensure_ascii=False) + "\n")
+
+    def when(a):
+        return a["published"] or a["first_seen"]
+
+    def ts(iso):                                       # 최신 글이 위로 오도록 음수 시각
+        try:
+            return -dt.datetime.fromisoformat(iso).timestamp()
+        except ValueError:
+            return 0
+
+    def kst(iso):
+        try:
+            return (dt.datetime.fromisoformat(iso) + dt.timedelta(hours=9)).strftime("%m-%d %H:%M")
+        except ValueError:
+            return "-"
+
+    def block(items, title, per_topic):
+        L = [f"# {title}", "", f"갱신: {(NOW + dt.timedelta(hours=9)).strftime('%Y-%m-%d %H:%M')} (한국 시간) · 글 {len(items)}건 · "
+             f"교차 확인 = 같은 소식을 낸 사이트 수 · 🏛 = 정부·공식 출처", ""]
+        order = list(CFG.get("topics", {}).keys()) + ["기타"]
+        for tp in order:
+            grp = sorted([a for a in items if a["topics"][0] == tp], key=lambda a: (-a["score"], ts(when(a))))
+            if not grp:
+                continue
+            L += [f"## {tp} ({len(grp)})", ""]
+            for a in grp[:per_topic]:
+                badge = "🏛 " if a["official"] else ""
+                cross = f" · 교차 {len(a['domains'])}곳" if len(a["domains"]) > 1 else ""
+                L.append(f"- {badge}[{a['title']}]({a['url']}) — {a['domains'][0]} · {kst(when(a))}{cross}")
+            if len(grp) > per_topic:
+                L.append(f"- …외 {len(grp) - per_topic}건")
+            L.append("")
+        L.append("※ 제목·링크 모음입니다. 내용 확인과 신뢰도 판정은 봇·사람이 따로 합니다. 정보 제공용이며 투자 자문이 아닙니다.")
+        return "\n".join(L) + "\n"
+
+    h48 = (NOW - dt.timedelta(hours=48)).isoformat()
+    recent = [a for a in store.values() if when(a) >= h48]
+    open(os.path.join(DATA, "NEWS.md"), "w", encoding="utf-8").write(block(recent, "SPCX 뉴스 모음 — 최근 48시간", 12))
+    day = (NOW + dt.timedelta(hours=9)).date()
+    d0 = (dt.datetime.combine(day, dt.time(), dt.timezone(dt.timedelta(hours=9)))).astimezone(dt.timezone.utc).isoformat()
+    today = [a for a in store.values() if a["first_seen"] >= d0 or when(a) >= d0]
+    os.makedirs(os.path.join(DATA, "news"), exist_ok=True)
+    open(os.path.join(DATA, "news", f"{day.isoformat()}.md"), "w", encoding="utf-8").write(
+        block(today, f"SPCX 뉴스 — {day.isoformat()} (한국 날짜)", 30))
+    top = sorted(recent, key=lambda a: (-a["score"], ts(when(a))))[:40]
+    json.dump({"generated_at": NOW.isoformat(timespec="seconds"), "count_48h": len(recent), "new_this_run": len(fresh),
+               "items": [{x: a[x] for x in ("title", "url", "domains", "published", "topics", "official", "score")} for a in top]},
+              open(os.path.join(DATA, "news_latest.json"), "w", encoding="utf-8"), ensure_ascii=False, indent=1)
+    return {"new": len(fresh), "h48": len(recent), "stored": len(store)}
 
 
 def write_report(out, log_path):
@@ -360,7 +499,9 @@ def write_report(out, log_path):
          f"| 기계 시험 통과 후보 | {sg['candidates_passed']} |",
          f"| 최근 30일 본 후보 | {sg['candidates_seen_30d']} |",
          f"| 봇이 부를 일꾼 수 | {sg['suggested_workers']} |",
-         f"| 3회 연속 실패 씨앗 | {', '.join(sg['feeds_failing_3x']) or '없음'} |", "",
+         f"| 3회 연속 실패 씨앗 | {', '.join(sg['feeds_failing_3x']) or '없음'} |",
+         f"| 뉴스 글(이번 새 글 / 48시간 / 보관 30일) | {out.get('news', {}).get('new', 0)} / {out.get('news', {}).get('h48', 0)} / {out.get('news', {}).get('stored', 0)} |", "",
+         "📰 정리된 뉴스: [NEWS.md](NEWS.md) · 날짜별: [news 폴더](news/)", "",
          "## 새 출처 후보 (점수순)", "",
          "| # | 사이트 | 판정 | 인용 | 7일 글 | SpaceX 비율 | 피드 |", "|---|---|---|---|---|---|---|"]
     for i, t in enumerate(out["top"], 1):
@@ -397,7 +538,7 @@ def selftest():
     seeds_blocked = [s["name"] for s in real_seeds if in_list(host_of(s["url"]), CFG["blocked"])]
     seed_names_unique = len({s["name"] for s in real_seeds}) == len(real_seeds)
     blocked_host = CFG["blocked"][0]
-    feed = ('<rss><channel><item><title>SpaceX Starlink test</title><link>https://seed.example/a1</link>'
+    feed = ('<rss><channel><item><title>SpaceX Starlink test launch from Florida</title><link>https://seed.example/a1</link>'
             '<pubDate>' + NOW.strftime("%a, %d %b %Y %H:%M:%S +0000") + '</pubDate><description><![CDATA['
             f'<a href="https://www.{blocked_host}/x/1">b</a> <a href="https://good.example/p/1">g</a> '
             '<a href="https://deny.example/p/2">d</a> <a href="https://good.example/p/3">g2</a>]]></description></item></channel></rss>')
@@ -423,7 +564,8 @@ def selftest():
     pages["https://api.example/gd"] = json.dumps({"articles": [
         {"url": "https://gd.example/n/1", "title": "SpaceX Starship flight"},
         {"url": f"https://www.{blocked_host}/n/2", "title": "SpaceX blocked outlet"},
-        {"url": "https://gd2.example/privacy", "title": "SpaceX privacy"}]})
+        {"url": "https://gd2.example/privacy", "title": "SpaceX privacy"},
+        {"url": "https://dup.example/n/7", "title": "SpaceX Starlink test launch from Florida"}]})
     pages["https://api.example/bad"] = "<html>rate limited</html>"
     CFG["seeds"] = [{"name": "seed", "kind": "rss", "url": "https://seed.example/feed"},
                     {"name": "hn", "kind": "hn", "url": "https://api.example/hn"},
@@ -432,6 +574,12 @@ def selftest():
                     {"name": "bad", "kind": "gdelt", "url": "https://api.example/bad"}]
     cites, seed_log, blocked_cited = collect()
     res = {d: test_candidate(d, c) for d, c in cites.items()}
+    import tempfile
+    globals()["DATA"] = tempfile.mkdtemp()
+    news = update_news(ARTICLES)
+    store = json.load(open(os.path.join(DATA, "articles.json"), encoding="utf-8"))
+    merged = [a for a in store.values() if a["key_title"].startswith("spacexstarlinktestlaunch")]
+    news_md = open(os.path.join(DATA, "NEWS.md"), encoding="utf-8").read()
     checks = {
         "차단 사이트 접속 0건": not any(in_list(host_of(u), CFG["blocked"]) for u in contacted),
         "차단 사이트는 인용 수만 기록": sum(blocked_cited.values()) == 2,   # 같은 글 안 중복은 1번(글 1 + GDELT 1)
@@ -443,6 +591,9 @@ def selftest():
         "HN은 키워드 글만 세고 정부 API도 읽음": "other.example" not in cites and [r["spacex_items"] for r in seed_log][:3] == [1, 1, 1],
         "GDELT 읽기(차단·약관 링크 제외)": "gd.example" in cites and "gd2.example" not in cites,
         "JSON 아닌 응답은 형식 오류로 기록": seed_log[4]["result"].startswith("형식 오류"),
+        "뉴스: 차단·약관 글 제외": not any(blocked_host in a["url"] or "privacy" in a["url"] for a in store.values()),
+        "뉴스: 같은 제목은 1건으로 합치고 교차 2곳": len(merged) == 1 and len(merged[0]["domains"]) == 2,
+        "뉴스: 주제 분류·화면 생성": all(a["topics"] for a in store.values()) and "SPCX 뉴스 모음" in news_md and news["stored"] == len(store),
         "실제 설정: 씨앗 중 차단 사이트 0개": not seeds_blocked,
         "실제 설정: 씨앗 이름 중복 없음": seed_names_unique,
     }
