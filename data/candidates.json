@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-11-10T04:33:46+00:00",
+ "generated_at": "2026-11-10T04:42:16+00:00",
  "signals": {
-  "candidates_passed": 4,
+  "candidates_passed": 1,
   "candidates_seen_30d": 79,
   "feeds_failing_3x": [],
   "suggested_workers": 1
@@ -16,14 +16,14 @@
    "sample": "https://9to5mac.com/privacy/",
    "titles": [
     "What does a blue Texas sweep mean for Elon Musk, Tesla & SpaceX?",
-    "What does a blue Texas sweep mean for Elon Musk, Tesla & SpaceX?"
+    "Tesla and SpaceX take first step towards merger, would dilute all shareholders"
    ],
    "robots": "허용",
    "feed": "https://9to5mac.com/feed/",
    "has_dates": true,
    "items_7d": 100,
    "kw_ratio": 0.0,
-   "verdict": "기계 시험 통과(본문·신뢰도는 봇이 확인)",
+   "verdict": "부분(날짜·최신성 미달)",
    "score": 141.4
   },
   {
@@ -42,7 +42,7 @@
    "has_dates": true,
    "items_7d": 20,
    "kw_ratio": 0.0,
-   "verdict": "기계 시험 통과(본문·신뢰도는 봇이 확인)",
+   "verdict": "부분(날짜·최신성 미달)",
    "score": 37.8
   },
   {
@@ -80,7 +80,7 @@
    "has_dates": true,
    "items_7d": 1,
    "kw_ratio": 0.0,
-   "verdict": "기계 시험 통과(본문·신뢰도는 봇이 확인)",
+   "verdict": "부분(날짜·최신성 미달)",
    "score": 9.6
   },
   {
