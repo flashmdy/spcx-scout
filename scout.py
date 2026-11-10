@@ -16,6 +16,7 @@ DATA = os.path.join(HERE, "data")
 CFG = json.load(open(os.path.join(HERE, "config.json"), encoding="utf-8"))
 UA = CFG["user_agent"]
 NOW = dt.datetime.now(dt.timezone.utc)
+SEED_DOMAINS = set()      # 씨앗 출처 자기 도메인(후보에서 제외) — collect()에서 채움
 STATS = {"requests": 0, "blocked_skipped": 0, "robots_denied": 0, "errors": 0, "blocked_contacted": 0}
 _ROBOTS, _LAST, _ROBOTS_ERR = {}, {}, set()
 
@@ -161,9 +162,17 @@ def has_kw(text):
     return any(k in t for k in CFG["keywords"])
 
 
-def collect():
-    """씨앗 출처에서 SpaceX 글을 읽고 인용된 바깥 사이트를 센다."""
+def legal_path(url):
+    path = urllib.parse.urlsplit(url).path.lower()
+    return any(w in path for w in CFG.get("skip_path_words", []))
+
+
+def collect(fail_streak=None):
+    """씨앗 출처에서 SpaceX 글을 읽고 인용된 바깥 사이트를 센다.
+    5회 연속 실패한 씨앗은 하루 1번(UTC 0시대 실행)만 다시 시도한다."""
     cites, seed_log, blocked_cited = {}, [], {}
+    fail_streak = fail_streak or {}
+    SEED_DOMAINS.update(base_domain(host_of(s["url"])) for s in CFG["seeds"] if s["kind"] == "rss")
 
     def add(url, seed, title):
         h = host_of(url)
@@ -173,10 +182,9 @@ def collect():
         if in_list(h, CFG["blocked"]):
             blocked_cited[b] = blocked_cited.get(b, 0) + 1
             return
-        if in_list(h, CFG["known"]) or in_list(h, CFG["ignore"]):
+        if in_list(h, CFG["known"]) or in_list(h, CFG["ignore"]) or b in SEED_DOMAINS:
             return
-        path = urllib.parse.urlsplit(url).path.lower()
-        if any(w in path for w in CFG.get("skip_path_words", [])):   # 개인정보·약관·구독 등 법적·안내 페이지 제외
+        if legal_path(url):                           # 개인정보·약관·구독 등 법적·안내 페이지 제외
             return
         c = cites.setdefault(b, {"count": 0, "seeds": set(), "sample": url, "titles": []})
         c["count"] += 1
@@ -185,18 +193,33 @@ def collect():
             c["titles"].append(title[:90])
 
     for s in CFG["seeds"]:
+        if fail_streak.get(s["name"], 0) >= 5 and NOW.hour >= 6:
+            seed_log.append({"name": s["name"], "result": "일시 중지(5회 연속 실패)", "items": 0, "spacex_items": 0})
+            continue
         body, why = fetch(s["url"])
         row = {"name": s["name"], "result": why, "items": 0, "spacex_items": 0}
+        if body and s["kind"] in ("hn", "fedreg", "gdelt"):
+            try:
+                js = json.loads(body)
+            except ValueError:
+                row["result"], body = "형식 오류(JSON 아님)", None
         if body:
-            if s["kind"] == "hn":
-                hits = json.loads(body).get("hits", [])
+            if s["kind"] == "gdelt":
+                arts = js.get("articles", [])
+                row["items"] = len(arts)
+                for a in arts:
+                    if a.get("url") and has_kw(a.get("title")):
+                        row["spacex_items"] += 1
+                        add(a["url"], s["name"], a.get("title"))
+            elif s["kind"] == "hn":
+                hits = js.get("hits", [])
                 row["items"] = len(hits)
                 for h in hits:
                     if h.get("url") and has_kw(h.get("title")):
                         row["spacex_items"] += 1
                         add(h["url"], s["name"], h.get("title"))
             elif s["kind"] == "fedreg":
-                res = json.loads(body).get("results", [])
+                res = js.get("results", [])
                 row["items"] = row["spacex_items"] = len(res)
             else:
                 items = parse_feed(body)
@@ -212,9 +235,13 @@ def collect():
                         page, _ = fetch(it["link"])
                         pages += 1
                         html += " " + (page or "")
-                    for u in set(links_in(html).hrefs):
-                        if base_domain(host_of(u)) != own:
-                            add(u, s["name"], it["title"])
+                    per_article = {}                  # 한 글 안에서 같은 사이트는 1번만 센다(머리글·바닥글 링크 부풀림 방지)
+                    for u in links_in(html).hrefs:
+                        b = base_domain(host_of(u))
+                        if b and b != own and not legal_path(u):
+                            per_article.setdefault(b, u)
+                    for u in per_article.values():
+                        add(u, s["name"], it["title"])
         seed_log.append(row)
     return cites, seed_log, blocked_cited
 
@@ -242,8 +269,13 @@ def test_candidate(domain, info):
     out["has_dates"] = bool(dated)
     out["items_7d"] = sum(1 for i in dated if (NOW - i["date"]).days <= 7)
     out["kw_ratio"] = round(sum(1 for i in items if has_kw(i["title"] + " " + i["html"])) / len(items), 2)
-    ok = out["has_dates"] and out["items_7d"] > 0 and out["kw_ratio"] > 0   # 키워드 적중 0이면 SpaceX 출처가 아님
-    out["verdict"] = "기계 시험 통과(본문·신뢰도는 봇이 확인)" if ok else "부분(날짜·최신성 미달)"
+    fresh = out["has_dates"] and out["items_7d"] > 0
+    if fresh and out["kw_ratio"] > 0:
+        out["verdict"] = "기계 시험 통과(본문·신뢰도는 봇이 확인)"
+    elif fresh:
+        out["verdict"] = "부분(SpaceX 글 없음)"      # 키워드 적중 0이면 SpaceX 출처가 아님
+    else:
+        out["verdict"] = "부분(날짜·최신성 미달)"
     out["score"] = round(info["count"] * (1 + out["items_7d"]) * (0.2 + out["kw_ratio"]), 2)
     return out
 
@@ -258,7 +290,9 @@ def load(name, default):
 def main():
     os.makedirs(DATA, exist_ok=True)
     state = load("state.json", {"cites": {}, "fail_streak": {}})
-    cites, seed_log, blocked_cited = collect()
+    for dom in [d for d, st in state["cites"].items() if legal_path(st.get("sample", ""))]:
+        del state["cites"][dom]                       # 예전 실행이 남긴 약관·개인정보 링크 후보 정리
+    cites, seed_log, blocked_cited = collect(state["fail_streak"])
     today = NOW.date().isoformat()
     cutoff = (NOW - dt.timedelta(days=CFG["window_days"])).date().isoformat()
     for dom, c in cites.items():                      # 30일 누적(날짜별)
@@ -274,6 +308,8 @@ def main():
             del state["cites"][dom]
     for r in seed_log:                                 # 연속 실패 수
         n = r["name"]
+        if r["result"].startswith("일시 중지"):
+            continue
         state["fail_streak"][n] = 0 if r["result"] == "성공" else state["fail_streak"].get(n, 0) + 1
     ranked = sorted(state["cites"].items(), key=lambda kv: (-sum(kv[1]["days"].values()), kv[0]))
     tested = []
@@ -313,6 +349,9 @@ def selftest():
     """네트워크 없이: 차단 사이트·robots 거부 사이트에 한 번도 접속하지 않는지 확인."""
     global _raw_get
     contacted = []
+    real_seeds = [s for s in CFG["seeds"]]
+    seeds_blocked = [s["name"] for s in real_seeds if in_list(host_of(s["url"]), CFG["blocked"])]
+    seed_names_unique = len({s["name"] for s in real_seeds}) == len(real_seeds)
     blocked_host = CFG["blocked"][0]
     feed = ('<rss><channel><item><title>SpaceX Starlink test</title><link>https://seed.example/a1</link>'
             '<pubDate>' + NOW.strftime("%a, %d %b %Y %H:%M:%S +0000") + '</pubDate><description><![CDATA['
@@ -337,20 +376,31 @@ def selftest():
     pages["https://api.example/robots.txt"] = ""
     pages["https://api.example/hn"] = json.dumps({"hits": [{"title": "SpaceX news", "url": "https://good.example/p/9"}, {"title": "Other", "url": "https://other.example/z"}]})
     pages["https://api.example/fr"] = json.dumps({"count": 1, "results": [{"title": "FCC rule"}]})
+    pages["https://api.example/gd"] = json.dumps({"articles": [
+        {"url": "https://gd.example/n/1", "title": "SpaceX Starship flight"},
+        {"url": f"https://www.{blocked_host}/n/2", "title": "SpaceX blocked outlet"},
+        {"url": "https://gd2.example/privacy", "title": "SpaceX privacy"}]})
+    pages["https://api.example/bad"] = "<html>rate limited</html>"
     CFG["seeds"] = [{"name": "seed", "kind": "rss", "url": "https://seed.example/feed"},
                     {"name": "hn", "kind": "hn", "url": "https://api.example/hn"},
-                    {"name": "fr", "kind": "fedreg", "url": "https://api.example/fr"}]
+                    {"name": "fr", "kind": "fedreg", "url": "https://api.example/fr"},
+                    {"name": "gd", "kind": "gdelt", "url": "https://api.example/gd"},
+                    {"name": "bad", "kind": "gdelt", "url": "https://api.example/bad"}]
     cites, seed_log, blocked_cited = collect()
     res = {d: test_candidate(d, c) for d, c in cites.items()}
     checks = {
         "차단 사이트 접속 0건": not any(in_list(host_of(u), CFG["blocked"]) for u in contacted),
-        "차단 사이트는 인용 수만 기록": sum(blocked_cited.values()) == 2,
+        "차단 사이트는 인용 수만 기록": sum(blocked_cited.values()) == 2,   # 같은 글 안 중복은 1번(글 1 + GDELT 1)
         "robots 거부 사이트는 robots.txt 외 접속 0건": [u for u in contacted if "deny.example" in u] == ["https://deny.example/robots.txt"],
         "robots 거부 판정 ⛔": res["deny.example"]["verdict"].startswith("⛔"),
-        "정상 후보 통과": res["good.example"]["verdict"].startswith("기계 시험 통과") and res["good.example"]["citations"] == 3,
+        "정상 후보 통과": res["good.example"]["verdict"].startswith("기계 시험 통과") and res["good.example"]["citations"] == 2,   # 같은 글 안 2링크=1 + HN 1
         "씨앗 자기 사이트는 후보 아님": "seed.example" not in cites,
         "blocked_contacted 0": STATS["blocked_contacted"] == 0,
-        "HN은 키워드 글만 세고 정부 API도 읽음": "other.example" not in cites and [r["spacex_items"] for r in seed_log] == [1, 1, 1],
+        "HN은 키워드 글만 세고 정부 API도 읽음": "other.example" not in cites and [r["spacex_items"] for r in seed_log][:3] == [1, 1, 1],
+        "GDELT 읽기(차단·약관 링크 제외)": "gd.example" in cites and "gd2.example" not in cites,
+        "JSON 아닌 응답은 형식 오류로 기록": seed_log[4]["result"].startswith("형식 오류"),
+        "실제 설정: 씨앗 중 차단 사이트 0개": not seeds_blocked,
+        "실제 설정: 씨앗 이름 중복 없음": seed_names_unique,
     }
     for k, v in checks.items():
         print(("PASS " if v else "FAIL ") + k)
