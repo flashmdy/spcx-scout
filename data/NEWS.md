@@ -1,18 +1,18 @@
 # SPCX 뉴스 모음 — 최근 48시간
 
-갱신: 2026-11-11 08:18 (한국 시간) · 글 55건 · 교차 확인 = 같은 소식을 낸 사이트 수 · 🏛 = 정부·공식 출처
+갱신: 2026-11-11 15:13 (한국 시간) · 글 52건 · 교차 확인 = 같은 소식을 낸 사이트 수 · 🏛 = 정부·공식 출처
 
-## 금융·IPO (6)
+## 금융·IPO (5)
 
 - [Anthropic Seeks Valuation of $1.3 Trillion When it Becomes a Publicly Traded Company](https://broadbandbreakfast.com/anthropic-seeks-valuation-of-1-3-trillion-when-it-becomes-a-publicly-traded-company/) — broadbandbreakfast.com · 11-10 23:04
 - [NASA Shares Moon Base Progress, Contract Awards](https://spacepolicyonline.com/news/nasa-shares-moon-base-progress-contract-awards/) — spacepolicyonline.com · 11-10 13:54
 - [Elon Musk Spacex Telecom Acquisition Spurs Stock Talk](https://www.el-balad.com/17065378) — el-balad.com · 11-10 09:00
 - [Plummeting Cable One on the Brink – Shares Face Delisting from New York Stock Exchange](https://broadbandbreakfast.com/plummeting-cable-one-on-the-brink-shares-face-delisting-from-new-york-stock-exchange/) — broadbandbreakfast.com · 11-09 22:26
 - [Paper Unicorns Are Cheap. Building A $1B Revenue AI Company Takes A Multimarket Cap Table](https://news.crunchbase.com/ai/building-unicorn-multimarket-cap-table-shazhaev-dizzaract/) — crunchbase.com · 11-09 21:00
-- [As Tesla and Spacex stocks fall over Democrat action fears ; Elon Musk makes a clarification : Tesla has no government contracts , Spacex has only …](https://timesofindia.indiatimes.com/technology/tech-news/as-tesla-and-spacex-stocks-fall-over-democrat-action-fears-elon-musk-makes-a-clarification-tesla-has-no-government-contracts-spacex-has-only-/articleshow/135669030.cms) — indiatimes.com · 11-09 14:00
 
-## 정부·규제 (1)
+## 정부·규제 (2)
 
+- [SpaceX’s 800 MHz spectrum deal with Grain clears first FCC step](https://driveteslacanada.ca/news/fcc-accepts-spacex-grain-800-mhz-spectrum-transfer/?utm_source=rss&utm_medium=rss&utm_campaign=fcc-accepts-spacex-grain-800-mhz-spectrum-transfer) — driveteslacanada.ca · 11-11 08:42
 - [Senate Democrats Likely to Vent about Carr at Thumann Severs Confirmation Hearing Today](https://broadbandbreakfast.com/senate-democrats-likely-to-vent-about-carr-at-thumann-severs-confirmation-hearing-today/) — broadbandbreakfast.com · 11-10 22:48
 
 ## 국방 (2)
@@ -25,9 +25,8 @@
 - [Tesla and SpaceX Terafab Begins Ordering Japanese Chipmaking Equipment: Report](https://driveteslacanada.ca/news/terafab-japan-suppliers-2028-mass-production/?utm_source=rss&utm_medium=rss&utm_campaign=terafab-japan-suppliers-2028-mass-production) — driveteslacanada.ca · 11-11 00:12
 - [SpaceX plans $24 billion gas power plant , data center project in Texas](https://www.moneycontrol.com/technology/spacex-plans-24-billion-gas-power-plant-data-center-project-in-texas-article-14075808.html) — moneycontrol.com · 11-10 13:30
 
-## Starlink·통신 (12)
+## Starlink·통신 (10)
 
-- [Fibocom LTE Cat . 1 bis Modules : Starlink DTC Field Test Report](http://www.malaysiasun.com/news/279420743/fibocom-lte-cat1-bis-modules-starlink-dtc-field-test-report) — malaysiasun.com · 11-09 09:30 · 교차 2곳
 - [KeyBanc: Starlink Faces Higher Churn Despite Subscriber Growth](https://broadbandbreakfast.com/keybanc-starlink-faces-higher-churn-despite-subscriber-growth/) — broadbandbreakfast.com · 11-11 06:35
 - [SpaceX unveils Starlink Mini 2 satellite broadband terminal with built-in battery and Wi-Fi support](https://www.teslaoracle.com/2026/11/10/spacex-unveils-starlink-mini-2-satellite-broadband-terminal-with-built-in-battery-and-wi-fi-support/) — teslaoracle.com · 11-11 04:24
 - [Starlink Mini 2 Unveiled With Built-In Battery, Wi-Fi 6 and USB-C](https://driveteslacanada.ca/news/starlink-mini-2-unveiled-quick-swap-battery/?utm_source=rss&utm_medium=rss&utm_campaign=starlink-mini-2-unveiled-quick-swap-battery) — driveteslacanada.ca · 11-11 03:22
@@ -38,9 +37,8 @@
 - [Starlink Opens Retailer Applications to Expand Hardware Sales Across the U.S.](https://driveteslacanada.ca/news/starlink-us-retailer-program-v4-mini-kits/?utm_source=rss&utm_medium=rss&utm_campaign=starlink-us-retailer-program-v4-mini-kits) — driveteslacanada.ca · 11-10 07:50
 - [What Starlink Restrictions in Ukraine Reveal About Europe’s Space Sovereignty and the Path Forward](https://www.satellitetoday.com/podcast/2026/11/09/what-starlink-restrictions-in-ukraine-reveal-about-europes-space-sovereignty-and-the-path-forward/) — satellitetoday.com · 11-10 06:59
 - [November 9, 2026: SpaceX’s progress on Starlink Mobile, a BEAD milestone, and more](https://www.telecompetitor.com/november-9-2026/) — telecompetitor.com · 11-10 00:05
-- [Starlink is in 223 countries, but in India its IP addresses sit almost unused](https://ipinfo.io/blog/starlink-223-countries) — ipinfo.io · 11-09 09:42
 
-## 발사·Starship (14)
+## 발사·Starship (13)
 
 - 🏛 [Notice of Intent To Prepare a Programmatic Environmental Impact Statement (PEIS), Open Public Scoping Period, and Hold Public Scoping Meetings on the Proposed SpaceX Starship-Super Heavy Launch and La](https://www.federalregister.gov/documents/2026/11/10/2026-22898/notice-of-intent-to-prepare-a-programmatic-environmental-impact-statement-peis-open-public-scoping) — federalregister.gov · 11-10 09:00
 - [SpaceX moves Starship Flight 15 booster to launch pad for 'squeeze test' ahead of epic double-catch attempt (photos)](https://www.space.com/space-exploration/launches-spacecraft/spacex-moves-starship-flight-15-booster-to-launch-pad-for-squeeze-test-ahead-of-epic-double-catch-attempt-photos) — space.com · 11-11 07:09
@@ -54,7 +52,7 @@
 - [NASA picks SpaceX for CLPS 2 lunar deliveries and a 2028 Starship launch](https://driveteslacanada.ca/news/nasa-clps-2-spacex-starship-cislunar-2028/?utm_source=rss&utm_medium=rss&utm_campaign=nasa-clps-2-spacex-starship-cislunar-2028) — driveteslacanada.ca · 11-10 04:14
 - [SpaceX will launch epic double-catch Starship Flight 15 test mission on Nov. 13](https://www.space.com/space-exploration/launches-spacecraft/spacex-will-launch-epic-double-catch-starship-flight-15-test-mission-on-nov-13) — space.com · 11-09 23:30
 - [After Fort Worth, Tesla launches Robotaxi Service in San Antonio, Texas today (Nov 9) — now available in 8 cities](https://www.teslaoracle.com/2026/11/09/after-fort-worth-tesla-launches-robotaxi-service-in-san-antonio-texas-today-nov-9-now-available-in-8-cities/) — teslaoracle.com · 11-09 19:31
-- …외 2건
+- …외 1건
 
 ## 테슬라·머스크 (3)
 

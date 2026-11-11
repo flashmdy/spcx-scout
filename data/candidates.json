@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-10T23:18:16+00:00",
+ "generated_at": "2026-11-11T06:13:17+00:00",
  "signals": {
   "candidates_passed": 1,
   "candidates_seen_30d": 217,
@@ -16,7 +16,7 @@
  "top": [
   {
    "domain": "9to5mac.com",
-   "citations": 4,
+   "citations": 8,
    "cited_by": [
     "Electrek SpaceX"
    ],
@@ -31,11 +31,11 @@
    "items_7d": 100,
    "kw_ratio": 0.0,
    "verdict": "부분(SpaceX 글 없음)",
-   "score": 80.8
+   "score": 161.6
   },
   {
    "domain": "9to5google.com",
-   "citations": 3,
+   "citations": 6,
    "cited_by": [
     "Electrek SpaceX"
    ],
@@ -50,30 +50,11 @@
    "items_7d": 100,
    "kw_ratio": 0.0,
    "verdict": "부분(SpaceX 글 없음)",
-   "score": 60.6
-  },
-  {
-   "domain": "thefp.com",
-   "citations": 9,
-   "cited_by": [
-    "CBS News Technology"
-   ],
-   "sample": "https://www.thefp.com/p/elon-musk-left-doge-but-democrats?utm_source=cbs_news&utm_campaign=cbs_news_recirculation&utm_content=bottom_page",
-   "titles": [
-    "Memphis fails to pass 1-year data center moratorium, opts for shorter-term ban",
-    "Memphis fails to pass 1-year data center moratorium, opts for shorter-term ban"
-   ],
-   "robots": "허용",
-   "feed": "https://thefp.com/feed",
-   "has_dates": true,
-   "items_7d": 20,
-   "kw_ratio": 0.0,
-   "verdict": "부분(SpaceX 글 없음)",
-   "score": 37.8
+   "score": 121.2
   },
   {
    "domain": "9to5toys.com",
-   "citations": 3,
+   "citations": 6,
    "cited_by": [
     "Electrek SpaceX"
    ],
@@ -88,7 +69,26 @@
    "items_7d": 50,
    "kw_ratio": 0.0,
    "verdict": "부분(SpaceX 글 없음)",
-   "score": 30.6
+   "score": 61.2
+  },
+  {
+   "domain": "thefp.com",
+   "citations": 10,
+   "cited_by": [
+    "CBS News Technology"
+   ],
+   "sample": "https://www.thefp.com/p/elon-musk-left-doge-but-democrats?utm_source=cbs_news&utm_campaign=cbs_news_recirculation&utm_content=bottom_page",
+   "titles": [
+    "Memphis fails to pass 1-year data center moratorium, opts for shorter-term ban",
+    "Memphis fails to pass 1-year data center moratorium, opts for shorter-term ban"
+   ],
+   "robots": "허용",
+   "feed": "https://thefp.com/feed",
+   "has_dates": true,
+   "items_7d": 20,
+   "kw_ratio": 0.0,
+   "verdict": "부분(SpaceX 글 없음)",
+   "score": 42.0
   },
   {
    "domain": "nasa.gov",
@@ -110,27 +110,8 @@
    "score": 23.1
   },
   {
-   "domain": "futureplc.com",
-   "citations": 24,
-   "cited_by": [
-    "Space.com"
-   ],
-   "sample": "https://futureplc.com/future-member-terms-and-conditions/",
-   "titles": [
-    "SpaceX moves Starship Flight 15 booster to launch pad for 'squeeze test' ahead of epic dou",
-    "Anthony Mackie, Ariana DeBose, and John Leguizamo reveal why they joined Andy Weir's sci-f"
-   ],
-   "robots": "허용",
-   "feed": "https://futureplc.com/feed/",
-   "has_dates": true,
-   "items_7d": 1,
-   "kw_ratio": 0.0,
-   "verdict": "부분(SpaceX 글 없음)",
-   "score": 9.6
-  },
-  {
    "domain": "hubspot.com",
-   "citations": 4,
+   "citations": 8,
    "cited_by": [
     "Broadband Breakfast"
    ],
@@ -145,11 +126,30 @@
    "items_7d": 9,
    "kw_ratio": 0.0,
    "verdict": "부분(SpaceX 글 없음)",
-   "score": 8.0
+   "score": 16.0
+  },
+  {
+   "domain": "futureplc.com",
+   "citations": 27,
+   "cited_by": [
+    "Space.com"
+   ],
+   "sample": "https://futureplc.com/future-member-terms-and-conditions/",
+   "titles": [
+    "SpaceX moves Starship Flight 15 booster to launch pad for 'squeeze test' ahead of epic dou",
+    "Anthony Mackie, Ariana DeBose, and John Leguizamo reveal why they joined Andy Weir's sci-f"
+   ],
+   "robots": "허용",
+   "feed": "https://futureplc.com/feed/",
+   "has_dates": true,
+   "items_7d": 1,
+   "kw_ratio": 0.0,
+   "verdict": "부분(SpaceX 글 없음)",
+   "score": 10.8
   },
   {
    "domain": "whatsapp.com",
-   "citations": 8,
+   "citations": 16,
    "cited_by": [
     "Space Intel Report",
     "Tesla Oracle"
@@ -165,11 +165,31 @@
    "items_7d": 0,
    "kw_ratio": 0.0,
    "verdict": "부분(피드 없음)",
+   "score": 1.6
+  },
+  {
+   "domain": "addtoany.com",
+   "citations": 8,
+   "cited_by": [
+    "Advanced Television",
+    "SpacePolicyOnline"
+   ],
+   "sample": "https://www.addtoany.com/add_to/facebook?linkurl=https%3A%2F%2Fwww.advanced-television.com%2F2026%2F11%2F09%2Fviasat-our-new-satellites-will-drive-broadband%2F&linkname=Viasat%3A%20%E2%80%9COur%20new%20satellites%20will%20drive%20broadband%E2%80%9D",
+   "titles": [
+    "NASA Shares Moon Base Progress, Contract Awards",
+    "What’s Happening in Space Policy November 8-14, 2026"
+   ],
+   "robots": "허용",
+   "feed": "",
+   "has_dates": false,
+   "items_7d": 0,
+   "kw_ratio": 0.0,
+   "verdict": "부분(피드 없음)",
    "score": 0.8
   },
   {
    "domain": "cbssports.com",
-   "citations": 6,
+   "citations": 7,
    "cited_by": [
     "CBS News Technology"
    ],
@@ -184,27 +204,7 @@
    "items_7d": 0,
    "kw_ratio": 0.0,
    "verdict": "부분(피드 없음)",
-   "score": 0.6
-  },
-  {
-   "domain": "flipboard.com",
-   "citations": 6,
-   "cited_by": [
-    "Electrek SpaceX",
-    "Space.com"
-   ],
-   "sample": "https://flipboard.com/@electrek",
-   "titles": [
-    "What does a blue Texas sweep mean for Elon Musk, Tesla & SpaceX?",
-    "Tesla and SpaceX take first step towards merger, would dilute all shareholders"
-   ],
-   "robots": "허용",
-   "feed": "",
-   "has_dates": false,
-   "items_7d": 0,
-   "kw_ratio": 0.0,
-   "verdict": "부분(피드 없음)",
-   "score": 0.6
+   "score": 0.7
   }
  ],
  "seeds": [
@@ -266,7 +266,7 @@
    "name": "NASASpaceflight",
    "result": "성공",
    "items": 10,
-   "spacex_items": 6
+   "spacex_items": 5
   },
   {
    "name": "Spaceflight Now",
@@ -398,7 +398,7 @@
    "name": "Air & Space Forces",
    "result": "성공",
    "items": 9,
-   "spacex_items": 2
+   "spacex_items": 1
   },
   {
    "name": "Defense News",
@@ -409,7 +409,7 @@
   {
    "name": "The War Zone",
    "result": "성공",
-   "items": 32,
+   "items": 33,
    "spacex_items": 0
   },
   {
@@ -450,9 +450,9 @@
   },
   {
    "name": "GDELT SpaceX",
-   "result": "성공",
-   "items": 80,
-   "spacex_items": 9
+   "result": "오류: HTTPError",
+   "items": 0,
+   "spacex_items": 0
   },
   {
    "name": "GDELT Starlink",
@@ -464,26 +464,26 @@
    "name": "Hacker News Starlink",
    "result": "성공",
    "items": 50,
-   "spacex_items": 35
+   "spacex_items": 32
   }
  ],
  "blocked_cited": {
-  "twitter.com": 54,
+  "twitter.com": 50,
   "x.com": 42,
-  "reddit.com": 14,
-  "t.co": 12,
+  "reddit.com": 13,
+  "t.co": 11,
   "google.com": 10,
   "cnbc.com": 6,
   "apnews.com": 4,
-  "reuters.com": 4,
   "theguardian.com": 3,
+  "reuters.com": 3,
   "sec.gov": 2
  },
  "stats": {
-  "requests": 180,
+  "requests": 176,
   "blocked_skipped": 0,
-  "robots_denied": 5,
-  "errors": 11,
+  "robots_denied": 6,
+  "errors": 12,
   "blocked_contacted": 0
  }
 }
