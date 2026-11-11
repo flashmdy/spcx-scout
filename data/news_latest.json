@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-11-11T06:13:17+00:00",
- "count_48h": 52,
- "new_this_run": 1,
+ "generated_at": "2026-11-11T14:22:56+00:00",
+ "count_48h": 53,
+ "new_this_run": 10,
  "items": [
   {
    "title": "NASA to Welcome Expedition 74 Astronauts Home at Space Center Houston",
@@ -28,6 +28,138 @@
    ],
    "official": true,
    "score": 3
+  },
+  {
+   "title": "Strand Consult: Starlink’s Next Milestone Is Telecom Regulation",
+   "url": "https://broadbandbreakfast.com/strand-consult-starlinks-next-milestone-is-telecom-regulation/",
+   "domains": [
+    "broadbandbreakfast.com"
+   ],
+   "published": "2026-11-11T14:19+00:00",
+   "topics": [
+    "정부·규제",
+    "Starlink·통신"
+   ],
+   "official": false,
+   "score": 1
+  },
+  {
+   "title": "Ukraine firm Fire Point hopes for extension of Starshield coverage beyond Ukraine’s borders",
+   "url": "https://breakingdefense.com/2026/11/ukraine-firm-fire-point-hopes-for-extension-of-starshield-coverage-beyond-ukraines-borders/",
+   "domains": [
+    "breakingdefense.com"
+   ],
+   "published": "2026-11-11T14:01+00:00",
+   "topics": [
+    "국방"
+   ],
+   "official": false,
+   "score": 1
+  },
+  {
+   "title": "Grok-built apps exposed patient data, plaintext passwords, and SpaceXSI's own sales pipeline",
+   "url": "https://the-decoder.com/grok-built-apps-exposed-patient-data-plaintext-passwords-and-spacexsis-own-sales-pipeline/",
+   "domains": [
+    "the-decoder.com"
+   ],
+   "published": "2026-11-11T12:53+00:00",
+   "topics": [
+    "AI·xAI"
+   ],
+   "official": false,
+   "score": 1
+  },
+  {
+   "title": "Starship Flight 15 to attempt first catch of both stages",
+   "url": "https://spaceq.ca/starship-flight-15-catch-both-stages-preview/",
+   "domains": [
+    "spaceq.ca"
+   ],
+   "published": "2026-11-11T12:08+00:00",
+   "topics": [
+    "발사·Starship"
+   ],
+   "official": false,
+   "score": 1
+  },
+  {
+   "title": "What time will SpaceX launch Starship Flight 15, its 1st double landing test, on Nov. 13? (Full mission timeline)",
+   "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starship-flight-15-1st-booster-ship-double-catch-full-recovery-what-time",
+   "domains": [
+    "space.com"
+   ],
+   "published": "2026-11-11T11:00+00:00",
+   "topics": [
+    "발사·Starship"
+   ],
+   "official": false,
+   "score": 1
+  },
+  {
+   "title": "Elon Musk’s SpaceX targets nat-gas plant and supercomputing facility at Starbase City, Texas",
+   "url": "https://www.datacenterdynamics.com/en/news/elon-musks-spacex-targets-nat-gas-plant-and-supercomputing-facility-at-starbase-city-texas/",
+   "domains": [
+    "datacenterdynamics.com"
+   ],
+   "published": "2026-11-11T09:52+00:00",
+   "topics": [
+    "발사·Starship",
+    "테슬라·머스크"
+   ],
+   "official": false,
+   "score": 1
+  },
+  {
+   "title": "Ukraine Pivots to Israeli-Italian Satellite Tech to Bypass Starlink Restrictions",
+   "url": "https://policy-wire.com/ukraine-pivots-to-israeli-italian-satellite-tech-to-bypass-starlink-restrictions/",
+   "domains": [
+    "policy-wire.com"
+   ],
+   "published": "2026-11-11T08:26+00:00",
+   "topics": [
+    "Starlink·통신"
+   ],
+   "official": false,
+   "score": 1
+  },
+  {
+   "title": "BT cools on Starlink",
+   "url": "https://www.advanced-television.com/2026/11/11/bt-cools-on-starlink/",
+   "domains": [
+    "advanced-television.com"
+   ],
+   "published": "2026-11-11T08:21+00:00",
+   "topics": [
+    "Starlink·통신"
+   ],
+   "official": false,
+   "score": 1
+  },
+  {
+   "title": "SpaceX just cleared a key FCC hurdle in its fight with Verizon and AT&T",
+   "url": "https://www.teslarati.com/spacex-fcc-verizon-att-approved/",
+   "domains": [
+    "teslarati.com"
+   ],
+   "published": "2026-11-11T08:16+00:00",
+   "topics": [
+    "정부·규제"
+   ],
+   "official": false,
+   "score": 1
+  },
+  {
+   "title": "Eutelsat, SpaceX ready for OneWeb launch",
+   "url": "https://www.advanced-television.com/2026/11/11/eutelsat-spacex-ready-for-oneweb-launch/",
+   "domains": [
+    "advanced-television.com"
+   ],
+   "published": "2026-11-11T00:29+00:00",
+   "topics": [
+    "발사·Starship"
+   ],
+   "official": false,
+   "score": 1
   },
   {
    "title": "SpaceX’s 800 MHz spectrum deal with Grain clears first FCC step",
@@ -391,136 +523,6 @@
    "topics": [
     "금융·IPO",
     "테슬라·머스크"
-   ],
-   "official": false,
-   "score": 1
-  },
-  {
-   "title": "AST SpaceMobile Pushing Back Near-Term Satellite Deployment Milestone",
-   "url": "https://broadbandbreakfast.com/ast-spacemobile-pushing-back-near-term-satellite-deployment-milestone/",
-   "domains": [
-    "broadbandbreakfast.com"
-   ],
-   "published": "2026-11-09T23:36+00:00",
-   "topics": [
-    "기타"
-   ],
-   "official": false,
-   "score": 1
-  },
-  {
-   "title": "Starlink Opens Retailer Applications to Expand Hardware Sales Across the U.S.",
-   "url": "https://driveteslacanada.ca/news/starlink-us-retailer-program-v4-mini-kits/?utm_source=rss&utm_medium=rss&utm_campaign=starlink-us-retailer-program-v4-mini-kits",
-   "domains": [
-    "driveteslacanada.ca"
-   ],
-   "published": "2026-11-09T22:50+00:00",
-   "topics": [
-    "Starlink·통신"
-   ],
-   "official": false,
-   "score": 1
-  },
-  {
-   "title": "Launch Preview: Starship, Vulcan, and Electron launches scheduled for busy week",
-   "url": "https://www.nasaspaceflight.com/2026/11/launch-preview-11092026/",
-   "domains": [
-    "nasaspaceflight.com"
-   ],
-   "published": "2026-11-09T22:37+00:00",
-   "topics": [
-    "발사·Starship"
-   ],
-   "official": false,
-   "score": 1
-  },
-  {
-   "title": "On this day in space! Nov. 9, 1967: NASA launches the Saturn V moon rocket for the first time on Apollo 4, but no astronauts were aboard",
-   "url": "https://www.space.com/space-exploration/on-this-day-in-space-november-9-2026",
-   "domains": [
-    "space.com"
-   ],
-   "published": "2026-11-09T22:11+00:00",
-   "topics": [
-    "발사·Starship"
-   ],
-   "official": false,
-   "score": 1
-  },
-  {
-   "title": "What Starlink Restrictions in Ukraine Reveal About Europe’s Space Sovereignty and the Path Forward",
-   "url": "https://www.satellitetoday.com/podcast/2026/11/09/what-starlink-restrictions-in-ukraine-reveal-about-europes-space-sovereignty-and-the-path-forward/",
-   "domains": [
-    "satellitetoday.com"
-   ],
-   "published": "2026-11-09T21:59+00:00",
-   "topics": [
-    "Starlink·통신"
-   ],
-   "official": false,
-   "score": 1
-  },
-  {
-   "title": "The Achilles Heel of Space-Based Systems: APIs are Easy to Hack",
-   "url": "https://www.satellitetoday.com/cybersecurity/2026/11/09/the-achilles-heel-of-space-based-systems-apis-are-easy-to-hack/",
-   "domains": [
-    "satellitetoday.com"
-   ],
-   "published": "2026-11-09T21:08+00:00",
-   "topics": [
-    "기타"
-   ],
-   "official": false,
-   "score": 1
-  },
-  {
-   "title": "NASA Makes Major Contract Awards for Moon Base Development",
-   "url": "https://www.satellitetoday.com/government-military/2026/11/09/nasa-makes-major-contract-awards-for-moon-base-development/",
-   "domains": [
-    "satellitetoday.com"
-   ],
-   "published": "2026-11-09T20:41+00:00",
-   "topics": [
-    "기타"
-   ],
-   "official": false,
-   "score": 1
-  },
-  {
-   "title": "NASA picks SpaceX for CLPS 2 lunar deliveries and a 2028 Starship launch",
-   "url": "https://driveteslacanada.ca/news/nasa-clps-2-spacex-starship-cislunar-2028/?utm_source=rss&utm_medium=rss&utm_campaign=nasa-clps-2-spacex-starship-cislunar-2028",
-   "domains": [
-    "driveteslacanada.ca"
-   ],
-   "published": "2026-11-09T19:14+00:00",
-   "topics": [
-    "발사·Starship"
-   ],
-   "official": false,
-   "score": 1
-  },
-  {
-   "title": "Starfish Space loses contact with 1st 'Otter' servicing spacecraft, ending NASA tech-demo mission",
-   "url": "https://www.space.com/space-exploration/launches-spacecraft/starfish-space-loses-contact-with-1st-otter-servicing-spacecraft-ending-nasa-tech-demo-mission",
-   "domains": [
-    "space.com"
-   ],
-   "published": "2026-11-09T18:00+00:00",
-   "topics": [
-    "기타"
-   ],
-   "official": false,
-   "score": 1
-  },
-  {
-   "title": "Dutch firm Optics11 in talks with navies on secretive underwater listening tech",
-   "url": "https://www.defensenews.com/global/europe/2026/11/09/dutch-firm-optics11-in-talks-with-navies-on-secretive-underwater-listening-tech/",
-   "domains": [
-    "defensenews.com"
-   ],
-   "published": "2026-11-09T17:52+00:00",
-   "topics": [
-    "기타"
    ],
    "official": false,
    "score": 1

@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-11T06:13:17+00:00",
+ "generated_at": "2026-11-11T14:22:56+00:00",
  "signals": {
   "candidates_passed": 1,
-  "candidates_seen_30d": 217,
+  "candidates_seen_30d": 238,
   "feeds_failing_3x": [
    "DoD Contracts",
    "GDELT Starlink",
@@ -117,8 +117,8 @@
    ],
    "sample": "https://payments-na1.hubspot.com/payments/7TyXGqH4bm?referrer=PAYMENT_LINK&ref=broadbandbreakfast.com",
    "titles": [
-    "KeyBanc: Starlink Faces Higher Churn Despite Subscriber Growth",
-    "SpaceX Targets Nov. 13 for Historic Starship Launch"
+    "Strand Consult: Starlink’s Next Milestone Is Telecom Regulation",
+    "KeyBanc: Starlink Faces Higher Churn Despite Subscriber Growth"
    ],
    "robots": "허용",
    "feed": "https://hubspot.com/feed/",
@@ -136,8 +136,8 @@
    ],
    "sample": "https://futureplc.com/future-member-terms-and-conditions/",
    "titles": [
-    "SpaceX moves Starship Flight 15 booster to launch pad for 'squeeze test' ahead of epic dou",
-    "Anthony Mackie, Ariana DeBose, and John Leguizamo reveal why they joined Andy Weir's sci-f"
+    "What time will SpaceX launch Starship Flight 15, its 1st double landing test, on Nov. 13? ",
+    "SpaceX moves Starship Flight 15 booster to launch pad for 'squeeze test' ahead of epic dou"
    ],
    "robots": "허용",
    "feed": "https://futureplc.com/feed/",
@@ -169,15 +169,16 @@
   },
   {
    "domain": "addtoany.com",
-   "citations": 8,
+   "citations": 11,
    "cited_by": [
     "Advanced Television",
+    "Data Center Dynamics",
     "SpacePolicyOnline"
    ],
    "sample": "https://www.addtoany.com/add_to/facebook?linkurl=https%3A%2F%2Fwww.advanced-television.com%2F2026%2F11%2F09%2Fviasat-our-new-satellites-will-drive-broadband%2F&linkname=Viasat%3A%20%E2%80%9COur%20new%20satellites%20will%20drive%20broadband%E2%80%9D",
    "titles": [
-    "NASA Shares Moon Base Progress, Contract Awards",
-    "What’s Happening in Space Policy November 8-14, 2026"
+    "BT cools on Starlink",
+    "Eutelsat, SpaceX ready for OneWeb launch"
    ],
    "robots": "허용",
    "feed": "",
@@ -185,7 +186,7 @@
    "items_7d": 0,
    "kw_ratio": 0.0,
    "verdict": "부분(피드 없음)",
-   "score": 0.8
+   "score": 1.1
   },
   {
    "domain": "cbssports.com",
@@ -242,13 +243,13 @@
    "name": "Advanced Television",
    "result": "성공",
    "items": 10,
-   "spacex_items": 0
+   "spacex_items": 2
   },
   {
    "name": "Hacker News SpaceX",
    "result": "성공",
    "items": 50,
-   "spacex_items": 4
+   "spacex_items": 5
   },
   {
    "name": "Federal Register SpaceX",
@@ -260,7 +261,7 @@
    "name": "SpaceNews",
    "result": "성공",
    "items": 12,
-   "spacex_items": 2
+   "spacex_items": 1
   },
   {
    "name": "NASASpaceflight",
@@ -312,7 +313,7 @@
   },
   {
    "name": "Orbital Today",
-   "result": "robots 확인 실패",
+   "result": "일시 중지(5회 연속 실패)",
    "items": 0,
    "spacex_items": 0
   },
@@ -320,11 +321,11 @@
    "name": "SpaceQ",
    "result": "성공",
    "items": 10,
-   "spacex_items": 0
+   "spacex_items": 1
   },
   {
    "name": "Spaceflight Insider",
-   "result": "robots 거부",
+   "result": "일시 중지(5회 연속 실패)",
    "items": 0,
    "spacex_items": 0
   },
@@ -342,13 +343,13 @@
   },
   {
    "name": "US Space Force",
-   "result": "robots 거부",
+   "result": "일시 중지(5회 연속 실패)",
    "items": 0,
    "spacex_items": 0
   },
   {
    "name": "DoD Contracts",
-   "result": "robots 거부",
+   "result": "일시 중지(5회 연속 실패)",
    "items": 0,
    "spacex_items": 0
   },
@@ -362,19 +363,19 @@
    "name": "Broadband Breakfast",
    "result": "성공",
    "items": 15,
-   "spacex_items": 5
+   "spacex_items": 4
   },
   {
    "name": "Light Reading",
    "result": "성공",
    "items": 50,
-   "spacex_items": 7
+   "spacex_items": 6
   },
   {
    "name": "RCR Wireless",
    "result": "성공",
    "items": 10,
-   "spacex_items": 2
+   "spacex_items": 0
   },
   {
    "name": "Fierce Network",
@@ -386,7 +387,7 @@
    "name": "Breaking Defense",
    "result": "성공",
    "items": 15,
-   "spacex_items": 0
+   "spacex_items": 1
   },
   {
    "name": "DefenseScoop",
@@ -426,7 +427,7 @@
   },
   {
    "name": "VentureBeat",
-   "result": "오류: HTTPError",
+   "result": "일시 중지(5회 연속 실패)",
    "items": 0,
    "spacex_items": 0
   },
@@ -434,13 +435,13 @@
    "name": "The Decoder",
    "result": "성공",
    "items": 10,
-   "spacex_items": 0
+   "spacex_items": 1
   },
   {
    "name": "Data Center Dynamics",
    "result": "성공",
    "items": 20,
-   "spacex_items": 0
+   "spacex_items": 1
   },
   {
    "name": "Crunchbase News",
@@ -456,7 +457,7 @@
   },
   {
    "name": "GDELT Starlink",
-   "result": "오류: HTTPError",
+   "result": "오류: URLError",
    "items": 0,
    "spacex_items": 0
   },
@@ -464,26 +465,26 @@
    "name": "Hacker News Starlink",
    "result": "성공",
    "items": 50,
-   "spacex_items": 32
+   "spacex_items": 39
   }
  ],
  "blocked_cited": {
-  "twitter.com": 50,
-  "x.com": 42,
-  "reddit.com": 13,
+  "twitter.com": 56,
+  "x.com": 41,
+  "reddit.com": 11,
   "t.co": 11,
   "google.com": 10,
   "cnbc.com": 6,
-  "apnews.com": 4,
+  "arstechnica.com": 4,
+  "reuters.com": 4,
   "theguardian.com": 3,
-  "reuters.com": 3,
-  "sec.gov": 2
+  "apnews.com": 3
  },
  "stats": {
-  "requests": 176,
+  "requests": 172,
   "blocked_skipped": 0,
-  "robots_denied": 6,
-  "errors": 12,
+  "robots_denied": 2,
+  "errors": 11,
   "blocked_contacted": 0
  }
 }
