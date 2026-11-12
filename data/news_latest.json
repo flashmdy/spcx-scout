@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-11-11T14:22:56+00:00",
- "count_48h": 53,
- "new_this_run": 10,
+ "generated_at": "2026-11-12T00:41:09+00:00",
+ "count_48h": 49,
+ "new_this_run": 12,
  "items": [
   {
    "title": "NASA to Welcome Expedition 74 Astronauts Home at Space Center Houston",
@@ -17,17 +17,148 @@
    "score": 3
   },
   {
-   "title": "Notice of Intent To Prepare a Programmatic Environmental Impact Statement (PEIS), Open Public Scoping Period, and Hold Public Scoping Meetings on the Proposed SpaceX Starship-Super Heavy Launch and La",
-   "url": "https://www.federalregister.gov/documents/2026/11/10/2026-22898/notice-of-intent-to-prepare-a-programmatic-environmental-impact-statement-peis-open-public-scoping",
+   "title": "SpaceX’s Starlink Gaining Urban Subs: Ookla",
+   "url": "https://broadbandbreakfast.com/spacexs-starlink-gaining-urban-subs-ookla/",
    "domains": [
-    "federalregister.gov"
+    "broadbandbreakfast.com"
    ],
-   "published": "2026-11-10T00:00+00:00",
+   "published": "2026-11-11T22:57+00:00",
+   "topics": [
+    "Starlink·통신"
+   ],
+   "official": false,
+   "score": 1
+  },
+  {
+   "title": "Starlink Mini 2 arrives with one feature for true off-grid connectivity",
+   "url": "https://www.teslarati.com/starlink-mini-2-arrives-one-feature-true-off-grid-connectivity/",
+   "domains": [
+    "teslarati.com"
+   ],
+   "published": "2026-11-11T21:13+00:00",
+   "topics": [
+    "Starlink·통신"
+   ],
+   "official": false,
+   "score": 1
+  },
+  {
+   "title": "Other Satellite Companies Not Excited About Rocket Lab-Iridium Deal",
+   "url": "https://broadbandbreakfast.com/other-satellite-companies-not-excited-about-rocket-lab-iridium-deal/",
+   "domains": [
+    "broadbandbreakfast.com"
+   ],
+   "published": "2026-11-11T21:08+00:00",
+   "topics": [
+    "기타"
+   ],
+   "official": false,
+   "score": 1
+  },
+  {
+   "title": "8 Globalstar Refresh Satellites Complete Initial Tests In-Orbit",
+   "url": "https://www.satellitetoday.com/manufacturing/2026/11/11/8-globalstar-refresh-satellites-complete-initial-tests-in-orbit/",
+   "domains": [
+    "satellitetoday.com"
+   ],
+   "published": "2026-11-11T20:40+00:00",
    "topics": [
     "발사·Starship"
    ],
-   "official": true,
-   "score": 3
+   "official": false,
+   "score": 1
+  },
+  {
+   "title": "Launch Delays and Slow Rollouts Push Gilat to Downgrade 2026 Outlook",
+   "url": "https://www.satellitetoday.com/finance/2026/11/11/launch-delays-and-slow-rollouts-push-gilat-to-downgrade-2026-outlook/",
+   "domains": [
+    "satellitetoday.com"
+   ],
+   "published": "2026-11-11T20:10+00:00",
+   "topics": [
+    "발사·Starship"
+   ],
+   "official": false,
+   "score": 1
+  },
+  {
+   "title": "SpaceX’s $24B Starbase supercomputer plan slipped past a key roadblock",
+   "url": "https://www.teslarati.com/spacexs-24b-starbase-supercomputer-plan-slipped-past-a-key-roadblock/",
+   "domains": [
+    "teslarati.com"
+   ],
+   "published": "2026-11-11T20:05+00:00",
+   "topics": [
+    "발사·Starship"
+   ],
+   "official": false,
+   "score": 1
+  },
+  {
+   "title": "Finland approves FSD Supervised, automaker renames it to ‘Tesla Assisted Driving’ in Europe",
+   "url": "https://www.teslaoracle.com/2026/11/11/finland-approves-fsd-supervised-automaker-renames-it-to-tesla-assisted-driving-in-europe/",
+   "domains": [
+    "teslaoracle.com"
+   ],
+   "published": "2026-11-11T19:46+00:00",
+   "topics": [
+    "테슬라·머스크"
+   ],
+   "official": false,
+   "score": 1
+  },
+  {
+   "title": "SpaceX, AST SpaceMobile Like FCC’s Unlicensed D2D Plan",
+   "url": "https://broadbandbreakfast.com/spacex-ast-spacemobile-like-fccs-unlicensed-d2d-plan/",
+   "domains": [
+    "broadbandbreakfast.com"
+   ],
+   "published": "2026-11-11T18:08+00:00",
+   "topics": [
+    "정부·규제"
+   ],
+   "official": false,
+   "score": 1
+  },
+  {
+   "title": "Starlink gets faster ahead of 'V3' launches, but shift to dynamic pricing could backfire",
+   "url": "https://www.lightreading.com/satellite/starlink-gets-faster-ahead-of-v3-launches-but-shift-to-dynamic-pricing-could-backfire",
+   "domains": [
+    "lightreading.com"
+   ],
+   "published": "2026-11-11T17:15+00:00",
+   "topics": [
+    "Starlink·통신",
+    "발사·Starship"
+   ],
+   "official": false,
+   "score": 1
+  },
+  {
+   "title": "'There's tremendous demand': Rocket Lab raises price of Neutron launch from $55 million to $70 million",
+   "url": "https://www.space.com/space-exploration/launches-spacecraft/theres-tremendous-demand-rocket-lab-raises-price-of-neutron-launch-from-usd55-million-to-usd70-million",
+   "domains": [
+    "space.com"
+   ],
+   "published": "2026-11-11T16:00+00:00",
+   "topics": [
+    "발사·Starship"
+   ],
+   "official": false,
+   "score": 1
+  },
+  {
+   "title": "BT delays Starlink partnership amid recent Ukrainian disruption - report",
+   "url": "https://www.datacenterdynamics.com/en/news/bt-delays-starlink-partnership-amid-recent-ukrainian-disruption-report/",
+   "domains": [
+    "datacenterdynamics.com"
+   ],
+   "published": "2026-11-11T14:37+00:00",
+   "topics": [
+    "Starlink·통신"
+   ],
+   "official": false,
+   "score": 1
   },
   {
    "title": "Strand Consult: Starlink’s Next Milestone Is Telecom Regulation",
@@ -266,6 +397,19 @@
    "score": 1
   },
   {
+   "title": "SpaceX Starship Flight 15 live updates: T-2 days to SpaceX's 1st-ever double Starship landing attempt",
+   "url": "https://www.space.com/news/live/spacex-starship-flight-15-live-updates-nov-11-2026-starship-first-double-landing-attempt",
+   "domains": [
+    "space.com"
+   ],
+   "published": "2026-11-10T19:46+00:00",
+   "topics": [
+    "발사·Starship"
+   ],
+   "official": false,
+   "score": 1
+  },
+  {
    "title": "SpaceX unveils Starlink Mini 2 satellite broadband terminal with built-in battery and Wi-Fi support",
    "url": "https://www.teslaoracle.com/2026/11/10/spacex-unveils-starlink-mini-2-satellite-broadband-terminal-with-built-in-battery-and-wi-fi-support/",
    "domains": [
@@ -378,150 +522,6 @@
    "published": "2026-11-10T15:12+00:00",
    "topics": [
     "AI·xAI",
-    "테슬라·머스크"
-   ],
-   "official": false,
-   "score": 1
-  },
-  {
-   "title": "SpaceX Targets Nov. 13 for Historic Starship Launch",
-   "url": "https://broadbandbreakfast.com/spacex-targets-nov-13-for-historic-starship-launch/",
-   "domains": [
-    "broadbandbreakfast.com"
-   ],
-   "published": "2026-11-10T14:36+00:00",
-   "topics": [
-    "발사·Starship"
-   ],
-   "official": false,
-   "score": 1
-  },
-  {
-   "title": "Anthropic Seeks Valuation of $1.3 Trillion When it Becomes a Publicly Traded Company",
-   "url": "https://broadbandbreakfast.com/anthropic-seeks-valuation-of-1-3-trillion-when-it-becomes-a-publicly-traded-company/",
-   "domains": [
-    "broadbandbreakfast.com"
-   ],
-   "published": "2026-11-10T14:04+00:00",
-   "topics": [
-    "금융·IPO"
-   ],
-   "official": false,
-   "score": 1
-  },
-  {
-   "title": "Senate Democrats Likely to Vent about Carr at Thumann Severs Confirmation Hearing Today",
-   "url": "https://broadbandbreakfast.com/senate-democrats-likely-to-vent-about-carr-at-thumann-severs-confirmation-hearing-today/",
-   "domains": [
-    "broadbandbreakfast.com"
-   ],
-   "published": "2026-11-10T13:48+00:00",
-   "topics": [
-    "정부·규제"
-   ],
-   "official": false,
-   "score": 1
-  },
-  {
-   "title": "Existing Starlink customers in Canada can also get 30% discount",
-   "url": "https://driveteslacanada.ca/news/starlink-canada-30-percent-discount-existing-customers/?utm_source=rss&utm_medium=rss&utm_campaign=starlink-canada-30-percent-discount-existing-customers",
-   "domains": [
-    "driveteslacanada.ca"
-   ],
-   "published": "2026-11-10T13:20+00:00",
-   "topics": [
-    "Starlink·통신"
-   ],
-   "official": false,
-   "score": 1
-  },
-  {
-   "title": "Rocket Lab Ups Neutron Launch Price Ahead of ‘27 Debut",
-   "url": "https://payloadspace.com/rocket-lab-ups-neutron-launch-price-ahead-of-27-debut/",
-   "domains": [
-    "payloadspace.com"
-   ],
-   "published": "2026-11-10T13:17+00:00",
-   "topics": [
-    "발사·Starship"
-   ],
-   "official": false,
-   "score": 1
-  },
-  {
-   "title": "Eurobites: BT holds off on Starlink collab, cites 'Ukraine thing' – report",
-   "url": "https://www.lightreading.com/satellite/eurobites-bt-holds-off-on-starlink-collab-cites-ukraine-thing-report",
-   "domains": [
-    "lightreading.com"
-   ],
-   "published": "2026-11-10T12:03+00:00",
-   "topics": [
-    "Starlink·통신"
-   ],
-   "official": false,
-   "score": 1
-  },
-  {
-   "title": "NASA Shares Moon Base Progress, Contract Awards",
-   "url": "https://spacepolicyonline.com/news/nasa-shares-moon-base-progress-contract-awards/",
-   "domains": [
-    "spacepolicyonline.com"
-   ],
-   "published": "2026-11-10T04:54+00:00",
-   "topics": [
-    "금융·IPO"
-   ],
-   "official": false,
-   "score": 1
-  },
-  {
-   "title": "SpaceX plans $24 billion gas power plant , data center project in Texas",
-   "url": "https://www.moneycontrol.com/technology/spacex-plans-24-billion-gas-power-plant-data-center-project-in-texas-article-14075808.html",
-   "domains": [
-    "moneycontrol.com"
-   ],
-   "published": "2026-11-10T04:30+00:00",
-   "topics": [
-    "AI·xAI"
-   ],
-   "official": false,
-   "score": 1
-  },
-  {
-   "title": "Space Force Taps Viasat for $450M Ops Center to Harmonize Data Network",
-   "url": "https://www.airandspaceforces.com/space-force-viasat-450m-ops-center-data-network/",
-   "domains": [
-    "airandspaceforces.com"
-   ],
-   "published": "2026-11-10T03:26+00:00",
-   "topics": [
-    "국방"
-   ],
-   "official": false,
-   "score": 1
-  },
-  {
-   "title": "Elon Musk hints SpaceX could acquire major US wireless carrier",
-   "url": "https://americanbazaaronline.com/2026/11/09/elon-musk-hints-spacex-could-acquire-major-us-wireless-carrier-491876/",
-   "domains": [
-    "americanbazaaronline.com"
-   ],
-   "published": "2026-11-10T00:00+00:00",
-   "topics": [
-    "테슬라·머스크"
-   ],
-   "official": false,
-   "score": 1
-  },
-  {
-   "title": "Elon Musk Spacex Telecom Acquisition Spurs Stock Talk",
-   "url": "https://www.el-balad.com/17065378",
-   "domains": [
-    "el-balad.com"
-   ],
-   "published": "2026-11-10T00:00+00:00",
-   "topics": [
-    "금융·IPO",
     "테슬라·머스크"
    ],
    "official": false,
