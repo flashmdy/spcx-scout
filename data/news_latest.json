@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-11-12T00:41:09+00:00",
- "count_48h": 49,
- "new_this_run": 12,
+ "generated_at": "2026-11-12T15:11:04+00:00",
+ "count_48h": 47,
+ "new_this_run": 7,
  "items": [
   {
    "title": "NASA to Welcome Expedition 74 Astronauts Home at Space Center Houston",
@@ -15,6 +15,99 @@
    ],
    "official": true,
    "score": 3
+  },
+  {
+   "title": "Exclusive: Spaceium Opens License for Refueling Hardware",
+   "url": "https://payloadspace.com/exclusive-spaceium-opens-license-for-refueling-hardware/",
+   "domains": [
+    "payloadspace.com"
+   ],
+   "published": "2026-11-12T14:00+00:00",
+   "topics": [
+    "정부·규제"
+   ],
+   "official": false,
+   "score": 1
+  },
+  {
+   "title": "ElevenLabs Scribe v3 Live uses conversational context to stop voice agents from cutting off callers mid-sentence",
+   "url": "https://the-decoder.com/elevenlabs-scribe-v3-live-uses-conversational-context-to-stop-voice-agents-from-cutting-off-callers-mid-sentence/",
+   "domains": [
+    "the-decoder.com"
+   ],
+   "published": "2026-11-12T13:48+00:00",
+   "topics": [
+    "기타"
+   ],
+   "official": false,
+   "score": 1
+  },
+  {
+   "title": "Musk Invades the Cable Homeland as Starlink’s Urban Growth Rate Rockets Higher",
+   "url": "https://broadbandbreakfast.com/musk-invades-the-cable-homeland-as-starlinks-urban-growth-rate-rockets-higher/",
+   "domains": [
+    "broadbandbreakfast.com"
+   ],
+   "published": "2026-11-12T13:17+00:00",
+   "topics": [
+    "Starlink·통신",
+    "테슬라·머스크"
+   ],
+   "official": false,
+   "score": 1
+  },
+  {
+   "title": "Musk Says Hiring Nvidia CEO Jensen Huang Would Be an Honor",
+   "url": "https://driveteslacanada.ca/news/musk-hire-jensen-huang-honor/?utm_source=rss&utm_medium=rss&utm_campaign=musk-hire-jensen-huang-honor",
+   "domains": [
+    "driveteslacanada.ca"
+   ],
+   "published": "2026-11-12T12:47+00:00",
+   "topics": [
+    "테슬라·머스크"
+   ],
+   "official": false,
+   "score": 1
+  },
+  {
+   "title": "SpaceX Loses Appeal to Force Sexual Harassment Lawsuit into Private Arbitration",
+   "url": "https://gizmodo.com/spacex-loses-appeal-to-force-sexual-harassment-lawsuit-into-private-arbitration-2000838724",
+   "domains": [
+    "gizmodo.com"
+   ],
+   "published": "2026-11-12T10:42+00:00",
+   "topics": [
+    "정부·규제"
+   ],
+   "official": false,
+   "score": 1
+  },
+  {
+   "title": "Nvidia’s board meets on Jensen Huang, and Elon Musk already has an answer",
+   "url": "https://www.teslarati.com/nvidias-board-meets-on-jensen-huang-and-elon-musk-already-has-an-answer/",
+   "domains": [
+    "teslarati.com"
+   ],
+   "published": "2026-11-12T05:51+00:00",
+   "topics": [
+    "테슬라·머스크"
+   ],
+   "official": false,
+   "score": 1
+  },
+  {
+   "title": "SpaceX launches 2nd mystery mission for US Space Force in 6-day span (video, photos)",
+   "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-launches-2nd-mystery-mission-for-us-space-force-in-6-day-span-photos",
+   "domains": [
+    "space.com"
+   ],
+   "published": "2026-11-12T05:24+00:00",
+   "topics": [
+    "국방",
+    "발사·Starship"
+   ],
+   "official": false,
+   "score": 1
   },
   {
    "title": "SpaceX’s Starlink Gaining Urban Subs: Ookla",
@@ -431,98 +524,6 @@
    "published": "2026-11-10T18:51+00:00",
    "topics": [
     "기타"
-   ],
-   "official": false,
-   "score": 1
-  },
-  {
-   "title": "Rep. Mike Haridopolos on NASA’s Future After the Blue Wave",
-   "url": "https://payloadspace.com/rep-mike-haridopolos-on-nasas-future-after-the-blue-wave/",
-   "domains": [
-    "payloadspace.com"
-   ],
-   "published": "2026-11-10T18:45+00:00",
-   "topics": [
-    "기타"
-   ],
-   "official": false,
-   "score": 1
-  },
-  {
-   "title": "Starlink Mini 2 Unveiled With Built-In Battery, Wi-Fi 6 and USB-C",
-   "url": "https://driveteslacanada.ca/news/starlink-mini-2-unveiled-quick-swap-battery/?utm_source=rss&utm_medium=rss&utm_campaign=starlink-mini-2-unveiled-quick-swap-battery",
-   "domains": [
-    "driveteslacanada.ca"
-   ],
-   "published": "2026-11-10T18:22+00:00",
-   "topics": [
-    "Starlink·통신"
-   ],
-   "official": false,
-   "score": 1
-  },
-  {
-   "title": "Starlink Mini 2",
-   "url": "https://starlink.com/mini-2",
-   "domains": [
-    "starlink.com"
-   ],
-   "published": "2026-11-10T18:22+00:00",
-   "topics": [
-    "Starlink·통신"
-   ],
-   "official": false,
-   "score": 1
-  },
-  {
-   "title": "Elon Musk is expected to join Trump at APEC in Shenzhen: Report",
-   "url": "https://driveteslacanada.ca/news/musk-expected-join-trump-apec-shenzhen/?utm_source=rss&utm_medium=rss&utm_campaign=musk-expected-join-trump-apec-shenzhen",
-   "domains": [
-    "driveteslacanada.ca"
-   ],
-   "published": "2026-11-10T17:48+00:00",
-   "topics": [
-    "테슬라·머스크"
-   ],
-   "official": false,
-   "score": 1
-  },
-  {
-   "title": "Slate Aviation brings Starlink to its entire fleet, starting in December",
-   "url": "https://driveteslacanada.ca/news/slate-aviation-starlink-entire-fleet/?utm_source=rss&utm_medium=rss&utm_campaign=slate-aviation-starlink-entire-fleet",
-   "domains": [
-    "driveteslacanada.ca"
-   ],
-   "published": "2026-11-10T17:24+00:00",
-   "topics": [
-    "Starlink·통신"
-   ],
-   "official": false,
-   "score": 1
-  },
-  {
-   "title": "A robot just built a structure autonomously in space for the 1st time ever",
-   "url": "https://www.space.com/technology/a-robot-just-built-a-structure-autonomously-in-space-for-the-1st-time-ever",
-   "domains": [
-    "space.com"
-   ],
-   "published": "2026-11-10T16:00+00:00",
-   "topics": [
-    "기타"
-   ],
-   "official": false,
-   "score": 1
-  },
-  {
-   "title": "Tesla and SpaceX Terafab Begins Ordering Japanese Chipmaking Equipment: Report",
-   "url": "https://driveteslacanada.ca/news/terafab-japan-suppliers-2028-mass-production/?utm_source=rss&utm_medium=rss&utm_campaign=terafab-japan-suppliers-2028-mass-production",
-   "domains": [
-    "driveteslacanada.ca"
-   ],
-   "published": "2026-11-10T15:12+00:00",
-   "topics": [
-    "AI·xAI",
-    "테슬라·머스크"
    ],
    "official": false,
    "score": 1

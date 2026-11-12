@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-12T00:41:09+00:00",
+ "generated_at": "2026-11-12T15:11:04+00:00",
  "signals": {
   "candidates_passed": 0,
-  "candidates_seen_30d": 241,
+  "candidates_seen_30d": 244,
   "feeds_failing_3x": [
    "DoD Contracts",
    "GDELT SpaceX",
@@ -105,10 +105,10 @@
    "robots": "허용",
    "feed": "https://dronedj.com/feed/",
    "has_dates": true,
-   "items_7d": 13,
+   "items_7d": 14,
    "kw_ratio": 0.0,
    "verdict": "부분(SpaceX 글 없음)",
-   "score": 25.2
+   "score": 27.0
   },
   {
    "domain": "hubspot.com",
@@ -124,10 +124,10 @@
    "robots": "허용",
    "feed": "https://hubspot.com/feed/",
    "has_dates": true,
-   "items_7d": 8,
+   "items_7d": 6,
    "kw_ratio": 0.0,
    "verdict": "부분(SpaceX 글 없음)",
-   "score": 23.4
+   "score": 18.2
   },
   {
    "domain": "futureplc.com",
@@ -137,8 +137,8 @@
    ],
    "sample": "https://futureplc.com/future-member-terms-and-conditions/",
    "titles": [
-    "'There's tremendous demand': Rocket Lab raises price of Neutron launch from $55 million to",
-    "What time will SpaceX launch Starship Flight 15, its 1st double landing test, on Nov. 13? "
+    "SpaceX launches 2nd mystery mission for US Space Force in 6-day span (video, photos)",
+    "'There's tremendous demand': Rocket Lab raises price of Neutron launch from $55 million to"
    ],
    "robots": "허용",
    "feed": "https://futureplc.com/feed/",
@@ -197,8 +197,8 @@
    ],
    "sample": "https://www.addtoany.com/add_to/facebook?linkurl=https%3A%2F%2Fwww.advanced-television.com%2F2026%2F11%2F09%2Fviasat-our-new-satellites-will-drive-broadband%2F&linkname=Viasat%3A%20%E2%80%9COur%20new%20satellites%20will%20drive%20broadband%E2%80%9D",
    "titles": [
-    "BT cools on Starlink",
-    "NASA Shares Moon Base Progress, Contract Awards"
+    "NASA Shares Moon Base Progress, Contract Awards",
+    "What’s Happening in Space Policy November 8-14, 2026"
    ],
    "robots": "허용",
    "feed": "",
@@ -238,19 +238,19 @@
    "name": "Space.com",
    "result": "성공",
    "items": 50,
-   "spacex_items": 15
+   "spacex_items": 13
   },
   {
    "name": "Advanced Television",
    "result": "성공",
    "items": 10,
-   "spacex_items": 1
+   "spacex_items": 0
   },
   {
    "name": "Hacker News SpaceX",
    "result": "성공",
    "items": 50,
-   "spacex_items": 3
+   "spacex_items": 4
   },
   {
    "name": "Federal Register SpaceX",
@@ -261,8 +261,8 @@
   {
    "name": "SpaceNews",
    "result": "성공",
-   "items": 14,
-   "spacex_items": 1
+   "items": 13,
+   "spacex_items": 0
   },
   {
    "name": "NASASpaceflight",
@@ -314,7 +314,7 @@
   },
   {
    "name": "Orbital Today",
-   "result": "robots 확인 실패",
+   "result": "일시 중지(5회 연속 실패)",
    "items": 0,
    "spacex_items": 0
   },
@@ -326,7 +326,7 @@
   },
   {
    "name": "Spaceflight Insider",
-   "result": "robots 거부",
+   "result": "일시 중지(5회 연속 실패)",
    "items": 0,
    "spacex_items": 0
   },
@@ -344,13 +344,13 @@
   },
   {
    "name": "US Space Force",
-   "result": "robots 거부",
+   "result": "일시 중지(5회 연속 실패)",
    "items": 0,
    "spacex_items": 0
   },
   {
    "name": "DoD Contracts",
-   "result": "robots 거부",
+   "result": "일시 중지(5회 연속 실패)",
    "items": 0,
    "spacex_items": 0
   },
@@ -370,7 +370,7 @@
    "name": "Light Reading",
    "result": "성공",
    "items": 50,
-   "spacex_items": 7
+   "spacex_items": 6
   },
   {
    "name": "RCR Wireless",
@@ -418,7 +418,7 @@
    "name": "Drive Tesla Canada",
    "result": "성공",
    "items": 10,
-   "spacex_items": 0
+   "spacex_items": 1
   },
   {
    "name": "Tesla Oracle",
@@ -428,7 +428,7 @@
   },
   {
    "name": "VentureBeat",
-   "result": "오류: HTTPError",
+   "result": "일시 중지(5회 연속 실패)",
    "items": 0,
    "spacex_items": 0
   },
@@ -442,7 +442,7 @@
    "name": "Data Center Dynamics",
    "result": "성공",
    "items": 20,
-   "spacex_items": 1
+   "spacex_items": 0
   },
   {
    "name": "Crunchbase News",
@@ -458,7 +458,7 @@
   },
   {
    "name": "GDELT Starlink",
-   "result": "오류: HTTPError",
+   "result": "일시 중지(5회 연속 실패)",
    "items": 0,
    "spacex_items": 0
   },
@@ -466,26 +466,26 @@
    "name": "Hacker News Starlink",
    "result": "성공",
    "items": 50,
-   "spacex_items": 15
+   "spacex_items": 28
   }
  ],
  "blocked_cited": {
   "twitter.com": 48,
-  "x.com": 36,
+  "x.com": 34,
   "reddit.com": 10,
   "t.co": 10,
   "google.com": 10,
-  "cnbc.com": 4,
+  "cnbc.com": 8,
   "theguardian.com": 3,
   "bloomberg.com": 3,
-  "apnews.com": 2,
-  "sec.gov": 2
+  "arstechnica.com": 3,
+  "reuters.com": 3
  },
  "stats": {
-  "requests": 172,
+  "requests": 163,
   "blocked_skipped": 0,
-  "robots_denied": 6,
-  "errors": 12,
+  "robots_denied": 2,
+  "errors": 9,
   "blocked_contacted": 0
  }
 }
