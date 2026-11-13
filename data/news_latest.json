@@ -1,21 +1,216 @@
 {
- "generated_at": "2026-11-13T06:41:39+00:00",
- "count_48h": 49,
- "new_this_run": 3,
+ "generated_at": "2026-11-13T19:39:37+00:00",
+ "count_48h": 53,
+ "new_this_run": 18,
  "items": [
   {
-   "title": "Starship Flight 15 to attempt first catch of both stages",
-   "url": "https://spaceq.ca/starship-flight-15-catch-both-stages-preview/",
+   "title": "Live Coverage: Starship Flight 15 attempts to recover full vehicle in double launch pad catch",
+   "url": "https://spaceflightnow.com/2026/11/13/live-coverage-starship-flight-15-attempts-to-recover-full-vehicle-in-double-launch-pad-catch/",
    "domains": [
-    "spaceq.ca",
-    "nasaspaceflight.com"
+    "spaceflightnow.com"
    ],
-   "published": "2026-11-11T12:08+00:00",
+   "published": "2026-11-13T19:15+00:00",
    "topics": [
     "발사·Starship"
    ],
    "official": false,
-   "score": 2
+   "score": 1
+  },
+  {
+   "title": "The FAA grants SpaceX license for Starship Flight 15, just hours ahead of launch",
+   "url": "https://www.teslaoracle.com/2026/11/13/spacex-is-still-waiting-for-regulatory-approval-hours-ahead-of-flight-15-launch/",
+   "domains": [
+    "teslaoracle.com"
+   ],
+   "published": "2026-11-13T19:03+00:00",
+   "topics": [
+    "정부·규제",
+    "발사·Starship"
+   ],
+   "official": false,
+   "score": 1
+  },
+  {
+   "title": "OpenAI rebuilt AI shopping from scratch with ChatGPT Wallet",
+   "url": "https://the-decoder.com/openai-rebuilt-ai-shopping-from-scratch-with-chatgpt-wallet/",
+   "domains": [
+    "the-decoder.com"
+   ],
+   "published": "2026-11-13T18:55+00:00",
+   "topics": [
+    "AI·xAI"
+   ],
+   "official": false,
+   "score": 1
+  },
+  {
+   "title": "SpaceX Starship Flight 15: How to watch the double catch attempt",
+   "url": "https://www.teslarati.com/spacex-starship-flight-15-how-to-watch-the-double-catch-attempt/",
+   "domains": [
+    "teslarati.com"
+   ],
+   "published": "2026-11-13T18:07+00:00",
+   "topics": [
+    "발사·Starship"
+   ],
+   "official": false,
+   "score": 1
+  },
+  {
+   "title": "Banks bar Chinese and Hong Kong investors from Anthropic IPO over US export controls",
+   "url": "https://the-decoder.com/banks-bar-chinese-and-hong-kong-investors-from-anthropic-ipo-over-us-export-controls/",
+   "domains": [
+    "the-decoder.com"
+   ],
+   "published": "2026-11-13T18:01+00:00",
+   "topics": [
+    "금융·IPO"
+   ],
+   "official": false,
+   "score": 1
+  },
+  {
+   "title": "Amazon Leo Launch Delayed One Day",
+   "url": "https://broadbandbreakfast.com/amazon-leo-launch-delayed-one-day/",
+   "domains": [
+    "broadbandbreakfast.com"
+   ],
+   "published": "2026-11-13T17:04+00:00",
+   "topics": [
+    "발사·Starship"
+   ],
+   "official": false,
+   "score": 1
+  },
+  {
+   "title": "AST SpaceMobile to government customers: We’re not like Starlink. You keep data control, you keep the kill switch",
+   "url": "https://www.spaceintelreport.com/ast-spacemobile-to-government-customers-were-not-like-starlink-you-keep-data-control-you-keep-the-kill-switch/?utm_source=rss&utm_medium=rss&utm_campaign=ast-spacemobile-to-government-customers-were-not-like-starlink-you-keep-data-control-you-keep-the-kill-switch",
+   "domains": [
+    "spaceintelreport.com"
+   ],
+   "published": "2026-11-13T16:25+00:00",
+   "topics": [
+    "Starlink·통신"
+   ],
+   "official": false,
+   "score": 1
+  },
+  {
+   "title": "SpaceX Starship is going for a catch that could change spaceflight forever",
+   "url": "https://www.teslarati.com/spacex-starship-flight-15-double-catch/",
+   "domains": [
+    "teslarati.com"
+   ],
+   "published": "2026-11-13T15:13+00:00",
+   "topics": [
+    "발사·Starship"
+   ],
+   "official": false,
+   "score": 1
+  },
+  {
+   "title": "Meta's Muse now calls businesses for you, but many companies might just hang up on the AI",
+   "url": "https://the-decoder.com/metas-muse-now-calls-businesses-for-you-but-many-companies-might-just-hang-up-on-the-ai/",
+   "domains": [
+    "the-decoder.com"
+   ],
+   "published": "2026-11-13T15:12+00:00",
+   "topics": [
+    "기타"
+   ],
+   "official": false,
+   "score": 1
+  },
+  {
+   "title": "The moments behind flying the most ambitious Starship mission yet",
+   "url": "https://www.spacex.com/content/starship/go-for-orbit",
+   "domains": [
+    "spacex.com"
+   ],
+   "published": "2026-11-13T14:20+00:00",
+   "topics": [
+    "발사·Starship"
+   ],
+   "official": false,
+   "score": 1
+  },
+  {
+   "title": "GOP Sen. Ernst Takes a Final Shot at Wasteful BEAD Spending",
+   "url": "https://broadbandbreakfast.com/gop-sen-ernst-takes-a-final-shot-at-wasteful-bead-spending/",
+   "domains": [
+    "broadbandbreakfast.com"
+   ],
+   "published": "2026-11-13T13:10+00:00",
+   "topics": [
+    "기타"
+   ],
+   "official": false,
+   "score": 1
+  },
+  {
+   "title": "Double-catch drama: Why Starship's Flight 15 is so important to SpaceX",
+   "url": "https://www.space.com/space-exploration/launches-spacecraft/double-catch-drama-why-starships-flight-15-is-so-important-to-spacex",
+   "domains": [
+    "space.com"
+   ],
+   "published": "2026-11-13T13:00+00:00",
+   "topics": [
+    "발사·Starship"
+   ],
+   "official": false,
+   "score": 1
+  },
+  {
+   "title": "ULA delays to Saturday Vulcan rocket launch of 40 Leo satellites for Amazon",
+   "url": "https://spaceflightnow.com/2026/11/13/ulas-vulcan-rocket-plans-return-to-flight-with-launch-of-40-leo-satellites-for-amazon/",
+   "domains": [
+    "spaceflightnow.com"
+   ],
+   "published": "2026-11-13T12:25+00:00",
+   "topics": [
+    "발사·Starship"
+   ],
+   "official": false,
+   "score": 1
+  },
+  {
+   "title": "Powerful Vulcan Centaur rocket launching for 1st time in 9 months Nov. 14: Watch it live",
+   "url": "https://www.space.com/space-exploration/launches-spacecraft/ula-vulcan-centaur-return-to-flight-amazon-leo-internet-satellite-launch",
+   "domains": [
+    "space.com"
+   ],
+   "published": "2026-11-13T11:00+00:00",
+   "topics": [
+    "발사·Starship"
+   ],
+   "official": false,
+   "score": 1
+  },
+  {
+   "title": "'Don't panic': SpaceX pens familiar message on Starship ahead of historic double-catch test flight",
+   "url": "https://www.space.com/space-exploration/launches-spacecraft/dont-panic-spacex-pens-familiar-message-on-starship-ahead-of-historic-double-catch-test-flight",
+   "domains": [
+    "space.com"
+   ],
+   "published": "2026-11-13T08:03+00:00",
+   "topics": [
+    "발사·Starship"
+   ],
+   "official": false,
+   "score": 1
+  },
+  {
+   "title": "Tesla Roadster’s rocket thruster nozzles spotted for the first time at NASA’s Max Power event",
+   "url": "https://www.teslaoracle.com/2026/11/12/roadster-rocket-spotted-with-thruster-nozzles-for-the-first-time-at-nasas-max-power-event/",
+   "domains": [
+    "teslaoracle.com"
+   ],
+   "published": "2026-11-13T07:01+00:00",
+   "topics": [
+    "테슬라·머스크"
+   ],
+   "official": false,
+   "score": 1
   },
   {
    "title": "Tesla and SpaceX merger talks hit a new stage, and one hurdle remains",
@@ -39,6 +234,19 @@
    "published": "2026-11-13T05:05+00:00",
    "topics": [
     "발사·Starship"
+   ],
+   "official": false,
+   "score": 1
+  },
+  {
+   "title": "South Africa ready for Starlink?",
+   "url": "https://www.advanced-television.com/2026/11/13/south-africa-ready-for-starlink/",
+   "domains": [
+    "advanced-television.com"
+   ],
+   "published": "2026-11-13T03:16+00:00",
+   "topics": [
+    "Starlink·통신"
    ],
    "official": false,
    "score": 1
@@ -315,217 +523,6 @@
    "published": "2026-11-12T14:00+00:00",
    "topics": [
     "정부·규제"
-   ],
-   "official": false,
-   "score": 1
-  },
-  {
-   "title": "ElevenLabs Scribe v3 Live uses conversational context to stop voice agents from cutting off callers mid-sentence",
-   "url": "https://the-decoder.com/elevenlabs-scribe-v3-live-uses-conversational-context-to-stop-voice-agents-from-cutting-off-callers-mid-sentence/",
-   "domains": [
-    "the-decoder.com"
-   ],
-   "published": "2026-11-12T13:48+00:00",
-   "topics": [
-    "기타"
-   ],
-   "official": false,
-   "score": 1
-  },
-  {
-   "title": "Musk Invades the Cable Homeland as Starlink’s Urban Growth Rate Rockets Higher",
-   "url": "https://broadbandbreakfast.com/musk-invades-the-cable-homeland-as-starlinks-urban-growth-rate-rockets-higher/",
-   "domains": [
-    "broadbandbreakfast.com"
-   ],
-   "published": "2026-11-12T13:17+00:00",
-   "topics": [
-    "Starlink·통신",
-    "테슬라·머스크"
-   ],
-   "official": false,
-   "score": 1
-  },
-  {
-   "title": "Musk Says Hiring Nvidia CEO Jensen Huang Would Be an Honor",
-   "url": "https://driveteslacanada.ca/news/musk-hire-jensen-huang-honor/?utm_source=rss&utm_medium=rss&utm_campaign=musk-hire-jensen-huang-honor",
-   "domains": [
-    "driveteslacanada.ca"
-   ],
-   "published": "2026-11-12T12:47+00:00",
-   "topics": [
-    "테슬라·머스크"
-   ],
-   "official": false,
-   "score": 1
-  },
-  {
-   "title": "SpaceX Loses Appeal to Force Sexual Harassment Lawsuit into Private Arbitration",
-   "url": "https://gizmodo.com/spacex-loses-appeal-to-force-sexual-harassment-lawsuit-into-private-arbitration-2000838724",
-   "domains": [
-    "gizmodo.com"
-   ],
-   "published": "2026-11-12T10:42+00:00",
-   "topics": [
-    "정부·규제"
-   ],
-   "official": false,
-   "score": 1
-  },
-  {
-   "title": "Nvidia’s board meets on Jensen Huang, and Elon Musk already has an answer",
-   "url": "https://www.teslarati.com/nvidias-board-meets-on-jensen-huang-and-elon-musk-already-has-an-answer/",
-   "domains": [
-    "teslarati.com"
-   ],
-   "published": "2026-11-12T05:51+00:00",
-   "topics": [
-    "테슬라·머스크"
-   ],
-   "official": false,
-   "score": 1
-  },
-  {
-   "title": "SpaceX launches 2nd mystery mission for US Space Force in 6-day span (video, photos)",
-   "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-launches-2nd-mystery-mission-for-us-space-force-in-6-day-span-photos",
-   "domains": [
-    "space.com"
-   ],
-   "published": "2026-11-12T05:24+00:00",
-   "topics": [
-    "국방",
-    "발사·Starship"
-   ],
-   "official": false,
-   "score": 1
-  },
-  {
-   "title": "SpaceX’s Starlink Gaining Urban Subs: Ookla",
-   "url": "https://broadbandbreakfast.com/spacexs-starlink-gaining-urban-subs-ookla/",
-   "domains": [
-    "broadbandbreakfast.com"
-   ],
-   "published": "2026-11-11T22:57+00:00",
-   "topics": [
-    "Starlink·통신"
-   ],
-   "official": false,
-   "score": 1
-  },
-  {
-   "title": "Starlink Mini 2 arrives with one feature for true off-grid connectivity",
-   "url": "https://www.teslarati.com/starlink-mini-2-arrives-one-feature-true-off-grid-connectivity/",
-   "domains": [
-    "teslarati.com"
-   ],
-   "published": "2026-11-11T21:13+00:00",
-   "topics": [
-    "Starlink·통신"
-   ],
-   "official": false,
-   "score": 1
-  },
-  {
-   "title": "Other Satellite Companies Not Excited About Rocket Lab-Iridium Deal",
-   "url": "https://broadbandbreakfast.com/other-satellite-companies-not-excited-about-rocket-lab-iridium-deal/",
-   "domains": [
-    "broadbandbreakfast.com"
-   ],
-   "published": "2026-11-11T21:08+00:00",
-   "topics": [
-    "기타"
-   ],
-   "official": false,
-   "score": 1
-  },
-  {
-   "title": "8 Globalstar Refresh Satellites Complete Initial Tests In-Orbit",
-   "url": "https://www.satellitetoday.com/manufacturing/2026/11/11/8-globalstar-refresh-satellites-complete-initial-tests-in-orbit/",
-   "domains": [
-    "satellitetoday.com"
-   ],
-   "published": "2026-11-11T20:40+00:00",
-   "topics": [
-    "발사·Starship"
-   ],
-   "official": false,
-   "score": 1
-  },
-  {
-   "title": "Launch Delays and Slow Rollouts Push Gilat to Downgrade 2026 Outlook",
-   "url": "https://www.satellitetoday.com/finance/2026/11/11/launch-delays-and-slow-rollouts-push-gilat-to-downgrade-2026-outlook/",
-   "domains": [
-    "satellitetoday.com"
-   ],
-   "published": "2026-11-11T20:10+00:00",
-   "topics": [
-    "발사·Starship"
-   ],
-   "official": false,
-   "score": 1
-  },
-  {
-   "title": "SpaceX’s $24B Starbase supercomputer plan slipped past a key roadblock",
-   "url": "https://www.teslarati.com/spacexs-24b-starbase-supercomputer-plan-slipped-past-a-key-roadblock/",
-   "domains": [
-    "teslarati.com"
-   ],
-   "published": "2026-11-11T20:05+00:00",
-   "topics": [
-    "발사·Starship"
-   ],
-   "official": false,
-   "score": 1
-  },
-  {
-   "title": "Finland approves FSD Supervised, automaker renames it to ‘Tesla Assisted Driving’ in Europe",
-   "url": "https://www.teslaoracle.com/2026/11/11/finland-approves-fsd-supervised-automaker-renames-it-to-tesla-assisted-driving-in-europe/",
-   "domains": [
-    "teslaoracle.com"
-   ],
-   "published": "2026-11-11T19:46+00:00",
-   "topics": [
-    "테슬라·머스크"
-   ],
-   "official": false,
-   "score": 1
-  },
-  {
-   "title": "SpaceX, AST SpaceMobile Like FCC’s Unlicensed D2D Plan",
-   "url": "https://broadbandbreakfast.com/spacex-ast-spacemobile-like-fccs-unlicensed-d2d-plan/",
-   "domains": [
-    "broadbandbreakfast.com"
-   ],
-   "published": "2026-11-11T18:08+00:00",
-   "topics": [
-    "정부·규제"
-   ],
-   "official": false,
-   "score": 1
-  },
-  {
-   "title": "Starlink gets faster ahead of 'V3' launches, but shift to dynamic pricing could backfire",
-   "url": "https://www.lightreading.com/satellite/starlink-gets-faster-ahead-of-v3-launches-but-shift-to-dynamic-pricing-could-backfire",
-   "domains": [
-    "lightreading.com"
-   ],
-   "published": "2026-11-11T17:15+00:00",
-   "topics": [
-    "Starlink·통신",
-    "발사·Starship"
-   ],
-   "official": false,
-   "score": 1
-  },
-  {
-   "title": "'There's tremendous demand': Rocket Lab raises price of Neutron launch from $55 million to $70 million",
-   "url": "https://www.space.com/space-exploration/launches-spacecraft/theres-tremendous-demand-rocket-lab-raises-price-of-neutron-launch-from-usd55-million-to-usd70-million",
-   "domains": [
-    "space.com"
-   ],
-   "published": "2026-11-11T16:00+00:00",
-   "topics": [
-    "발사·Starship"
    ],
    "official": false,
    "score": 1
