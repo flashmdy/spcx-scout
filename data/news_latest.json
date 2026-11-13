@@ -1,8 +1,61 @@
 {
- "generated_at": "2026-11-12T23:37:44+00:00",
- "count_48h": 48,
- "new_this_run": 19,
+ "generated_at": "2026-11-13T06:41:39+00:00",
+ "count_48h": 49,
+ "new_this_run": 3,
  "items": [
+  {
+   "title": "Starship Flight 15 to attempt first catch of both stages",
+   "url": "https://spaceq.ca/starship-flight-15-catch-both-stages-preview/",
+   "domains": [
+    "spaceq.ca",
+    "nasaspaceflight.com"
+   ],
+   "published": "2026-11-11T12:08+00:00",
+   "topics": [
+    "발사·Starship"
+   ],
+   "official": false,
+   "score": 2
+  },
+  {
+   "title": "Tesla and SpaceX merger talks hit a new stage, and one hurdle remains",
+   "url": "https://www.teslarati.com/tesla-spacex-merger-timeline/",
+   "domains": [
+    "teslarati.com"
+   ],
+   "published": "2026-11-13T05:53+00:00",
+   "topics": [
+    "테슬라·머스크"
+   ],
+   "official": false,
+   "score": 1
+  },
+  {
+   "title": "Watch SpaceX attempt a historic Starship launch and double-catch landing today (Nov. 13)",
+   "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-launching-historic-double-catch-starship-test-flight-today-watch-it-live",
+   "domains": [
+    "space.com"
+   ],
+   "published": "2026-11-13T05:05+00:00",
+   "topics": [
+    "발사·Starship"
+   ],
+   "official": false,
+   "score": 1
+  },
+  {
+   "title": "Advocacy Groups Sue AI Giants to Freeze New Models, Warning of 'Catastrophic' Risks",
+   "url": "https://broadbandbreakfast.com/advocacy-groups-sue-ai-giants-to-freeze-new-models-warning-of-catastrophic-risks/",
+   "domains": [
+    "broadbandbreakfast.com"
+   ],
+   "published": "2026-11-13T01:31+00:00",
+   "topics": [
+    "AI·xAI"
+   ],
+   "official": false,
+   "score": 1
+  },
   {
    "title": "Pentagon Gives $150M Loan to Rocket Lab to Boost New Vehicle’s Launch Cadence",
    "url": "https://www.airandspaceforces.com/pentagon-150m-loan-rocket-lab-new-launch-vehicle-cadence/",
@@ -473,59 +526,6 @@
    "published": "2026-11-11T16:00+00:00",
    "topics": [
     "발사·Starship"
-   ],
-   "official": false,
-   "score": 1
-  },
-  {
-   "title": "BT delays Starlink partnership amid recent Ukrainian disruption - report",
-   "url": "https://www.datacenterdynamics.com/en/news/bt-delays-starlink-partnership-amid-recent-ukrainian-disruption-report/",
-   "domains": [
-    "datacenterdynamics.com"
-   ],
-   "published": "2026-11-11T14:37+00:00",
-   "topics": [
-    "Starlink·통신"
-   ],
-   "official": false,
-   "score": 1
-  },
-  {
-   "title": "Strand Consult: Starlink’s Next Milestone Is Telecom Regulation",
-   "url": "https://broadbandbreakfast.com/strand-consult-starlinks-next-milestone-is-telecom-regulation/",
-   "domains": [
-    "broadbandbreakfast.com"
-   ],
-   "published": "2026-11-11T14:19+00:00",
-   "topics": [
-    "정부·규제",
-    "Starlink·통신"
-   ],
-   "official": false,
-   "score": 1
-  },
-  {
-   "title": "Ukraine firm Fire Point hopes for extension of Starshield coverage beyond Ukraine’s borders",
-   "url": "https://breakingdefense.com/2026/11/ukraine-firm-fire-point-hopes-for-extension-of-starshield-coverage-beyond-ukraines-borders/",
-   "domains": [
-    "breakingdefense.com"
-   ],
-   "published": "2026-11-11T14:01+00:00",
-   "topics": [
-    "국방"
-   ],
-   "official": false,
-   "score": 1
-  },
-  {
-   "title": "Grok-built apps exposed patient data, plaintext passwords, and SpaceXSI's own sales pipeline",
-   "url": "https://the-decoder.com/grok-built-apps-exposed-patient-data-plaintext-passwords-and-spacexsis-own-sales-pipeline/",
-   "domains": [
-    "the-decoder.com"
-   ],
-   "published": "2026-11-11T12:53+00:00",
-   "topics": [
-    "AI·xAI"
    ],
    "official": false,
    "score": 1

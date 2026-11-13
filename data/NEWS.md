@@ -1,8 +1,8 @@
 # SPCX 뉴스 모음 — 최근 48시간
 
-갱신: 2026-11-13 08:37 (한국 시간) · 글 48건 · 교차 확인 = 같은 소식을 낸 사이트 수 · 🏛 = 정부·공식 출처
+갱신: 2026-11-13 15:41 (한국 시간) · 글 49건 · 교차 확인 = 같은 소식을 낸 사이트 수 · 🏛 = 정부·공식 출처
 
-## 정부·규제 (7)
+## 정부·규제 (6)
 
 - [SpaceX's bid for Grain's lowband spectrum takes a step forward](https://www.lightreading.com/5g/spacex-s-bid-for-grain-s-lowband-spectrum-takes-a-step-forward) — lightreading.com · 11-13 06:00
 - [Exclusive: Spaceium Opens License for Refueling Hardware](https://payloadspace.com/exclusive-spaceium-opens-license-for-refueling-hardware/) — payloadspace.com · 11-12 23:00
@@ -10,7 +10,6 @@
 - [SpaceX, AST SpaceMobile Like FCC’s Unlicensed D2D Plan](https://broadbandbreakfast.com/spacex-ast-spacemobile-like-fccs-unlicensed-d2d-plan/) — broadbandbreakfast.com · 11-12 03:08
 - [Strand Consult: Starlink’s Next Milestone Is Telecom Regulation](https://broadbandbreakfast.com/strand-consult-starlinks-next-milestone-is-telecom-regulation/) — broadbandbreakfast.com · 11-11 23:19
 - [SpaceX just cleared a key FCC hurdle in its fight with Verizon and AT&T](https://www.teslarati.com/spacex-fcc-verizon-att-approved/) — teslarati.com · 11-11 17:16
-- [SpaceX’s 800 MHz spectrum deal with Grain clears first FCC step](https://driveteslacanada.ca/news/fcc-accepts-spacex-grain-800-mhz-spectrum-transfer/?utm_source=rss&utm_medium=rss&utm_campaign=fcc-accepts-spacex-grain-800-mhz-spectrum-transfer) — driveteslacanada.ca · 11-11 08:42
 
 ## 국방 (7)
 
@@ -22,8 +21,9 @@
 - [SpaceX launches 2nd mystery mission for US Space Force in 6-day span (video, photos)](https://www.space.com/space-exploration/launches-spacecraft/spacex-launches-2nd-mystery-mission-for-us-space-force-in-6-day-span-photos) — space.com · 11-12 14:24
 - [Ukraine firm Fire Point hopes for extension of Starshield coverage beyond Ukraine’s borders](https://breakingdefense.com/2026/11/ukraine-firm-fire-point-hopes-for-extension-of-starshield-coverage-beyond-ukraines-borders/) — breakingdefense.com · 11-11 23:01
 
-## AI·xAI (3)
+## AI·xAI (4)
 
+- [Advocacy Groups Sue AI Giants to Freeze New Models, Warning of 'Catastrophic' Risks](https://broadbandbreakfast.com/advocacy-groups-sue-ai-giants-to-freeze-new-models-warning-of-catastrophic-risks/) — broadbandbreakfast.com · 11-13 10:31
 - [SpaceX developing custom Nvidia Vera Rubin rack dubbed Kessel for its orbital data centers – report](https://www.datacenterdynamics.com/en/news/spacex-developing-custom-nvidia-vera-rubin-rack-dubbed-kessel-for-its-orbital-data-centers-report/) — datacenterdynamics.com · 11-13 01:24
 - [Anthropic May Exit SpaceX AI Compute Deal Early, Elon Musk Says the Opposite Will Happen](https://driveteslacanada.ca/spacex/anthropic-spacex-compute-contract-mid-2027/?utm_source=rss&utm_medium=rss&utm_campaign=anthropic-spacex-compute-contract-mid-2027) — driveteslacanada.ca · 11-13 00:56
 - [Grok-built apps exposed patient data, plaintext passwords, and SpaceXSI's own sales pipeline](https://the-decoder.com/grok-built-apps-exposed-patient-data-plaintext-passwords-and-spacexsis-own-sales-pipeline/) — the-decoder.com · 11-11 21:53
@@ -43,19 +43,20 @@
 
 ## 발사·Starship (10)
 
+- [Starship Flight 15 to attempt first catch of both stages](https://spaceq.ca/starship-flight-15-catch-both-stages-preview/) — spaceq.ca · 11-11 21:08 · 교차 2곳
+- [Watch SpaceX attempt a historic Starship launch and double-catch landing today (Nov. 13)](https://www.space.com/space-exploration/launches-spacecraft/spacex-launching-historic-double-catch-starship-test-flight-today-watch-it-live) — space.com · 11-13 14:05
 - [SpaceX's Starship megarocket will launch to orbit on Nov. 13. Will you be able to spot it in the night sky?](https://www.space.com/stargazing/spacexs-starship-megarocket-will-launch-to-orbit-on-nov-13-will-you-be-able-to-spot-it-in-the-night-sky) — space.com · 11-13 05:00
 - [ULA’s Vulcan set to return to flight with first Amazon Leo payload](https://www.nasaspaceflight.com/2026/11/amazon-leo-lv-01/) — nasaspaceflight.com · 11-13 02:44
 - [8 Globalstar Refresh Satellites Complete Initial Tests In-Orbit](https://www.satellitetoday.com/manufacturing/2026/11/11/8-globalstar-refresh-satellites-complete-initial-tests-in-orbit/) — satellitetoday.com · 11-12 05:40
 - [Launch Delays and Slow Rollouts Push Gilat to Downgrade 2026 Outlook](https://www.satellitetoday.com/finance/2026/11/11/launch-delays-and-slow-rollouts-push-gilat-to-downgrade-2026-outlook/) — satellitetoday.com · 11-12 05:10
 - [SpaceX’s $24B Starbase supercomputer plan slipped past a key roadblock](https://www.teslarati.com/spacexs-24b-starbase-supercomputer-plan-slipped-past-a-key-roadblock/) — teslarati.com · 11-12 05:05
 - ['There's tremendous demand': Rocket Lab raises price of Neutron launch from $55 million to $70 million](https://www.space.com/space-exploration/launches-spacecraft/theres-tremendous-demand-rocket-lab-raises-price-of-neutron-launch-from-usd55-million-to-usd70-million) — space.com · 11-12 01:00
-- [Starship Flight 15 to attempt first catch of both stages](https://spaceq.ca/starship-flight-15-catch-both-stages-preview/) — spaceq.ca · 11-11 21:08
 - [What time will SpaceX launch Starship Flight 15, its 1st double landing test, on Nov. 13? (Full mission timeline)](https://www.space.com/space-exploration/launches-spacecraft/spacex-starship-flight-15-1st-booster-ship-double-catch-full-recovery-what-time) — space.com · 11-11 20:00
 - [Elon Musk’s SpaceX targets nat-gas plant and supercomputing facility at Starbase City, Texas](https://www.datacenterdynamics.com/en/news/elon-musks-spacex-targets-nat-gas-plant-and-supercomputing-facility-at-starbase-city-texas/) — datacenterdynamics.com · 11-11 18:52
-- [Eutelsat, SpaceX ready for OneWeb launch](https://www.advanced-television.com/2026/11/11/eutelsat-spacex-ready-for-oneweb-launch/) — advanced-television.com · 11-11 09:29
 
-## 테슬라·머스크 (5)
+## 테슬라·머스크 (6)
 
+- [Tesla and SpaceX merger talks hit a new stage, and one hurdle remains](https://www.teslarati.com/tesla-spacex-merger-timeline/) — teslarati.com · 11-13 14:53
 - [SpaceX and Tesla move closer to potential $3.4 trillion merger in December: Report](https://driveteslacanada.ca/news/spacex-tesla-merger-december-report/?utm_source=rss&utm_medium=rss&utm_campaign=spacex-tesla-merger-december-report) — driveteslacanada.ca · 11-13 06:54
 - [SpaceX could announce $1.5 trillion Tesla merger in December: report](https://electrek.co/2026/11/12/spacex-tesla-merger-announcement-december-report/) — electrek.co · 11-13 05:39
 - [Musk Says Hiring Nvidia CEO Jensen Huang Would Be an Honor](https://driveteslacanada.ca/news/musk-hire-jensen-huang-honor/?utm_source=rss&utm_medium=rss&utm_campaign=musk-hire-jensen-huang-honor) — driveteslacanada.ca · 11-12 21:47

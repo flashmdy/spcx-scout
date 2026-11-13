@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-12T23:37:44+00:00",
+ "generated_at": "2026-11-13T06:41:39+00:00",
  "signals": {
   "candidates_passed": 0,
-  "candidates_seen_30d": 271,
+  "candidates_seen_30d": 272,
   "feeds_failing_3x": [
    "DoD Contracts",
    "GDELT SpaceX",
@@ -18,7 +18,7 @@
  "top": [
   {
    "domain": "9to5mac.com",
-   "citations": 12,
+   "citations": 16,
    "cited_by": [
     "Electrek SpaceX"
    ],
@@ -33,11 +33,11 @@
    "items_7d": 100,
    "kw_ratio": 0.0,
    "verdict": "부분(SpaceX 글 없음)",
-   "score": 242.4
+   "score": 323.2
   },
   {
    "domain": "9to5google.com",
-   "citations": 9,
+   "citations": 12,
    "cited_by": [
     "Electrek SpaceX"
    ],
@@ -52,11 +52,11 @@
    "items_7d": 100,
    "kw_ratio": 0.0,
    "verdict": "부분(SpaceX 글 없음)",
-   "score": 181.8
+   "score": 242.4
   },
   {
    "domain": "9to5toys.com",
-   "citations": 9,
+   "citations": 12,
    "cited_by": [
     "Electrek SpaceX"
    ],
@@ -71,30 +71,11 @@
    "items_7d": 50,
    "kw_ratio": 0.0,
    "verdict": "부분(SpaceX 글 없음)",
-   "score": 91.8
-  },
-  {
-   "domain": "thefp.com",
-   "citations": 10,
-   "cited_by": [
-    "CBS News Technology"
-   ],
-   "sample": "https://www.thefp.com/p/elon-musk-left-doge-but-democrats?utm_source=cbs_news&utm_campaign=cbs_news_recirculation&utm_content=bottom_page",
-   "titles": [
-    "Memphis fails to pass 1-year data center moratorium, opts for shorter-term ban",
-    "Memphis fails to pass 1-year data center moratorium, opts for shorter-term ban"
-   ],
-   "robots": "허용",
-   "feed": "https://thefp.com/feed",
-   "has_dates": true,
-   "items_7d": 20,
-   "kw_ratio": 0.0,
-   "verdict": "부분(SpaceX 글 없음)",
-   "score": 42.0
+   "score": 122.4
   },
   {
    "domain": "dronedj.com",
-   "citations": 9,
+   "citations": 12,
    "cited_by": [
     "Electrek SpaceX"
    ],
@@ -109,17 +90,17 @@
    "items_7d": 14,
    "kw_ratio": 0.0,
    "verdict": "부분(SpaceX 글 없음)",
-   "score": 27.0
+   "score": 36.0
   },
   {
    "domain": "hubspot.com",
-   "citations": 13,
+   "citations": 14,
    "cited_by": [
     "Broadband Breakfast"
    ],
    "sample": "https://payments-na1.hubspot.com/payments/7TyXGqH4bm?referrer=PAYMENT_LINK&ref=broadbandbreakfast.com",
    "titles": [
-    "SpaceX’s Starlink Gaining Urban Subs: Ookla",
+    "Advocacy Groups Sue AI Giants to Freeze New Models, Warning of 'Catastrophic' Risks",
     "SpaceX’s Starlink Gaining Urban Subs: Ookla"
    ],
    "robots": "허용",
@@ -128,18 +109,18 @@
    "items_7d": 6,
    "kw_ratio": 0.0,
    "verdict": "부분(SpaceX 글 없음)",
-   "score": 18.2
+   "score": 19.6
   },
   {
    "domain": "futureplc.com",
-   "citations": 30,
+   "citations": 33,
    "cited_by": [
     "Space.com"
    ],
    "sample": "https://futureplc.com/future-member-terms-and-conditions/",
    "titles": [
-    "SpaceX's Starship megarocket will launch to orbit on Nov. 13. Will you be able to spot it ",
-    "The replicants are running the city in thrilling final trailer for ‘Blade Runner 2099’ (vi"
+    "Watch SpaceX attempt a historic Starship launch and double-catch landing today (Nov. 13)",
+    "SpaceX's Starship megarocket will launch to orbit on Nov. 13. Will you be able to spot it "
    ],
    "robots": "허용",
    "feed": "https://futureplc.com/feed/",
@@ -147,11 +128,30 @@
    "items_7d": 0,
    "kw_ratio": 0.0,
    "verdict": "부분(날짜·최신성 미달)",
-   "score": 6.0
+   "score": 6.6
+  },
+  {
+   "domain": "informatechtarget.com",
+   "citations": 12,
+   "cited_by": [
+    "Light Reading"
+   ],
+   "sample": "https://www.informatechtarget.com/",
+   "titles": [
+    "SpaceX's bid for Grain's lowband spectrum takes a step forward",
+    "Starlink gets faster ahead of 'V3' launches, but shift to dynamic pricing could backfire"
+   ],
+   "robots": "허용",
+   "feed": "https://informatechtarget.com/feed/",
+   "has_dates": true,
+   "items_7d": 1,
+   "kw_ratio": 0.0,
+   "verdict": "부분(SpaceX 글 없음)",
+   "score": 4.8
   },
   {
    "domain": "whatsapp.com",
-   "citations": 24,
+   "citations": 32,
    "cited_by": [
     "Space Intel Report",
     "Tesla Oracle"
@@ -167,18 +167,18 @@
    "items_7d": 0,
    "kw_ratio": 0.0,
    "verdict": "부분(피드 없음)",
-   "score": 2.4
+   "score": 3.2
   },
   {
    "domain": "future-advertising.com",
-   "citations": 9,
+   "citations": 12,
    "cited_by": [
     "Space.com"
    ],
    "sample": "https://go.future-advertising.com/Spacecom-Media-Kit.html",
    "titles": [
-    "SpaceX's Starship megarocket will launch to orbit on Nov. 13. Will you be able to spot it ",
-    "The replicants are running the city in thrilling final trailer for ‘Blade Runner 2099’ (vi"
+    "Watch SpaceX attempt a historic Starship launch and double-catch landing today (Nov. 13)",
+    "SpaceX's Starship megarocket will launch to orbit on Nov. 13. Will you be able to spot it "
    ],
    "robots": "허용",
    "feed": "https://futureplc.com/feed/",
@@ -186,11 +186,11 @@
    "items_7d": 0,
    "kw_ratio": 0.0,
    "verdict": "부분(날짜·최신성 미달)",
-   "score": 1.8
+   "score": 2.4
   },
   {
    "domain": "addtoany.com",
-   "citations": 16,
+   "citations": 20,
    "cited_by": [
     "Advanced Television",
     "Data Center Dynamics",
@@ -207,7 +207,7 @@
    "items_7d": 0,
    "kw_ratio": 0.0,
    "verdict": "부분(피드 없음)",
-   "score": 1.6
+   "score": 2.0
   }
  ],
  "seeds": [
@@ -239,7 +239,7 @@
    "name": "Space.com",
    "result": "성공",
    "items": 50,
-   "spacex_items": 14
+   "spacex_items": 15
   },
   {
    "name": "Advanced Television",
@@ -251,7 +251,7 @@
    "name": "Hacker News SpaceX",
    "result": "성공",
    "items": 50,
-   "spacex_items": 7
+   "spacex_items": 6
   },
   {
    "name": "Federal Register SpaceX",
@@ -269,7 +269,7 @@
    "name": "NASASpaceflight",
    "result": "성공",
    "items": 10,
-   "spacex_items": 5
+   "spacex_items": 6
   },
   {
    "name": "Spaceflight Now",
@@ -287,7 +287,7 @@
    "name": "Payload",
    "result": "성공",
    "items": 13,
-   "spacex_items": 8
+   "spacex_items": 7
   },
   {
    "name": "Universe Today",
@@ -412,7 +412,7 @@
   {
    "name": "The War Zone",
    "result": "성공",
-   "items": 37,
+   "items": 38,
    "spacex_items": 1
   },
   {
@@ -453,7 +453,7 @@
   },
   {
    "name": "GDELT SpaceX",
-   "result": "오류: HTTPError",
+   "result": "일시 중지(5회 연속 실패)",
    "items": 0,
    "spacex_items": 0
   },
@@ -471,22 +471,22 @@
   }
  ],
  "blocked_cited": {
-  "twitter.com": 50,
-  "x.com": 38,
-  "t.co": 12,
+  "twitter.com": 49,
+  "x.com": 40,
+  "t.co": 13,
   "reddit.com": 11,
   "google.com": 10,
   "cnbc.com": 9,
   "bloomberg.com": 6,
-  "pcmag.com": 3,
+  "apnews.com": 3,
   "theguardian.com": 2,
-  "apnews.com": 2
+  "arstechnica.com": 2
  },
  "stats": {
-  "requests": 167,
+  "requests": 165,
   "blocked_skipped": 0,
   "robots_denied": 2,
-  "errors": 10,
+  "errors": 9,
   "blocked_contacted": 0
  }
 }
