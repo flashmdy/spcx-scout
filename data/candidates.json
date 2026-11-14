@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-13T19:39:37+00:00",
+ "generated_at": "2026-11-14T06:18:50+00:00",
  "signals": {
   "candidates_passed": 0,
-  "candidates_seen_30d": 279,
+  "candidates_seen_30d": 285,
   "feeds_failing_3x": [
    "DoD Contracts",
    "GDELT SpaceX",
@@ -18,7 +18,7 @@
  "top": [
   {
    "domain": "9to5mac.com",
-   "citations": 16,
+   "citations": 20,
    "cited_by": [
     "Electrek SpaceX"
    ],
@@ -33,11 +33,11 @@
    "items_7d": 100,
    "kw_ratio": 0.0,
    "verdict": "부분(SpaceX 글 없음)",
-   "score": 323.2
+   "score": 404.0
   },
   {
    "domain": "9to5google.com",
-   "citations": 12,
+   "citations": 15,
    "cited_by": [
     "Electrek SpaceX"
    ],
@@ -52,11 +52,11 @@
    "items_7d": 100,
    "kw_ratio": 0.0,
    "verdict": "부분(SpaceX 글 없음)",
-   "score": 242.4
+   "score": 303.0
   },
   {
    "domain": "9to5toys.com",
-   "citations": 12,
+   "citations": 15,
    "cited_by": [
     "Electrek SpaceX"
    ],
@@ -71,11 +71,11 @@
    "items_7d": 50,
    "kw_ratio": 0.0,
    "verdict": "부분(SpaceX 글 없음)",
-   "score": 122.4
+   "score": 153.0
   },
   {
    "domain": "dronedj.com",
-   "citations": 12,
+   "citations": 15,
    "cited_by": [
     "Electrek SpaceX"
    ],
@@ -90,18 +90,18 @@
    "items_7d": 13,
    "kw_ratio": 0.0,
    "verdict": "부분(SpaceX 글 없음)",
-   "score": 33.6
+   "score": 42.0
   },
   {
    "domain": "hubspot.com",
-   "citations": 14,
+   "citations": 19,
    "cited_by": [
     "Broadband Breakfast"
    ],
    "sample": "https://payments-na1.hubspot.com/payments/7TyXGqH4bm?referrer=PAYMENT_LINK&ref=broadbandbreakfast.com",
    "titles": [
-    "Amazon Leo Launch Delayed One Day",
-    "Advocacy Groups Sue AI Giants to Freeze New Models, Warning of 'Catastrophic' Risks"
+    "FCC Sets Upper C-band Auction Schedule",
+    "Bogdan-Martin Re-Elected to Lead ITU"
    ],
    "robots": "허용",
    "feed": "https://hubspot.com/feed/",
@@ -109,18 +109,18 @@
    "items_7d": 6,
    "kw_ratio": 0.0,
    "verdict": "부분(SpaceX 글 없음)",
-   "score": 19.6
+   "score": 26.6
   },
   {
    "domain": "futureplc.com",
-   "citations": 33,
+   "citations": 36,
    "cited_by": [
     "Space.com"
    ],
    "sample": "https://futureplc.com/future-member-terms-and-conditions/",
    "titles": [
-    "Double-catch drama: Why Starship's Flight 15 is so important to SpaceX",
-    "Powerful Vulcan Centaur rocket launching for 1st time in 9 months Nov. 14: Watch it live"
+    "SpaceX launches Starship on ambitious 22-hour Flight 15 test, but aborts booster 'chopstic",
+    "100 launches! Rocket Lab sends Earth-observing satellite to orbit on milestone mission (ph"
    ],
    "robots": "허용",
    "feed": "https://futureplc.com/feed/",
@@ -128,30 +128,11 @@
    "items_7d": 0,
    "kw_ratio": 0.0,
    "verdict": "부분(날짜·최신성 미달)",
-   "score": 6.6
-  },
-  {
-   "domain": "informatechtarget.com",
-   "citations": 12,
-   "cited_by": [
-    "Light Reading"
-   ],
-   "sample": "https://www.informatechtarget.com/",
-   "titles": [
-    "SpaceX's bid for Grain's lowband spectrum takes a step forward",
-    "Starlink gets faster ahead of 'V3' launches, but shift to dynamic pricing could backfire"
-   ],
-   "robots": "허용",
-   "feed": "https://informatechtarget.com/feed/",
-   "has_dates": true,
-   "items_7d": 1,
-   "kw_ratio": 0.0,
-   "verdict": "부분(SpaceX 글 없음)",
-   "score": 4.8
+   "score": 7.2
   },
   {
    "domain": "whatsapp.com",
-   "citations": 33,
+   "citations": 42,
    "cited_by": [
     "Space Intel Report",
     "Tesla Oracle"
@@ -167,18 +148,18 @@
    "items_7d": 0,
    "kw_ratio": 0.0,
    "verdict": "부분(피드 없음)",
-   "score": 3.3
+   "score": 4.2
   },
   {
    "domain": "future-advertising.com",
-   "citations": 12,
+   "citations": 15,
    "cited_by": [
     "Space.com"
    ],
    "sample": "https://go.future-advertising.com/Spacecom-Media-Kit.html",
    "titles": [
-    "Double-catch drama: Why Starship's Flight 15 is so important to SpaceX",
-    "Powerful Vulcan Centaur rocket launching for 1st time in 9 months Nov. 14: Watch it live"
+    "SpaceX launches Starship on ambitious 22-hour Flight 15 test, but aborts booster 'chopstic",
+    "100 launches! Rocket Lab sends Earth-observing satellite to orbit on milestone mission (ph"
    ],
    "robots": "허용",
    "feed": "https://futureplc.com/feed/",
@@ -186,11 +167,11 @@
    "items_7d": 0,
    "kw_ratio": 0.0,
    "verdict": "부분(날짜·최신성 미달)",
-   "score": 2.4
+   "score": 3.0
   },
   {
    "domain": "addtoany.com",
-   "citations": 20,
+   "citations": 24,
    "cited_by": [
     "Advanced Television",
     "Data Center Dynamics",
@@ -199,7 +180,7 @@
    "sample": "https://www.addtoany.com/add_to/facebook?linkurl=https%3A%2F%2Fwww.advanced-television.com%2F2026%2F11%2F09%2Fviasat-our-new-satellites-will-drive-broadband%2F&linkname=Viasat%3A%20%E2%80%9COur%20new%20satellites%20will%20drive%20broadband%E2%80%9D",
    "titles": [
     "South Africa ready for Starlink?",
-    "NASA Shares Moon Base Progress, Contract Awards"
+    "Starship IFT-15 is in Orbit — Will it be “Caught” When It Returns to Earth?"
    ],
    "robots": "허용",
    "feed": "",
@@ -207,7 +188,26 @@
    "items_7d": 0,
    "kw_ratio": 0.0,
    "verdict": "부분(피드 없음)",
-   "score": 2.0
+   "score": 2.4
+  },
+  {
+   "domain": "apple.news",
+   "citations": 15,
+   "cited_by": [
+    "Electrek SpaceX"
+   ],
+   "sample": "https://apple.news/TDaZAAzogTHK5rrJYn3D6eQ",
+   "titles": [
+    "SpaceX could announce $1.5 trillion Tesla merger in December: report",
+    "What does a blue Texas sweep mean for Elon Musk, Tesla & SpaceX?"
+   ],
+   "robots": "허용",
+   "feed": "",
+   "has_dates": false,
+   "items_7d": 0,
+   "kw_ratio": 0.0,
+   "verdict": "부분(피드 없음)",
+   "score": 1.5
   }
  ],
  "seeds": [
@@ -239,7 +239,7 @@
    "name": "Space.com",
    "result": "성공",
    "items": 50,
-   "spacex_items": 14
+   "spacex_items": 15
   },
   {
    "name": "Advanced Television",
@@ -251,7 +251,7 @@
    "name": "Hacker News SpaceX",
    "result": "성공",
    "items": 50,
-   "spacex_items": 7
+   "spacex_items": 10
   },
   {
    "name": "Federal Register SpaceX",
@@ -293,13 +293,13 @@
    "name": "Universe Today",
    "result": "성공",
    "items": 20,
-   "spacex_items": 0
+   "spacex_items": 1
   },
   {
    "name": "Via Satellite",
    "result": "성공",
    "items": 10,
-   "spacex_items": 4
+   "spacex_items": 3
   },
   {
    "name": "European Spaceflight",
@@ -357,7 +357,7 @@
   },
   {
    "name": "Telecompetitor",
-   "result": "오류: HTTPError",
+   "result": "일시 중지(5회 연속 실패)",
    "items": 0,
    "spacex_items": 0
   },
@@ -365,7 +365,7 @@
    "name": "Broadband Breakfast",
    "result": "성공",
    "items": 15,
-   "spacex_items": 2
+   "spacex_items": 7
   },
   {
    "name": "Light Reading",
@@ -412,14 +412,14 @@
   {
    "name": "The War Zone",
    "result": "성공",
-   "items": 37,
+   "items": 39,
    "spacex_items": 1
   },
   {
    "name": "Drive Tesla Canada",
    "result": "성공",
    "items": 10,
-   "spacex_items": 0
+   "spacex_items": 1
   },
   {
    "name": "Tesla Oracle",
@@ -449,7 +449,7 @@
    "name": "Crunchbase News",
    "result": "성공",
    "items": 10,
-   "spacex_items": 2
+   "spacex_items": 1
   },
   {
    "name": "GDELT SpaceX",
@@ -471,22 +471,22 @@
   }
  ],
  "blocked_cited": {
-  "twitter.com": 45,
-  "x.com": 40,
+  "twitter.com": 49,
+  "x.com": 41,
   "t.co": 13,
   "reddit.com": 10,
   "google.com": 10,
   "cnbc.com": 9,
   "bloomberg.com": 6,
+  "apnews.com": 4,
   "theguardian.com": 3,
-  "apnews.com": 2,
-  "pcmag.com": 2
+  "reuters.com": 3
  },
  "stats": {
-  "requests": 163,
+  "requests": 161,
   "blocked_skipped": 0,
-  "robots_denied": 2,
-  "errors": 9,
+  "robots_denied": 3,
+  "errors": 7,
   "blocked_contacted": 0
  }
 }
