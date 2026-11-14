@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-14T06:18:50+00:00",
+ "generated_at": "2026-11-14T17:59:07+00:00",
  "signals": {
   "candidates_passed": 0,
-  "candidates_seen_30d": 285,
+  "candidates_seen_30d": 289,
   "feeds_failing_3x": [
    "DoD Contracts",
    "GDELT SpaceX",
@@ -87,10 +87,10 @@
    "robots": "허용",
    "feed": "https://dronedj.com/feed/",
    "has_dates": true,
-   "items_7d": 13,
+   "items_7d": 14,
    "kw_ratio": 0.0,
    "verdict": "부분(SpaceX 글 없음)",
-   "score": 42.0
+   "score": 45.0
   },
   {
    "domain": "hubspot.com",
@@ -106,10 +106,10 @@
    "robots": "허용",
    "feed": "https://hubspot.com/feed/",
    "has_dates": true,
-   "items_7d": 6,
+   "items_7d": 4,
    "kw_ratio": 0.0,
    "verdict": "부분(SpaceX 글 없음)",
-   "score": 26.6
+   "score": 19.0
   },
   {
    "domain": "futureplc.com",
@@ -119,8 +119,8 @@
    ],
    "sample": "https://futureplc.com/future-member-terms-and-conditions/",
    "titles": [
-    "SpaceX launches Starship on ambitious 22-hour Flight 15 test, but aborts booster 'chopstic",
-    "100 launches! Rocket Lab sends Earth-observing satellite to orbit on milestone mission (ph"
+    "This Week In Space podcast: Episode 236 — Alienspotting",
+    "Why did Starship Flight 15 booster abort 'chopsticks' landing catch? SpaceX still investig"
    ],
    "robots": "허용",
    "feed": "https://futureplc.com/feed/",
@@ -132,7 +132,7 @@
   },
   {
    "domain": "whatsapp.com",
-   "citations": 42,
+   "citations": 43,
    "cited_by": [
     "Space Intel Report",
     "Tesla Oracle"
@@ -148,7 +148,7 @@
    "items_7d": 0,
    "kw_ratio": 0.0,
    "verdict": "부분(피드 없음)",
-   "score": 4.2
+   "score": 4.3
   },
   {
    "domain": "future-advertising.com",
@@ -158,8 +158,8 @@
    ],
    "sample": "https://go.future-advertising.com/Spacecom-Media-Kit.html",
    "titles": [
-    "SpaceX launches Starship on ambitious 22-hour Flight 15 test, but aborts booster 'chopstic",
-    "100 launches! Rocket Lab sends Earth-observing satellite to orbit on milestone mission (ph"
+    "This Week In Space podcast: Episode 236 — Alienspotting",
+    "Why did Starship Flight 15 booster abort 'chopsticks' landing catch? SpaceX still investig"
    ],
    "robots": "허용",
    "feed": "https://futureplc.com/feed/",
@@ -239,7 +239,7 @@
    "name": "Space.com",
    "result": "성공",
    "items": 50,
-   "spacex_items": 15
+   "spacex_items": 16
   },
   {
    "name": "Advanced Television",
@@ -425,7 +425,7 @@
    "name": "Tesla Oracle",
    "result": "성공",
    "items": 10,
-   "spacex_items": 7
+   "spacex_items": 8
   },
   {
    "name": "VentureBeat",
@@ -435,9 +435,9 @@
   },
   {
    "name": "The Decoder",
-   "result": "성공",
-   "items": 10,
-   "spacex_items": 3
+   "result": "오류: TimeoutError",
+   "items": 0,
+   "spacex_items": 0
   },
   {
    "name": "Data Center Dynamics",
@@ -467,26 +467,26 @@
    "name": "Hacker News Starlink",
    "result": "성공",
    "items": 50,
-   "spacex_items": 14
+   "spacex_items": 39
   }
  ],
  "blocked_cited": {
-  "twitter.com": 49,
-  "x.com": 41,
+  "twitter.com": 51,
+  "x.com": 42,
   "t.co": 13,
+  "cnbc.com": 11,
+  "google.com": 11,
   "reddit.com": 10,
-  "google.com": 10,
-  "cnbc.com": 9,
-  "bloomberg.com": 6,
-  "apnews.com": 4,
-  "theguardian.com": 3,
-  "reuters.com": 3
+  "reuters.com": 6,
+  "bloomberg.com": 5,
+  "apnews.com": 5,
+  "theguardian.com": 4
  },
  "stats": {
-  "requests": 161,
+  "requests": 158,
   "blocked_skipped": 0,
   "robots_denied": 3,
-  "errors": 7,
+  "errors": 8,
   "blocked_contacted": 0
  }
 }

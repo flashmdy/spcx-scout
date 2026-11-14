@@ -1,16 +1,16 @@
 # SPCX 출처 탐색 결과
 
-마지막 실행: **2026-11-14 15:18 (한국 시간)** · 6시간마다 자동 갱신
+마지막 실행: **2026-11-15 02:59 (한국 시간)** · 6시간마다 자동 갱신
 
 | 항목 | 값 |
 |---|---|
 | 차단 사이트 접속 | ✅ 0건 |
-| 씨앗 출처 성공 | 35/43 |
+| 씨앗 출처 성공 | 34/43 |
 | 기계 시험 통과 후보 | 0 |
-| 최근 30일 본 후보 | 285 |
+| 최근 30일 본 후보 | 289 |
 | 봇이 부를 일꾼 수 | 1 |
 | 3회 연속 실패 씨앗 | DoD Contracts, GDELT SpaceX, GDELT Starlink, Orbital Today, Spaceflight Insider, Telecompetitor, US Space Force, VentureBeat |
-| 뉴스 글(이번 새 글 / 48시간 / 보관 30일) | 13 / 57 / 200 |
+| 뉴스 글(이번 새 글 / 48시간 / 보관 30일) | 4 / 50 / 204 |
 
 📰 정리된 뉴스: [NEWS.md](NEWS.md) · 날짜별: [news 폴더](news/)
 
@@ -21,10 +21,10 @@
 | 1 | 9to5mac.com | △ 부분(SpaceX 글 없음) | 20 | 100 | 0% | [피드](https://9to5mac.com/feed/) |
 | 2 | 9to5google.com | △ 부분(SpaceX 글 없음) | 15 | 100 | 0% | [피드](https://9to5google.com/feed/) |
 | 3 | 9to5toys.com | △ 부분(SpaceX 글 없음) | 15 | 50 | 0% | [피드](https://9to5toys.com/feed/) |
-| 4 | dronedj.com | △ 부분(SpaceX 글 없음) | 15 | 13 | 0% | [피드](https://dronedj.com/feed/) |
-| 5 | hubspot.com | △ 부분(SpaceX 글 없음) | 19 | 6 | 0% | [피드](https://hubspot.com/feed/) |
+| 4 | dronedj.com | △ 부분(SpaceX 글 없음) | 15 | 14 | 0% | [피드](https://dronedj.com/feed/) |
+| 5 | hubspot.com | △ 부분(SpaceX 글 없음) | 19 | 4 | 0% | [피드](https://hubspot.com/feed/) |
 | 6 | futureplc.com | △ 부분(날짜·최신성 미달) | 36 | 0 | 0% | [피드](https://futureplc.com/feed/) |
-| 7 | whatsapp.com | △ 부분(피드 없음) | 42 | 0 | 0% | - |
+| 7 | whatsapp.com | △ 부분(피드 없음) | 43 | 0 | 0% | - |
 | 8 | future-advertising.com | △ 부분(날짜·최신성 미달) | 15 | 0 | 0% | [피드](https://futureplc.com/feed/) |
 | 9 | addtoany.com | △ 부분(피드 없음) | 24 | 0 | 0% | - |
 | 10 | apple.news | △ 부분(피드 없음) | 15 | 0 | 0% | - |
@@ -41,6 +41,7 @@
 | DoD Contracts | 일시 중지(5회 연속 실패) |
 | Telecompetitor | 일시 중지(5회 연속 실패) |
 | VentureBeat | 일시 중지(5회 연속 실패) |
+| The Decoder | 오류: TimeoutError |
 | GDELT SpaceX | 일시 중지(5회 연속 실패) |
 | GDELT Starlink | 일시 중지(5회 연속 실패) |
 
@@ -49,22 +50,21 @@
 | 출처 | 전체 | SpaceX |
 |---|---|---|
 | Electrek SpaceX | 79 | 73 |
+| Hacker News Starlink | 50 | 39 |
 | Federal Register SpaceX | 20 | 20 |
+| Space.com | 50 | 16 |
 | TechCrunch SpaceX | 18 | 15 |
-| Space.com | 50 | 15 |
-| Hacker News Starlink | 50 | 14 |
 | Teslarati SpaceX | 10 | 10 |
 | Hacker News SpaceX | 50 | 10 |
 | Everyday Astronaut | 10 | 10 |
+| Tesla Oracle | 10 | 8 |
 | Spaceflight Now | 10 | 7 |
 | Broadband Breakfast | 15 | 7 |
-| Tesla Oracle | 10 | 7 |
 | NASASpaceflight | 10 | 6 |
 | Payload | 13 | 5 |
 | Light Reading | 50 | 5 |
 | SpacePolicyOnline | 10 | 3 |
 | Via Satellite | 10 | 3 |
-| The Decoder | 10 | 3 |
 | Space Intel Report | 10 | 2 |
 | Advanced Television | 10 | 1 |
 | Universe Today | 20 | 1 |
@@ -86,12 +86,13 @@
 
 ## 차단 사이트 인용 횟수 (접속 안 함)
 
-twitter.com 49, x.com 41, t.co 13, reddit.com 10, google.com 10, cnbc.com 9, bloomberg.com 6, apnews.com 4, theguardian.com 3, reuters.com 3
+twitter.com 51, x.com 42, t.co 13, cnbc.com 11, google.com 11, reddit.com 10, reuters.com 6, bloomberg.com 5, apnews.com 5, theguardian.com 4
 
 ## 최근 실행 10회
 
 | 시각(UTC) | 씨앗 성공 | 요청 | 오류 | 차단 접속 | 통과 |
 |---|---|---|---|---|---|
+| 2026-11-14 17:59 | 34/43 | 158 | 8 | 0 | 0 |
 | 2026-11-14 06:18 | 35/43 | 161 | 7 | 0 | 0 |
 | 2026-11-13 19:39 | 35/43 | 163 | 9 | 0 | 0 |
 | 2026-11-13 06:41 | 35/43 | 165 | 9 | 0 | 0 |
@@ -101,6 +102,5 @@ twitter.com 49, x.com 41, t.co 13, reddit.com 10, google.com 10, cnbc.com 9, blo
 | 2026-11-11 14:22 | 36/43 | 172 | 11 | 0 | 1 |
 | 2026-11-11 06:13 | 36/43 | 176 | 12 | 0 | 1 |
 | 2026-11-10 23:18 | 37/43 | 180 | 11 | 0 | 1 |
-| 2026-11-10 14:50 | 35/43 | 178 | 14 | 0 | 0 |
 
 ※ 기계 시험은 접속·형식만 본 것입니다. 정보 제공용이며 투자 자문이 아닙니다.

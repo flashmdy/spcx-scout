@@ -1,8 +1,60 @@
 {
- "generated_at": "2026-11-14T06:18:50+00:00",
- "count_48h": 57,
- "new_this_run": 13,
+ "generated_at": "2026-11-14T17:59:07+00:00",
+ "count_48h": 50,
+ "new_this_run": 4,
  "items": [
+  {
+   "title": "This Week In Space podcast: Episode 236 — Alienspotting",
+   "url": "https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-236-alienspotting",
+   "domains": [
+    "space.com"
+   ],
+   "published": "2026-11-14T15:56+00:00",
+   "topics": [
+    "기타"
+   ],
+   "official": false,
+   "score": 1
+  },
+  {
+   "title": "Why did Starship Flight 15 booster abort 'chopsticks' landing catch? SpaceX still investigating (video)",
+   "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-says-starship-flight-15-booster-aborted-chopsticks-landing-catch-after-launch-due-to-guidance-issue-video",
+   "domains": [
+    "space.com"
+   ],
+   "published": "2026-11-14T14:53+00:00",
+   "topics": [
+    "발사·Starship"
+   ],
+   "official": false,
+   "score": 1
+  },
+  {
+   "title": "Watch SpaceX will attempt its 1st-ever 'chopsticks' Starship landing catch of a rocket from orbit today (livestream)",
+   "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-chopsticks-catch-starship-upper-stage-flight-14",
+   "domains": [
+    "space.com"
+   ],
+   "published": "2026-11-14T13:00+00:00",
+   "topics": [
+    "발사·Starship"
+   ],
+   "official": false,
+   "score": 1
+  },
+  {
+   "title": "Tesla puts steering-less Cybercab on sale for $29,990 before the end of 2026, as Musk promised",
+   "url": "https://www.teslaoracle.com/2026/11/14/tesla-puts-steering-less-cybercab-on-sale-for-29990-before-the-end-of-2026-as-musk-promised/",
+   "domains": [
+    "teslaoracle.com"
+   ],
+   "published": "2026-11-14T10:26+00:00",
+   "topics": [
+    "테슬라·머스크"
+   ],
+   "official": false,
+   "score": 1
+  },
   {
    "title": "SpaceX's giant rocket may leave NASA in the dust",
    "url": "https://text.npr.org/nx-s1-6039312",
@@ -469,58 +521,6 @@
    "published": "2026-11-12T21:41+00:00",
    "topics": [
     "기타"
-   ],
-   "official": false,
-   "score": 1
-  },
-  {
-   "title": "SpaceX backs child protection initiative with 750 free Starlink kits",
-   "url": "https://driveteslacanada.ca/news/spacex-free-starlink-childrens-homes-africa/?utm_source=rss&utm_medium=rss&utm_campaign=spacex-free-starlink-childrens-homes-africa",
-   "domains": [
-    "driveteslacanada.ca"
-   ],
-   "published": "2026-11-12T21:12+00:00",
-   "topics": [
-    "Starlink·통신"
-   ],
-   "official": false,
-   "score": 1
-  },
-  {
-   "title": "SpaceX's bid for Grain's lowband spectrum takes a step forward",
-   "url": "https://www.lightreading.com/5g/spacex-s-bid-for-grain-s-lowband-spectrum-takes-a-step-forward",
-   "domains": [
-    "lightreading.com"
-   ],
-   "published": "2026-11-12T21:00+00:00",
-   "topics": [
-    "정부·규제"
-   ],
-   "official": false,
-   "score": 1
-  },
-  {
-   "title": "Ukraine Says Starshield Disruptions Are Back As U.S. Negotiators Meet With Putin",
-   "url": "https://www.twz.com/news-features/ukraine-says-starshield-disruptions-are-back-as-u-s-negotiators-meet-with-putin",
-   "domains": [
-    "twz.com"
-   ],
-   "published": "2026-11-12T16:00-05:00",
-   "topics": [
-    "국방"
-   ],
-   "official": false,
-   "score": 1
-  },
-  {
-   "title": "Avoiding the Starlink Trap: Why the Satellite Industry Must Think Smarter, Not Bigger",
-   "url": "https://www.satellitetoday.com/opinion/2026/11/12/avoiding-the-starlink-trap-why-the-satellite-industry-must-think-smarter-not-bigger/",
-   "domains": [
-    "satellitetoday.com"
-   ],
-   "published": "2026-11-12T20:56+00:00",
-   "topics": [
-    "Starlink·통신"
    ],
    "official": false,
    "score": 1
