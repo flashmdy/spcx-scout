@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-14T17:59:07+00:00",
+ "generated_at": "2026-11-14T22:22:21+00:00",
  "signals": {
   "candidates_passed": 0,
   "candidates_seen_30d": 289,
@@ -49,10 +49,10 @@
    "robots": "허용",
    "feed": "https://9to5google.com/feed/",
    "has_dates": true,
-   "items_7d": 100,
+   "items_7d": 98,
    "kw_ratio": 0.0,
    "verdict": "부분(SpaceX 글 없음)",
-   "score": 303.0
+   "score": 297.0
   },
   {
    "domain": "9to5toys.com",
@@ -94,14 +94,14 @@
   },
   {
    "domain": "hubspot.com",
-   "citations": 19,
+   "citations": 20,
    "cited_by": [
     "Broadband Breakfast"
    ],
    "sample": "https://payments-na1.hubspot.com/payments/7TyXGqH4bm?referrer=PAYMENT_LINK&ref=broadbandbreakfast.com",
    "titles": [
-    "FCC Sets Upper C-band Auction Schedule",
-    "Bogdan-Martin Re-Elected to Lead ITU"
+    "SpaceX’s Starship Soars Into Orbit After Booster Explosion Prevents an Unprecedented Doubl",
+    "FCC Sets Upper C-band Auction Schedule"
    ],
    "robots": "허용",
    "feed": "https://hubspot.com/feed/",
@@ -109,7 +109,7 @@
    "items_7d": 4,
    "kw_ratio": 0.0,
    "verdict": "부분(SpaceX 글 없음)",
-   "score": 19.0
+   "score": 20.0
   },
   {
    "domain": "futureplc.com",
@@ -171,7 +171,7 @@
   },
   {
    "domain": "addtoany.com",
-   "citations": 24,
+   "citations": 25,
    "cited_by": [
     "Advanced Television",
     "Data Center Dynamics",
@@ -180,7 +180,7 @@
    "sample": "https://www.addtoany.com/add_to/facebook?linkurl=https%3A%2F%2Fwww.advanced-television.com%2F2026%2F11%2F09%2Fviasat-our-new-satellites-will-drive-broadband%2F&linkname=Viasat%3A%20%E2%80%9COur%20new%20satellites%20will%20drive%20broadband%E2%80%9D",
    "titles": [
     "South Africa ready for Starlink?",
-    "Starship IFT-15 is in Orbit — Will it be “Caught” When It Returns to Earth?"
+    "SpaceX Catches a Starship"
    ],
    "robots": "허용",
    "feed": "",
@@ -188,7 +188,7 @@
    "items_7d": 0,
    "kw_ratio": 0.0,
    "verdict": "부분(피드 없음)",
-   "score": 2.4
+   "score": 2.5
   },
   {
    "domain": "apple.news",
@@ -251,7 +251,7 @@
    "name": "Hacker News SpaceX",
    "result": "성공",
    "items": 50,
-   "spacex_items": 10
+   "spacex_items": 13
   },
   {
    "name": "Federal Register SpaceX",
@@ -281,7 +281,7 @@
    "name": "SpacePolicyOnline",
    "result": "성공",
    "items": 10,
-   "spacex_items": 3
+   "spacex_items": 4
   },
   {
    "name": "Payload",
@@ -365,7 +365,7 @@
    "name": "Broadband Breakfast",
    "result": "성공",
    "items": 15,
-   "spacex_items": 7
+   "spacex_items": 8
   },
   {
    "name": "Light Reading",
@@ -419,7 +419,7 @@
    "name": "Drive Tesla Canada",
    "result": "성공",
    "items": 10,
-   "spacex_items": 1
+   "spacex_items": 3
   },
   {
    "name": "Tesla Oracle",
@@ -435,9 +435,9 @@
   },
   {
    "name": "The Decoder",
-   "result": "오류: TimeoutError",
-   "items": 0,
-   "spacex_items": 0
+   "result": "성공",
+   "items": 10,
+   "spacex_items": 2
   },
   {
    "name": "Data Center Dynamics",
@@ -467,23 +467,23 @@
    "name": "Hacker News Starlink",
    "result": "성공",
    "items": 50,
-   "spacex_items": 39
+   "spacex_items": 24
   }
  ],
  "blocked_cited": {
-  "twitter.com": 51,
-  "x.com": 42,
+  "twitter.com": 50,
+  "x.com": 45,
   "t.co": 13,
-  "cnbc.com": 11,
   "google.com": 11,
   "reddit.com": 10,
-  "reuters.com": 6,
-  "bloomberg.com": 5,
-  "apnews.com": 5,
-  "theguardian.com": 4
+  "cnbc.com": 9,
+  "bloomberg.com": 6,
+  "reuters.com": 5,
+  "theguardian.com": 4,
+  "apnews.com": 4
  },
  "stats": {
-  "requests": 158,
+  "requests": 162,
   "blocked_skipped": 0,
   "robots_denied": 3,
   "errors": 8,

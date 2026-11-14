@@ -1,8 +1,86 @@
 {
- "generated_at": "2026-11-14T17:59:07+00:00",
- "count_48h": 50,
- "new_this_run": 4,
+ "generated_at": "2026-11-14T22:22:21+00:00",
+ "count_48h": 44,
+ "new_this_run": 6,
  "items": [
+  {
+   "title": "SpaceX Catches Starship After Historic Return From Orbit on Flight 15",
+   "url": "https://driveteslacanada.ca/news/spacex-catches-starship-flight-15/?utm_source=rss&utm_medium=rss&utm_campaign=spacex-catches-starship-flight-15",
+   "domains": [
+    "driveteslacanada.ca"
+   ],
+   "published": "2026-11-14T21:56+00:00",
+   "topics": [
+    "발사·Starship"
+   ],
+   "official": false,
+   "score": 1
+  },
+  {
+   "title": "SpaceX Catches a Starship",
+   "url": "https://spacepolicyonline.com/news/spacex-catches-a-starship/",
+   "domains": [
+    "spacepolicyonline.com"
+   ],
+   "published": "2026-11-14T21:53+00:00",
+   "topics": [
+    "발사·Starship"
+   ],
+   "official": false,
+   "score": 1
+  },
+  {
+   "title": "SpaceX catches part of Starship rocket on its return to Earth",
+   "url": "https://www.bbc.com/news/live/cq0k683l3dz3t",
+   "domains": [
+    "bbc.com"
+   ],
+   "published": "2026-11-14T21:49+00:00",
+   "topics": [
+    "발사·Starship"
+   ],
+   "official": false,
+   "score": 1
+  },
+  {
+   "title": "SpaceX makes history, catching Starship from orbit for the first time",
+   "url": "https://www.teslarati.com/spacex-catches-starship-first/",
+   "domains": [
+    "teslarati.com"
+   ],
+   "published": "2026-11-14T21:40+00:00",
+   "topics": [
+    "발사·Starship"
+   ],
+   "official": false,
+   "score": 1
+  },
+  {
+   "title": "SpaceX’s Starship Soars Into Orbit After Booster Explosion Prevents an Unprecedented Double Catch",
+   "url": "https://broadbandbreakfast.com/spacexs-starship-soars-into-orbit-ater-booster-explosion-prevents-and-unprecedented-double-catch/",
+   "domains": [
+    "broadbandbreakfast.com"
+   ],
+   "published": "2026-11-14T19:46+00:00",
+   "topics": [
+    "발사·Starship"
+   ],
+   "official": false,
+   "score": 1
+  },
+  {
+   "title": "SpaceX Starship Flight 15 Reaches Orbit After Super Heavy Booster Splashdown",
+   "url": "https://driveteslacanada.ca/news/spacex-starship-flight-15/?utm_source=rss&utm_medium=rss&utm_campaign=spacex-starship-flight-15",
+   "domains": [
+    "driveteslacanada.ca"
+   ],
+   "published": "2026-11-14T16:33+00:00",
+   "topics": [
+    "발사·Starship"
+   ],
+   "official": false,
+   "score": 1
+  },
   {
    "title": "This Week In Space podcast: Episode 236 — Alienspotting",
    "url": "https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-236-alienspotting",
@@ -442,85 +520,6 @@
    "published": "2026-11-13T05:05+00:00",
    "topics": [
     "발사·Starship"
-   ],
-   "official": false,
-   "score": 1
-  },
-  {
-   "title": "Starship Flight 15: Ship 42 orbital, Booster diverts to ocean",
-   "url": "https://www.nasaspaceflight.com/2026/11/starship-flight-15-spacex-history/",
-   "domains": [
-    "nasaspaceflight.com"
-   ],
-   "published": "2026-11-13T04:24+00:00",
-   "topics": [
-    "발사·Starship"
-   ],
-   "official": false,
-   "score": 1
-  },
-  {
-   "title": "South Africa ready for Starlink?",
-   "url": "https://www.advanced-television.com/2026/11/13/south-africa-ready-for-starlink/",
-   "domains": [
-    "advanced-television.com"
-   ],
-   "published": "2026-11-13T03:16+00:00",
-   "topics": [
-    "Starlink·통신"
-   ],
-   "official": false,
-   "score": 1
-  },
-  {
-   "title": "Advocacy Groups Sue AI Giants to Freeze New Models, Warning of 'Catastrophic' Risks",
-   "url": "https://broadbandbreakfast.com/advocacy-groups-sue-ai-giants-to-freeze-new-models-warning-of-catastrophic-risks/",
-   "domains": [
-    "broadbandbreakfast.com"
-   ],
-   "published": "2026-11-13T01:31+00:00",
-   "topics": [
-    "AI·xAI"
-   ],
-   "official": false,
-   "score": 1
-  },
-  {
-   "title": "Pentagon Gives $150M Loan to Rocket Lab to Boost New Vehicle’s Launch Cadence",
-   "url": "https://www.airandspaceforces.com/pentagon-150m-loan-rocket-lab-new-launch-vehicle-cadence/",
-   "domains": [
-    "airandspaceforces.com"
-   ],
-   "published": "2026-11-12T23:17+00:00",
-   "topics": [
-    "국방",
-    "발사·Starship"
-   ],
-   "official": false,
-   "score": 1
-  },
-  {
-   "title": "SpaceX and Tesla move closer to potential $3.4 trillion merger in December: Report",
-   "url": "https://driveteslacanada.ca/news/spacex-tesla-merger-december-report/?utm_source=rss&utm_medium=rss&utm_campaign=spacex-tesla-merger-december-report",
-   "domains": [
-    "driveteslacanada.ca"
-   ],
-   "published": "2026-11-12T21:54+00:00",
-   "topics": [
-    "테슬라·머스크"
-   ],
-   "official": false,
-   "score": 1
-  },
-  {
-   "title": "SpaceX announces a $50 billion supercompute campus in Arizona",
-   "url": "https://driveteslacanada.ca/news/spacex-50-billion-supercompute-campus-cochise-county-arizona/?utm_source=rss&utm_medium=rss&utm_campaign=spacex-50-billion-supercompute-campus-cochise-county-arizona",
-   "domains": [
-    "driveteslacanada.ca"
-   ],
-   "published": "2026-11-12T21:41+00:00",
-   "topics": [
-    "기타"
    ],
    "official": false,
    "score": 1
