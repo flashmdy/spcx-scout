@@ -1,8 +1,74 @@
 {
- "generated_at": "2026-11-15T06:26:19+00:00",
- "count_48h": 41,
- "new_this_run": 3,
+ "generated_at": "2026-11-15T18:49:26+00:00",
+ "count_48h": 32,
+ "new_this_run": 5,
  "items": [
+  {
+   "title": "Zelensky urges US and Musk to lift Starlink restrictions",
+   "url": "https://www.bbc.com/news/articles/c6m25zg88k45o",
+   "domains": [
+    "bbc.com"
+   ],
+   "published": "2026-11-15T18:18+00:00",
+   "topics": [
+    "Starlink·통신",
+    "테슬라·머스크"
+   ],
+   "official": false,
+   "score": 1
+  },
+  {
+   "title": "Did the SpaceX IPO Move the South Bay Housing Market?",
+   "url": "https://www.realab.blog/p/did-the-spacex-ipo-move-the-south",
+   "domains": [
+    "realab.blog"
+   ],
+   "published": "2026-11-15T18:16+00:00",
+   "topics": [
+    "금융·IPO"
+   ],
+   "official": false,
+   "score": 1
+  },
+  {
+   "title": "Drive Tesla Download: Top Stories for November 9-15",
+   "url": "https://driveteslacanada.ca/news/drive-tesla-download-november-9-15/?utm_source=rss&utm_medium=rss&utm_campaign=drive-tesla-download-november-9-15",
+   "domains": [
+    "driveteslacanada.ca"
+   ],
+   "published": "2026-11-15T17:38+00:00",
+   "topics": [
+    "테슬라·머스크"
+   ],
+   "official": false,
+   "score": 1
+  },
+  {
+   "title": "The epic story of Flight 15 Starship: ~22 hours in space and a precise landing catch",
+   "url": "https://www.teslaoracle.com/2026/11/15/the-epic-story-of-flight-15-starship-22-hours-in-space-and-a-precise-landing-catch/",
+   "domains": [
+    "teslaoracle.com"
+   ],
+   "published": "2026-11-15T13:32+00:00",
+   "topics": [
+    "발사·Starship"
+   ],
+   "official": false,
+   "score": 1
+  },
+  {
+   "title": "What's next for SpaceX's Starship after epic Flight 15 chopsticks catch?",
+   "url": "https://www.space.com/space-exploration/launches-spacecraft/whats-next-for-spacexs-starship-after-epic-flight-15-chopsticks-catch",
+   "domains": [
+    "space.com"
+   ],
+   "published": "2026-11-15T11:00+00:00",
+   "topics": [
+    "발사·Starship"
+   ],
+   "official": false,
+   "score": 1
+  },
   {
    "title": "SpaceX’s Starship Returns From Orbit and Is Captured by Launch Pad Arms in a Dramatic First",
    "url": "https://broadbandbreakfast.com/spacexs-starship-returns-from-orbit-and-is-captured-by-launch-pad-arms-in-a-dramatic-first/",
@@ -351,175 +417,6 @@
    "published": "2026-11-13T18:55+00:00",
    "topics": [
     "AI·xAI"
-   ],
-   "official": false,
-   "score": 1
-  },
-  {
-   "title": "SpaceX Starship Flight 15: How to watch the double catch attempt",
-   "url": "https://www.teslarati.com/spacex-starship-flight-15-how-to-watch-the-double-catch-attempt/",
-   "domains": [
-    "teslarati.com"
-   ],
-   "published": "2026-11-13T18:07+00:00",
-   "topics": [
-    "발사·Starship"
-   ],
-   "official": false,
-   "score": 1
-  },
-  {
-   "title": "Banks bar Chinese and Hong Kong investors from Anthropic IPO over US export controls",
-   "url": "https://the-decoder.com/banks-bar-chinese-and-hong-kong-investors-from-anthropic-ipo-over-us-export-controls/",
-   "domains": [
-    "the-decoder.com"
-   ],
-   "published": "2026-11-13T18:01+00:00",
-   "topics": [
-    "금융·IPO"
-   ],
-   "official": false,
-   "score": 1
-  },
-  {
-   "title": "Amazon Leo Launch Delayed One Day",
-   "url": "https://broadbandbreakfast.com/amazon-leo-launch-delayed-one-day/",
-   "domains": [
-    "broadbandbreakfast.com"
-   ],
-   "published": "2026-11-13T17:04+00:00",
-   "topics": [
-    "발사·Starship"
-   ],
-   "official": false,
-   "score": 1
-  },
-  {
-   "title": "AST SpaceMobile to government customers: We’re not like Starlink. You keep data control, you keep the kill switch",
-   "url": "https://www.spaceintelreport.com/ast-spacemobile-to-government-customers-were-not-like-starlink-you-keep-data-control-you-keep-the-kill-switch/?utm_source=rss&utm_medium=rss&utm_campaign=ast-spacemobile-to-government-customers-were-not-like-starlink-you-keep-data-control-you-keep-the-kill-switch",
-   "domains": [
-    "spaceintelreport.com"
-   ],
-   "published": "2026-11-13T16:25+00:00",
-   "topics": [
-    "Starlink·통신"
-   ],
-   "official": false,
-   "score": 1
-  },
-  {
-   "title": "SpaceX Starship is going for a catch that could change spaceflight forever",
-   "url": "https://www.teslarati.com/spacex-starship-flight-15-double-catch/",
-   "domains": [
-    "teslarati.com"
-   ],
-   "published": "2026-11-13T15:13+00:00",
-   "topics": [
-    "발사·Starship"
-   ],
-   "official": false,
-   "score": 1
-  },
-  {
-   "title": "Meta's Muse now calls businesses for you, but many companies might just hang up on the AI",
-   "url": "https://the-decoder.com/metas-muse-now-calls-businesses-for-you-but-many-companies-might-just-hang-up-on-the-ai/",
-   "domains": [
-    "the-decoder.com"
-   ],
-   "published": "2026-11-13T15:12+00:00",
-   "topics": [
-    "기타"
-   ],
-   "official": false,
-   "score": 1
-  },
-  {
-   "title": "The moments behind flying the most ambitious Starship mission yet",
-   "url": "https://www.spacex.com/content/starship/go-for-orbit",
-   "domains": [
-    "spacex.com"
-   ],
-   "published": "2026-11-13T14:20+00:00",
-   "topics": [
-    "발사·Starship"
-   ],
-   "official": false,
-   "score": 1
-  },
-  {
-   "title": "GOP Sen. Ernst Takes a Final Shot at Wasteful BEAD Spending",
-   "url": "https://broadbandbreakfast.com/gop-sen-ernst-takes-a-final-shot-at-wasteful-bead-spending/",
-   "domains": [
-    "broadbandbreakfast.com"
-   ],
-   "published": "2026-11-13T13:10+00:00",
-   "topics": [
-    "기타"
-   ],
-   "official": false,
-   "score": 1
-  },
-  {
-   "title": "Fallout From the Nvidia Scandal May Dampen Exuberance Around AI",
-   "url": "https://broadbandbreakfast.com/fallout-from-the-nvidia-scandal-may-dampen-exuberance-around-ai/",
-   "domains": [
-    "broadbandbreakfast.com"
-   ],
-   "published": "2026-11-13T13:01+00:00",
-   "topics": [
-    "기타"
-   ],
-   "official": false,
-   "score": 1
-  },
-  {
-   "title": "Double-catch drama: Why Starship's Flight 15 is so important to SpaceX",
-   "url": "https://www.space.com/space-exploration/launches-spacecraft/double-catch-drama-why-starships-flight-15-is-so-important-to-spacex",
-   "domains": [
-    "space.com"
-   ],
-   "published": "2026-11-13T13:00+00:00",
-   "topics": [
-    "발사·Starship"
-   ],
-   "official": false,
-   "score": 1
-  },
-  {
-   "title": "ULA delays to Saturday Vulcan rocket launch of 40 Leo satellites for Amazon",
-   "url": "https://spaceflightnow.com/2026/11/13/ulas-vulcan-rocket-plans-return-to-flight-with-launch-of-40-leo-satellites-for-amazon/",
-   "domains": [
-    "spaceflightnow.com"
-   ],
-   "published": "2026-11-13T12:25+00:00",
-   "topics": [
-    "발사·Starship"
-   ],
-   "official": false,
-   "score": 1
-  },
-  {
-   "title": "Powerful Vulcan Centaur rocket launching for 1st time in 9 months Nov. 14: Watch it live",
-   "url": "https://www.space.com/space-exploration/launches-spacecraft/ula-vulcan-centaur-return-to-flight-amazon-leo-internet-satellite-launch",
-   "domains": [
-    "space.com"
-   ],
-   "published": "2026-11-13T11:00+00:00",
-   "topics": [
-    "발사·Starship"
-   ],
-   "official": false,
-   "score": 1
-  },
-  {
-   "title": "'Don't panic': SpaceX pens familiar message on Starship ahead of historic double-catch test flight",
-   "url": "https://www.space.com/space-exploration/launches-spacecraft/dont-panic-spacex-pens-familiar-message-on-starship-ahead-of-historic-double-catch-test-flight",
-   "domains": [
-    "space.com"
-   ],
-   "published": "2026-11-13T08:03+00:00",
-   "topics": [
-    "발사·Starship"
    ],
    "official": false,
    "score": 1

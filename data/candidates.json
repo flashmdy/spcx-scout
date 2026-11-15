@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-15T06:26:19+00:00",
+ "generated_at": "2026-11-15T18:49:26+00:00",
  "signals": {
   "candidates_passed": 0,
-  "candidates_seen_30d": 289,
+  "candidates_seen_30d": 290,
   "feeds_failing_3x": [
    "DoD Contracts",
    "GDELT SpaceX",
@@ -89,10 +89,10 @@
    "robots": "허용",
    "feed": "https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml",
    "has_dates": true,
-   "items_7d": 15,
+   "items_7d": 20,
    "kw_ratio": 0.0,
    "verdict": "부분(SpaceX 글 없음)",
-   "score": 60.8
+   "score": 79.8
   },
   {
    "domain": "dronedj.com",
@@ -108,10 +108,10 @@
    "robots": "허용",
    "feed": "https://dronedj.com/feed/",
    "has_dates": true,
-   "items_7d": 14,
+   "items_7d": 13,
    "kw_ratio": 0.0,
    "verdict": "부분(SpaceX 글 없음)",
-   "score": 54.0
+   "score": 50.4
   },
   {
    "domain": "hubspot.com",
@@ -140,8 +140,8 @@
    ],
    "sample": "https://futureplc.com/future-member-terms-and-conditions/",
    "titles": [
-    "This Week In Space podcast: Episode 236 — Alienspotting",
-    "Why did Starship Flight 15 booster abort 'chopsticks' landing catch? SpaceX still investig"
+    "What's next for SpaceX's Starship after epic Flight 15 chopsticks catch?",
+    "This Week In Space podcast: Episode 236 — Alienspotting"
    ],
    "robots": "허용",
    "feed": "https://futureplc.com/feed/",
@@ -153,7 +153,7 @@
   },
   {
    "domain": "whatsapp.com",
-   "citations": 53,
+   "citations": 54,
    "cited_by": [
     "Space Intel Report",
     "Tesla Oracle"
@@ -169,7 +169,7 @@
    "items_7d": 0,
    "kw_ratio": 0.0,
    "verdict": "부분(피드 없음)",
-   "score": 5.3
+   "score": 5.4
   },
   {
    "domain": "future-advertising.com",
@@ -179,8 +179,8 @@
    ],
    "sample": "https://go.future-advertising.com/Spacecom-Media-Kit.html",
    "titles": [
-    "This Week In Space podcast: Episode 236 — Alienspotting",
-    "Why did Starship Flight 15 booster abort 'chopsticks' landing catch? SpaceX still investig"
+    "What's next for SpaceX's Starship after epic Flight 15 chopsticks catch?",
+    "This Week In Space podcast: Episode 236 — Alienspotting"
    ],
    "robots": "허용",
    "feed": "https://futureplc.com/feed/",
@@ -241,7 +241,7 @@
    "name": "Space.com",
    "result": "성공",
    "items": 50,
-   "spacex_items": 16
+   "spacex_items": 15
   },
   {
    "name": "Advanced Television",
@@ -341,8 +341,8 @@
   },
   {
    "name": "NASA",
-   "result": "오류: HTTPError",
-   "items": 0,
+   "result": "성공",
+   "items": 10,
    "spacex_items": 0
   },
   {
@@ -421,13 +421,13 @@
    "name": "Drive Tesla Canada",
    "result": "성공",
    "items": 10,
-   "spacex_items": 3
+   "spacex_items": 4
   },
   {
    "name": "Tesla Oracle",
    "result": "성공",
    "items": 10,
-   "spacex_items": 8
+   "spacex_items": 9
   },
   {
    "name": "VentureBeat",
@@ -439,7 +439,7 @@
    "name": "The Decoder",
    "result": "성공",
    "items": 10,
-   "spacex_items": 2
+   "spacex_items": 0
   },
   {
    "name": "Data Center Dynamics",
@@ -469,26 +469,26 @@
    "name": "Hacker News Starlink",
    "result": "성공",
    "items": 50,
-   "spacex_items": 23
+   "spacex_items": 33
   }
  ],
  "blocked_cited": {
-  "twitter.com": 50,
+  "twitter.com": 51,
   "x.com": 45,
-  "t.co": 13,
-  "google.com": 11,
+  "t.co": 14,
+  "google.com": 12,
+  "cnbc.com": 10,
   "reddit.com": 10,
-  "cnbc.com": 9,
-  "bloomberg.com": 6,
+  "bloomberg.com": 5,
+  "theguardian.com": 5,
   "apnews.com": 5,
-  "reuters.com": 5,
-  "theguardian.com": 4
+  "reuters.com": 5
  },
  "stats": {
-  "requests": 166,
+  "requests": 164,
   "blocked_skipped": 0,
   "robots_denied": 2,
-  "errors": 9,
+  "errors": 8,
   "blocked_contacted": 0
  }
 }
