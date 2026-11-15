@@ -1,8 +1,34 @@
 {
- "generated_at": "2026-11-14T22:22:21+00:00",
- "count_48h": 44,
- "new_this_run": 6,
+ "generated_at": "2026-11-15T06:26:19+00:00",
+ "count_48h": 41,
+ "new_this_run": 3,
  "items": [
+  {
+   "title": "SpaceX’s Starship Returns From Orbit and Is Captured by Launch Pad Arms in a Dramatic First",
+   "url": "https://broadbandbreakfast.com/spacexs-starship-returns-from-orbit-and-is-captured-by-launch-pad-arms-in-a-dramatic-first/",
+   "domains": [
+    "broadbandbreakfast.com"
+   ],
+   "published": "2026-11-15T04:10+00:00",
+   "topics": [
+    "발사·Starship"
+   ],
+   "official": false,
+   "score": 1
+  },
+  {
+   "title": "SpaceX Successfully Catches Starship Upper Stage",
+   "url": "https://payloadspace.com/spacex-successfully-catches-starship-upper-stage/",
+   "domains": [
+    "payloadspace.com"
+   ],
+   "published": "2026-11-15T01:39+00:00",
+   "topics": [
+    "발사·Starship"
+   ],
+   "official": false,
+   "score": 1
+  },
   {
    "title": "SpaceX Catches Starship After Historic Return From Orbit on Flight 15",
    "url": "https://driveteslacanada.ca/news/spacex-catches-starship-flight-15/?utm_source=rss&utm_medium=rss&utm_campaign=spacex-catches-starship-flight-15",
@@ -47,6 +73,19 @@
    "url": "https://www.teslarati.com/spacex-catches-starship-first/",
    "domains": [
     "teslarati.com"
+   ],
+   "published": "2026-11-14T21:40+00:00",
+   "topics": [
+    "발사·Starship"
+   ],
+   "official": false,
+   "score": 1
+  },
+  {
+   "title": "Baby, She's Back! SpaceX Catches a Starship From Orbit for First Time",
+   "url": "https://www.universetoday.com/articles/baby-shes-back-spacex-catches-a-starship-from-orbit-for-first-time",
+   "domains": [
+    "universetoday.com"
    ],
    "published": "2026-11-14T21:40+00:00",
    "topics": [
@@ -479,45 +518,6 @@
     "space.com"
    ],
    "published": "2026-11-13T08:03+00:00",
-   "topics": [
-    "발사·Starship"
-   ],
-   "official": false,
-   "score": 1
-  },
-  {
-   "title": "Tesla Roadster’s rocket thruster nozzles spotted for the first time at NASA’s Max Power event",
-   "url": "https://www.teslaoracle.com/2026/11/12/roadster-rocket-spotted-with-thruster-nozzles-for-the-first-time-at-nasas-max-power-event/",
-   "domains": [
-    "teslaoracle.com"
-   ],
-   "published": "2026-11-13T07:01+00:00",
-   "topics": [
-    "테슬라·머스크"
-   ],
-   "official": false,
-   "score": 1
-  },
-  {
-   "title": "Tesla and SpaceX merger talks hit a new stage, and one hurdle remains",
-   "url": "https://www.teslarati.com/tesla-spacex-merger-timeline/",
-   "domains": [
-    "teslarati.com"
-   ],
-   "published": "2026-11-13T05:53+00:00",
-   "topics": [
-    "테슬라·머스크"
-   ],
-   "official": false,
-   "score": 1
-  },
-  {
-   "title": "Watch SpaceX attempt a historic Starship launch and double-catch landing today (Nov. 13)",
-   "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-launching-historic-double-catch-starship-test-flight-today-watch-it-live",
-   "domains": [
-    "space.com"
-   ],
-   "published": "2026-11-13T05:05+00:00",
    "topics": [
     "발사·Starship"
    ],

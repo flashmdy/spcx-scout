@@ -1,6 +1,6 @@
 # SPCX 뉴스 모음 — 최근 48시간
 
-갱신: 2026-11-15 07:22 (한국 시간) · 글 44건 · 교차 확인 = 같은 소식을 낸 사이트 수 · 🏛 = 정부·공식 출처
+갱신: 2026-11-15 15:26 (한국 시간) · 글 41건 · 교차 확인 = 같은 소식을 낸 사이트 수 · 🏛 = 정부·공식 출처
 
 ## 금융·IPO (1)
 
@@ -12,43 +12,39 @@
 - [Bogdan-Martin Re-Elected to Lead ITU](https://broadbandbreakfast.com/bogdan-martin-re-elected-to-lead-itu/) — broadbandbreakfast.com · 11-14 04:46
 - [The FAA grants SpaceX license for Starship Flight 15, just hours ahead of launch](https://www.teslaoracle.com/2026/11/13/spacex-is-still-waiting-for-regulatory-approval-hours-ahead-of-flight-15-launch/) — teslaoracle.com · 11-14 04:03
 
-## 국방 (2)
+## 국방 (1)
 
 - [Intellian CEO Unpacks Terminal Strategy for Aero and Military as Ground Tech Player Diversifies](https://www.satellitetoday.com/technology/2026/11/13/intellian-ceo-unpacks-terminal-strategy-for-aero-and-military-as-ground-tech-player-diversifies/) — satellitetoday.com · 11-14 04:56
-- [Pentagon Gives $150M Loan to Rocket Lab to Boost New Vehicle’s Launch Cadence](https://www.airandspaceforces.com/pentagon-150m-loan-rocket-lab-new-launch-vehicle-cadence/) — airandspaceforces.com · 11-13 08:17
 
-## AI·xAI (2)
+## AI·xAI (1)
 
 - [OpenAI rebuilt AI shopping from scratch with ChatGPT Wallet](https://the-decoder.com/openai-rebuilt-ai-shopping-from-scratch-with-chatgpt-wallet/) — the-decoder.com · 11-14 03:55
-- [Advocacy Groups Sue AI Giants to Freeze New Models, Warning of 'Catastrophic' Risks](https://broadbandbreakfast.com/advocacy-groups-sue-ai-giants-to-freeze-new-models-warning-of-catastrophic-risks/) — broadbandbreakfast.com · 11-13 10:31
 
-## Starlink·통신 (3)
+## Starlink·통신 (2)
 
 - [United touts Starlink competitive advantage as rollout accelerates](https://driveteslacanada.ca/news/united-airlines-starlink-competitive-advantage-half-flights/?utm_source=rss&utm_medium=rss&utm_campaign=united-airlines-starlink-competitive-advantage-half-flights) — driveteslacanada.ca · 11-14 08:33
 - [AST SpaceMobile to government customers: We’re not like Starlink. You keep data control, you keep the kill switch](https://www.spaceintelreport.com/ast-spacemobile-to-government-customers-were-not-like-starlink-you-keep-data-control-you-keep-the-kill-switch/?utm_source=rss&utm_medium=rss&utm_campaign=ast-spacemobile-to-government-customers-were-not-like-starlink-you-keep-data-control-you-keep-the-kill-switch) — spaceintelreport.com · 11-14 01:25
-- [South Africa ready for Starlink?](https://www.advanced-television.com/2026/11/13/south-africa-ready-for-starlink/) — advanced-television.com · 11-13 12:16
 
-## 발사·Starship (24)
+## 발사·Starship (25)
 
+- [SpaceX’s Starship Returns From Orbit and Is Captured by Launch Pad Arms in a Dramatic First](https://broadbandbreakfast.com/spacexs-starship-returns-from-orbit-and-is-captured-by-launch-pad-arms-in-a-dramatic-first/) — broadbandbreakfast.com · 11-15 13:10
+- [SpaceX Successfully Catches Starship Upper Stage](https://payloadspace.com/spacex-successfully-catches-starship-upper-stage/) — payloadspace.com · 11-15 10:39
 - [SpaceX Catches Starship After Historic Return From Orbit on Flight 15](https://driveteslacanada.ca/news/spacex-catches-starship-flight-15/?utm_source=rss&utm_medium=rss&utm_campaign=spacex-catches-starship-flight-15) — driveteslacanada.ca · 11-15 06:56
 - [SpaceX Catches a Starship](https://spacepolicyonline.com/news/spacex-catches-a-starship/) — spacepolicyonline.com · 11-15 06:53
 - [SpaceX catches part of Starship rocket on its return to Earth](https://www.bbc.com/news/live/cq0k683l3dz3t) — bbc.com · 11-15 06:49
 - [SpaceX makes history, catching Starship from orbit for the first time](https://www.teslarati.com/spacex-catches-starship-first/) — teslarati.com · 11-15 06:40
+- [Baby, She's Back! SpaceX Catches a Starship From Orbit for First Time](https://www.universetoday.com/articles/baby-shes-back-spacex-catches-a-starship-from-orbit-for-first-time) — universetoday.com · 11-15 06:40
 - [SpaceX’s Starship Soars Into Orbit After Booster Explosion Prevents an Unprecedented Double Catch](https://broadbandbreakfast.com/spacexs-starship-soars-into-orbit-ater-booster-explosion-prevents-and-unprecedented-double-catch/) — broadbandbreakfast.com · 11-15 04:46
 - [SpaceX Starship Flight 15 Reaches Orbit After Super Heavy Booster Splashdown](https://driveteslacanada.ca/news/spacex-starship-flight-15/?utm_source=rss&utm_medium=rss&utm_campaign=spacex-starship-flight-15) — driveteslacanada.ca · 11-15 01:33
 - [Why did Starship Flight 15 booster abort 'chopsticks' landing catch? SpaceX still investigating (video)](https://www.space.com/space-exploration/launches-spacecraft/spacex-says-starship-flight-15-booster-aborted-chopsticks-landing-catch-after-launch-due-to-guidance-issue-video) — space.com · 11-14 23:53
 - [Watch SpaceX will attempt its 1st-ever 'chopsticks' Starship landing catch of a rocket from orbit today (livestream)](https://www.space.com/space-exploration/launches-spacecraft/spacex-chopsticks-catch-starship-upper-stage-flight-14) — space.com · 11-14 22:00
 - [Starship IFT-15 is in Orbit — Will it be “Caught” When It Returns to Earth?](https://spacepolicyonline.com/news/starship-ift-15-is-in-orbit-will-it-be-caught-when-it-returns-to-earth/) — spacepolicyonline.com · 11-14 08:54
-- [SpaceX launches Starship on ambitious 22-hour Flight 15 test, but aborts booster 'chopsticks' catch (video)](https://www.space.com/space-exploration/launches-spacecraft/spacex-starship-flight-15-chopsticks-double-catch-super-heavy-ship) — space.com · 11-14 08:20
-- [SpaceX Launches Starship But Passes Up Booster Catch for Safety's Sake](https://www.universetoday.com/articles/spacex-launches-starship-but-passes-up-booster-catch-for-safetys-sake) — universetoday.com · 11-14 08:12
-- [Watch the live streams of Starship Flight 15 with live updates](https://www.teslaoracle.com/2026/11/13/watch-the-live-streams-of-starship-flight-15-with-live-updates/) — teslaoracle.com · 11-14 07:17
-- …외 12건
+- …외 13건
 
-## 테슬라·머스크 (3)
+## 테슬라·머스크 (2)
 
 - [Tesla puts steering-less Cybercab on sale for $29,990 before the end of 2026, as Musk promised](https://www.teslaoracle.com/2026/11/14/tesla-puts-steering-less-cybercab-on-sale-for-29990-before-the-end-of-2026-as-musk-promised/) — teslaoracle.com · 11-14 19:26
 - [Tesla Roadster’s rocket thruster nozzles spotted for the first time at NASA’s Max Power event](https://www.teslaoracle.com/2026/11/12/roadster-rocket-spotted-with-thruster-nozzles-for-the-first-time-at-nasas-max-power-event/) — teslaoracle.com · 11-13 16:01
-- [Tesla and SpaceX merger talks hit a new stage, and one hurdle remains](https://www.teslarati.com/tesla-spacex-merger-timeline/) — teslarati.com · 11-13 14:53
 
 ## 기타 (6)
 

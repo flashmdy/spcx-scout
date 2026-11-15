@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-14T22:22:21+00:00",
+ "generated_at": "2026-11-15T06:26:19+00:00",
  "signals": {
   "candidates_passed": 0,
   "candidates_seen_30d": 289,
@@ -18,7 +18,7 @@
  "top": [
   {
    "domain": "9to5mac.com",
-   "citations": 20,
+   "citations": 24,
    "cited_by": [
     "Electrek SpaceX"
    ],
@@ -33,11 +33,11 @@
    "items_7d": 100,
    "kw_ratio": 0.0,
    "verdict": "부분(SpaceX 글 없음)",
-   "score": 404.0
+   "score": 484.8
   },
   {
    "domain": "9to5google.com",
-   "citations": 15,
+   "citations": 18,
    "cited_by": [
     "Electrek SpaceX"
    ],
@@ -49,14 +49,14 @@
    "robots": "허용",
    "feed": "https://9to5google.com/feed/",
    "has_dates": true,
-   "items_7d": 98,
+   "items_7d": 97,
    "kw_ratio": 0.0,
    "verdict": "부분(SpaceX 글 없음)",
-   "score": 297.0
+   "score": 352.8
   },
   {
    "domain": "9to5toys.com",
-   "citations": 15,
+   "citations": 18,
    "cited_by": [
     "Electrek SpaceX"
    ],
@@ -71,11 +71,32 @@
    "items_7d": 50,
    "kw_ratio": 0.0,
    "verdict": "부분(SpaceX 글 없음)",
-   "score": 153.0
+   "score": 183.6
+  },
+  {
+   "domain": "nytimes.com",
+   "citations": 19,
+   "cited_by": [
+    "Electrek SpaceX",
+    "Space.com",
+    "Teslarati SpaceX"
+   ],
+   "sample": "https://www.nytimes.com/2026/11/02/us/politics/elon-musk-midterm-spending.html",
+   "titles": [
+    "SpaceX makes history, catching Starship from orbit for the first time",
+    "SpaceX Starship is going for a catch that could change spaceflight forever"
+   ],
+   "robots": "허용",
+   "feed": "https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml",
+   "has_dates": true,
+   "items_7d": 15,
+   "kw_ratio": 0.0,
+   "verdict": "부분(SpaceX 글 없음)",
+   "score": 60.8
   },
   {
    "domain": "dronedj.com",
-   "citations": 15,
+   "citations": 18,
    "cited_by": [
     "Electrek SpaceX"
    ],
@@ -90,18 +111,18 @@
    "items_7d": 14,
    "kw_ratio": 0.0,
    "verdict": "부분(SpaceX 글 없음)",
-   "score": 45.0
+   "score": 54.0
   },
   {
    "domain": "hubspot.com",
-   "citations": 20,
+   "citations": 27,
    "cited_by": [
     "Broadband Breakfast"
    ],
    "sample": "https://payments-na1.hubspot.com/payments/7TyXGqH4bm?referrer=PAYMENT_LINK&ref=broadbandbreakfast.com",
    "titles": [
-    "SpaceX’s Starship Soars Into Orbit After Booster Explosion Prevents an Unprecedented Doubl",
-    "FCC Sets Upper C-band Auction Schedule"
+    "SpaceX’s Starship Returns From Orbit and Is Captured by Launch Pad Arms in a Dramatic Firs",
+    "SpaceX’s Starship Soars Into Orbit After Booster Explosion Prevents an Unprecedented Doubl"
    ],
    "robots": "허용",
    "feed": "https://hubspot.com/feed/",
@@ -109,11 +130,11 @@
    "items_7d": 4,
    "kw_ratio": 0.0,
    "verdict": "부분(SpaceX 글 없음)",
-   "score": 20.0
+   "score": 27.0
   },
   {
    "domain": "futureplc.com",
-   "citations": 36,
+   "citations": 39,
    "cited_by": [
     "Space.com"
    ],
@@ -128,11 +149,11 @@
    "items_7d": 0,
    "kw_ratio": 0.0,
    "verdict": "부분(날짜·최신성 미달)",
-   "score": 7.2
+   "score": 7.8
   },
   {
    "domain": "whatsapp.com",
-   "citations": 43,
+   "citations": 53,
    "cited_by": [
     "Space Intel Report",
     "Tesla Oracle"
@@ -148,11 +169,11 @@
    "items_7d": 0,
    "kw_ratio": 0.0,
    "verdict": "부분(피드 없음)",
-   "score": 4.3
+   "score": 5.3
   },
   {
    "domain": "future-advertising.com",
-   "citations": 15,
+   "citations": 18,
    "cited_by": [
     "Space.com"
    ],
@@ -167,11 +188,11 @@
    "items_7d": 0,
    "kw_ratio": 0.0,
    "verdict": "부분(날짜·최신성 미달)",
-   "score": 3.0
+   "score": 3.6
   },
   {
    "domain": "addtoany.com",
-   "citations": 25,
+   "citations": 30,
    "cited_by": [
     "Advanced Television",
     "Data Center Dynamics",
@@ -188,26 +209,7 @@
    "items_7d": 0,
    "kw_ratio": 0.0,
    "verdict": "부분(피드 없음)",
-   "score": 2.5
-  },
-  {
-   "domain": "apple.news",
-   "citations": 15,
-   "cited_by": [
-    "Electrek SpaceX"
-   ],
-   "sample": "https://apple.news/TDaZAAzogTHK5rrJYn3D6eQ",
-   "titles": [
-    "SpaceX could announce $1.5 trillion Tesla merger in December: report",
-    "What does a blue Texas sweep mean for Elon Musk, Tesla & SpaceX?"
-   ],
-   "robots": "허용",
-   "feed": "",
-   "has_dates": false,
-   "items_7d": 0,
-   "kw_ratio": 0.0,
-   "verdict": "부분(피드 없음)",
-   "score": 1.5
+   "score": 3.0
   }
  ],
  "seeds": [
@@ -293,7 +295,7 @@
    "name": "Universe Today",
    "result": "성공",
    "items": 20,
-   "spacex_items": 1
+   "spacex_items": 2
   },
   {
    "name": "Via Satellite",
@@ -339,8 +341,8 @@
   },
   {
    "name": "NASA",
-   "result": "성공",
-   "items": 10,
+   "result": "오류: HTTPError",
+   "items": 0,
    "spacex_items": 0
   },
   {
@@ -365,7 +367,7 @@
    "name": "Broadband Breakfast",
    "result": "성공",
    "items": 15,
-   "spacex_items": 8
+   "spacex_items": 9
   },
   {
    "name": "Light Reading",
@@ -467,7 +469,7 @@
    "name": "Hacker News Starlink",
    "result": "성공",
    "items": 50,
-   "spacex_items": 24
+   "spacex_items": 23
   }
  ],
  "blocked_cited": {
@@ -478,15 +480,15 @@
   "reddit.com": 10,
   "cnbc.com": 9,
   "bloomberg.com": 6,
+  "apnews.com": 5,
   "reuters.com": 5,
-  "theguardian.com": 4,
-  "apnews.com": 4
+  "theguardian.com": 4
  },
  "stats": {
-  "requests": 162,
+  "requests": 166,
   "blocked_skipped": 0,
-  "robots_denied": 3,
-  "errors": 8,
+  "robots_denied": 2,
+  "errors": 9,
   "blocked_contacted": 0
  }
 }
