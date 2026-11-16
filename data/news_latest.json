@@ -1,8 +1,230 @@
 {
- "generated_at": "2026-11-16T06:24:46+00:00",
- "count_48h": 26,
- "new_this_run": 8,
+ "generated_at": "2026-11-16T21:59:07+00:00",
+ "count_48h": 33,
+ "new_this_run": 19,
  "items": [
+  {
+   "title": "Launch Preview: Ariane 6 to launch Amazon satellites, Falcon 9 to launch government missions",
+   "url": "https://www.nasaspaceflight.com/2026/11/launch-preview-111626/",
+   "domains": [
+    "nasaspaceflight.com"
+   ],
+   "published": "2026-11-16T21:57+00:00",
+   "topics": [
+    "발사·Starship"
+   ],
+   "official": false,
+   "score": 1
+  },
+  {
+   "title": "Relive Starship’s historic Flight 15 with our best photos from launch and ‘Mechazilla’ tower catch",
+   "url": "https://www.space.com/space-exploration/launches-spacecraft/relive-starships-historic-flight-15-with-our-best-photos-from-launch-and-mechazilla-tower-catch",
+   "domains": [
+    "space.com"
+   ],
+   "published": "2026-11-16T21:26+00:00",
+   "topics": [
+    "발사·Starship"
+   ],
+   "official": false,
+   "score": 1
+  },
+  {
+   "title": "Umbra Secures Launch for Next 7 SAR Satellites WIth Increased Capabilities",
+   "url": "https://www.satellitetoday.com/imagery-and-sensing/2026/11/16/umbra-secures-launch-for-next-7-sar-satellites-with-increased-capabilities/",
+   "domains": [
+    "satellitetoday.com"
+   ],
+   "published": "2026-11-16T20:44+00:00",
+   "topics": [
+    "발사·Starship"
+   ],
+   "official": false,
+   "score": 1
+  },
+  {
+   "title": "SpaceX's Starship program advances as Amazon Leo suffers another setback",
+   "url": "https://www.lightreading.com/satellite/spacex-s-starship-program-advances-as-amazon-leo-suffers-another-setback",
+   "domains": [
+    "lightreading.com"
+   ],
+   "published": "2026-11-16T20:30+00:00",
+   "topics": [
+    "발사·Starship"
+   ],
+   "official": false,
+   "score": 1
+  },
+  {
+   "title": "Elon Musk says SpaceX’s Starship, already the largest rocket on Earth, will get even bigger with next-gen V4 model",
+   "url": "https://www.space.com/space-exploration/launches-spacecraft/elon-musk-says-spacexs-starship-already-the-largest-rocket-on-earth-will-get-even-bigger-with-next-gen-v4-model",
+   "domains": [
+    "space.com"
+   ],
+   "published": "2026-11-16T20:04+00:00",
+   "topics": [
+    "발사·Starship",
+    "테슬라·머스크"
+   ],
+   "official": false,
+   "score": 1
+  },
+  {
+   "title": "'Maybe the scariest thing I've heard in my life': Artemis II astronaut Victor Glover reveals his toughest challenge before flying to the moon",
+   "url": "https://www.space.com/space-exploration/artemis/maybe-the-scariest-thing-ive-heard-in-my-life-artemis-ii-astronaut-victor-glover-reveals-his-toughest-challenge-before-flying-to-the-moon",
+   "domains": [
+    "space.com"
+   ],
+   "published": "2026-11-16T18:00+00:00",
+   "topics": [
+    "기타"
+   ],
+   "official": false,
+   "score": 1
+  },
+  {
+   "title": "Europe hunts for Palantir alternatives as militaries seek to limit US dependence",
+   "url": "https://www.defensenews.com/news/2026/11/16/europe-hunts-for-palantir-alternatives-as-militaries-seek-to-limit-us-dependence/",
+   "domains": [
+    "defensenews.com"
+   ],
+   "published": "2026-11-16T18:00+00:00",
+   "topics": [
+    "기타"
+   ],
+   "official": false,
+   "score": 1
+  },
+  {
+   "title": "UK MOD Defends Satcom Resilience Amid SpaceX Starshield Concerns",
+   "url": "https://europeanspaceflight.com/uk-mod-defends-satcom-resilience-amid-spacex-starshield-concerns/",
+   "domains": [
+    "europeanspaceflight.com"
+   ],
+   "published": "2026-11-16T17:50+00:00",
+   "topics": [
+    "국방"
+   ],
+   "official": false,
+   "score": 1
+  },
+  {
+   "title": "SpaceX catches its first Starship but loses the booster, at a cost",
+   "url": "https://spaceq.ca/starship-flight-15-ship-catch-booster-lost/",
+   "domains": [
+    "spaceq.ca"
+   ],
+   "published": "2026-11-16T17:20+00:00",
+   "topics": [
+    "발사·Starship"
+   ],
+   "official": false,
+   "score": 1
+  },
+  {
+   "title": "Starship Catch Successful, Amazon Leo Launch Fails",
+   "url": "https://broadbandbreakfast.com/starship-catch-successful-amazon-leo-launch-fails/",
+   "domains": [
+    "broadbandbreakfast.com"
+   ],
+   "published": "2026-11-16T17:10+00:00",
+   "topics": [
+    "발사·Starship"
+   ],
+   "official": false,
+   "score": 1
+  },
+  {
+   "title": "Elon Musk Wants to Merge Tesla and SpaceX. Their Businesses Already Overlap",
+   "url": "https://www.nytimes.com/2026/11/16/business/elon-musk-tesla-spacex.html",
+   "domains": [
+    "nytimes.com"
+   ],
+   "published": "2026-11-16T16:39+00:00",
+   "topics": [
+    "테슬라·머스크"
+   ],
+   "official": false,
+   "score": 1
+  },
+  {
+   "title": "Lufthansa puts Starlink on a long-haul aircraft, starting December 3",
+   "url": "https://driveteslacanada.ca/news/lufthansa-starlink-long-haul-aircraft-december-3/?utm_source=rss&utm_medium=rss&utm_campaign=lufthansa-starlink-long-haul-aircraft-december-3",
+   "domains": [
+    "driveteslacanada.ca"
+   ],
+   "published": "2026-11-16T14:28+00:00",
+   "topics": [
+    "Starlink·통신"
+   ],
+   "official": false,
+   "score": 1
+  },
+  {
+   "title": "SpaceX's landing reminds us even extraordinary technology will be reinvented",
+   "url": "https://www.theatlantic.com/technology/2026/11/spacex-starship-catch/689453/",
+   "domains": [
+    "theatlantic.com"
+   ],
+   "published": "2026-11-16T14:13+00:00",
+   "topics": [
+    "발사·Starship"
+   ],
+   "official": false,
+   "score": 1
+  },
+  {
+   "title": "Dream Chaser space plane gets landing approval for debut mission in 2027",
+   "url": "https://www.space.com/space-exploration/launches-spacecraft/dream-chaser-space-plane-gets-landing-approval-for-debut-mission-in-2027",
+   "domains": [
+    "space.com"
+   ],
+   "published": "2026-11-16T14:00+00:00",
+   "topics": [
+    "발사·Starship"
+   ],
+   "official": false,
+   "score": 1
+  },
+  {
+   "title": "Amazon Leo Loses 40 LEOs after ULA Rocket Fails Early after Liftoff",
+   "url": "https://broadbandbreakfast.com/amazon-leo-loses-40-leos-after-ula-rocket-fails-early-after-liftoff/",
+   "domains": [
+    "broadbandbreakfast.com"
+   ],
+   "published": "2026-11-16T13:20+00:00",
+   "topics": [
+    "기타"
+   ],
+   "official": false,
+   "score": 1
+  },
+  {
+   "title": "A Magna Carta for the stars: King Charles III takes on space sustainability",
+   "url": "https://www.space.com/space-exploration/a-magna-carta-for-the-stars-king-charles-iii-takes-on-space-sustainability",
+   "domains": [
+    "space.com"
+   ],
+   "published": "2026-11-16T13:00+00:00",
+   "topics": [
+    "기타"
+   ],
+   "official": false,
+   "score": 1
+  },
+  {
+   "title": "Latvia pushes 5G answer to Ukraine's Starlink problem",
+   "url": "https://www.lightreading.com/5g/latvia-pushes-5g-answer-to-ukraine-s-starlink-problem",
+   "domains": [
+    "lightreading.com"
+   ],
+   "published": "2026-11-16T08:30+00:00",
+   "topics": [
+    "Starlink·통신"
+   ],
+   "official": false,
+   "score": 1
+  },
   {
    "title": "Elon Musk is already planning a bigger Starship, and the Moon may be why",
    "url": "https://www.teslarati.com/elon-musk-spacex-starship-v4-moon/",
@@ -39,6 +261,20 @@
    "published": "2026-11-16T01:32+00:00",
    "topics": [
     "발사·Starship"
+   ],
+   "official": false,
+   "score": 1
+  },
+  {
+   "title": "AST SpaceMobile: “We’re not like Musk or Starlink”",
+   "url": "https://www.advanced-television.com/2026/11/16/ast-spacemobile-were-not-like-musk-or-starlink/",
+   "domains": [
+    "advanced-television.com"
+   ],
+   "published": "2026-11-16T01:21+00:00",
+   "topics": [
+    "Starlink·통신",
+    "테슬라·머스크"
    ],
    "official": false,
    "score": 1
@@ -196,149 +432,6 @@
    "published": "2026-11-15T01:39+00:00",
    "topics": [
     "발사·Starship"
-   ],
-   "official": false,
-   "score": 1
-  },
-  {
-   "title": "SpaceX Catches Starship After Historic Return From Orbit on Flight 15",
-   "url": "https://driveteslacanada.ca/news/spacex-catches-starship-flight-15/?utm_source=rss&utm_medium=rss&utm_campaign=spacex-catches-starship-flight-15",
-   "domains": [
-    "driveteslacanada.ca"
-   ],
-   "published": "2026-11-14T21:56+00:00",
-   "topics": [
-    "발사·Starship"
-   ],
-   "official": false,
-   "score": 1
-  },
-  {
-   "title": "SpaceX Catches a Starship",
-   "url": "https://spacepolicyonline.com/news/spacex-catches-a-starship/",
-   "domains": [
-    "spacepolicyonline.com"
-   ],
-   "published": "2026-11-14T21:53+00:00",
-   "topics": [
-    "발사·Starship"
-   ],
-   "official": false,
-   "score": 1
-  },
-  {
-   "title": "SpaceX catches part of Starship rocket on its return to Earth",
-   "url": "https://www.bbc.com/news/live/cq0k683l3dz3t",
-   "domains": [
-    "bbc.com"
-   ],
-   "published": "2026-11-14T21:49+00:00",
-   "topics": [
-    "발사·Starship"
-   ],
-   "official": false,
-   "score": 1
-  },
-  {
-   "title": "SpaceX makes history, catching Starship from orbit for the first time",
-   "url": "https://www.teslarati.com/spacex-catches-starship-first/",
-   "domains": [
-    "teslarati.com"
-   ],
-   "published": "2026-11-14T21:40+00:00",
-   "topics": [
-    "발사·Starship"
-   ],
-   "official": false,
-   "score": 1
-  },
-  {
-   "title": "Baby, She's Back! SpaceX Catches a Starship From Orbit for First Time",
-   "url": "https://www.universetoday.com/articles/baby-shes-back-spacex-catches-a-starship-from-orbit-for-first-time",
-   "domains": [
-    "universetoday.com"
-   ],
-   "published": "2026-11-14T21:40+00:00",
-   "topics": [
-    "발사·Starship"
-   ],
-   "official": false,
-   "score": 1
-  },
-  {
-   "title": "SpaceX’s Starship Soars Into Orbit After Booster Explosion Prevents an Unprecedented Double Catch",
-   "url": "https://broadbandbreakfast.com/spacexs-starship-soars-into-orbit-ater-booster-explosion-prevents-and-unprecedented-double-catch/",
-   "domains": [
-    "broadbandbreakfast.com"
-   ],
-   "published": "2026-11-14T19:46+00:00",
-   "topics": [
-    "발사·Starship"
-   ],
-   "official": false,
-   "score": 1
-  },
-  {
-   "title": "SpaceX Starship Flight 15 Reaches Orbit After Super Heavy Booster Splashdown",
-   "url": "https://driveteslacanada.ca/news/spacex-starship-flight-15/?utm_source=rss&utm_medium=rss&utm_campaign=spacex-starship-flight-15",
-   "domains": [
-    "driveteslacanada.ca"
-   ],
-   "published": "2026-11-14T16:33+00:00",
-   "topics": [
-    "발사·Starship"
-   ],
-   "official": false,
-   "score": 1
-  },
-  {
-   "title": "This Week In Space podcast: Episode 236 — Alienspotting",
-   "url": "https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-236-alienspotting",
-   "domains": [
-    "space.com"
-   ],
-   "published": "2026-11-14T15:56+00:00",
-   "topics": [
-    "기타"
-   ],
-   "official": false,
-   "score": 1
-  },
-  {
-   "title": "Why did Starship Flight 15 booster abort 'chopsticks' landing catch? SpaceX still investigating (video)",
-   "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-says-starship-flight-15-booster-aborted-chopsticks-landing-catch-after-launch-due-to-guidance-issue-video",
-   "domains": [
-    "space.com"
-   ],
-   "published": "2026-11-14T14:53+00:00",
-   "topics": [
-    "발사·Starship"
-   ],
-   "official": false,
-   "score": 1
-  },
-  {
-   "title": "Watch SpaceX will attempt its 1st-ever 'chopsticks' Starship landing catch of a rocket from orbit today (livestream)",
-   "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-chopsticks-catch-starship-upper-stage-flight-14",
-   "domains": [
-    "space.com"
-   ],
-   "published": "2026-11-14T13:00+00:00",
-   "topics": [
-    "발사·Starship"
-   ],
-   "official": false,
-   "score": 1
-  },
-  {
-   "title": "Tesla puts steering-less Cybercab on sale for $29,990 before the end of 2026, as Musk promised",
-   "url": "https://www.teslaoracle.com/2026/11/14/tesla-puts-steering-less-cybercab-on-sale-for-29990-before-the-end-of-2026-as-musk-promised/",
-   "domains": [
-    "teslaoracle.com"
-   ],
-   "published": "2026-11-14T10:26+00:00",
-   "topics": [
-    "테슬라·머스크"
    ],
    "official": false,
    "score": 1

@@ -1,49 +1,56 @@
 # SPCX 뉴스 모음 — 최근 48시간
 
-갱신: 2026-11-16 15:24 (한국 시간) · 글 26건 · 교차 확인 = 같은 소식을 낸 사이트 수 · 🏛 = 정부·공식 출처
+갱신: 2026-11-17 06:59 (한국 시간) · 글 33건 · 교차 확인 = 같은 소식을 낸 사이트 수 · 🏛 = 정부·공식 출처
 
 ## 금융·IPO (1)
 
 - [Did the SpaceX IPO Move the South Bay Housing Market?](https://www.realab.blog/p/did-the-spacex-ipo-move-the-south) — realab.blog · 11-16 03:16
 
-## 국방 (1)
+## 국방 (2)
 
+- [UK MOD Defends Satcom Resilience Amid SpaceX Starshield Concerns](https://europeanspaceflight.com/uk-mod-defends-satcom-resilience-amid-spacex-starshield-concerns/) — europeanspaceflight.com · 11-17 02:50
 - [Zelenskyy Says Starshield Restrictions Threaten Ukraine’s Energy Defenses Ahead of Winter](https://broadbandbreakfast.com/zelenskyy-says-starshield-restrictions-threaten-ukraines-energy-defenses-ahead-of-winter/) — broadbandbreakfast.com · 11-16 08:28
 
 ## AI·xAI (1)
 
 - [Chemical spills into drainage ditch at SpaceXAI in Southaven](https://wreg.com/news/chemical-spills-into-drainage-ditch-at-spacexai-in-southaven/) — wreg.com · 11-16 08:12
 
-## Starlink·통신 (1)
+## Starlink·통신 (4)
 
+- [Lufthansa puts Starlink on a long-haul aircraft, starting December 3](https://driveteslacanada.ca/news/lufthansa-starlink-long-haul-aircraft-december-3/?utm_source=rss&utm_medium=rss&utm_campaign=lufthansa-starlink-long-haul-aircraft-december-3) — driveteslacanada.ca · 11-16 23:28
+- [Latvia pushes 5G answer to Ukraine's Starlink problem](https://www.lightreading.com/5g/latvia-pushes-5g-answer-to-ukraine-s-starlink-problem) — lightreading.com · 11-16 17:30
+- [AST SpaceMobile: “We’re not like Musk or Starlink”](https://www.advanced-television.com/2026/11/16/ast-spacemobile-were-not-like-musk-or-starlink/) — advanced-television.com · 11-16 10:21
 - [Zelensky urges US and Musk to lift Starlink restrictions](https://www.bbc.com/news/articles/c6m25zg88k45o) — bbc.com · 11-16 03:18
 
 ## 발사·Starship (16)
 
+- [Launch Preview: Ariane 6 to launch Amazon satellites, Falcon 9 to launch government missions](https://www.nasaspaceflight.com/2026/11/launch-preview-111626/) — nasaspaceflight.com · 11-17 06:57
+- [Relive Starship’s historic Flight 15 with our best photos from launch and ‘Mechazilla’ tower catch](https://www.space.com/space-exploration/launches-spacecraft/relive-starships-historic-flight-15-with-our-best-photos-from-launch-and-mechazilla-tower-catch) — space.com · 11-17 06:26
+- [Umbra Secures Launch for Next 7 SAR Satellites WIth Increased Capabilities](https://www.satellitetoday.com/imagery-and-sensing/2026/11/16/umbra-secures-launch-for-next-7-sar-satellites-with-increased-capabilities/) — satellitetoday.com · 11-17 05:44
+- [SpaceX's Starship program advances as Amazon Leo suffers another setback](https://www.lightreading.com/satellite/spacex-s-starship-program-advances-as-amazon-leo-suffers-another-setback) — lightreading.com · 11-17 05:30
+- [Elon Musk says SpaceX’s Starship, already the largest rocket on Earth, will get even bigger with next-gen V4 model](https://www.space.com/space-exploration/launches-spacecraft/elon-musk-says-spacexs-starship-already-the-largest-rocket-on-earth-will-get-even-bigger-with-next-gen-v4-model) — space.com · 11-17 05:04
+- [SpaceX catches its first Starship but loses the booster, at a cost](https://spaceq.ca/starship-flight-15-ship-catch-booster-lost/) — spaceq.ca · 11-17 02:20
+- [Starship Catch Successful, Amazon Leo Launch Fails](https://broadbandbreakfast.com/starship-catch-successful-amazon-leo-launch-fails/) — broadbandbreakfast.com · 11-17 02:10
+- [SpaceX's landing reminds us even extraordinary technology will be reinvented](https://www.theatlantic.com/technology/2026/11/spacex-starship-catch/689453/) — theatlantic.com · 11-16 23:13
+- [Dream Chaser space plane gets landing approval for debut mission in 2027](https://www.space.com/space-exploration/launches-spacecraft/dream-chaser-space-plane-gets-landing-approval-for-debut-mission-in-2027) — space.com · 11-16 23:00
 - [Elon Musk is already planning a bigger Starship, and the Moon may be why](https://www.teslarati.com/elon-musk-spacex-starship-v4-moon/) — teslarati.com · 11-16 15:12
 - [SpaceX Catches Starship In Landing After Orbital Flight for First Time](https://www.satellitetoday.com/launch/2026/11/15/spacex-catches-starship-in-landing-after-orbital-flight-for-first-time/) — satellitetoday.com · 11-16 10:32
 - [Vulcan’s Return-to-Flight Fails](https://spacepolicyonline.com/news/vulcans-return-to-flight-fails/) — spacepolicyonline.com · 11-16 07:35
-- [The epic story of Flight 15 Starship: ~22 hours in space and a precise landing catch](https://www.teslaoracle.com/2026/11/15/the-epic-story-of-flight-15-starship-22-hours-in-space-and-a-precise-landing-catch/) — teslaoracle.com · 11-15 22:32
-- [What's next for SpaceX's Starship after epic Flight 15 chopsticks catch?](https://www.space.com/space-exploration/launches-spacecraft/whats-next-for-spacexs-starship-after-epic-flight-15-chopsticks-catch) — space.com · 11-15 20:00
-- [SpaceX’s Starship Returns From Orbit and Is Captured by Launch Pad Arms in a Dramatic First](https://broadbandbreakfast.com/spacexs-starship-returns-from-orbit-and-is-captured-by-launch-pad-arms-in-a-dramatic-first/) — broadbandbreakfast.com · 11-15 13:10
-- [SpaceX Successfully Catches Starship Upper Stage](https://payloadspace.com/spacex-successfully-catches-starship-upper-stage/) — payloadspace.com · 11-15 10:39
-- [SpaceX Catches Starship After Historic Return From Orbit on Flight 15](https://driveteslacanada.ca/news/spacex-catches-starship-flight-15/?utm_source=rss&utm_medium=rss&utm_campaign=spacex-catches-starship-flight-15) — driveteslacanada.ca · 11-15 06:56
-- [SpaceX Catches a Starship](https://spacepolicyonline.com/news/spacex-catches-a-starship/) — spacepolicyonline.com · 11-15 06:53
-- [SpaceX catches part of Starship rocket on its return to Earth](https://www.bbc.com/news/live/cq0k683l3dz3t) — bbc.com · 11-15 06:49
-- [SpaceX makes history, catching Starship from orbit for the first time](https://www.teslarati.com/spacex-catches-starship-first/) — teslarati.com · 11-15 06:40
-- [Baby, She's Back! SpaceX Catches a Starship From Orbit for First Time](https://www.universetoday.com/articles/baby-shes-back-spacex-catches-a-starship-from-orbit-for-first-time) — universetoday.com · 11-15 06:40
 - …외 4건
 
 ## 테슬라·머스크 (2)
 
+- [Elon Musk Wants to Merge Tesla and SpaceX. Their Businesses Already Overlap](https://www.nytimes.com/2026/11/16/business/elon-musk-tesla-spacex.html) — nytimes.com · 11-17 01:39
 - [Drive Tesla Download: Top Stories for November 9-15](https://driveteslacanada.ca/news/drive-tesla-download-november-9-15/?utm_source=rss&utm_medium=rss&utm_campaign=drive-tesla-download-november-9-15) — driveteslacanada.ca · 11-16 02:38
-- [Tesla puts steering-less Cybercab on sale for $29,990 before the end of 2026, as Musk promised](https://www.teslaoracle.com/2026/11/14/tesla-puts-steering-less-cybercab-on-sale-for-29990-before-the-end-of-2026-as-musk-promised/) — teslaoracle.com · 11-14 19:26
 
-## 기타 (4)
+## 기타 (7)
 
+- ['Maybe the scariest thing I've heard in my life': Artemis II astronaut Victor Glover reveals his toughest challenge before flying to the moon](https://www.space.com/space-exploration/artemis/maybe-the-scariest-thing-ive-heard-in-my-life-artemis-ii-astronaut-victor-glover-reveals-his-toughest-challenge-before-flying-to-the-moon) — space.com · 11-17 03:00
+- [Europe hunts for Palantir alternatives as militaries seek to limit US dependence](https://www.defensenews.com/news/2026/11/16/europe-hunts-for-palantir-alternatives-as-militaries-seek-to-limit-us-dependence/) — defensenews.com · 11-17 03:00
+- [Amazon Leo Loses 40 LEOs after ULA Rocket Fails Early after Liftoff](https://broadbandbreakfast.com/amazon-leo-loses-40-leos-after-ula-rocket-fails-early-after-liftoff/) — broadbandbreakfast.com · 11-16 22:20
+- [A Magna Carta for the stars: King Charles III takes on space sustainability](https://www.space.com/space-exploration/a-magna-carta-for-the-stars-king-charles-iii-takes-on-space-sustainability) — space.com · 11-16 22:00
 - [Connecting Constellations: The Shift to Real-Time Space Operations](https://payloadspace.com/connecting-constellations-the-shift-to-real-time-space-operations/) — payloadspace.com · 11-16 14:00
 - [What’s Happening in Space Policy November 15-21, 2026](https://spacepolicyonline.com/news/whats-happening-in-space-policy-november-15-21-2026/) — spacepolicyonline.com · 11-16 08:13
 - [ULA suffers first outright failure with loss of Vulcan rocket carrying 40 Amazon Leo satellites](https://spaceflightnow.com/2026/11/15/ula-suffers-first-total-mission-failure-with-loss-of-vulcan-rocket-carrying-40-amazon-leo-satellites/) — spaceflightnow.com · 11-16 04:16
-- [This Week In Space podcast: Episode 236 — Alienspotting](https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-236-alienspotting) — space.com · 11-15 00:56
 
 ※ 제목·링크 모음입니다. 내용 확인과 신뢰도 판정은 봇·사람이 따로 합니다. 정보 제공용이며 투자 자문이 아닙니다.
