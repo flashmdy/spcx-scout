@@ -1,8 +1,113 @@
 {
- "generated_at": "2026-11-15T18:49:26+00:00",
- "count_48h": 32,
- "new_this_run": 5,
+ "generated_at": "2026-11-16T06:24:46+00:00",
+ "count_48h": 26,
+ "new_this_run": 8,
  "items": [
+  {
+   "title": "Elon Musk is already planning a bigger Starship, and the Moon may be why",
+   "url": "https://www.teslarati.com/elon-musk-spacex-starship-v4-moon/",
+   "domains": [
+    "teslarati.com"
+   ],
+   "published": "2026-11-16T06:12+00:00",
+   "topics": [
+    "발사·Starship",
+    "테슬라·머스크"
+   ],
+   "official": false,
+   "score": 1
+  },
+  {
+   "title": "Connecting Constellations: The Shift to Real-Time Space Operations",
+   "url": "https://payloadspace.com/connecting-constellations-the-shift-to-real-time-space-operations/",
+   "domains": [
+    "payloadspace.com"
+   ],
+   "published": "2026-11-16T05:00+00:00",
+   "topics": [
+    "기타"
+   ],
+   "official": false,
+   "score": 1
+  },
+  {
+   "title": "SpaceX Catches Starship In Landing After Orbital Flight for First Time",
+   "url": "https://www.satellitetoday.com/launch/2026/11/15/spacex-catches-starship-in-landing-after-orbital-flight-for-first-time/",
+   "domains": [
+    "satellitetoday.com"
+   ],
+   "published": "2026-11-16T01:32+00:00",
+   "topics": [
+    "발사·Starship"
+   ],
+   "official": false,
+   "score": 1
+  },
+  {
+   "title": "Zelenskyy Says Starshield Restrictions Threaten Ukraine’s Energy Defenses Ahead of Winter",
+   "url": "https://broadbandbreakfast.com/zelenskyy-says-starshield-restrictions-threaten-ukraines-energy-defenses-ahead-of-winter/",
+   "domains": [
+    "broadbandbreakfast.com"
+   ],
+   "published": "2026-11-15T23:28+00:00",
+   "topics": [
+    "국방"
+   ],
+   "official": false,
+   "score": 1
+  },
+  {
+   "title": "What’s Happening in Space Policy November 15-21, 2026",
+   "url": "https://spacepolicyonline.com/news/whats-happening-in-space-policy-november-15-21-2026/",
+   "domains": [
+    "spacepolicyonline.com"
+   ],
+   "published": "2026-11-15T23:13+00:00",
+   "topics": [
+    "기타"
+   ],
+   "official": false,
+   "score": 1
+  },
+  {
+   "title": "Chemical spills into drainage ditch at SpaceXAI in Southaven",
+   "url": "https://wreg.com/news/chemical-spills-into-drainage-ditch-at-spacexai-in-southaven/",
+   "domains": [
+    "wreg.com"
+   ],
+   "published": "2026-11-15T23:12+00:00",
+   "topics": [
+    "AI·xAI"
+   ],
+   "official": false,
+   "score": 1
+  },
+  {
+   "title": "Vulcan’s Return-to-Flight Fails",
+   "url": "https://spacepolicyonline.com/news/vulcans-return-to-flight-fails/",
+   "domains": [
+    "spacepolicyonline.com"
+   ],
+   "published": "2026-11-15T22:35+00:00",
+   "topics": [
+    "발사·Starship"
+   ],
+   "official": false,
+   "score": 1
+  },
+  {
+   "title": "ULA suffers first outright failure with loss of Vulcan rocket carrying 40 Amazon Leo satellites",
+   "url": "https://spaceflightnow.com/2026/11/15/ula-suffers-first-total-mission-failure-with-loss-of-vulcan-rocket-carrying-40-amazon-leo-satellites/",
+   "domains": [
+    "spaceflightnow.com"
+   ],
+   "published": "2026-11-15T19:16+00:00",
+   "topics": [
+    "기타"
+   ],
+   "official": false,
+   "score": 1
+  },
   {
    "title": "Zelensky urges US and Musk to lift Starlink restrictions",
    "url": "https://www.bbc.com/news/articles/c6m25zg88k45o",
@@ -234,189 +339,6 @@
    "published": "2026-11-14T10:26+00:00",
    "topics": [
     "테슬라·머스크"
-   ],
-   "official": false,
-   "score": 1
-  },
-  {
-   "title": "SpaceX's giant rocket may leave NASA in the dust",
-   "url": "https://text.npr.org/nx-s1-6039312",
-   "domains": [
-    "npr.org"
-   ],
-   "published": "2026-11-14T04:57+00:00",
-   "topics": [
-    "기타"
-   ],
-   "official": false,
-   "score": 1
-  },
-  {
-   "title": "Starship IFT-15 is in Orbit — Will it be “Caught” When It Returns to Earth?",
-   "url": "https://spacepolicyonline.com/news/starship-ift-15-is-in-orbit-will-it-be-caught-when-it-returns-to-earth/",
-   "domains": [
-    "spacepolicyonline.com"
-   ],
-   "published": "2026-11-13T23:54+00:00",
-   "topics": [
-    "발사·Starship"
-   ],
-   "official": false,
-   "score": 1
-  },
-  {
-   "title": "United touts Starlink competitive advantage as rollout accelerates",
-   "url": "https://driveteslacanada.ca/news/united-airlines-starlink-competitive-advantage-half-flights/?utm_source=rss&utm_medium=rss&utm_campaign=united-airlines-starlink-competitive-advantage-half-flights",
-   "domains": [
-    "driveteslacanada.ca"
-   ],
-   "published": "2026-11-13T23:33+00:00",
-   "topics": [
-    "Starlink·통신"
-   ],
-   "official": false,
-   "score": 1
-  },
-  {
-   "title": "SpaceX launches Starship on ambitious 22-hour Flight 15 test, but aborts booster 'chopsticks' catch (video)",
-   "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starship-flight-15-chopsticks-double-catch-super-heavy-ship",
-   "domains": [
-    "space.com"
-   ],
-   "published": "2026-11-13T23:20+00:00",
-   "topics": [
-    "발사·Starship"
-   ],
-   "official": false,
-   "score": 1
-  },
-  {
-   "title": "SpaceX Launches Starship But Passes Up Booster Catch for Safety's Sake",
-   "url": "https://www.universetoday.com/articles/spacex-launches-starship-but-passes-up-booster-catch-for-safetys-sake",
-   "domains": [
-    "universetoday.com"
-   ],
-   "published": "2026-11-13T23:12+00:00",
-   "topics": [
-    "발사·Starship"
-   ],
-   "official": false,
-   "score": 1
-  },
-  {
-   "title": "Watch the live streams of Starship Flight 15 with live updates",
-   "url": "https://www.teslaoracle.com/2026/11/13/watch-the-live-streams-of-starship-flight-15-with-live-updates/",
-   "domains": [
-    "teslaoracle.com"
-   ],
-   "published": "2026-11-13T22:17+00:00",
-   "topics": [
-    "발사·Starship"
-   ],
-   "official": false,
-   "score": 1
-  },
-  {
-   "title": "FCC Sets Upper C-band Auction Schedule",
-   "url": "https://broadbandbreakfast.com/fcc-sets-upper-c-band-auction-schedule/",
-   "domains": [
-    "broadbandbreakfast.com"
-   ],
-   "published": "2026-11-13T21:58+00:00",
-   "topics": [
-    "정부·규제"
-   ],
-   "official": false,
-   "score": 1
-  },
-  {
-   "title": "TierPoint Announces Appointment of New CEO",
-   "url": "https://broadbandbreakfast.com/tierpoint-announces-appointment-of-new-ceo/",
-   "domains": [
-    "broadbandbreakfast.com"
-   ],
-   "published": "2026-11-13T20:31+00:00",
-   "topics": [
-    "기타"
-   ],
-   "official": false,
-   "score": 1
-  },
-  {
-   "title": "100 launches! Rocket Lab sends Earth-observing satellite to orbit on milestone mission (photos)",
-   "url": "https://www.space.com/space-exploration/launches-spacecraft/rocket-lab-100th-launch-iqps-electron-sar-satellite",
-   "domains": [
-    "space.com"
-   ],
-   "published": "2026-11-13T20:00+00:00",
-   "topics": [
-    "발사·Starship"
-   ],
-   "official": false,
-   "score": 1
-  },
-  {
-   "title": "Intellian CEO Unpacks Terminal Strategy for Aero and Military as Ground Tech Player Diversifies",
-   "url": "https://www.satellitetoday.com/technology/2026/11/13/intellian-ceo-unpacks-terminal-strategy-for-aero-and-military-as-ground-tech-player-diversifies/",
-   "domains": [
-    "satellitetoday.com"
-   ],
-   "published": "2026-11-13T19:56+00:00",
-   "topics": [
-    "국방"
-   ],
-   "official": false,
-   "score": 1
-  },
-  {
-   "title": "Bogdan-Martin Re-Elected to Lead ITU",
-   "url": "https://broadbandbreakfast.com/bogdan-martin-re-elected-to-lead-itu/",
-   "domains": [
-    "broadbandbreakfast.com"
-   ],
-   "published": "2026-11-13T19:46+00:00",
-   "topics": [
-    "정부·규제"
-   ],
-   "official": false,
-   "score": 1
-  },
-  {
-   "title": "Live Coverage: Starship Flight 15 attempts to recover full vehicle in double launch pad catch",
-   "url": "https://spaceflightnow.com/2026/11/13/live-coverage-starship-flight-15-attempts-to-recover-full-vehicle-in-double-launch-pad-catch/",
-   "domains": [
-    "spaceflightnow.com"
-   ],
-   "published": "2026-11-13T19:15+00:00",
-   "topics": [
-    "발사·Starship"
-   ],
-   "official": false,
-   "score": 1
-  },
-  {
-   "title": "The FAA grants SpaceX license for Starship Flight 15, just hours ahead of launch",
-   "url": "https://www.teslaoracle.com/2026/11/13/spacex-is-still-waiting-for-regulatory-approval-hours-ahead-of-flight-15-launch/",
-   "domains": [
-    "teslaoracle.com"
-   ],
-   "published": "2026-11-13T19:03+00:00",
-   "topics": [
-    "정부·규제",
-    "발사·Starship"
-   ],
-   "official": false,
-   "score": 1
-  },
-  {
-   "title": "OpenAI rebuilt AI shopping from scratch with ChatGPT Wallet",
-   "url": "https://the-decoder.com/openai-rebuilt-ai-shopping-from-scratch-with-chatgpt-wallet/",
-   "domains": [
-    "the-decoder.com"
-   ],
-   "published": "2026-11-13T18:55+00:00",
-   "topics": [
-    "AI·xAI"
    ],
    "official": false,
    "score": 1

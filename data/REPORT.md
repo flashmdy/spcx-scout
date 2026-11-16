@@ -1,16 +1,16 @@
 # SPCX 출처 탐색 결과
 
-마지막 실행: **2026-11-16 03:49 (한국 시간)** · 6시간마다 자동 갱신
+마지막 실행: **2026-11-16 15:24 (한국 시간)** · 6시간마다 자동 갱신
 
 | 항목 | 값 |
 |---|---|
 | 차단 사이트 접속 | ✅ 0건 |
 | 씨앗 출처 성공 | 35/43 |
 | 기계 시험 통과 후보 | 0 |
-| 최근 30일 본 후보 | 290 |
+| 최근 30일 본 후보 | 293 |
 | 봇이 부를 일꾼 수 | 1 |
 | 3회 연속 실패 씨앗 | DoD Contracts, GDELT SpaceX, GDELT Starlink, Orbital Today, Spaceflight Insider, Telecompetitor, US Space Force, VentureBeat |
-| 뉴스 글(이번 새 글 / 48시간 / 보관 30일) | 5 / 32 / 218 |
+| 뉴스 글(이번 새 글 / 48시간 / 보관 30일) | 8 / 26 / 226 |
 
 📰 정리된 뉴스: [NEWS.md](NEWS.md) · 날짜별: [news 폴더](news/)
 
@@ -18,16 +18,16 @@
 
 | # | 사이트 | 판정 | 인용 | 7일 글 | SpaceX 비율 | 피드 |
 |---|---|---|---|---|---|---|
-| 1 | 9to5mac.com | △ 부분(SpaceX 글 없음) | 24 | 100 | 0% | [피드](https://9to5mac.com/feed/) |
-| 2 | 9to5google.com | △ 부분(SpaceX 글 없음) | 18 | 97 | 0% | [피드](https://9to5google.com/feed/) |
-| 3 | 9to5toys.com | △ 부분(SpaceX 글 없음) | 18 | 50 | 0% | [피드](https://9to5toys.com/feed/) |
-| 4 | nytimes.com | △ 부분(SpaceX 글 없음) | 19 | 20 | 0% | [피드](https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml) |
-| 5 | dronedj.com | △ 부분(SpaceX 글 없음) | 18 | 13 | 0% | [피드](https://dronedj.com/feed/) |
-| 6 | hubspot.com | △ 부분(SpaceX 글 없음) | 27 | 4 | 0% | [피드](https://hubspot.com/feed/) |
-| 7 | futureplc.com | △ 부분(날짜·최신성 미달) | 39 | 0 | 0% | [피드](https://futureplc.com/feed/) |
-| 8 | whatsapp.com | △ 부분(피드 없음) | 54 | 0 | 0% | - |
-| 9 | future-advertising.com | △ 부분(날짜·최신성 미달) | 18 | 0 | 0% | [피드](https://futureplc.com/feed/) |
-| 10 | addtoany.com | △ 부분(피드 없음) | 30 | 0 | 0% | - |
+| 1 | 9to5mac.com | △ 부분(SpaceX 글 없음) | 28 | 100 | 0% | [피드](https://9to5mac.com/feed/) |
+| 2 | 9to5google.com | △ 부분(SpaceX 글 없음) | 21 | 98 | 0% | [피드](https://9to5google.com/feed/) |
+| 3 | 9to5toys.com | △ 부분(SpaceX 글 없음) | 21 | 50 | 0% | [피드](https://9to5toys.com/feed/) |
+| 4 | dronedj.com | △ 부분(SpaceX 글 없음) | 21 | 13 | 0% | [피드](https://dronedj.com/feed/) |
+| 5 | hubspot.com | △ 부분(SpaceX 글 없음) | 35 | 4 | 0% | [피드](https://hubspot.com/feed/) |
+| 6 | futureplc.com | △ 부분(날짜·최신성 미달) | 42 | 0 | 0% | [피드](https://futureplc.com/feed/) |
+| 7 | whatsapp.com | △ 부분(피드 없음) | 65 | 0 | 0% | - |
+| 8 | future-advertising.com | △ 부분(날짜·최신성 미달) | 21 | 0 | 0% | [피드](https://futureplc.com/feed/) |
+| 9 | addtoany.com | △ 부분(피드 없음) | 37 | 0 | 0% | - |
+| 10 | apple.news | △ 부분(피드 없음) | 21 | 0 | 0% | - |
 
 ✅ 통과(본문·신뢰도는 봇이 따로 확인) · △ 부분 · ⛔ 접속 불가
 
@@ -49,22 +49,22 @@
 | 출처 | 전체 | SpaceX |
 |---|---|---|
 | Electrek SpaceX | 79 | 73 |
-| Hacker News Starlink | 50 | 33 |
+| Hacker News Starlink | 50 | 31 |
 | Federal Register SpaceX | 20 | 20 |
 | TechCrunch SpaceX | 18 | 15 |
 | Space.com | 50 | 15 |
-| Hacker News SpaceX | 50 | 13 |
+| Hacker News SpaceX | 50 | 12 |
 | Teslarati SpaceX | 10 | 10 |
 | Everyday Astronaut | 10 | 10 |
-| Broadband Breakfast | 15 | 9 |
+| Broadband Breakfast | 15 | 10 |
 | Tesla Oracle | 10 | 9 |
 | Spaceflight Now | 10 | 7 |
 | NASASpaceflight | 10 | 6 |
+| SpacePolicyOnline | 10 | 6 |
 | Payload | 13 | 5 |
 | Light Reading | 50 | 5 |
-| SpacePolicyOnline | 10 | 4 |
+| Via Satellite | 10 | 4 |
 | Drive Tesla Canada | 10 | 4 |
-| Via Satellite | 10 | 3 |
 | Universe Today | 20 | 2 |
 | Space Intel Report | 10 | 2 |
 | Advanced Television | 10 | 1 |
@@ -73,7 +73,7 @@
 | Breaking Defense | 15 | 1 |
 | DefenseScoop | 10 | 1 |
 | Air & Space Forces | 9 | 1 |
-| The War Zone | 39 | 1 |
+| The War Zone | 32 | 1 |
 | Crunchbase News | 10 | 1 |
 | CBS News Technology | 30 | 0 |
 | SpaceNews | 16 | 0 |
@@ -86,12 +86,13 @@
 
 ## 차단 사이트 인용 횟수 (접속 안 함)
 
-twitter.com 51, x.com 45, t.co 14, google.com 12, cnbc.com 10, reddit.com 10, bloomberg.com 5, theguardian.com 5, apnews.com 5, reuters.com 5
+twitter.com 51, x.com 47, t.co 14, google.com 12, reddit.com 10, apnews.com 7, cnbc.com 6, theguardian.com 5, reuters.com 5, bloomberg.com 4
 
 ## 최근 실행 10회
 
 | 시각(UTC) | 씨앗 성공 | 요청 | 오류 | 차단 접속 | 통과 |
 |---|---|---|---|---|---|
+| 2026-11-16 06:24 | 35/43 | 161 | 8 | 0 | 0 |
 | 2026-11-15 18:49 | 35/43 | 164 | 8 | 0 | 0 |
 | 2026-11-15 06:26 | 34/43 | 166 | 9 | 0 | 0 |
 | 2026-11-14 22:22 | 35/43 | 162 | 8 | 0 | 0 |
@@ -101,6 +102,5 @@ twitter.com 51, x.com 45, t.co 14, google.com 12, cnbc.com 10, reddit.com 10, bl
 | 2026-11-13 06:41 | 35/43 | 165 | 9 | 0 | 0 |
 | 2026-11-12 23:37 | 35/43 | 167 | 10 | 0 | 0 |
 | 2026-11-12 15:11 | 35/43 | 163 | 9 | 0 | 0 |
-| 2026-11-12 00:41 | 35/43 | 172 | 12 | 0 | 0 |
 
 ※ 기계 시험은 접속·형식만 본 것입니다. 정보 제공용이며 투자 자문이 아닙니다.

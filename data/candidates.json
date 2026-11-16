@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-15T18:49:26+00:00",
+ "generated_at": "2026-11-16T06:24:46+00:00",
  "signals": {
   "candidates_passed": 0,
-  "candidates_seen_30d": 290,
+  "candidates_seen_30d": 293,
   "feeds_failing_3x": [
    "DoD Contracts",
    "GDELT SpaceX",
@@ -18,7 +18,7 @@
  "top": [
   {
    "domain": "9to5mac.com",
-   "citations": 24,
+   "citations": 28,
    "cited_by": [
     "Electrek SpaceX"
    ],
@@ -33,11 +33,11 @@
    "items_7d": 100,
    "kw_ratio": 0.0,
    "verdict": "부분(SpaceX 글 없음)",
-   "score": 484.8
+   "score": 565.6
   },
   {
    "domain": "9to5google.com",
-   "citations": 18,
+   "citations": 21,
    "cited_by": [
     "Electrek SpaceX"
    ],
@@ -49,14 +49,14 @@
    "robots": "허용",
    "feed": "https://9to5google.com/feed/",
    "has_dates": true,
-   "items_7d": 97,
+   "items_7d": 98,
    "kw_ratio": 0.0,
    "verdict": "부분(SpaceX 글 없음)",
-   "score": 352.8
+   "score": 415.8
   },
   {
    "domain": "9to5toys.com",
-   "citations": 18,
+   "citations": 21,
    "cited_by": [
     "Electrek SpaceX"
    ],
@@ -71,32 +71,11 @@
    "items_7d": 50,
    "kw_ratio": 0.0,
    "verdict": "부분(SpaceX 글 없음)",
-   "score": 183.6
-  },
-  {
-   "domain": "nytimes.com",
-   "citations": 19,
-   "cited_by": [
-    "Electrek SpaceX",
-    "Space.com",
-    "Teslarati SpaceX"
-   ],
-   "sample": "https://www.nytimes.com/2026/11/02/us/politics/elon-musk-midterm-spending.html",
-   "titles": [
-    "SpaceX makes history, catching Starship from orbit for the first time",
-    "SpaceX Starship is going for a catch that could change spaceflight forever"
-   ],
-   "robots": "허용",
-   "feed": "https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml",
-   "has_dates": true,
-   "items_7d": 20,
-   "kw_ratio": 0.0,
-   "verdict": "부분(SpaceX 글 없음)",
-   "score": 79.8
+   "score": 214.2
   },
   {
    "domain": "dronedj.com",
-   "citations": 18,
+   "citations": 21,
    "cited_by": [
     "Electrek SpaceX"
    ],
@@ -111,18 +90,18 @@
    "items_7d": 13,
    "kw_ratio": 0.0,
    "verdict": "부분(SpaceX 글 없음)",
-   "score": 50.4
+   "score": 58.8
   },
   {
    "domain": "hubspot.com",
-   "citations": 27,
+   "citations": 35,
    "cited_by": [
     "Broadband Breakfast"
    ],
    "sample": "https://payments-na1.hubspot.com/payments/7TyXGqH4bm?referrer=PAYMENT_LINK&ref=broadbandbreakfast.com",
    "titles": [
-    "SpaceX’s Starship Returns From Orbit and Is Captured by Launch Pad Arms in a Dramatic Firs",
-    "SpaceX’s Starship Soars Into Orbit After Booster Explosion Prevents an Unprecedented Doubl"
+    "Zelenskyy Says Starshield Restrictions Threaten Ukraine’s Energy Defenses Ahead of Winter",
+    "SpaceX’s Starship Returns From Orbit and Is Captured by Launch Pad Arms in a Dramatic Firs"
    ],
    "robots": "허용",
    "feed": "https://hubspot.com/feed/",
@@ -130,11 +109,11 @@
    "items_7d": 4,
    "kw_ratio": 0.0,
    "verdict": "부분(SpaceX 글 없음)",
-   "score": 27.0
+   "score": 35.0
   },
   {
    "domain": "futureplc.com",
-   "citations": 39,
+   "citations": 42,
    "cited_by": [
     "Space.com"
    ],
@@ -149,11 +128,11 @@
    "items_7d": 0,
    "kw_ratio": 0.0,
    "verdict": "부분(날짜·최신성 미달)",
-   "score": 7.8
+   "score": 8.4
   },
   {
    "domain": "whatsapp.com",
-   "citations": 54,
+   "citations": 65,
    "cited_by": [
     "Space Intel Report",
     "Tesla Oracle"
@@ -169,11 +148,11 @@
    "items_7d": 0,
    "kw_ratio": 0.0,
    "verdict": "부분(피드 없음)",
-   "score": 5.4
+   "score": 6.5
   },
   {
    "domain": "future-advertising.com",
-   "citations": 18,
+   "citations": 21,
    "cited_by": [
     "Space.com"
    ],
@@ -188,11 +167,11 @@
    "items_7d": 0,
    "kw_ratio": 0.0,
    "verdict": "부분(날짜·최신성 미달)",
-   "score": 3.6
+   "score": 4.2
   },
   {
    "domain": "addtoany.com",
-   "citations": 30,
+   "citations": 37,
    "cited_by": [
     "Advanced Television",
     "Data Center Dynamics",
@@ -201,7 +180,7 @@
    "sample": "https://www.addtoany.com/add_to/facebook?linkurl=https%3A%2F%2Fwww.advanced-television.com%2F2026%2F11%2F09%2Fviasat-our-new-satellites-will-drive-broadband%2F&linkname=Viasat%3A%20%E2%80%9COur%20new%20satellites%20will%20drive%20broadband%E2%80%9D",
    "titles": [
     "South Africa ready for Starlink?",
-    "SpaceX Catches a Starship"
+    "What’s Happening in Space Policy November 15-21, 2026"
    ],
    "robots": "허용",
    "feed": "",
@@ -209,7 +188,26 @@
    "items_7d": 0,
    "kw_ratio": 0.0,
    "verdict": "부분(피드 없음)",
-   "score": 3.0
+   "score": 3.7
+  },
+  {
+   "domain": "apple.news",
+   "citations": 21,
+   "cited_by": [
+    "Electrek SpaceX"
+   ],
+   "sample": "https://apple.news/TDaZAAzogTHK5rrJYn3D6eQ",
+   "titles": [
+    "SpaceX could announce $1.5 trillion Tesla merger in December: report",
+    "What does a blue Texas sweep mean for Elon Musk, Tesla & SpaceX?"
+   ],
+   "robots": "허용",
+   "feed": "",
+   "has_dates": false,
+   "items_7d": 0,
+   "kw_ratio": 0.0,
+   "verdict": "부분(피드 없음)",
+   "score": 2.1
   }
  ],
  "seeds": [
@@ -253,7 +251,7 @@
    "name": "Hacker News SpaceX",
    "result": "성공",
    "items": 50,
-   "spacex_items": 13
+   "spacex_items": 12
   },
   {
    "name": "Federal Register SpaceX",
@@ -283,7 +281,7 @@
    "name": "SpacePolicyOnline",
    "result": "성공",
    "items": 10,
-   "spacex_items": 4
+   "spacex_items": 6
   },
   {
    "name": "Payload",
@@ -301,7 +299,7 @@
    "name": "Via Satellite",
    "result": "성공",
    "items": 10,
-   "spacex_items": 3
+   "spacex_items": 4
   },
   {
    "name": "European Spaceflight",
@@ -367,7 +365,7 @@
    "name": "Broadband Breakfast",
    "result": "성공",
    "items": 15,
-   "spacex_items": 9
+   "spacex_items": 10
   },
   {
    "name": "Light Reading",
@@ -414,7 +412,7 @@
   {
    "name": "The War Zone",
    "result": "성공",
-   "items": 39,
+   "items": 32,
    "spacex_items": 1
   },
   {
@@ -469,25 +467,25 @@
    "name": "Hacker News Starlink",
    "result": "성공",
    "items": 50,
-   "spacex_items": 33
+   "spacex_items": 31
   }
  ],
  "blocked_cited": {
   "twitter.com": 51,
-  "x.com": 45,
+  "x.com": 47,
   "t.co": 14,
   "google.com": 12,
-  "cnbc.com": 10,
   "reddit.com": 10,
-  "bloomberg.com": 5,
+  "apnews.com": 7,
+  "cnbc.com": 6,
   "theguardian.com": 5,
-  "apnews.com": 5,
-  "reuters.com": 5
+  "reuters.com": 5,
+  "bloomberg.com": 4
  },
  "stats": {
-  "requests": 164,
+  "requests": 161,
   "blocked_skipped": 0,
-  "robots_denied": 2,
+  "robots_denied": 3,
   "errors": 8,
   "blocked_contacted": 0
  }
