@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-11-16T21:59:07+00:00",
+ "generated_at": "2026-11-17T07:52:46+00:00",
  "signals": {
-  "candidates_passed": 1,
+  "candidates_passed": 0,
   "candidates_seen_30d": 307,
   "feeds_failing_3x": [
    "DoD Contracts",
@@ -18,7 +18,7 @@
  "top": [
   {
    "domain": "9to5mac.com",
-   "citations": 28,
+   "citations": 32,
    "cited_by": [
     "Electrek SpaceX"
    ],
@@ -33,11 +33,11 @@
    "items_7d": 100,
    "kw_ratio": 0.0,
    "verdict": "부분(SpaceX 글 없음)",
-   "score": 565.6
+   "score": 646.4
   },
   {
    "domain": "9to5google.com",
-   "citations": 21,
+   "citations": 24,
    "cited_by": [
     "Electrek SpaceX"
    ],
@@ -52,11 +52,11 @@
    "items_7d": 100,
    "kw_ratio": 0.0,
    "verdict": "부분(SpaceX 글 없음)",
-   "score": 424.2
+   "score": 484.8
   },
   {
    "domain": "9to5toys.com",
-   "citations": 21,
+   "citations": 24,
    "cited_by": [
     "Electrek SpaceX"
    ],
@@ -71,11 +71,11 @@
    "items_7d": 50,
    "kw_ratio": 0.0,
    "verdict": "부분(SpaceX 글 없음)",
-   "score": 214.2
+   "score": 244.8
   },
   {
    "domain": "nytimes.com",
-   "citations": 22,
+   "citations": 25,
    "cited_by": [
     "Electrek SpaceX",
     "Hacker News SpaceX",
@@ -90,14 +90,14 @@
    "robots": "허용",
    "feed": "https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml",
    "has_dates": true,
-   "items_7d": 20,
-   "kw_ratio": 0.1,
-   "verdict": "기계 시험 통과(본문·신뢰도는 봇이 확인)",
-   "score": 138.6
+   "items_7d": 25,
+   "kw_ratio": 0.0,
+   "verdict": "부분(SpaceX 글 없음)",
+   "score": 130.0
   },
   {
    "domain": "dronedj.com",
-   "citations": 21,
+   "citations": 24,
    "cited_by": [
     "Electrek SpaceX"
    ],
@@ -112,11 +112,11 @@
    "items_7d": 15,
    "kw_ratio": 0.0,
    "verdict": "부분(SpaceX 글 없음)",
-   "score": 67.2
+   "score": 76.8
   },
   {
    "domain": "hubspot.com",
-   "citations": 35,
+   "citations": 40,
    "cited_by": [
     "Broadband Breakfast"
    ],
@@ -131,11 +131,11 @@
    "items_7d": 5,
    "kw_ratio": 0.0,
    "verdict": "부분(SpaceX 글 없음)",
-   "score": 42.0
+   "score": 48.0
   },
   {
    "domain": "futureplc.com",
-   "citations": 42,
+   "citations": 45,
    "cited_by": [
     "Space.com"
    ],
@@ -150,11 +150,11 @@
    "items_7d": 0,
    "kw_ratio": 0.0,
    "verdict": "부분(날짜·최신성 미달)",
-   "score": 8.4
+   "score": 9.0
   },
   {
    "domain": "whatsapp.com",
-   "citations": 65,
+   "citations": 76,
    "cited_by": [
     "Space Intel Report",
     "Tesla Oracle"
@@ -170,11 +170,11 @@
    "items_7d": 0,
    "kw_ratio": 0.0,
    "verdict": "부분(피드 없음)",
-   "score": 6.5
+   "score": 7.6
   },
   {
    "domain": "future-advertising.com",
-   "citations": 21,
+   "citations": 24,
    "cited_by": [
     "Space.com"
    ],
@@ -189,11 +189,11 @@
    "items_7d": 0,
    "kw_ratio": 0.0,
    "verdict": "부분(날짜·최신성 미달)",
-   "score": 4.2
+   "score": 4.8
   },
   {
    "domain": "addtoany.com",
-   "citations": 37,
+   "citations": 44,
    "cited_by": [
     "Advanced Television",
     "Data Center Dynamics",
@@ -210,7 +210,7 @@
    "items_7d": 0,
    "kw_ratio": 0.0,
    "verdict": "부분(피드 없음)",
-   "score": 3.7
+   "score": 4.4
   }
  ],
  "seeds": [
@@ -254,7 +254,7 @@
    "name": "Hacker News SpaceX",
    "result": "성공",
    "items": 50,
-   "spacex_items": 12
+   "spacex_items": 11
   },
   {
    "name": "Federal Register SpaceX",
@@ -265,7 +265,7 @@
   {
    "name": "SpaceNews",
    "result": "성공",
-   "items": 16,
+   "items": 15,
    "spacex_items": 0
   },
   {
@@ -290,7 +290,7 @@
    "name": "Payload",
    "result": "성공",
    "items": 13,
-   "spacex_items": 4
+   "spacex_items": 5
   },
   {
    "name": "Universe Today",
@@ -415,14 +415,14 @@
   {
    "name": "The War Zone",
    "result": "성공",
-   "items": 33,
-   "spacex_items": 1
+   "items": 32,
+   "spacex_items": 2
   },
   {
    "name": "Drive Tesla Canada",
    "result": "성공",
    "items": 10,
-   "spacex_items": 1
+   "spacex_items": 0
   },
   {
    "name": "Tesla Oracle",
@@ -470,26 +470,26 @@
    "name": "Hacker News Starlink",
    "result": "성공",
    "items": 50,
-   "spacex_items": 16
+   "spacex_items": 12
   }
  ],
  "blocked_cited": {
-  "x.com": 49,
-  "twitter.com": 49,
-  "t.co": 15,
+  "x.com": 52,
+  "twitter.com": 47,
+  "t.co": 16,
   "google.com": 12,
   "reddit.com": 11,
   "cnbc.com": 5,
+  "apnews.com": 5,
   "bloomberg.com": 4,
-  "apnews.com": 4,
   "theguardian.com": 3,
-  "arstechnica.com": 2
+  "arstechnica.com": 3
  },
  "stats": {
   "requests": 163,
   "blocked_skipped": 0,
   "robots_denied": 2,
-  "errors": 7,
+  "errors": 8,
   "blocked_contacted": 0
  }
 }

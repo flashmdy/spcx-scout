@@ -1,8 +1,49 @@
 {
- "generated_at": "2026-11-16T21:59:07+00:00",
- "count_48h": 33,
- "new_this_run": 19,
+ "generated_at": "2026-11-17T07:52:46+00:00",
+ "count_48h": 34,
+ "new_this_run": 3,
  "items": [
+  {
+   "title": "Russia’s Kerch Bridge Road Vehicle Span Has Been Destroyed By Ukraine",
+   "url": "https://www.twz.com/news-features/kerch-bridge-struck-for-the-second-time-in-less-than-24-hours-russia",
+   "domains": [
+    "twz.com"
+   ],
+   "published": "2026-11-17T01:03-05:00",
+   "topics": [
+    "기타"
+   ],
+   "official": false,
+   "score": 1
+  },
+  {
+   "title": "SEOPS Signs Rideshare Deal With Stoke",
+   "url": "https://payloadspace.com/seops-signs-rideshare-deal-with-stoke/",
+   "domains": [
+    "payloadspace.com"
+   ],
+   "published": "2026-11-17T06:00+00:00",
+   "topics": [
+    "기타"
+   ],
+   "official": false,
+   "score": 1
+  },
+  {
+   "title": "FAA turned down free Starlink offer before nationwide ground stop, Elon Musk says",
+   "url": "https://www.teslarati.com/faa-turned-down-free-starlink-offer-before-nationwide-ground-stop-elon-musk-says/",
+   "domains": [
+    "teslarati.com"
+   ],
+   "published": "2026-11-16T23:53+00:00",
+   "topics": [
+    "정부·규제",
+    "Starlink·통신",
+    "테슬라·머스크"
+   ],
+   "official": false,
+   "score": 1
+  },
   {
    "title": "Launch Preview: Ariane 6 to launch Amazon satellites, Falcon 9 to launch government missions",
    "url": "https://www.nasaspaceflight.com/2026/11/launch-preview-111626/",
@@ -404,32 +445,6 @@
     "space.com"
    ],
    "published": "2026-11-15T11:00+00:00",
-   "topics": [
-    "발사·Starship"
-   ],
-   "official": false,
-   "score": 1
-  },
-  {
-   "title": "SpaceX’s Starship Returns From Orbit and Is Captured by Launch Pad Arms in a Dramatic First",
-   "url": "https://broadbandbreakfast.com/spacexs-starship-returns-from-orbit-and-is-captured-by-launch-pad-arms-in-a-dramatic-first/",
-   "domains": [
-    "broadbandbreakfast.com"
-   ],
-   "published": "2026-11-15T04:10+00:00",
-   "topics": [
-    "발사·Starship"
-   ],
-   "official": false,
-   "score": 1
-  },
-  {
-   "title": "SpaceX Successfully Catches Starship Upper Stage",
-   "url": "https://payloadspace.com/spacex-successfully-catches-starship-upper-stage/",
-   "domains": [
-    "payloadspace.com"
-   ],
-   "published": "2026-11-15T01:39+00:00",
    "topics": [
     "발사·Starship"
    ],

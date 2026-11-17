@@ -1,10 +1,14 @@
 # SPCX 뉴스 모음 — 최근 48시간
 
-갱신: 2026-11-17 06:59 (한국 시간) · 글 33건 · 교차 확인 = 같은 소식을 낸 사이트 수 · 🏛 = 정부·공식 출처
+갱신: 2026-11-17 16:52 (한국 시간) · 글 34건 · 교차 확인 = 같은 소식을 낸 사이트 수 · 🏛 = 정부·공식 출처
 
 ## 금융·IPO (1)
 
 - [Did the SpaceX IPO Move the South Bay Housing Market?](https://www.realab.blog/p/did-the-spacex-ipo-move-the-south) — realab.blog · 11-16 03:16
+
+## 정부·규제 (1)
+
+- [FAA turned down free Starlink offer before nationwide ground stop, Elon Musk says](https://www.teslarati.com/faa-turned-down-free-starlink-offer-before-nationwide-ground-stop-elon-musk-says/) — teslarati.com · 11-17 08:53
 
 ## 국방 (2)
 
@@ -22,7 +26,7 @@
 - [AST SpaceMobile: “We’re not like Musk or Starlink”](https://www.advanced-television.com/2026/11/16/ast-spacemobile-were-not-like-musk-or-starlink/) — advanced-television.com · 11-16 10:21
 - [Zelensky urges US and Musk to lift Starlink restrictions](https://www.bbc.com/news/articles/c6m25zg88k45o) — bbc.com · 11-16 03:18
 
-## 발사·Starship (16)
+## 발사·Starship (14)
 
 - [Launch Preview: Ariane 6 to launch Amazon satellites, Falcon 9 to launch government missions](https://www.nasaspaceflight.com/2026/11/launch-preview-111626/) — nasaspaceflight.com · 11-17 06:57
 - [Relive Starship’s historic Flight 15 with our best photos from launch and ‘Mechazilla’ tower catch](https://www.space.com/space-exploration/launches-spacecraft/relive-starships-historic-flight-15-with-our-best-photos-from-launch-and-mechazilla-tower-catch) — space.com · 11-17 06:26
@@ -36,15 +40,17 @@
 - [Elon Musk is already planning a bigger Starship, and the Moon may be why](https://www.teslarati.com/elon-musk-spacex-starship-v4-moon/) — teslarati.com · 11-16 15:12
 - [SpaceX Catches Starship In Landing After Orbital Flight for First Time](https://www.satellitetoday.com/launch/2026/11/15/spacex-catches-starship-in-landing-after-orbital-flight-for-first-time/) — satellitetoday.com · 11-16 10:32
 - [Vulcan’s Return-to-Flight Fails](https://spacepolicyonline.com/news/vulcans-return-to-flight-fails/) — spacepolicyonline.com · 11-16 07:35
-- …외 4건
+- …외 2건
 
 ## 테슬라·머스크 (2)
 
 - [Elon Musk Wants to Merge Tesla and SpaceX. Their Businesses Already Overlap](https://www.nytimes.com/2026/11/16/business/elon-musk-tesla-spacex.html) — nytimes.com · 11-17 01:39
 - [Drive Tesla Download: Top Stories for November 9-15](https://driveteslacanada.ca/news/drive-tesla-download-november-9-15/?utm_source=rss&utm_medium=rss&utm_campaign=drive-tesla-download-november-9-15) — driveteslacanada.ca · 11-16 02:38
 
-## 기타 (7)
+## 기타 (9)
 
+- [Russia’s Kerch Bridge Road Vehicle Span Has Been Destroyed By Ukraine](https://www.twz.com/news-features/kerch-bridge-struck-for-the-second-time-in-less-than-24-hours-russia) — twz.com · 11-17 10:03
+- [SEOPS Signs Rideshare Deal With Stoke](https://payloadspace.com/seops-signs-rideshare-deal-with-stoke/) — payloadspace.com · 11-17 15:00
 - ['Maybe the scariest thing I've heard in my life': Artemis II astronaut Victor Glover reveals his toughest challenge before flying to the moon](https://www.space.com/space-exploration/artemis/maybe-the-scariest-thing-ive-heard-in-my-life-artemis-ii-astronaut-victor-glover-reveals-his-toughest-challenge-before-flying-to-the-moon) — space.com · 11-17 03:00
 - [Europe hunts for Palantir alternatives as militaries seek to limit US dependence](https://www.defensenews.com/news/2026/11/16/europe-hunts-for-palantir-alternatives-as-militaries-seek-to-limit-us-dependence/) — defensenews.com · 11-17 03:00
 - [Amazon Leo Loses 40 LEOs after ULA Rocket Fails Early after Liftoff](https://broadbandbreakfast.com/amazon-leo-loses-40-leos-after-ula-rocket-fails-early-after-liftoff/) — broadbandbreakfast.com · 11-16 22:20
