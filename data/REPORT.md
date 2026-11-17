@@ -1,16 +1,16 @@
 # SPCX 출처 탐색 결과
 
-마지막 실행: **2026-11-17 16:52 (한국 시간)** · 6시간마다 자동 갱신
+마지막 실행: **2026-11-18 05:52 (한국 시간)** · 6시간마다 자동 갱신
 
 | 항목 | 값 |
 |---|---|
 | 차단 사이트 접속 | ✅ 0건 |
-| 씨앗 출처 성공 | 35/43 |
-| 기계 시험 통과 후보 | 0 |
-| 최근 30일 본 후보 | 307 |
+| 씨앗 출처 성공 | 34/43 |
+| 기계 시험 통과 후보 | 1 |
+| 최근 30일 본 후보 | 315 |
 | 봇이 부를 일꾼 수 | 1 |
 | 3회 연속 실패 씨앗 | DoD Contracts, GDELT SpaceX, GDELT Starlink, Orbital Today, Spaceflight Insider, Telecompetitor, US Space Force, VentureBeat |
-| 뉴스 글(이번 새 글 / 48시간 / 보관 30일) | 3 / 34 / 248 |
+| 뉴스 글(이번 새 글 / 48시간 / 보관 30일) | 15 / 43 / 263 |
 
 📰 정리된 뉴스: [NEWS.md](NEWS.md) · 날짜별: [news 폴더](news/)
 
@@ -21,8 +21,8 @@
 | 1 | 9to5mac.com | △ 부분(SpaceX 글 없음) | 32 | 100 | 0% | [피드](https://9to5mac.com/feed/) |
 | 2 | 9to5google.com | △ 부분(SpaceX 글 없음) | 24 | 100 | 0% | [피드](https://9to5google.com/feed/) |
 | 3 | 9to5toys.com | △ 부분(SpaceX 글 없음) | 24 | 50 | 0% | [피드](https://9to5toys.com/feed/) |
-| 4 | nytimes.com | △ 부분(SpaceX 글 없음) | 25 | 25 | 0% | [피드](https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml) |
-| 5 | dronedj.com | △ 부분(SpaceX 글 없음) | 24 | 15 | 0% | [피드](https://dronedj.com/feed/) |
+| 4 | nytimes.com | ✅ 기계 시험 통과(본문·신뢰도는 봇이 확인) | 25 | 19 | 5% | [피드](https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml) |
+| 5 | dronedj.com | △ 부분(SpaceX 글 없음) | 24 | 16 | 0% | [피드](https://dronedj.com/feed/) |
 | 6 | hubspot.com | △ 부분(SpaceX 글 없음) | 40 | 5 | 0% | [피드](https://hubspot.com/feed/) |
 | 7 | futureplc.com | △ 부분(날짜·최신성 미달) | 45 | 0 | 0% | [피드](https://futureplc.com/feed/) |
 | 8 | whatsapp.com | △ 부분(피드 없음) | 76 | 0 | 0% | - |
@@ -36,6 +36,7 @@
 | 출처 | 사유 |
 |---|---|
 | Orbital Today | 일시 중지(5회 연속 실패) |
+| SpaceQ | 오류: HTTPError |
 | Spaceflight Insider | 일시 중지(5회 연속 실패) |
 | US Space Force | 일시 중지(5회 연속 실패) |
 | DoD Contracts | 일시 중지(5회 연속 실패) |
@@ -49,49 +50,49 @@
 | 출처 | 전체 | SpaceX |
 |---|---|---|
 | Electrek SpaceX | 79 | 73 |
+| Hacker News Starlink | 50 | 31 |
 | Federal Register SpaceX | 20 | 20 |
 | Space.com | 50 | 17 |
 | TechCrunch SpaceX | 18 | 15 |
-| Hacker News Starlink | 50 | 12 |
-| Hacker News SpaceX | 50 | 11 |
 | Teslarati SpaceX | 10 | 10 |
 | Everyday Astronaut | 10 | 10 |
+| Hacker News SpaceX | 50 | 9 |
 | Tesla Oracle | 10 | 9 |
 | NASASpaceflight | 10 | 7 |
 | Spaceflight Now | 10 | 7 |
-| SpacePolicyOnline | 10 | 6 |
-| Broadband Breakfast | 15 | 6 |
-| Light Reading | 50 | 6 |
+| SpacePolicyOnline | 10 | 7 |
 | Payload | 13 | 5 |
+| Light Reading | 50 | 5 |
+| Drive Tesla Canada | 10 | 4 |
 | Via Satellite | 10 | 3 |
+| The War Zone | 34 | 3 |
 | Universe Today | 20 | 2 |
-| Space Intel Report | 10 | 2 |
-| The War Zone | 32 | 2 |
+| NASA | 10 | 2 |
+| Broadband Breakfast | 15 | 2 |
 | CBS News Technology | 30 | 1 |
-| Advanced Television | 10 | 1 |
 | European Spaceflight | 10 | 1 |
-| SpaceQ | 10 | 1 |
-| Fierce Network | 25 | 1 |
+| Space Intel Report | 10 | 1 |
 | Air & Space Forces | 9 | 1 |
 | Defense News | 10 | 1 |
-| Crunchbase News | 10 | 1 |
-| SpaceNews | 15 | 0 |
-| NASA | 10 | 0 |
+| Advanced Television | 10 | 0 |
+| SpaceNews | 16 | 0 |
 | RCR Wireless | 10 | 0 |
+| Fierce Network | 25 | 0 |
 | Breaking Defense | 15 | 0 |
 | DefenseScoop | 10 | 0 |
-| Drive Tesla Canada | 10 | 0 |
 | The Decoder | 10 | 0 |
 | Data Center Dynamics | 20 | 0 |
+| Crunchbase News | 10 | 0 |
 
 ## 차단 사이트 인용 횟수 (접속 안 함)
 
-x.com 52, twitter.com 47, t.co 16, google.com 12, reddit.com 11, cnbc.com 5, apnews.com 5, bloomberg.com 4, theguardian.com 3, arstechnica.com 3
+x.com 55, twitter.com 49, t.co 19, google.com 12, reddit.com 11, cnbc.com 5, reuters.com 5, bloomberg.com 4, theguardian.com 4, arstechnica.com 4
 
 ## 최근 실행 10회
 
 | 시각(UTC) | 씨앗 성공 | 요청 | 오류 | 차단 접속 | 통과 |
 |---|---|---|---|---|---|
+| 2026-11-17 20:52 | 34/43 | 163 | 8 | 0 | 1 |
 | 2026-11-17 07:52 | 35/43 | 163 | 8 | 0 | 0 |
 | 2026-11-16 21:59 | 35/43 | 163 | 7 | 0 | 1 |
 | 2026-11-16 06:24 | 35/43 | 161 | 8 | 0 | 0 |
@@ -101,6 +102,5 @@ x.com 52, twitter.com 47, t.co 16, google.com 12, reddit.com 11, cnbc.com 5, apn
 | 2026-11-14 17:59 | 34/43 | 158 | 8 | 0 | 0 |
 | 2026-11-14 06:18 | 35/43 | 161 | 7 | 0 | 0 |
 | 2026-11-13 19:39 | 35/43 | 163 | 9 | 0 | 0 |
-| 2026-11-13 06:41 | 35/43 | 165 | 9 | 0 | 0 |
 
 ※ 기계 시험은 접속·형식만 본 것입니다. 정보 제공용이며 투자 자문이 아닙니다.

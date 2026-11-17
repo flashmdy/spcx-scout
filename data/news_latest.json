@@ -1,8 +1,207 @@
 {
- "generated_at": "2026-11-17T07:52:46+00:00",
- "count_48h": 34,
- "new_this_run": 3,
+ "generated_at": "2026-11-17T20:52:58+00:00",
+ "count_48h": 43,
+ "new_this_run": 15,
  "items": [
+  {
+   "title": "NASA to Cover 35th SpaceX Resupply Mission Space Station Departure",
+   "url": "https://www.nasa.gov/news-release/nasa-to-cover-35th-spacex-resupply-mission-space-station-departure/",
+   "domains": [
+    "nasa.gov"
+   ],
+   "published": "2026-11-17T19:16+00:00",
+   "topics": [
+    "기타"
+   ],
+   "official": true,
+   "score": 3
+  },
+  {
+   "title": "NASA Invites Media, Public to View Roman Telescope’s First Images",
+   "url": "https://www.nasa.gov/news-release/nasa-invites-media-public-to-view-roman-telescopes-first-images/",
+   "domains": [
+    "nasa.gov"
+   ],
+   "published": "2026-11-17T17:00+00:00",
+   "topics": [
+    "기타"
+   ],
+   "official": true,
+   "score": 3
+  },
+  {
+   "title": "Senate Appropriators Release $1.072 Trillion Defense Bill",
+   "url": "https://spacepolicyonline.com/news/senate-appropriators-release-1-072-trillion-defense-bill/",
+   "domains": [
+    "spacepolicyonline.com"
+   ],
+   "published": "2026-11-17T20:34+00:00",
+   "topics": [
+    "정부·규제",
+    "국방"
+   ],
+   "official": false,
+   "score": 1
+  },
+  {
+   "title": "Elon Musk Says FAA Rejected Free Starlink Offer Before Nationwide Outage",
+   "url": "https://driveteslacanada.ca/news/musk-says-faa-refused-free-starlink-kits/?utm_source=rss&utm_medium=rss&utm_campaign=musk-says-faa-refused-free-starlink-kits",
+   "domains": [
+    "driveteslacanada.ca"
+   ],
+   "published": "2026-11-17T19:13+00:00",
+   "topics": [
+    "정부·규제",
+    "Starlink·통신",
+    "테슬라·머스크"
+   ],
+   "official": false,
+   "score": 1
+  },
+  {
+   "title": "ULA lost a Vulcan Centaur rocket carrying 40 Amazon satellites 10 minutes after launch — but the failure began just after liftoff",
+   "url": "https://www.space.com/space-exploration/launches-spacecraft/ula-lost-a-vulcan-centaur-rocket-carrying-40-amazon-satellites-10-minutes-after-launch-but-the-failure-began-just-after-liftoff",
+   "domains": [
+    "space.com"
+   ],
+   "published": "2026-11-17T18:48+00:00",
+   "topics": [
+    "발사·Starship"
+   ],
+   "official": false,
+   "score": 1
+  },
+  {
+   "title": "ULA Vulcan Anomaly Has Pentagon Implications",
+   "url": "https://payloadspace.com/ula-vulcan-anomaly-has-pentagon-implications/",
+   "domains": [
+    "payloadspace.com"
+   ],
+   "published": "2026-11-17T18:30+00:00",
+   "topics": [
+    "국방"
+   ],
+   "official": false,
+   "score": 1
+  },
+  {
+   "title": "Tesla Unveils Powercore Transformer for Off-Grid Data Centres",
+   "url": "https://driveteslacanada.ca/news/tesla-powercore-transformer-2027/?utm_source=rss&utm_medium=rss&utm_campaign=tesla-powercore-transformer-2027",
+   "domains": [
+    "driveteslacanada.ca"
+   ],
+   "published": "2026-11-17T16:59+00:00",
+   "topics": [
+    "테슬라·머스크"
+   ],
+   "official": false,
+   "score": 1
+  },
+  {
+   "title": "What We Know About Ukraine’s Strikes That Cut Russia’s Kerch Bridge (Updated)",
+   "url": "https://www.twz.com/news-features/what-we-know-about-ukraines-strikes-that-cut-russias-kerch-bridge-road-vehicle-span",
+   "domains": [
+    "twz.com"
+   ],
+   "published": "2026-11-17T10:48-05:00",
+   "topics": [
+    "기타"
+   ],
+   "official": false,
+   "score": 1
+  },
+  {
+   "title": "Starlink Receives Notice of Non-Compliance in South Africa",
+   "url": "https://driveteslacanada.ca/spacex/starlink-receives-notice-of-non-compliance-in-south-africa/?utm_source=rss&utm_medium=rss&utm_campaign=starlink-receives-notice-of-non-compliance-in-south-africa",
+   "domains": [
+    "driveteslacanada.ca"
+   ],
+   "published": "2026-11-17T15:09+00:00",
+   "topics": [
+    "Starlink·통신"
+   ],
+   "official": false,
+   "score": 1
+  },
+  {
+   "title": "SpaceX releases stunning imagery of Flight 15 Starship catch, Musk updates on Ship 42 reusability status, more",
+   "url": "https://www.teslaoracle.com/2026/11/17/spacex-releases-stunning-imagery-of-flight-15-starship-catch-musk-updates-on-ship-42-reusability-status-more/",
+   "domains": [
+    "teslaoracle.com"
+   ],
+   "published": "2026-11-17T14:40+00:00",
+   "topics": [
+    "발사·Starship",
+    "테슬라·머스크"
+   ],
+   "official": false,
+   "score": 1
+  },
+  {
+   "title": "Pentagon fails ninth straight audit despite progress in organizing finances",
+   "url": "https://www.defensenews.com/pentagon/2026/11/17/pentagon-fails-ninth-straight-audit-despite-progress-in-organizing-finances/",
+   "domains": [
+    "defensenews.com"
+   ],
+   "published": "2026-11-17T14:35+00:00",
+   "topics": [
+    "국방"
+   ],
+   "official": false,
+   "score": 1
+  },
+  {
+   "title": "SpaceX launched more mass to orbit this year than Europe in its history",
+   "url": "https://www.kadoa.com/companies/insights/spacex-europe-payload",
+   "domains": [
+    "kadoa.com"
+   ],
+   "published": "2026-11-17T13:55+00:00",
+   "topics": [
+    "발사·Starship"
+   ],
+   "official": false,
+   "score": 1
+  },
+  {
+   "title": "Grok Bot Takes Over the Las Vegas Sphere in New Ad [Video]",
+   "url": "https://driveteslacanada.ca/news/grok-bot-las-vegas-sphere/?utm_source=rss&utm_medium=rss&utm_campaign=grok-bot-las-vegas-sphere",
+   "domains": [
+    "driveteslacanada.ca"
+   ],
+   "published": "2026-11-17T13:32+00:00",
+   "topics": [
+    "AI·xAI"
+   ],
+   "official": false,
+   "score": 1
+  },
+  {
+   "title": "Space Cargo Unlimited Unveils REV1 Reentry Vehicle",
+   "url": "https://payloadspace.com/space-cargo-unlimited-unveils-rev1-reentry-vehicle/",
+   "domains": [
+    "payloadspace.com"
+   ],
+   "published": "2026-11-17T13:26+00:00",
+   "topics": [
+    "기타"
+   ],
+   "official": false,
+   "score": 1
+  },
+  {
+   "title": "Satellites now outnumber the visible stars above most towns",
+   "url": "https://www.space.com/space-exploration/satellites/satellites-now-outnumber-the-visible-stars-above-most-towns",
+   "domains": [
+    "space.com"
+   ],
+   "published": "2026-11-17T11:00+00:00",
+   "topics": [
+    "기타"
+   ],
+   "official": false,
+   "score": 1
+  },
   {
    "title": "Russia’s Kerch Bridge Road Vehicle Span Has Been Destroyed By Ukraine",
    "url": "https://www.twz.com/news-features/kerch-bridge-struck-for-the-second-time-in-less-than-24-hours-russia",
@@ -329,124 +528,6 @@
    "published": "2026-11-15T23:28+00:00",
    "topics": [
     "국방"
-   ],
-   "official": false,
-   "score": 1
-  },
-  {
-   "title": "What’s Happening in Space Policy November 15-21, 2026",
-   "url": "https://spacepolicyonline.com/news/whats-happening-in-space-policy-november-15-21-2026/",
-   "domains": [
-    "spacepolicyonline.com"
-   ],
-   "published": "2026-11-15T23:13+00:00",
-   "topics": [
-    "기타"
-   ],
-   "official": false,
-   "score": 1
-  },
-  {
-   "title": "Chemical spills into drainage ditch at SpaceXAI in Southaven",
-   "url": "https://wreg.com/news/chemical-spills-into-drainage-ditch-at-spacexai-in-southaven/",
-   "domains": [
-    "wreg.com"
-   ],
-   "published": "2026-11-15T23:12+00:00",
-   "topics": [
-    "AI·xAI"
-   ],
-   "official": false,
-   "score": 1
-  },
-  {
-   "title": "Vulcan’s Return-to-Flight Fails",
-   "url": "https://spacepolicyonline.com/news/vulcans-return-to-flight-fails/",
-   "domains": [
-    "spacepolicyonline.com"
-   ],
-   "published": "2026-11-15T22:35+00:00",
-   "topics": [
-    "발사·Starship"
-   ],
-   "official": false,
-   "score": 1
-  },
-  {
-   "title": "ULA suffers first outright failure with loss of Vulcan rocket carrying 40 Amazon Leo satellites",
-   "url": "https://spaceflightnow.com/2026/11/15/ula-suffers-first-total-mission-failure-with-loss-of-vulcan-rocket-carrying-40-amazon-leo-satellites/",
-   "domains": [
-    "spaceflightnow.com"
-   ],
-   "published": "2026-11-15T19:16+00:00",
-   "topics": [
-    "기타"
-   ],
-   "official": false,
-   "score": 1
-  },
-  {
-   "title": "Zelensky urges US and Musk to lift Starlink restrictions",
-   "url": "https://www.bbc.com/news/articles/c6m25zg88k45o",
-   "domains": [
-    "bbc.com"
-   ],
-   "published": "2026-11-15T18:18+00:00",
-   "topics": [
-    "Starlink·통신",
-    "테슬라·머스크"
-   ],
-   "official": false,
-   "score": 1
-  },
-  {
-   "title": "Did the SpaceX IPO Move the South Bay Housing Market?",
-   "url": "https://www.realab.blog/p/did-the-spacex-ipo-move-the-south",
-   "domains": [
-    "realab.blog"
-   ],
-   "published": "2026-11-15T18:16+00:00",
-   "topics": [
-    "금융·IPO"
-   ],
-   "official": false,
-   "score": 1
-  },
-  {
-   "title": "Drive Tesla Download: Top Stories for November 9-15",
-   "url": "https://driveteslacanada.ca/news/drive-tesla-download-november-9-15/?utm_source=rss&utm_medium=rss&utm_campaign=drive-tesla-download-november-9-15",
-   "domains": [
-    "driveteslacanada.ca"
-   ],
-   "published": "2026-11-15T17:38+00:00",
-   "topics": [
-    "테슬라·머스크"
-   ],
-   "official": false,
-   "score": 1
-  },
-  {
-   "title": "The epic story of Flight 15 Starship: ~22 hours in space and a precise landing catch",
-   "url": "https://www.teslaoracle.com/2026/11/15/the-epic-story-of-flight-15-starship-22-hours-in-space-and-a-precise-landing-catch/",
-   "domains": [
-    "teslaoracle.com"
-   ],
-   "published": "2026-11-15T13:32+00:00",
-   "topics": [
-    "발사·Starship"
-   ],
-   "official": false,
-   "score": 1
-  },
-  {
-   "title": "What's next for SpaceX's Starship after epic Flight 15 chopsticks catch?",
-   "url": "https://www.space.com/space-exploration/launches-spacecraft/whats-next-for-spacexs-starship-after-epic-flight-15-chopsticks-catch",
-   "domains": [
-    "space.com"
-   ],
-   "published": "2026-11-15T11:00+00:00",
-   "topics": [
-    "발사·Starship"
    ],
    "official": false,
    "score": 1
