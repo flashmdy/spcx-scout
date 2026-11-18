@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-11-18T07:24:56+00:00",
- "count_48h": 40,
- "new_this_run": 5,
+ "generated_at": "2026-11-18T20:29:06+00:00",
+ "count_48h": 38,
+ "new_this_run": 11,
  "items": [
   {
    "title": "Self-Regulatory Organizations; NYSE Arca, Inc.; Notice of Filing and Immediate Effectiveness of Proposed Rule Change To Amend Its Rules its Rules To Permit the Listing of Binary Options Overlying Key ",
@@ -54,6 +54,152 @@
    ],
    "official": true,
    "score": 3
+  },
+  {
+   "title": "Texas issues air permit for SpaceX data center",
+   "url": "https://www.politico.com/news/2026/11/17/texas-issues-air-permit-for-massive-spacex-data-center-01170758",
+   "domains": [
+    "politico.com"
+   ],
+   "published": "2026-11-18T20:08+00:00",
+   "topics": [
+    "AI·xAI"
+   ],
+   "official": false,
+   "score": 1
+  },
+  {
+   "title": "The Key Numbers I’m Watching As Anthropic Makes Its IPO Debut",
+   "url": "https://news.crunchbase.com/ai/anthropic-ant-ipo-revenue-growth-risks-s1-analysis/",
+   "domains": [
+    "crunchbase.com"
+   ],
+   "published": "2026-11-18T19:39+00:00",
+   "topics": [
+    "금융·IPO"
+   ],
+   "official": false,
+   "score": 1
+  },
+  {
+   "title": "Sean Duffy fires back at Elon Musk over free Starlink",
+   "url": "https://www.teslarati.com/sean-duffy-elon-musk-free-starlink/",
+   "domains": [
+    "teslarati.com"
+   ],
+   "published": "2026-11-18T17:06+00:00",
+   "topics": [
+    "Starlink·통신",
+    "테슬라·머스크"
+   ],
+   "official": false,
+   "score": 1
+  },
+  {
+   "title": "'A shotgun marriage': Why are NASA's SkyFall Mars helicopters riding on a nuclear rocket?",
+   "url": "https://www.space.com/astronomy/mars/a-shotgun-marriage-why-are-nasas-skyfall-mars-helicopters-riding-on-a-nuclear-rocket",
+   "domains": [
+    "space.com"
+   ],
+   "published": "2026-11-18T17:00+00:00",
+   "topics": [
+    "기타"
+   ],
+   "official": false,
+   "score": 1
+  },
+  {
+   "title": "T-Mobile grabs for Bluewater's 600MHz licenses, keeping them out of SpaceX's reach",
+   "url": "https://www.lightreading.com/5g/t-mobile-grabs-for-bluewater-s-600mhz-licenses-keeping-them-out-of-spacex-s-reach",
+   "domains": [
+    "lightreading.com"
+   ],
+   "published": "2026-11-18T15:26+00:00",
+   "topics": [
+    "정부·규제",
+    "Starlink·통신"
+   ],
+   "official": false,
+   "score": 1
+  },
+  {
+   "title": "Cameron County commissioners reject SpaceX tax break request for $24bn Texas data center",
+   "url": "https://www.datacenterdynamics.com/en/news/cameron-county-commissioners-reject-spacex-tax-break-request-for-24bn-texas-data-center/",
+   "domains": [
+    "datacenterdynamics.com"
+   ],
+   "published": "2026-11-18T15:25+00:00",
+   "topics": [
+    "AI·xAI"
+   ],
+   "official": false,
+   "score": 1
+  },
+  {
+   "title": "Texas environmental regulator resumes data center permitting following ERCOT review",
+   "url": "https://www.datacenterdynamics.com/en/news/texas-environmental-regulator-resumes-data-center-permitting-following-ercot-review/",
+   "domains": [
+    "datacenterdynamics.com"
+   ],
+   "published": "2026-11-18T15:03+00:00",
+   "topics": [
+    "정부·규제",
+    "AI·xAI"
+   ],
+   "official": false,
+   "score": 1
+  },
+  {
+   "title": "The Lego Star Trek bridge diorama set should be your gateway to finally watching the Original Series",
+   "url": "https://www.space.com/entertainment/space-toys-lego/the-lego-star-trek-bridge-diorama-set-should-be-your-gateway-to-finally-watching-the-original-series",
+   "domains": [
+    "space.com"
+   ],
+   "published": "2026-11-18T14:04+00:00",
+   "topics": [
+    "기타"
+   ],
+   "official": false,
+   "score": 1
+  },
+  {
+   "title": "Tesla Registers a Record 200 Cybercabs in Texas in One Day",
+   "url": "https://driveteslacanada.ca/news/tesla-cybercab-registrations-texas-record-200/?utm_source=rss&utm_medium=rss&utm_campaign=tesla-cybercab-registrations-texas-record-200",
+   "domains": [
+    "driveteslacanada.ca"
+   ],
+   "published": "2026-11-18T13:52+00:00",
+   "topics": [
+    "테슬라·머스크"
+   ],
+   "official": false,
+   "score": 1
+  },
+  {
+   "title": "India's SatLeo Labs wants to build a 'thermometer for Earth' in space",
+   "url": "https://www.space.com/space-exploration/satellites/indias-satleo-labs-wants-to-build-a-thermometer-for-earth-in-space",
+   "domains": [
+    "space.com"
+   ],
+   "published": "2026-11-18T13:00+00:00",
+   "topics": [
+    "기타"
+   ],
+   "official": false,
+   "score": 1
+  },
+  {
+   "title": "Ukraine Use Own Guidance System to Strike $4B Crimean Bridge Without Starlink",
+   "url": "https://united24media.com/war-in-ukraine/ukraine-uses-its-own-missile-guidance-system-to-strike-the-4-billion-crimean-bridge-without-starlink-or-starshield-24469",
+   "domains": [
+    "united24media.com"
+   ],
+   "published": "2026-11-18T09:05+00:00",
+   "topics": [
+    "Starlink·통신"
+   ],
+   "official": false,
+   "score": 1
   },
   {
    "title": "Phoenix Center Study Says Rural Digital Fund Subsidies Weren't Necessary",
@@ -356,176 +502,6 @@
    "published": "2026-11-16T20:30+00:00",
    "topics": [
     "발사·Starship"
-   ],
-   "official": false,
-   "score": 1
-  },
-  {
-   "title": "Elon Musk says SpaceX’s Starship, already the largest rocket on Earth, will get even bigger with next-gen V4 model",
-   "url": "https://www.space.com/space-exploration/launches-spacecraft/elon-musk-says-spacexs-starship-already-the-largest-rocket-on-earth-will-get-even-bigger-with-next-gen-v4-model",
-   "domains": [
-    "space.com"
-   ],
-   "published": "2026-11-16T20:04+00:00",
-   "topics": [
-    "발사·Starship",
-    "테슬라·머스크"
-   ],
-   "official": false,
-   "score": 1
-  },
-  {
-   "title": "'Maybe the scariest thing I've heard in my life': Artemis II astronaut Victor Glover reveals his toughest challenge before flying to the moon",
-   "url": "https://www.space.com/space-exploration/artemis/maybe-the-scariest-thing-ive-heard-in-my-life-artemis-ii-astronaut-victor-glover-reveals-his-toughest-challenge-before-flying-to-the-moon",
-   "domains": [
-    "space.com"
-   ],
-   "published": "2026-11-16T18:00+00:00",
-   "topics": [
-    "기타"
-   ],
-   "official": false,
-   "score": 1
-  },
-  {
-   "title": "Europe hunts for Palantir alternatives as militaries seek to limit US dependence",
-   "url": "https://www.defensenews.com/news/2026/11/16/europe-hunts-for-palantir-alternatives-as-militaries-seek-to-limit-us-dependence/",
-   "domains": [
-    "defensenews.com"
-   ],
-   "published": "2026-11-16T18:00+00:00",
-   "topics": [
-    "기타"
-   ],
-   "official": false,
-   "score": 1
-  },
-  {
-   "title": "UK MOD Defends Satcom Resilience Amid SpaceX Starshield Concerns",
-   "url": "https://europeanspaceflight.com/uk-mod-defends-satcom-resilience-amid-spacex-starshield-concerns/",
-   "domains": [
-    "europeanspaceflight.com"
-   ],
-   "published": "2026-11-16T17:50+00:00",
-   "topics": [
-    "국방"
-   ],
-   "official": false,
-   "score": 1
-  },
-  {
-   "title": "SpaceX catches its first Starship but loses the booster, at a cost",
-   "url": "https://spaceq.ca/starship-flight-15-ship-catch-booster-lost/",
-   "domains": [
-    "spaceq.ca"
-   ],
-   "published": "2026-11-16T17:20+00:00",
-   "topics": [
-    "발사·Starship"
-   ],
-   "official": false,
-   "score": 1
-  },
-  {
-   "title": "Starship Catch Successful, Amazon Leo Launch Fails",
-   "url": "https://broadbandbreakfast.com/starship-catch-successful-amazon-leo-launch-fails/",
-   "domains": [
-    "broadbandbreakfast.com"
-   ],
-   "published": "2026-11-16T17:10+00:00",
-   "topics": [
-    "발사·Starship"
-   ],
-   "official": false,
-   "score": 1
-  },
-  {
-   "title": "Elon Musk Wants to Merge Tesla and SpaceX. Their Businesses Already Overlap",
-   "url": "https://www.nytimes.com/2026/11/16/business/elon-musk-tesla-spacex.html",
-   "domains": [
-    "nytimes.com"
-   ],
-   "published": "2026-11-16T16:39+00:00",
-   "topics": [
-    "테슬라·머스크"
-   ],
-   "official": false,
-   "score": 1
-  },
-  {
-   "title": "Lufthansa puts Starlink on a long-haul aircraft, starting December 3",
-   "url": "https://driveteslacanada.ca/news/lufthansa-starlink-long-haul-aircraft-december-3/?utm_source=rss&utm_medium=rss&utm_campaign=lufthansa-starlink-long-haul-aircraft-december-3",
-   "domains": [
-    "driveteslacanada.ca"
-   ],
-   "published": "2026-11-16T14:28+00:00",
-   "topics": [
-    "Starlink·통신"
-   ],
-   "official": false,
-   "score": 1
-  },
-  {
-   "title": "SpaceX's landing reminds us even extraordinary technology will be reinvented",
-   "url": "https://www.theatlantic.com/technology/2026/11/spacex-starship-catch/689453/",
-   "domains": [
-    "theatlantic.com"
-   ],
-   "published": "2026-11-16T14:13+00:00",
-   "topics": [
-    "발사·Starship"
-   ],
-   "official": false,
-   "score": 1
-  },
-  {
-   "title": "Dream Chaser space plane gets landing approval for debut mission in 2027",
-   "url": "https://www.space.com/space-exploration/launches-spacecraft/dream-chaser-space-plane-gets-landing-approval-for-debut-mission-in-2027",
-   "domains": [
-    "space.com"
-   ],
-   "published": "2026-11-16T14:00+00:00",
-   "topics": [
-    "발사·Starship"
-   ],
-   "official": false,
-   "score": 1
-  },
-  {
-   "title": "Amazon Leo Loses 40 LEOs after ULA Rocket Fails Early after Liftoff",
-   "url": "https://broadbandbreakfast.com/amazon-leo-loses-40-leos-after-ula-rocket-fails-early-after-liftoff/",
-   "domains": [
-    "broadbandbreakfast.com"
-   ],
-   "published": "2026-11-16T13:20+00:00",
-   "topics": [
-    "기타"
-   ],
-   "official": false,
-   "score": 1
-  },
-  {
-   "title": "A Magna Carta for the stars: King Charles III takes on space sustainability",
-   "url": "https://www.space.com/space-exploration/a-magna-carta-for-the-stars-king-charles-iii-takes-on-space-sustainability",
-   "domains": [
-    "space.com"
-   ],
-   "published": "2026-11-16T13:00+00:00",
-   "topics": [
-    "기타"
-   ],
-   "official": false,
-   "score": 1
-  },
-  {
-   "title": "Latvia pushes 5G answer to Ukraine's Starlink problem",
-   "url": "https://www.lightreading.com/5g/latvia-pushes-5g-answer-to-ukraine-s-starlink-problem",
-   "domains": [
-    "lightreading.com"
-   ],
-   "published": "2026-11-16T08:30+00:00",
-   "topics": [
-    "Starlink·통신"
    ],
    "official": false,
    "score": 1

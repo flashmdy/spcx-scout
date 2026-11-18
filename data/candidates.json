@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-18T07:24:56+00:00",
+ "generated_at": "2026-11-18T20:29:06+00:00",
  "signals": {
   "candidates_passed": 0,
-  "candidates_seen_30d": 319,
+  "candidates_seen_30d": 328,
   "feeds_failing_3x": [
    "DoD Contracts",
    "GDELT SpaceX",
@@ -87,10 +87,10 @@
    "robots": "허용",
    "feed": "https://dronedj.com/feed/",
    "has_dates": true,
-   "items_7d": 16,
+   "items_7d": 15,
    "kw_ratio": 0.0,
    "verdict": "부분(SpaceX 글 없음)",
-   "score": 91.8
+   "score": 86.4
   },
   {
    "domain": "hubspot.com",
@@ -106,10 +106,10 @@
    "robots": "허용",
    "feed": "https://hubspot.com/feed/",
    "has_dates": true,
-   "items_7d": 5,
+   "items_7d": 3,
    "kw_ratio": 0.0,
    "verdict": "부분(SpaceX 글 없음)",
-   "score": 49.2
+   "score": 32.8
   },
   {
    "domain": "futureplc.com",
@@ -119,8 +119,8 @@
    ],
    "sample": "https://futureplc.com/future-member-terms-and-conditions/",
    "titles": [
-    "Space is filling up with junk. Could laser-reflecting mirrors help humanity clean things u",
-    "ULA lost a Vulcan Centaur rocket carrying 40 Amazon satellites 10 minutes after launch — b"
+    "'A shotgun marriage': Why are NASA's SkyFall Mars helicopters riding on a nuclear rocket?",
+    "The Lego Star Trek bridge diorama set should be your gateway to finally watching the Origi"
    ],
    "robots": "허용",
    "feed": "https://futureplc.com/feed/",
@@ -158,8 +158,8 @@
    ],
    "sample": "https://go.future-advertising.com/Spacecom-Media-Kit.html",
    "titles": [
-    "Space is filling up with junk. Could laser-reflecting mirrors help humanity clean things u",
-    "ULA lost a Vulcan Centaur rocket carrying 40 Amazon satellites 10 minutes after launch — b"
+    "'A shotgun marriage': Why are NASA's SkyFall Mars helicopters riding on a nuclear rocket?",
+    "The Lego Star Trek bridge diorama set should be your gateway to finally watching the Origi"
    ],
    "robots": "허용",
    "feed": "https://futureplc.com/feed/",
@@ -171,7 +171,7 @@
   },
   {
    "domain": "addtoany.com",
-   "citations": 51,
+   "citations": 52,
    "cited_by": [
     "Advanced Television",
     "Data Center Dynamics",
@@ -188,7 +188,7 @@
    "items_7d": 0,
    "kw_ratio": 0.0,
    "verdict": "부분(피드 없음)",
-   "score": 5.1
+   "score": 5.2
   },
   {
    "domain": "apple.news",
@@ -239,7 +239,7 @@
    "name": "Space.com",
    "result": "성공",
    "items": 50,
-   "spacex_items": 18
+   "spacex_items": 17
   },
   {
    "name": "Advanced Television",
@@ -251,7 +251,7 @@
    "name": "Hacker News SpaceX",
    "result": "성공",
    "items": 50,
-   "spacex_items": 7
+   "spacex_items": 5
   },
   {
    "name": "Federal Register SpaceX",
@@ -262,7 +262,7 @@
   {
    "name": "SpaceNews",
    "result": "성공",
-   "items": 15,
+   "items": 16,
    "spacex_items": 0
   },
   {
@@ -281,7 +281,7 @@
    "name": "SpacePolicyOnline",
    "result": "성공",
    "items": 10,
-   "spacex_items": 7
+   "spacex_items": 6
   },
   {
    "name": "Payload",
@@ -341,7 +341,7 @@
    "name": "NASA",
    "result": "성공",
    "items": 10,
-   "spacex_items": 1
+   "spacex_items": 0
   },
   {
    "name": "US Space Force",
@@ -365,7 +365,7 @@
    "name": "Broadband Breakfast",
    "result": "성공",
    "items": 15,
-   "spacex_items": 1
+   "spacex_items": 0
   },
   {
    "name": "Light Reading",
@@ -407,25 +407,25 @@
    "name": "Defense News",
    "result": "성공",
    "items": 10,
-   "spacex_items": 1
+   "spacex_items": 0
   },
   {
    "name": "The War Zone",
    "result": "성공",
-   "items": 36,
+   "items": 39,
    "spacex_items": 3
   },
   {
    "name": "Drive Tesla Canada",
    "result": "성공",
    "items": 10,
-   "spacex_items": 4
+   "spacex_items": 1
   },
   {
    "name": "Tesla Oracle",
    "result": "성공",
    "items": 10,
-   "spacex_items": 9
+   "spacex_items": 7
   },
   {
    "name": "VentureBeat",
@@ -443,13 +443,13 @@
    "name": "Data Center Dynamics",
    "result": "성공",
    "items": 20,
-   "spacex_items": 0
+   "spacex_items": 2
   },
   {
    "name": "Crunchbase News",
    "result": "성공",
    "items": 10,
-   "spacex_items": 0
+   "spacex_items": 1
   },
   {
    "name": "GDELT SpaceX",
@@ -467,23 +467,23 @@
    "name": "Hacker News Starlink",
    "result": "성공",
    "items": 50,
-   "spacex_items": 29
+   "spacex_items": 22
   }
  ],
  "blocked_cited": {
-  "x.com": 54,
-  "twitter.com": 46,
-  "t.co": 19,
-  "google.com": 12,
+  "x.com": 46,
+  "twitter.com": 43,
+  "t.co": 15,
   "reddit.com": 10,
+  "google.com": 10,
   "cnbc.com": 5,
-  "reuters.com": 5,
   "bloomberg.com": 4,
   "theguardian.com": 3,
-  "arstechnica.com": 3
+  "reuters.com": 3,
+  "yahoo.com": 2
  },
  "stats": {
-  "requests": 158,
+  "requests": 156,
   "blocked_skipped": 0,
   "robots_denied": 2,
   "errors": 8,
