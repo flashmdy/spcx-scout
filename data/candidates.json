@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-17T20:52:58+00:00",
+ "generated_at": "2026-11-18T07:24:56+00:00",
  "signals": {
-  "candidates_passed": 1,
-  "candidates_seen_30d": 315,
+  "candidates_passed": 0,
+  "candidates_seen_30d": 319,
   "feeds_failing_3x": [
    "DoD Contracts",
    "GDELT SpaceX",
@@ -18,7 +18,7 @@
  "top": [
   {
    "domain": "9to5mac.com",
-   "citations": 32,
+   "citations": 36,
    "cited_by": [
     "Electrek SpaceX"
    ],
@@ -33,11 +33,11 @@
    "items_7d": 100,
    "kw_ratio": 0.0,
    "verdict": "부분(SpaceX 글 없음)",
-   "score": 646.4
+   "score": 727.2
   },
   {
    "domain": "9to5google.com",
-   "citations": 24,
+   "citations": 27,
    "cited_by": [
     "Electrek SpaceX"
    ],
@@ -52,11 +52,11 @@
    "items_7d": 100,
    "kw_ratio": 0.0,
    "verdict": "부분(SpaceX 글 없음)",
-   "score": 484.8
+   "score": 545.4
   },
   {
    "domain": "9to5toys.com",
-   "citations": 24,
+   "citations": 27,
    "cited_by": [
     "Electrek SpaceX"
    ],
@@ -71,33 +71,11 @@
    "items_7d": 50,
    "kw_ratio": 0.0,
    "verdict": "부분(SpaceX 글 없음)",
-   "score": 244.8
-  },
-  {
-   "domain": "nytimes.com",
-   "citations": 25,
-   "cited_by": [
-    "Electrek SpaceX",
-    "Hacker News SpaceX",
-    "Space.com",
-    "Teslarati SpaceX"
-   ],
-   "sample": "https://www.nytimes.com/2026/11/02/us/politics/elon-musk-midterm-spending.html",
-   "titles": [
-    "Nvidia’s board meets on Jensen Huang, and Elon Musk already has an answer",
-    "What does a blue Texas sweep mean for Elon Musk, Tesla & SpaceX?"
-   ],
-   "robots": "허용",
-   "feed": "https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml",
-   "has_dates": true,
-   "items_7d": 19,
-   "kw_ratio": 0.05,
-   "verdict": "기계 시험 통과(본문·신뢰도는 봇이 확인)",
-   "score": 125.0
+   "score": 275.4
   },
   {
    "domain": "dronedj.com",
-   "citations": 24,
+   "citations": 27,
    "cited_by": [
     "Electrek SpaceX"
    ],
@@ -112,17 +90,17 @@
    "items_7d": 16,
    "kw_ratio": 0.0,
    "verdict": "부분(SpaceX 글 없음)",
-   "score": 81.6
+   "score": 91.8
   },
   {
    "domain": "hubspot.com",
-   "citations": 40,
+   "citations": 41,
    "cited_by": [
     "Broadband Breakfast"
    ],
    "sample": "https://payments-na1.hubspot.com/payments/7TyXGqH4bm?referrer=PAYMENT_LINK&ref=broadbandbreakfast.com",
    "titles": [
-    "Starship Catch Successful, Amazon Leo Launch Fails",
+    "Phoenix Center Study Says Rural Digital Fund Subsidies Weren't Necessary",
     "Starship Catch Successful, Amazon Leo Launch Fails"
    ],
    "robots": "허용",
@@ -131,18 +109,18 @@
    "items_7d": 5,
    "kw_ratio": 0.0,
    "verdict": "부분(SpaceX 글 없음)",
-   "score": 48.0
+   "score": 49.2
   },
   {
    "domain": "futureplc.com",
-   "citations": 45,
+   "citations": 48,
    "cited_by": [
     "Space.com"
    ],
    "sample": "https://futureplc.com/future-member-terms-and-conditions/",
    "titles": [
-    "ULA lost a Vulcan Centaur rocket carrying 40 Amazon satellites 10 minutes after launch — b",
-    "Satellites now outnumber the visible stars above most towns"
+    "Space is filling up with junk. Could laser-reflecting mirrors help humanity clean things u",
+    "ULA lost a Vulcan Centaur rocket carrying 40 Amazon satellites 10 minutes after launch — b"
    ],
    "robots": "허용",
    "feed": "https://futureplc.com/feed/",
@@ -150,11 +128,11 @@
    "items_7d": 0,
    "kw_ratio": 0.0,
    "verdict": "부분(날짜·최신성 미달)",
-   "score": 9.0
+   "score": 9.6
   },
   {
    "domain": "whatsapp.com",
-   "citations": 76,
+   "citations": 86,
    "cited_by": [
     "Space Intel Report",
     "Tesla Oracle"
@@ -170,18 +148,18 @@
    "items_7d": 0,
    "kw_ratio": 0.0,
    "verdict": "부분(피드 없음)",
-   "score": 7.6
+   "score": 8.6
   },
   {
    "domain": "future-advertising.com",
-   "citations": 24,
+   "citations": 27,
    "cited_by": [
     "Space.com"
    ],
    "sample": "https://go.future-advertising.com/Spacecom-Media-Kit.html",
    "titles": [
-    "ULA lost a Vulcan Centaur rocket carrying 40 Amazon satellites 10 minutes after launch — b",
-    "Satellites now outnumber the visible stars above most towns"
+    "Space is filling up with junk. Could laser-reflecting mirrors help humanity clean things u",
+    "ULA lost a Vulcan Centaur rocket carrying 40 Amazon satellites 10 minutes after launch — b"
    ],
    "robots": "허용",
    "feed": "https://futureplc.com/feed/",
@@ -189,11 +167,11 @@
    "items_7d": 0,
    "kw_ratio": 0.0,
    "verdict": "부분(날짜·최신성 미달)",
-   "score": 4.8
+   "score": 5.4
   },
   {
    "domain": "addtoany.com",
-   "citations": 44,
+   "citations": 51,
    "cited_by": [
     "Advanced Television",
     "Data Center Dynamics",
@@ -210,7 +188,26 @@
    "items_7d": 0,
    "kw_ratio": 0.0,
    "verdict": "부분(피드 없음)",
-   "score": 4.4
+   "score": 5.1
+  },
+  {
+   "domain": "apple.news",
+   "citations": 27,
+   "cited_by": [
+    "Electrek SpaceX"
+   ],
+   "sample": "https://apple.news/TDaZAAzogTHK5rrJYn3D6eQ",
+   "titles": [
+    "SpaceX could announce $1.5 trillion Tesla merger in December: report",
+    "What does a blue Texas sweep mean for Elon Musk, Tesla & SpaceX?"
+   ],
+   "robots": "허용",
+   "feed": "",
+   "has_dates": false,
+   "items_7d": 0,
+   "kw_ratio": 0.0,
+   "verdict": "부분(피드 없음)",
+   "score": 2.7
   }
  ],
  "seeds": [
@@ -242,7 +239,7 @@
    "name": "Space.com",
    "result": "성공",
    "items": 50,
-   "spacex_items": 17
+   "spacex_items": 18
   },
   {
    "name": "Advanced Television",
@@ -254,7 +251,7 @@
    "name": "Hacker News SpaceX",
    "result": "성공",
    "items": 50,
-   "spacex_items": 9
+   "spacex_items": 7
   },
   {
    "name": "Federal Register SpaceX",
@@ -265,14 +262,14 @@
   {
    "name": "SpaceNews",
    "result": "성공",
-   "items": 16,
+   "items": 15,
    "spacex_items": 0
   },
   {
    "name": "NASASpaceflight",
    "result": "성공",
    "items": 10,
-   "spacex_items": 7
+   "spacex_items": 6
   },
   {
    "name": "Spaceflight Now",
@@ -302,7 +299,7 @@
    "name": "Via Satellite",
    "result": "성공",
    "items": 10,
-   "spacex_items": 3
+   "spacex_items": 2
   },
   {
    "name": "European Spaceflight",
@@ -324,9 +321,9 @@
   },
   {
    "name": "SpaceQ",
-   "result": "오류: HTTPError",
-   "items": 0,
-   "spacex_items": 0
+   "result": "성공",
+   "items": 10,
+   "spacex_items": 1
   },
   {
    "name": "Spaceflight Insider",
@@ -344,7 +341,7 @@
    "name": "NASA",
    "result": "성공",
    "items": 10,
-   "spacex_items": 2
+   "spacex_items": 1
   },
   {
    "name": "US Space Force",
@@ -368,7 +365,7 @@
    "name": "Broadband Breakfast",
    "result": "성공",
    "items": 15,
-   "spacex_items": 2
+   "spacex_items": 1
   },
   {
    "name": "Light Reading",
@@ -404,7 +401,7 @@
    "name": "Air & Space Forces",
    "result": "성공",
    "items": 9,
-   "spacex_items": 1
+   "spacex_items": 0
   },
   {
    "name": "Defense News",
@@ -415,7 +412,7 @@
   {
    "name": "The War Zone",
    "result": "성공",
-   "items": 34,
+   "items": 36,
    "spacex_items": 3
   },
   {
@@ -470,23 +467,23 @@
    "name": "Hacker News Starlink",
    "result": "성공",
    "items": 50,
-   "spacex_items": 31
+   "spacex_items": 29
   }
  ],
  "blocked_cited": {
-  "x.com": 55,
-  "twitter.com": 49,
+  "x.com": 54,
+  "twitter.com": 46,
   "t.co": 19,
   "google.com": 12,
-  "reddit.com": 11,
+  "reddit.com": 10,
   "cnbc.com": 5,
   "reuters.com": 5,
   "bloomberg.com": 4,
-  "theguardian.com": 4,
-  "arstechnica.com": 4
+  "theguardian.com": 3,
+  "arstechnica.com": 3
  },
  "stats": {
-  "requests": 163,
+  "requests": 158,
   "blocked_skipped": 0,
   "robots_denied": 2,
   "errors": 8,

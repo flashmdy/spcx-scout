@@ -1,8 +1,34 @@
 {
- "generated_at": "2026-11-17T20:52:58+00:00",
- "count_48h": 43,
- "new_this_run": 15,
+ "generated_at": "2026-11-18T07:24:56+00:00",
+ "count_48h": 40,
+ "new_this_run": 5,
  "items": [
+  {
+   "title": "Self-Regulatory Organizations; NYSE Arca, Inc.; Notice of Filing and Immediate Effectiveness of Proposed Rule Change To Amend Its Rules its Rules To Permit the Listing of Binary Options Overlying Key ",
+   "url": "https://www.federalregister.gov/documents/2026/11/18/2026-23427/self-regulatory-organizations-nyse-arca-inc-notice-of-filing-and-immediate-effectiveness-of-proposed",
+   "domains": [
+    "federalregister.gov"
+   ],
+   "published": "2026-11-18T00:00+00:00",
+   "topics": [
+    "정부·규제"
+   ],
+   "official": true,
+   "score": 3
+  },
+  {
+   "title": "Self-Regulatory Organizations; NYSE American LLC; Notice of Filing and Immediate Effectiveness of Proposed Change To Amend Its Rules To Permit the Listing of Binary Options Overlying Key Performance I",
+   "url": "https://www.federalregister.gov/documents/2026/11/18/2026-23425/self-regulatory-organizations-nyse-american-llc-notice-of-filing-and-immediate-effectiveness-of",
+   "domains": [
+    "federalregister.gov"
+   ],
+   "published": "2026-11-18T00:00+00:00",
+   "topics": [
+    "정부·규제"
+   ],
+   "official": true,
+   "score": 3
+  },
   {
    "title": "NASA to Cover 35th SpaceX Resupply Mission Space Station Departure",
    "url": "https://www.nasa.gov/news-release/nasa-to-cover-35th-spacex-resupply-mission-space-station-departure/",
@@ -28,6 +54,45 @@
    ],
    "official": true,
    "score": 3
+  },
+  {
+   "title": "Phoenix Center Study Says Rural Digital Fund Subsidies Weren't Necessary",
+   "url": "https://broadbandbreakfast.com/phoenix-center-study-says-rural-digital-fund-subsidies-werent-necessary/",
+   "domains": [
+    "broadbandbreakfast.com"
+   ],
+   "published": "2026-11-17T22:37+00:00",
+   "topics": [
+    "기타"
+   ],
+   "official": false,
+   "score": 1
+  },
+  {
+   "title": "Rheinmetall Eager to Scale in Space and Develop Joint Venture With OHB",
+   "url": "https://www.satellitetoday.com/technology/2026/11/17/rheinmetall-eager-to-scale-in-space-and-develop-joint-venture-with-ohb/",
+   "domains": [
+    "satellitetoday.com"
+   ],
+   "published": "2026-11-17T22:07+00:00",
+   "topics": [
+    "기타"
+   ],
+   "official": false,
+   "score": 1
+  },
+  {
+   "title": "Space is filling up with junk. Could laser-reflecting mirrors help humanity clean things up?",
+   "url": "https://www.space.com/space-exploration/satellites/space-is-filling-up-with-junk-could-laser-reflecting-mirrors-help-humanity-clean-things-up",
+   "domains": [
+    "space.com"
+   ],
+   "published": "2026-11-17T21:00+00:00",
+   "topics": [
+    "기타"
+   ],
+   "official": false,
+   "score": 1
   },
   {
    "title": "Senate Appropriators Release $1.072 Trillion Defense Bill",
@@ -461,73 +526,6 @@
    "published": "2026-11-16T08:30+00:00",
    "topics": [
     "Starlink·통신"
-   ],
-   "official": false,
-   "score": 1
-  },
-  {
-   "title": "Elon Musk is already planning a bigger Starship, and the Moon may be why",
-   "url": "https://www.teslarati.com/elon-musk-spacex-starship-v4-moon/",
-   "domains": [
-    "teslarati.com"
-   ],
-   "published": "2026-11-16T06:12+00:00",
-   "topics": [
-    "발사·Starship",
-    "테슬라·머스크"
-   ],
-   "official": false,
-   "score": 1
-  },
-  {
-   "title": "Connecting Constellations: The Shift to Real-Time Space Operations",
-   "url": "https://payloadspace.com/connecting-constellations-the-shift-to-real-time-space-operations/",
-   "domains": [
-    "payloadspace.com"
-   ],
-   "published": "2026-11-16T05:00+00:00",
-   "topics": [
-    "기타"
-   ],
-   "official": false,
-   "score": 1
-  },
-  {
-   "title": "SpaceX Catches Starship In Landing After Orbital Flight for First Time",
-   "url": "https://www.satellitetoday.com/launch/2026/11/15/spacex-catches-starship-in-landing-after-orbital-flight-for-first-time/",
-   "domains": [
-    "satellitetoday.com"
-   ],
-   "published": "2026-11-16T01:32+00:00",
-   "topics": [
-    "발사·Starship"
-   ],
-   "official": false,
-   "score": 1
-  },
-  {
-   "title": "AST SpaceMobile: “We’re not like Musk or Starlink”",
-   "url": "https://www.advanced-television.com/2026/11/16/ast-spacemobile-were-not-like-musk-or-starlink/",
-   "domains": [
-    "advanced-television.com"
-   ],
-   "published": "2026-11-16T01:21+00:00",
-   "topics": [
-    "Starlink·통신",
-    "테슬라·머스크"
-   ],
-   "official": false,
-   "score": 1
-  },
-  {
-   "title": "Zelenskyy Says Starshield Restrictions Threaten Ukraine’s Energy Defenses Ahead of Winter",
-   "url": "https://broadbandbreakfast.com/zelenskyy-says-starshield-restrictions-threaten-ukraines-energy-defenses-ahead-of-winter/",
-   "domains": [
-    "broadbandbreakfast.com"
-   ],
-   "published": "2026-11-15T23:28+00:00",
-   "topics": [
-    "국방"
    ],
    "official": false,
    "score": 1
