@@ -1,8 +1,21 @@
 {
- "generated_at": "2026-11-18T20:29:06+00:00",
+ "generated_at": "2026-11-19T07:22:20+00:00",
  "count_48h": 38,
- "new_this_run": 11,
+ "new_this_run": 7,
  "items": [
+  {
+   "title": "NASA Sets Coverage for Northrop Grumman CRS-25 Launch, Prelaunch",
+   "url": "https://www.nasa.gov/news-release/nasa-sets-coverage-for-northrop-grumman-crs-25-launch-prelaunch/",
+   "domains": [
+    "nasa.gov"
+   ],
+   "published": "2026-11-18T22:19+00:00",
+   "topics": [
+    "발사·Starship"
+   ],
+   "official": true,
+   "score": 3
+  },
   {
    "title": "Self-Regulatory Organizations; NYSE Arca, Inc.; Notice of Filing and Immediate Effectiveness of Proposed Rule Change To Amend Its Rules its Rules To Permit the Listing of Binary Options Overlying Key ",
    "url": "https://www.federalregister.gov/documents/2026/11/18/2026-23427/self-regulatory-organizations-nyse-arca-inc-notice-of-filing-and-immediate-effectiveness-of-proposed",
@@ -54,6 +67,84 @@
    ],
    "official": true,
    "score": 3
+  },
+  {
+   "title": "As Electorate Rejects Terrestrial Data Centers, Satellite Industry Considers Space Compute",
+   "url": "https://broadbandbreakfast.com/as-electorate-rejects-terrestrial-data-centers-satellite-industry-considers-space-compute/",
+   "domains": [
+    "broadbandbreakfast.com"
+   ],
+   "published": "2026-11-19T01:46+00:00",
+   "topics": [
+    "AI·xAI"
+   ],
+   "official": false,
+   "score": 1
+  },
+  {
+   "title": "Anthropic Prices IPO Shares At $83, Above Range",
+   "url": "https://news.crunchbase.com/public/ipo/anthropic-prices-ipo-ant-above-range/",
+   "domains": [
+    "crunchbase.com"
+   ],
+   "published": "2026-11-18T22:15+00:00",
+   "topics": [
+    "금융·IPO"
+   ],
+   "official": false,
+   "score": 1
+  },
+  {
+   "title": "Europe Is Exploring Orbital Deep Strike Weapons",
+   "url": "https://www.twz.com/space/europe-is-exploring-orbital-deep-strike-weapons",
+   "domains": [
+    "twz.com"
+   ],
+   "published": "2026-11-18T16:50-05:00",
+   "topics": [
+    "발사·Starship"
+   ],
+   "official": false,
+   "score": 1
+  },
+  {
+   "title": "Vulcan failure investigation focuses on ‘inadequate fuel supply’ to booster engines",
+   "url": "https://spaceflightnow.com/2026/11/18/vulcan-failure-investigation-focuses-on-inadequate-fuel-supply-to-booster-engines/",
+   "domains": [
+    "spaceflightnow.com"
+   ],
+   "published": "2026-11-18T21:11+00:00",
+   "topics": [
+    "발사·Starship"
+   ],
+   "official": false,
+   "score": 1
+  },
+  {
+   "title": "Senator Vows AI Hearings After Watchdog Gets Platforms to Plan Terrorist Attacks",
+   "url": "https://broadbandbreakfast.com/senator-vows-ai-hearings-after-watchdog-gets-platforms-to-plan-terrorist-attacks/",
+   "domains": [
+    "broadbandbreakfast.com"
+   ],
+   "published": "2026-11-18T20:45+00:00",
+   "topics": [
+    "AI·xAI"
+   ],
+   "official": false,
+   "score": 1
+  },
+  {
+   "title": "Dish to Settle With American Tower for $525 Million",
+   "url": "https://broadbandbreakfast.com/dish-to-settle-with-american-tower-for-525-million/",
+   "domains": [
+    "broadbandbreakfast.com"
+   ],
+   "published": "2026-11-18T20:10+00:00",
+   "topics": [
+    "기타"
+   ],
+   "official": false,
+   "score": 1
   },
   {
    "title": "Texas issues air permit for SpaceX data center",
@@ -409,99 +500,6 @@
    "published": "2026-11-17T11:00+00:00",
    "topics": [
     "기타"
-   ],
-   "official": false,
-   "score": 1
-  },
-  {
-   "title": "Russia’s Kerch Bridge Road Vehicle Span Has Been Destroyed By Ukraine",
-   "url": "https://www.twz.com/news-features/kerch-bridge-struck-for-the-second-time-in-less-than-24-hours-russia",
-   "domains": [
-    "twz.com"
-   ],
-   "published": "2026-11-17T01:03-05:00",
-   "topics": [
-    "기타"
-   ],
-   "official": false,
-   "score": 1
-  },
-  {
-   "title": "SEOPS Signs Rideshare Deal With Stoke",
-   "url": "https://payloadspace.com/seops-signs-rideshare-deal-with-stoke/",
-   "domains": [
-    "payloadspace.com"
-   ],
-   "published": "2026-11-17T06:00+00:00",
-   "topics": [
-    "기타"
-   ],
-   "official": false,
-   "score": 1
-  },
-  {
-   "title": "FAA turned down free Starlink offer before nationwide ground stop, Elon Musk says",
-   "url": "https://www.teslarati.com/faa-turned-down-free-starlink-offer-before-nationwide-ground-stop-elon-musk-says/",
-   "domains": [
-    "teslarati.com"
-   ],
-   "published": "2026-11-16T23:53+00:00",
-   "topics": [
-    "정부·규제",
-    "Starlink·통신",
-    "테슬라·머스크"
-   ],
-   "official": false,
-   "score": 1
-  },
-  {
-   "title": "Launch Preview: Ariane 6 to launch Amazon satellites, Falcon 9 to launch government missions",
-   "url": "https://www.nasaspaceflight.com/2026/11/launch-preview-111626/",
-   "domains": [
-    "nasaspaceflight.com"
-   ],
-   "published": "2026-11-16T21:57+00:00",
-   "topics": [
-    "발사·Starship"
-   ],
-   "official": false,
-   "score": 1
-  },
-  {
-   "title": "Relive Starship’s historic Flight 15 with our best photos from launch and ‘Mechazilla’ tower catch",
-   "url": "https://www.space.com/space-exploration/launches-spacecraft/relive-starships-historic-flight-15-with-our-best-photos-from-launch-and-mechazilla-tower-catch",
-   "domains": [
-    "space.com"
-   ],
-   "published": "2026-11-16T21:26+00:00",
-   "topics": [
-    "발사·Starship"
-   ],
-   "official": false,
-   "score": 1
-  },
-  {
-   "title": "Umbra Secures Launch for Next 7 SAR Satellites WIth Increased Capabilities",
-   "url": "https://www.satellitetoday.com/imagery-and-sensing/2026/11/16/umbra-secures-launch-for-next-7-sar-satellites-with-increased-capabilities/",
-   "domains": [
-    "satellitetoday.com"
-   ],
-   "published": "2026-11-16T20:44+00:00",
-   "topics": [
-    "발사·Starship"
-   ],
-   "official": false,
-   "score": 1
-  },
-  {
-   "title": "SpaceX's Starship program advances as Amazon Leo suffers another setback",
-   "url": "https://www.lightreading.com/satellite/spacex-s-starship-program-advances-as-amazon-leo-suffers-another-setback",
-   "domains": [
-    "lightreading.com"
-   ],
-   "published": "2026-11-16T20:30+00:00",
-   "topics": [
-    "발사·Starship"
    ],
    "official": false,
    "score": 1
