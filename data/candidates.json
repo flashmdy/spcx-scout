@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-19T07:22:20+00:00",
+ "generated_at": "2026-11-19T20:33:51+00:00",
  "signals": {
-  "candidates_passed": 0,
-  "candidates_seen_30d": 337,
+  "candidates_passed": 1,
+  "candidates_seen_30d": 341,
   "feeds_failing_3x": [
    "DoD Contracts",
    "GDELT SpaceX",
@@ -69,9 +69,9 @@
    "feed": "https://9to5toys.com/feed/",
    "has_dates": true,
    "items_7d": 50,
-   "kw_ratio": 0.0,
-   "verdict": "부분(SpaceX 글 없음)",
-   "score": 306.0
+   "kw_ratio": 0.02,
+   "verdict": "기계 시험 통과(본문·신뢰도는 봇이 확인)",
+   "score": 336.6
   },
   {
    "domain": "dronedj.com",
@@ -87,10 +87,10 @@
    "robots": "허용",
    "feed": "https://dronedj.com/feed/",
    "has_dates": true,
-   "items_7d": 14,
+   "items_7d": 17,
    "kw_ratio": 0.0,
    "verdict": "부분(SpaceX 글 없음)",
-   "score": 90.0
+   "score": 108.0
   },
   {
    "domain": "hubspot.com",
@@ -100,16 +100,16 @@
    ],
    "sample": "https://payments-na1.hubspot.com/payments/7TyXGqH4bm?referrer=PAYMENT_LINK&ref=broadbandbreakfast.com",
    "titles": [
-    "As Electorate Rejects Terrestrial Data Centers, Satellite Industry Considers Space Compute",
-    "Senator Vows AI Hearings After Watchdog Gets Platforms to Plan Terrorist Attacks"
+    "T-Mobile to Acquire More 600 MegaHertz Spectrum",
+    "Anthropic Set to Begin Trading as a $1.5 Trillion Company in the Biggest IPO on Record"
    ],
    "robots": "허용",
    "feed": "https://hubspot.com/feed/",
    "has_dates": true,
-   "items_7d": 3,
+   "items_7d": 4,
    "kw_ratio": 0.0,
    "verdict": "부분(SpaceX 글 없음)",
-   "score": 36.0
+   "score": 45.0
   },
   {
    "domain": "futureplc.com",
@@ -119,8 +119,8 @@
    ],
    "sample": "https://futureplc.com/future-member-terms-and-conditions/",
    "titles": [
-    "'A shotgun marriage': Why are NASA's SkyFall Mars helicopters riding on a nuclear rocket?",
-    "The Lego Star Trek bridge diorama set should be your gateway to finally watching the Origi"
+    "Nonprofit Common Space will launch 1st 'humanitarian satellite' in 2027",
+    "'A shotgun marriage': Why are NASA's SkyFall Mars helicopters riding on a nuclear rocket?"
    ],
    "robots": "허용",
    "feed": "https://futureplc.com/feed/",
@@ -132,15 +132,15 @@
   },
   {
    "domain": "whatsapp.com",
-   "citations": 94,
+   "citations": 97,
    "cited_by": [
     "Space Intel Report",
     "Tesla Oracle"
    ],
    "sample": "https://api.whatsapp.com/send?text=MDA%20Space%20on%20Telesat%20Lightspeed%20delay%20and%20how%20it%27s%20positioning%20itself%20to%20win%20US%20and%20European%20military%20satellite%20business %0A%0A https%3A%2F%2Fwww.spaceintelreport.com%2Fmda-space-on-telesat-lightspeed-delay-and-how-its-positioning-itself-to-win-us-and-european-military-satellite-business%2F",
    "titles": [
-    "AST SpaceMobile to government customers: We’re not like Starlink. You keep data control, y",
-    "SpaceX releases stunning imagery of Flight 15 Starship catch, Musk updates on Ship 42 reus"
+    "Ukraine defense-tech markeplace coordinator/investor Brave1: Remove Starlink geo-fencing a",
+    "As EU weighs $27.4B add-on for Ukrainian defense, Ukraine digital minister focuses on dive"
    ],
    "robots": "허용",
    "feed": "",
@@ -148,7 +148,7 @@
    "items_7d": 0,
    "kw_ratio": 0.0,
    "verdict": "부분(피드 없음)",
-   "score": 9.4
+   "score": 9.7
   },
   {
    "domain": "future-advertising.com",
@@ -158,8 +158,8 @@
    ],
    "sample": "https://go.future-advertising.com/Spacecom-Media-Kit.html",
    "titles": [
-    "'A shotgun marriage': Why are NASA's SkyFall Mars helicopters riding on a nuclear rocket?",
-    "The Lego Star Trek bridge diorama set should be your gateway to finally watching the Origi"
+    "Nonprofit Common Space will launch 1st 'humanitarian satellite' in 2027",
+    "'A shotgun marriage': Why are NASA's SkyFall Mars helicopters riding on a nuclear rocket?"
    ],
    "robots": "허용",
    "feed": "https://futureplc.com/feed/",
@@ -233,13 +233,13 @@
    "name": "CBS News Technology",
    "result": "성공",
    "items": 30,
-   "spacex_items": 1
+   "spacex_items": 4
   },
   {
    "name": "Space.com",
    "result": "성공",
    "items": 50,
-   "spacex_items": 17
+   "spacex_items": 14
   },
   {
    "name": "Advanced Television",
@@ -251,7 +251,7 @@
    "name": "Hacker News SpaceX",
    "result": "성공",
    "items": 50,
-   "spacex_items": 4
+   "spacex_items": 5
   },
   {
    "name": "Federal Register SpaceX",
@@ -262,7 +262,7 @@
   {
    "name": "SpaceNews",
    "result": "성공",
-   "items": 18,
+   "items": 16,
    "spacex_items": 0
   },
   {
@@ -287,13 +287,13 @@
    "name": "Payload",
    "result": "성공",
    "items": 13,
-   "spacex_items": 5
+   "spacex_items": 4
   },
   {
    "name": "Universe Today",
    "result": "성공",
    "items": 20,
-   "spacex_items": 1
+   "spacex_items": 0
   },
   {
    "name": "Via Satellite",
@@ -311,7 +311,7 @@
    "name": "Space Intel Report",
    "result": "성공",
    "items": 10,
-   "spacex_items": 1
+   "spacex_items": 3
   },
   {
    "name": "Orbital Today",
@@ -365,7 +365,7 @@
    "name": "Broadband Breakfast",
    "result": "성공",
    "items": 15,
-   "spacex_items": 4
+   "spacex_items": 2
   },
   {
    "name": "Light Reading",
@@ -412,20 +412,20 @@
   {
    "name": "The War Zone",
    "result": "성공",
-   "items": 42,
+   "items": 41,
    "spacex_items": 4
   },
   {
    "name": "Drive Tesla Canada",
    "result": "성공",
    "items": 10,
-   "spacex_items": 0
+   "spacex_items": 3
   },
   {
    "name": "Tesla Oracle",
    "result": "성공",
    "items": 10,
-   "spacex_items": 7
+   "spacex_items": 8
   },
   {
    "name": "VentureBeat",
@@ -437,13 +437,13 @@
    "name": "The Decoder",
    "result": "성공",
    "items": 10,
-   "spacex_items": 0
+   "spacex_items": 1
   },
   {
    "name": "Data Center Dynamics",
    "result": "성공",
    "items": 20,
-   "spacex_items": 2
+   "spacex_items": 0
   },
   {
    "name": "Crunchbase News",
@@ -467,26 +467,26 @@
    "name": "Hacker News Starlink",
    "result": "성공",
    "items": 50,
-   "spacex_items": 12
+   "spacex_items": 33
   }
  ],
  "blocked_cited": {
-  "twitter.com": 47,
-  "x.com": 45,
-  "t.co": 15,
+  "twitter.com": 50,
+  "x.com": 48,
+  "t.co": 17,
+  "google.com": 11,
   "reddit.com": 10,
-  "google.com": 10,
-  "cnbc.com": 6,
-  "bloomberg.com": 3,
-  "theguardian.com": 2,
-  "yahoo.com": 2,
-  "arstechnica.com": 2
+  "cnbc.com": 7,
+  "reuters.com": 5,
+  "bloomberg.com": 4,
+  "theguardian.com": 3,
+  "arstechnica.com": 3
  },
  "stats": {
-  "requests": 157,
+  "requests": 162,
   "blocked_skipped": 0,
-  "robots_denied": 3,
-  "errors": 6,
+  "robots_denied": 2,
+  "errors": 7,
   "blocked_contacted": 0
  }
 }

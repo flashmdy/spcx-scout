@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-11-19T07:22:20+00:00",
- "count_48h": 38,
- "new_this_run": 7,
+ "generated_at": "2026-11-19T20:33:51+00:00",
+ "count_48h": 37,
+ "new_this_run": 13,
  "items": [
   {
    "title": "NASA Sets Coverage for Northrop Grumman CRS-25 Launch, Prelaunch",
@@ -43,30 +43,181 @@
    "score": 3
   },
   {
-   "title": "NASA to Cover 35th SpaceX Resupply Mission Space Station Departure",
-   "url": "https://www.nasa.gov/news-release/nasa-to-cover-35th-spacex-resupply-mission-space-station-departure/",
+   "title": "Anthropic shares jump in Nasdaq trading debut after record IPO",
+   "url": "https://www.cbsnews.com/news/anthropic-ipo-nasdaq-debut-claude-ai/",
    "domains": [
-    "nasa.gov"
+    "cbsnews.com"
    ],
-   "published": "2026-11-17T19:16+00:00",
+   "published": "2026-11-19T14:30-05:00",
    "topics": [
-    "기타"
+    "금융·IPO"
    ],
-   "official": true,
-   "score": 3
+   "official": false,
+   "score": 1
   },
   {
-   "title": "NASA Invites Media, Public to View Roman Telescope’s First Images",
-   "url": "https://www.nasa.gov/news-release/nasa-invites-media-public-to-view-roman-telescopes-first-images/",
+   "title": "Tesla expands Cybercab rides to Dallas",
+   "url": "https://driveteslacanada.ca/robotaxi/tesla-expands-cybercab-rides-dallas/?utm_source=rss&utm_medium=rss&utm_campaign=tesla-expands-cybercab-rides-dallas",
    "domains": [
-    "nasa.gov"
+    "driveteslacanada.ca"
    ],
-   "published": "2026-11-17T17:00+00:00",
+   "published": "2026-11-19T17:11+00:00",
    "topics": [
-    "기타"
+    "테슬라·머스크"
    ],
-   "official": true,
-   "score": 3
+   "official": false,
+   "score": 1
+  },
+  {
+   "title": "Elon Musk's SpaceXAI suffers chemical spill at Mississippi AI data center",
+   "url": "https://www.tomshardware.com/tech-industry/data-centers/elon-musks-spacexai-suffers-chemical-spill-at-mississippi-ai-data-center-up-to-6-000-gallons-of-propylene-glycol-heat-transfer-fluid-lost-environment-agency-says-no-threat-to-residents",
+   "domains": [
+    "tomshardware.com"
+   ],
+   "published": "2026-11-19T16:14+00:00",
+   "topics": [
+    "AI·xAI",
+    "테슬라·머스크"
+   ],
+   "official": false,
+   "score": 1
+  },
+  {
+   "title": "T-Mobile to Acquire More 600 MegaHertz Spectrum",
+   "url": "https://broadbandbreakfast.com/t-mobile-to-acquire-more-600-megahertz-spectrum/",
+   "domains": [
+    "broadbandbreakfast.com"
+   ],
+   "published": "2026-11-19T15:57+00:00",
+   "topics": [
+    "정부·규제",
+    "Starlink·통신"
+   ],
+   "official": false,
+   "score": 1
+  },
+  {
+   "title": "Positioning with Starlink Leo Satellites: A Blind Doppler Spectral Approach",
+   "url": "https://people.engineering.osu.edu/media/document/2023-08-11/kassas_positioning_with_starlink_leo_satellites_a_blind_doppler_spectral",
+   "domains": [
+    "osu.edu"
+   ],
+   "published": "2026-11-19T15:50+00:00",
+   "topics": [
+    "Starlink·통신"
+   ],
+   "official": false,
+   "score": 1
+  },
+  {
+   "title": "Elon Musk Reveals Starlink V2 Launch Plans and New Rooftop Cell Tower",
+   "url": "https://driveteslacanada.ca/news/starlink-direct-to-cell-v2/?utm_source=rss&utm_medium=rss&utm_campaign=starlink-direct-to-cell-v2",
+   "domains": [
+    "driveteslacanada.ca"
+   ],
+   "published": "2026-11-19T15:47+00:00",
+   "topics": [
+    "Starlink·통신",
+    "발사·Starship",
+    "테슬라·머스크"
+   ],
+   "official": false,
+   "score": 1
+  },
+  {
+   "title": "Ukraine defense-tech markeplace coordinator/investor Brave1: Remove Starlink geo-fencing and you’d see what we can do",
+   "url": "https://www.spaceintelreport.com/ukraine-defense-tech-markeplace-coordinator-investor-brave1-if-starlink-geo-fencing-were-removed-youd-see-what-we-can-do/?utm_source=rss&utm_medium=rss&utm_campaign=ukraine-defense-tech-markeplace-coordinator-investor-brave1-if-starlink-geo-fencing-were-removed-youd-see-what-we-can-do",
+   "domains": [
+    "spaceintelreport.com"
+   ],
+   "published": "2026-11-19T15:25+00:00",
+   "topics": [
+    "금융·IPO",
+    "국방",
+    "Starlink·통신"
+   ],
+   "official": false,
+   "score": 1
+  },
+  {
+   "title": "How to vote in Tesla’s 2026 Annual Meeting",
+   "url": "https://driveteslacanada.ca/news/how-to-vote-in-teslas-2026-annual-meeting/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-vote-in-teslas-2026-annual-meeting",
+   "domains": [
+    "driveteslacanada.ca"
+   ],
+   "published": "2026-11-19T14:57+00:00",
+   "topics": [
+    "테슬라·머스크"
+   ],
+   "official": false,
+   "score": 1
+  },
+  {
+   "title": "Anthropic's $81.3 billion IPO shatters SpaceX's record as rising rates and political headwinds shake the sector",
+   "url": "https://the-decoder.com/anthropics-81-3-billion-ipo-shatters-spacexs-record-as-rising-rates-and-political-headwinds-shake-the-sector/",
+   "domains": [
+    "the-decoder.com"
+   ],
+   "published": "2026-11-19T14:02+00:00",
+   "topics": [
+    "금융·IPO"
+   ],
+   "official": false,
+   "score": 1
+  },
+  {
+   "title": "As EU weighs $27.4B add-on for Ukrainian defense, Ukraine digital minister focuses on diversifying connectivity networks",
+   "url": "https://www.spaceintelreport.com/as-eu-weighs-27-4b-add-on-for-ukrainian-defense-ukraine-digital-minister-focuses-on-diversifying-connectivity-networks/?utm_source=rss&utm_medium=rss&utm_campaign=as-eu-weighs-27-4b-add-on-for-ukrainian-defense-ukraine-digital-minister-focuses-on-diversifying-connectivity-networks",
+   "domains": [
+    "spaceintelreport.com"
+   ],
+   "published": "2026-11-19T13:49+00:00",
+   "topics": [
+    "정부·규제",
+    "국방"
+   ],
+   "official": false,
+   "score": 1
+  },
+  {
+   "title": "Elon Musk explains the Flight 15 Booster 22 catch abort and FTS triggers (final moment pics and video)",
+   "url": "https://www.teslaoracle.com/2026/11/19/elon-musk-explains-the-flight-15-booster-22-catch-abort-and-fts-triggers-final-moment-pics-and-video/",
+   "domains": [
+    "teslaoracle.com"
+   ],
+   "published": "2026-11-19T13:43+00:00",
+   "topics": [
+    "발사·Starship",
+    "테슬라·머스크"
+   ],
+   "official": false,
+   "score": 1
+  },
+  {
+   "title": "Nonprofit Common Space will launch 1st 'humanitarian satellite' in 2027",
+   "url": "https://www.space.com/space-exploration/satellites/nonprofit-common-space-will-launch-1st-humanitarian-satellite-in-2027",
+   "domains": [
+    "space.com"
+   ],
+   "published": "2026-11-19T13:21+00:00",
+   "topics": [
+    "발사·Starship"
+   ],
+   "official": false,
+   "score": 1
+  },
+  {
+   "title": "Anthropic Set to Begin Trading as a $1.5 Trillion Company in the Biggest IPO on Record",
+   "url": "https://broadbandbreakfast.com/anthropic-set-to-begin-trading-as-a-1-5-trillion-company-in-the-biggest-ipo-on-record/",
+   "domains": [
+    "broadbandbreakfast.com"
+   ],
+   "published": "2026-11-19T13:08+00:00",
+   "topics": [
+    "금융·IPO"
+   ],
+   "official": false,
+   "score": 1
   },
   {
    "title": "As Electorate Rejects Terrestrial Data Centers, Satellite Industry Considers Space Compute",
@@ -341,165 +492,6 @@
    "topics": [
     "정부·규제",
     "국방"
-   ],
-   "official": false,
-   "score": 1
-  },
-  {
-   "title": "Elon Musk Says FAA Rejected Free Starlink Offer Before Nationwide Outage",
-   "url": "https://driveteslacanada.ca/news/musk-says-faa-refused-free-starlink-kits/?utm_source=rss&utm_medium=rss&utm_campaign=musk-says-faa-refused-free-starlink-kits",
-   "domains": [
-    "driveteslacanada.ca"
-   ],
-   "published": "2026-11-17T19:13+00:00",
-   "topics": [
-    "정부·규제",
-    "Starlink·통신",
-    "테슬라·머스크"
-   ],
-   "official": false,
-   "score": 1
-  },
-  {
-   "title": "ULA lost a Vulcan Centaur rocket carrying 40 Amazon satellites 10 minutes after launch — but the failure began just after liftoff",
-   "url": "https://www.space.com/space-exploration/launches-spacecraft/ula-lost-a-vulcan-centaur-rocket-carrying-40-amazon-satellites-10-minutes-after-launch-but-the-failure-began-just-after-liftoff",
-   "domains": [
-    "space.com"
-   ],
-   "published": "2026-11-17T18:48+00:00",
-   "topics": [
-    "발사·Starship"
-   ],
-   "official": false,
-   "score": 1
-  },
-  {
-   "title": "ULA Vulcan Anomaly Has Pentagon Implications",
-   "url": "https://payloadspace.com/ula-vulcan-anomaly-has-pentagon-implications/",
-   "domains": [
-    "payloadspace.com"
-   ],
-   "published": "2026-11-17T18:30+00:00",
-   "topics": [
-    "국방"
-   ],
-   "official": false,
-   "score": 1
-  },
-  {
-   "title": "Tesla Unveils Powercore Transformer for Off-Grid Data Centres",
-   "url": "https://driveteslacanada.ca/news/tesla-powercore-transformer-2027/?utm_source=rss&utm_medium=rss&utm_campaign=tesla-powercore-transformer-2027",
-   "domains": [
-    "driveteslacanada.ca"
-   ],
-   "published": "2026-11-17T16:59+00:00",
-   "topics": [
-    "테슬라·머스크"
-   ],
-   "official": false,
-   "score": 1
-  },
-  {
-   "title": "What We Know About Ukraine’s Strikes That Cut Russia’s Kerch Bridge (Updated)",
-   "url": "https://www.twz.com/news-features/what-we-know-about-ukraines-strikes-that-cut-russias-kerch-bridge-road-vehicle-span",
-   "domains": [
-    "twz.com"
-   ],
-   "published": "2026-11-17T10:48-05:00",
-   "topics": [
-    "기타"
-   ],
-   "official": false,
-   "score": 1
-  },
-  {
-   "title": "Starlink Receives Notice of Non-Compliance in South Africa",
-   "url": "https://driveteslacanada.ca/spacex/starlink-receives-notice-of-non-compliance-in-south-africa/?utm_source=rss&utm_medium=rss&utm_campaign=starlink-receives-notice-of-non-compliance-in-south-africa",
-   "domains": [
-    "driveteslacanada.ca"
-   ],
-   "published": "2026-11-17T15:09+00:00",
-   "topics": [
-    "Starlink·통신"
-   ],
-   "official": false,
-   "score": 1
-  },
-  {
-   "title": "SpaceX releases stunning imagery of Flight 15 Starship catch, Musk updates on Ship 42 reusability status, more",
-   "url": "https://www.teslaoracle.com/2026/11/17/spacex-releases-stunning-imagery-of-flight-15-starship-catch-musk-updates-on-ship-42-reusability-status-more/",
-   "domains": [
-    "teslaoracle.com"
-   ],
-   "published": "2026-11-17T14:40+00:00",
-   "topics": [
-    "발사·Starship",
-    "테슬라·머스크"
-   ],
-   "official": false,
-   "score": 1
-  },
-  {
-   "title": "Pentagon fails ninth straight audit despite progress in organizing finances",
-   "url": "https://www.defensenews.com/pentagon/2026/11/17/pentagon-fails-ninth-straight-audit-despite-progress-in-organizing-finances/",
-   "domains": [
-    "defensenews.com"
-   ],
-   "published": "2026-11-17T14:35+00:00",
-   "topics": [
-    "국방"
-   ],
-   "official": false,
-   "score": 1
-  },
-  {
-   "title": "SpaceX launched more mass to orbit this year than Europe in its history",
-   "url": "https://www.kadoa.com/companies/insights/spacex-europe-payload",
-   "domains": [
-    "kadoa.com"
-   ],
-   "published": "2026-11-17T13:55+00:00",
-   "topics": [
-    "발사·Starship"
-   ],
-   "official": false,
-   "score": 1
-  },
-  {
-   "title": "Grok Bot Takes Over the Las Vegas Sphere in New Ad [Video]",
-   "url": "https://driveteslacanada.ca/news/grok-bot-las-vegas-sphere/?utm_source=rss&utm_medium=rss&utm_campaign=grok-bot-las-vegas-sphere",
-   "domains": [
-    "driveteslacanada.ca"
-   ],
-   "published": "2026-11-17T13:32+00:00",
-   "topics": [
-    "AI·xAI"
-   ],
-   "official": false,
-   "score": 1
-  },
-  {
-   "title": "Space Cargo Unlimited Unveils REV1 Reentry Vehicle",
-   "url": "https://payloadspace.com/space-cargo-unlimited-unveils-rev1-reentry-vehicle/",
-   "domains": [
-    "payloadspace.com"
-   ],
-   "published": "2026-11-17T13:26+00:00",
-   "topics": [
-    "기타"
-   ],
-   "official": false,
-   "score": 1
-  },
-  {
-   "title": "Satellites now outnumber the visible stars above most towns",
-   "url": "https://www.space.com/space-exploration/satellites/satellites-now-outnumber-the-visible-stars-above-most-towns",
-   "domains": [
-    "space.com"
-   ],
-   "published": "2026-11-17T11:00+00:00",
-   "topics": [
-    "기타"
    ],
    "official": false,
    "score": 1
