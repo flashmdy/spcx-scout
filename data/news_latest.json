@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-11-20T07:12:22+00:00",
- "count_48h": 38,
- "new_this_run": 7,
+ "generated_at": "2026-11-20T20:13:54+00:00",
+ "count_48h": 35,
+ "new_this_run": 10,
  "items": [
   {
    "title": "Self-Regulatory Organizations; Miami International Securities Exchange, LLC; Notice of Filing and Immediate Effectiveness of a Proposed Rule Change To Permit the Listing of Binary Options Overlying Ke",
@@ -28,6 +28,137 @@
    ],
    "official": true,
    "score": 3
+  },
+  {
+   "title": "Following Ship 42’s catch, SpaceX looks to the future",
+   "url": "https://www.nasaspaceflight.com/2026/11/ship-42-catch-future/",
+   "domains": [
+    "nasaspaceflight.com"
+   ],
+   "published": "2026-11-20T19:49+00:00",
+   "topics": [
+    "기타"
+   ],
+   "official": false,
+   "score": 1
+  },
+  {
+   "title": "Chips can survive the space environment — can their financing?",
+   "url": "https://techcrunch.com/2026/11/20/chips-can-survive-the-space-environment-can-their-financing/",
+   "domains": [
+    "techcrunch.com"
+   ],
+   "published": "2026-11-20T17:40+00:00",
+   "topics": [
+    "기타"
+   ],
+   "official": false,
+   "score": 1
+  },
+  {
+   "title": "SpaceX expresses interest in building data centers in Bulgaria",
+   "url": "https://www.datacenterdynamics.com/en/news/spacex-expresses-interest-in-building-data-centers-in-bulgaria/",
+   "domains": [
+    "datacenterdynamics.com"
+   ],
+   "published": "2026-11-20T15:47+00:00",
+   "topics": [
+    "AI·xAI"
+   ],
+   "official": false,
+   "score": 1
+  },
+  {
+   "title": "ISS astronauts look down on the snow-capped Himalayas | Space photo of the day for Nov. 20, 2026",
+   "url": "https://www.space.com/astronomy/earth/iss-astronauts-look-down-on-the-snow-capped-himalayas-space-photo-of-the-day-for-nov-20-2026",
+   "domains": [
+    "space.com"
+   ],
+   "published": "2026-11-20T15:00+00:00",
+   "topics": [
+    "기타"
+   ],
+   "official": false,
+   "score": 1
+  },
+  {
+   "title": "I got to tour SpaceX's Starfactory facility in Starbase, Texas, and what I saw blew my mind",
+   "url": "https://www.space.com/space-exploration/private-spaceflight/i-got-to-tour-spacexs-starfactory-facility-in-starbase-texas-and-what-i-saw-blew-my-mind",
+   "domains": [
+    "space.com"
+   ],
+   "published": "2026-11-20T13:00+00:00",
+   "topics": [
+    "발사·Starship"
+   ],
+   "official": false,
+   "score": 1
+  },
+  {
+   "title": "5 Interesting Startup Deals You May Have Missed: Reflecting Sunlight From Space, Better Breathing And Smarter Garbage Trucks",
+   "url": "https://news.crunchbase.com/venture/interesting-startup-deals-ai-solar-healthcare-space-tech/",
+   "domains": [
+    "crunchbase.com"
+   ],
+   "published": "2026-11-20T12:00+00:00",
+   "topics": [
+    "기타"
+   ],
+   "official": false,
+   "score": 1
+  },
+  {
+   "title": "Lenders aim to bar SpaceX from launching $40B of chips into orbit",
+   "url": "https://www.ft.com/content/33b5643c-2957-4d42-9116-5e34a3c54e29",
+   "domains": [
+    "ft.com"
+   ],
+   "published": "2026-11-20T11:07+00:00",
+   "topics": [
+    "발사·Starship"
+   ],
+   "official": false,
+   "score": 1
+  },
+  {
+   "title": "SpaceX Dragon cargo capsule heads home to Earth from the ISS",
+   "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-crs-35-dragon-iss-cargo-mission-return-to-earth",
+   "domains": [
+    "space.com"
+   ],
+   "published": "2026-11-20T11:00+00:00",
+   "topics": [
+    "발사·Starship"
+   ],
+   "official": false,
+   "score": 1
+  },
+  {
+   "title": "Tesla update 2026.44.1: hacker discovers transition from AI Computer to Super Intelligence, Grok sync, and more",
+   "url": "https://www.teslaoracle.com/2026/11/20/tesla-update-2026-44-1-hacker-discovers-transition-from-ai-computer-to-super-intelligence-grok-sync-and-more/",
+   "domains": [
+    "teslaoracle.com"
+   ],
+   "published": "2026-11-20T08:20+00:00",
+   "topics": [
+    "AI·xAI",
+    "테슬라·머스크"
+   ],
+   "official": false,
+   "score": 1
+  },
+  {
+   "title": "Telecom veteran bets airships in stratosphere can beat Starlink in space",
+   "url": "https://www.lightreading.com/satellite/telecom-veteran-bets-airships-in-stratosphere-can-beat-starlink-in-space",
+   "domains": [
+    "lightreading.com"
+   ],
+   "published": "2026-11-20T08:00+00:00",
+   "topics": [
+    "Starlink·통신"
+   ],
+   "official": false,
+   "score": 1
   },
   {
    "title": "Danish Soldiers Are Sneaking Starlink Terminals into Greenland",
@@ -313,19 +444,6 @@
    "score": 1
   },
   {
-   "title": "Europe Is Exploring Orbital Deep Strike Weapons",
-   "url": "https://www.twz.com/space/europe-is-exploring-orbital-deep-strike-weapons",
-   "domains": [
-    "twz.com"
-   ],
-   "published": "2026-11-18T16:50-05:00",
-   "topics": [
-    "발사·Starship"
-   ],
-   "official": false,
-   "score": 1
-  },
-  {
    "title": "Vulcan failure investigation focuses on ‘inadequate fuel supply’ to booster engines",
    "url": "https://spaceflightnow.com/2026/11/18/vulcan-failure-investigation-focuses-on-inadequate-fuel-supply-to-booster-engines/",
    "domains": [
@@ -347,165 +465,6 @@
    "published": "2026-11-18T20:45+00:00",
    "topics": [
     "AI·xAI"
-   ],
-   "official": false,
-   "score": 1
-  },
-  {
-   "title": "Dish to Settle With American Tower for $525 Million",
-   "url": "https://broadbandbreakfast.com/dish-to-settle-with-american-tower-for-525-million/",
-   "domains": [
-    "broadbandbreakfast.com"
-   ],
-   "published": "2026-11-18T20:10+00:00",
-   "topics": [
-    "기타"
-   ],
-   "official": false,
-   "score": 1
-  },
-  {
-   "title": "Texas issues air permit for SpaceX data center",
-   "url": "https://www.politico.com/news/2026/11/17/texas-issues-air-permit-for-massive-spacex-data-center-01170758",
-   "domains": [
-    "politico.com"
-   ],
-   "published": "2026-11-18T20:08+00:00",
-   "topics": [
-    "AI·xAI"
-   ],
-   "official": false,
-   "score": 1
-  },
-  {
-   "title": "The Key Numbers I’m Watching As Anthropic Makes Its IPO Debut",
-   "url": "https://news.crunchbase.com/ai/anthropic-ant-ipo-revenue-growth-risks-s1-analysis/",
-   "domains": [
-    "crunchbase.com"
-   ],
-   "published": "2026-11-18T19:39+00:00",
-   "topics": [
-    "금융·IPO"
-   ],
-   "official": false,
-   "score": 1
-  },
-  {
-   "title": "Sean Duffy fires back at Elon Musk over free Starlink",
-   "url": "https://www.teslarati.com/sean-duffy-elon-musk-free-starlink/",
-   "domains": [
-    "teslarati.com"
-   ],
-   "published": "2026-11-18T17:06+00:00",
-   "topics": [
-    "Starlink·통신",
-    "테슬라·머스크"
-   ],
-   "official": false,
-   "score": 1
-  },
-  {
-   "title": "'A shotgun marriage': Why are NASA's SkyFall Mars helicopters riding on a nuclear rocket?",
-   "url": "https://www.space.com/astronomy/mars/a-shotgun-marriage-why-are-nasas-skyfall-mars-helicopters-riding-on-a-nuclear-rocket",
-   "domains": [
-    "space.com"
-   ],
-   "published": "2026-11-18T17:00+00:00",
-   "topics": [
-    "기타"
-   ],
-   "official": false,
-   "score": 1
-  },
-  {
-   "title": "T-Mobile grabs for Bluewater's 600MHz licenses, keeping them out of SpaceX's reach",
-   "url": "https://www.lightreading.com/5g/t-mobile-grabs-for-bluewater-s-600mhz-licenses-keeping-them-out-of-spacex-s-reach",
-   "domains": [
-    "lightreading.com"
-   ],
-   "published": "2026-11-18T15:26+00:00",
-   "topics": [
-    "정부·규제",
-    "Starlink·통신"
-   ],
-   "official": false,
-   "score": 1
-  },
-  {
-   "title": "Cameron County commissioners reject SpaceX tax break request for $24bn Texas data center",
-   "url": "https://www.datacenterdynamics.com/en/news/cameron-county-commissioners-reject-spacex-tax-break-request-for-24bn-texas-data-center/",
-   "domains": [
-    "datacenterdynamics.com"
-   ],
-   "published": "2026-11-18T15:25+00:00",
-   "topics": [
-    "AI·xAI"
-   ],
-   "official": false,
-   "score": 1
-  },
-  {
-   "title": "Texas environmental regulator resumes data center permitting following ERCOT review",
-   "url": "https://www.datacenterdynamics.com/en/news/texas-environmental-regulator-resumes-data-center-permitting-following-ercot-review/",
-   "domains": [
-    "datacenterdynamics.com"
-   ],
-   "published": "2026-11-18T15:03+00:00",
-   "topics": [
-    "정부·규제",
-    "AI·xAI"
-   ],
-   "official": false,
-   "score": 1
-  },
-  {
-   "title": "The Lego Star Trek bridge diorama set should be your gateway to finally watching the Original Series",
-   "url": "https://www.space.com/entertainment/space-toys-lego/the-lego-star-trek-bridge-diorama-set-should-be-your-gateway-to-finally-watching-the-original-series",
-   "domains": [
-    "space.com"
-   ],
-   "published": "2026-11-18T14:04+00:00",
-   "topics": [
-    "기타"
-   ],
-   "official": false,
-   "score": 1
-  },
-  {
-   "title": "Tesla Registers a Record 200 Cybercabs in Texas in One Day",
-   "url": "https://driveteslacanada.ca/news/tesla-cybercab-registrations-texas-record-200/?utm_source=rss&utm_medium=rss&utm_campaign=tesla-cybercab-registrations-texas-record-200",
-   "domains": [
-    "driveteslacanada.ca"
-   ],
-   "published": "2026-11-18T13:52+00:00",
-   "topics": [
-    "테슬라·머스크"
-   ],
-   "official": false,
-   "score": 1
-  },
-  {
-   "title": "India's SatLeo Labs wants to build a 'thermometer for Earth' in space",
-   "url": "https://www.space.com/space-exploration/satellites/indias-satleo-labs-wants-to-build-a-thermometer-for-earth-in-space",
-   "domains": [
-    "space.com"
-   ],
-   "published": "2026-11-18T13:00+00:00",
-   "topics": [
-    "기타"
-   ],
-   "official": false,
-   "score": 1
-  },
-  {
-   "title": "Ukraine Use Own Guidance System to Strike $4B Crimean Bridge Without Starlink",
-   "url": "https://united24media.com/war-in-ukraine/ukraine-uses-its-own-missile-guidance-system-to-strike-the-4-billion-crimean-bridge-without-starlink-or-starshield-24469",
-   "domains": [
-    "united24media.com"
-   ],
-   "published": "2026-11-18T09:05+00:00",
-   "topics": [
-    "Starlink·통신"
    ],
    "official": false,
    "score": 1

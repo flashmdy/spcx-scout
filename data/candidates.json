@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-20T07:12:22+00:00",
+ "generated_at": "2026-11-20T20:13:54+00:00",
  "signals": {
-  "candidates_passed": 1,
-  "candidates_seen_30d": 344,
+  "candidates_passed": 0,
+  "candidates_seen_30d": 354,
   "feeds_failing_3x": [
    "DoD Contracts",
    "GDELT SpaceX",
@@ -69,9 +69,9 @@
    "feed": "https://9to5toys.com/feed/",
    "has_dates": true,
    "items_7d": 50,
-   "kw_ratio": 0.02,
-   "verdict": "기계 시험 통과(본문·신뢰도는 봇이 확인)",
-   "score": 370.26
+   "kw_ratio": 0.0,
+   "verdict": "부분(SpaceX 글 없음)",
+   "score": 336.6
   },
   {
    "domain": "dronedj.com",
@@ -87,29 +87,10 @@
    "robots": "허용",
    "feed": "https://dronedj.com/feed/",
    "has_dates": true,
-   "items_7d": 17,
+   "items_7d": 16,
    "kw_ratio": 0.0,
    "verdict": "부분(SpaceX 글 없음)",
-   "score": 118.8
-  },
-  {
-   "domain": "hubspot.com",
-   "citations": 48,
-   "cited_by": [
-    "Broadband Breakfast"
-   ],
-   "sample": "https://payments-na1.hubspot.com/payments/7TyXGqH4bm?referrer=PAYMENT_LINK&ref=broadbandbreakfast.com",
-   "titles": [
-    "T-Mobile to Acquire More 600 MegaHertz Spectrum",
-    "Anthropic Set to Begin Trading as a $1.5 Trillion Company in the Biggest IPO on Record"
-   ],
-   "robots": "허용",
-   "feed": "https://hubspot.com/feed/",
-   "has_dates": true,
-   "items_7d": 4,
-   "kw_ratio": 0.0,
-   "verdict": "부분(SpaceX 글 없음)",
-   "score": 48.0
+   "score": 112.2
   },
   {
    "domain": "whatsapp.com",
@@ -139,8 +120,8 @@
    ],
    "sample": "https://futureplc.com/future-member-terms-and-conditions/",
    "titles": [
-    "The view from the tower: Watch Starship come in for chopsticks catch in epic slo-mo video",
-    "Nonprofit Common Space will launch 1st 'humanitarian satellite' in 2027"
+    "ISS astronauts look down on the snow-capped Himalayas | Space photo of the day for Nov. 20",
+    "I got to tour SpaceX's Starfactory facility in Starbase, Texas, and what I saw blew my min"
    ],
    "robots": "허용",
    "feed": "https://futureplc.com/feed/",
@@ -158,8 +139,8 @@
    ],
    "sample": "https://go.future-advertising.com/Spacecom-Media-Kit.html",
    "titles": [
-    "The view from the tower: Watch Starship come in for chopsticks catch in epic slo-mo video",
-    "Nonprofit Common Space will launch 1st 'humanitarian satellite' in 2027"
+    "ISS astronauts look down on the snow-capped Himalayas | Space photo of the day for Nov. 20",
+    "I got to tour SpaceX's Starfactory facility in Starbase, Texas, and what I saw blew my min"
    ],
    "robots": "허용",
    "feed": "https://futureplc.com/feed/",
@@ -171,7 +152,7 @@
   },
   {
    "domain": "addtoany.com",
-   "citations": 64,
+   "citations": 65,
    "cited_by": [
     "Advanced Television",
     "Data Center Dynamics",
@@ -188,7 +169,26 @@
    "items_7d": 0,
    "kw_ratio": 0.0,
    "verdict": "부분(피드 없음)",
-   "score": 6.4
+   "score": 6.5
+  },
+  {
+   "domain": "hubspot.com",
+   "citations": 48,
+   "cited_by": [
+    "Broadband Breakfast"
+   ],
+   "sample": "https://payments-na1.hubspot.com/payments/7TyXGqH4bm?referrer=PAYMENT_LINK&ref=broadbandbreakfast.com",
+   "titles": [
+    "T-Mobile to Acquire More 600 MegaHertz Spectrum",
+    "T-Mobile to Acquire More 600 MegaHertz Spectrum"
+   ],
+   "robots": "허용",
+   "feed": "",
+   "has_dates": false,
+   "items_7d": 0,
+   "kw_ratio": 0.0,
+   "verdict": "부분(피드 없음)",
+   "score": 4.8
   },
   {
    "domain": "apple.news",
@@ -239,7 +239,7 @@
    "name": "Space.com",
    "result": "성공",
    "items": 50,
-   "spacex_items": 13
+   "spacex_items": 14
   },
   {
    "name": "Advanced Television",
@@ -251,7 +251,7 @@
    "name": "Hacker News SpaceX",
    "result": "성공",
    "items": 50,
-   "spacex_items": 4
+   "spacex_items": 5
   },
   {
    "name": "Federal Register SpaceX",
@@ -269,7 +269,7 @@
    "name": "NASASpaceflight",
    "result": "성공",
    "items": 10,
-   "spacex_items": 5
+   "spacex_items": 6
   },
   {
    "name": "Spaceflight Now",
@@ -287,7 +287,7 @@
    "name": "Payload",
    "result": "성공",
    "items": 13,
-   "spacex_items": 4
+   "spacex_items": 3
   },
   {
    "name": "Universe Today",
@@ -323,7 +323,7 @@
    "name": "SpaceQ",
    "result": "성공",
    "items": 10,
-   "spacex_items": 1
+   "spacex_items": 0
   },
   {
    "name": "Spaceflight Insider",
@@ -341,7 +341,7 @@
    "name": "NASA",
    "result": "성공",
    "items": 10,
-   "spacex_items": 1
+   "spacex_items": 0
   },
   {
    "name": "US Space Force",
@@ -365,7 +365,7 @@
    "name": "Broadband Breakfast",
    "result": "성공",
    "items": 15,
-   "spacex_items": 3
+   "spacex_items": 1
   },
   {
    "name": "Light Reading",
@@ -383,7 +383,7 @@
    "name": "Fierce Network",
    "result": "성공",
    "items": 25,
-   "spacex_items": 0
+   "spacex_items": 1
   },
   {
    "name": "Breaking Defense",
@@ -417,8 +417,8 @@
   },
   {
    "name": "Drive Tesla Canada",
-   "result": "오류: TimeoutError",
-   "items": 0,
+   "result": "성공",
+   "items": 10,
    "spacex_items": 0
   },
   {
@@ -437,19 +437,19 @@
    "name": "The Decoder",
    "result": "성공",
    "items": 10,
-   "spacex_items": 1
+   "spacex_items": 0
   },
   {
    "name": "Data Center Dynamics",
    "result": "성공",
    "items": 20,
-   "spacex_items": 0
+   "spacex_items": 1
   },
   {
    "name": "Crunchbase News",
    "result": "성공",
    "items": 10,
-   "spacex_items": 2
+   "spacex_items": 3
   },
   {
    "name": "GDELT SpaceX",
@@ -467,26 +467,26 @@
    "name": "Hacker News Starlink",
    "result": "성공",
    "items": 50,
-   "spacex_items": 20
+   "spacex_items": 12
   }
  ],
  "blocked_cited": {
   "twitter.com": 49,
-  "x.com": 48,
-  "t.co": 16,
+  "x.com": 47,
+  "t.co": 17,
   "reddit.com": 12,
   "google.com": 11,
-  "cnbc.com": 6,
+  "cnbc.com": 4,
   "bloomberg.com": 4,
-  "arstechnica.com": 2,
+  "arstechnica.com": 3,
   "theguardian.com": 2,
   "yahoo.com": 2
  },
  "stats": {
-  "requests": 162,
+  "requests": 160,
   "blocked_skipped": 0,
   "robots_denied": 2,
-  "errors": 8,
+  "errors": 7,
   "blocked_contacted": 0
  }
 }
