@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-19T20:33:51+00:00",
+ "generated_at": "2026-11-20T07:12:22+00:00",
  "signals": {
   "candidates_passed": 1,
-  "candidates_seen_30d": 341,
+  "candidates_seen_30d": 344,
   "feeds_failing_3x": [
    "DoD Contracts",
    "GDELT SpaceX",
@@ -18,7 +18,7 @@
  "top": [
   {
    "domain": "9to5mac.com",
-   "citations": 40,
+   "citations": 44,
    "cited_by": [
     "Electrek SpaceX"
    ],
@@ -33,11 +33,11 @@
    "items_7d": 100,
    "kw_ratio": 0.0,
    "verdict": "부분(SpaceX 글 없음)",
-   "score": 808.0
+   "score": 888.8
   },
   {
    "domain": "9to5google.com",
-   "citations": 30,
+   "citations": 33,
    "cited_by": [
     "Electrek SpaceX"
    ],
@@ -52,11 +52,11 @@
    "items_7d": 100,
    "kw_ratio": 0.0,
    "verdict": "부분(SpaceX 글 없음)",
-   "score": 606.0
+   "score": 666.6
   },
   {
    "domain": "9to5toys.com",
-   "citations": 30,
+   "citations": 33,
    "cited_by": [
     "Electrek SpaceX"
    ],
@@ -71,11 +71,11 @@
    "items_7d": 50,
    "kw_ratio": 0.02,
    "verdict": "기계 시험 통과(본문·신뢰도는 봇이 확인)",
-   "score": 336.6
+   "score": 370.26
   },
   {
    "domain": "dronedj.com",
-   "citations": 30,
+   "citations": 33,
    "cited_by": [
     "Electrek SpaceX"
    ],
@@ -90,11 +90,11 @@
    "items_7d": 17,
    "kw_ratio": 0.0,
    "verdict": "부분(SpaceX 글 없음)",
-   "score": 108.0
+   "score": 118.8
   },
   {
    "domain": "hubspot.com",
-   "citations": 45,
+   "citations": 48,
    "cited_by": [
     "Broadband Breakfast"
    ],
@@ -109,30 +109,11 @@
    "items_7d": 4,
    "kw_ratio": 0.0,
    "verdict": "부분(SpaceX 글 없음)",
-   "score": 45.0
-  },
-  {
-   "domain": "futureplc.com",
-   "citations": 51,
-   "cited_by": [
-    "Space.com"
-   ],
-   "sample": "https://futureplc.com/future-member-terms-and-conditions/",
-   "titles": [
-    "Nonprofit Common Space will launch 1st 'humanitarian satellite' in 2027",
-    "'A shotgun marriage': Why are NASA's SkyFall Mars helicopters riding on a nuclear rocket?"
-   ],
-   "robots": "허용",
-   "feed": "https://futureplc.com/feed/",
-   "has_dates": true,
-   "items_7d": 0,
-   "kw_ratio": 0.0,
-   "verdict": "부분(날짜·최신성 미달)",
-   "score": 10.2
+   "score": 48.0
   },
   {
    "domain": "whatsapp.com",
-   "citations": 97,
+   "citations": 108,
    "cited_by": [
     "Space Intel Report",
     "Tesla Oracle"
@@ -148,18 +129,18 @@
    "items_7d": 0,
    "kw_ratio": 0.0,
    "verdict": "부분(피드 없음)",
-   "score": 9.7
+   "score": 10.8
   },
   {
-   "domain": "future-advertising.com",
-   "citations": 30,
+   "domain": "futureplc.com",
+   "citations": 54,
    "cited_by": [
     "Space.com"
    ],
-   "sample": "https://go.future-advertising.com/Spacecom-Media-Kit.html",
+   "sample": "https://futureplc.com/future-member-terms-and-conditions/",
    "titles": [
-    "Nonprofit Common Space will launch 1st 'humanitarian satellite' in 2027",
-    "'A shotgun marriage': Why are NASA's SkyFall Mars helicopters riding on a nuclear rocket?"
+    "The view from the tower: Watch Starship come in for chopsticks catch in epic slo-mo video",
+    "Nonprofit Common Space will launch 1st 'humanitarian satellite' in 2027"
    ],
    "robots": "허용",
    "feed": "https://futureplc.com/feed/",
@@ -167,11 +148,30 @@
    "items_7d": 0,
    "kw_ratio": 0.0,
    "verdict": "부분(날짜·최신성 미달)",
-   "score": 6.0
+   "score": 10.8
+  },
+  {
+   "domain": "future-advertising.com",
+   "citations": 33,
+   "cited_by": [
+    "Space.com"
+   ],
+   "sample": "https://go.future-advertising.com/Spacecom-Media-Kit.html",
+   "titles": [
+    "The view from the tower: Watch Starship come in for chopsticks catch in epic slo-mo video",
+    "Nonprofit Common Space will launch 1st 'humanitarian satellite' in 2027"
+   ],
+   "robots": "허용",
+   "feed": "https://futureplc.com/feed/",
+   "has_dates": true,
+   "items_7d": 0,
+   "kw_ratio": 0.0,
+   "verdict": "부분(날짜·최신성 미달)",
+   "score": 6.6
   },
   {
    "domain": "addtoany.com",
-   "citations": 59,
+   "citations": 64,
    "cited_by": [
     "Advanced Television",
     "Data Center Dynamics",
@@ -188,11 +188,11 @@
    "items_7d": 0,
    "kw_ratio": 0.0,
    "verdict": "부분(피드 없음)",
-   "score": 5.9
+   "score": 6.4
   },
   {
    "domain": "apple.news",
-   "citations": 30,
+   "citations": 33,
    "cited_by": [
     "Electrek SpaceX"
    ],
@@ -207,7 +207,7 @@
    "items_7d": 0,
    "kw_ratio": 0.0,
    "verdict": "부분(피드 없음)",
-   "score": 3.0
+   "score": 3.3
   }
  ],
  "seeds": [
@@ -239,7 +239,7 @@
    "name": "Space.com",
    "result": "성공",
    "items": 50,
-   "spacex_items": 14
+   "spacex_items": 13
   },
   {
    "name": "Advanced Television",
@@ -251,7 +251,7 @@
    "name": "Hacker News SpaceX",
    "result": "성공",
    "items": 50,
-   "spacex_items": 5
+   "spacex_items": 4
   },
   {
    "name": "Federal Register SpaceX",
@@ -305,7 +305,7 @@
    "name": "European Spaceflight",
    "result": "성공",
    "items": 10,
-   "spacex_items": 1
+   "spacex_items": 2
   },
   {
    "name": "Space Intel Report",
@@ -365,7 +365,7 @@
    "name": "Broadband Breakfast",
    "result": "성공",
    "items": 15,
-   "spacex_items": 2
+   "spacex_items": 3
   },
   {
    "name": "Light Reading",
@@ -401,7 +401,7 @@
    "name": "Air & Space Forces",
    "result": "성공",
    "items": 9,
-   "spacex_items": 0
+   "spacex_items": 1
   },
   {
    "name": "Defense News",
@@ -412,14 +412,14 @@
   {
    "name": "The War Zone",
    "result": "성공",
-   "items": 41,
+   "items": 40,
    "spacex_items": 4
   },
   {
    "name": "Drive Tesla Canada",
-   "result": "성공",
-   "items": 10,
-   "spacex_items": 3
+   "result": "오류: TimeoutError",
+   "items": 0,
+   "spacex_items": 0
   },
   {
    "name": "Tesla Oracle",
@@ -467,26 +467,26 @@
    "name": "Hacker News Starlink",
    "result": "성공",
    "items": 50,
-   "spacex_items": 33
+   "spacex_items": 20
   }
  ],
  "blocked_cited": {
-  "twitter.com": 50,
+  "twitter.com": 49,
   "x.com": 48,
-  "t.co": 17,
+  "t.co": 16,
+  "reddit.com": 12,
   "google.com": 11,
-  "reddit.com": 10,
-  "cnbc.com": 7,
-  "reuters.com": 5,
+  "cnbc.com": 6,
   "bloomberg.com": 4,
-  "theguardian.com": 3,
-  "arstechnica.com": 3
+  "arstechnica.com": 2,
+  "theguardian.com": 2,
+  "yahoo.com": 2
  },
  "stats": {
   "requests": 162,
   "blocked_skipped": 0,
   "robots_denied": 2,
-  "errors": 7,
+  "errors": 8,
   "blocked_contacted": 0
  }
 }
