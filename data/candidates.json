@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-21T07:03:38+00:00",
+ "generated_at": "2026-11-21T19:12:50+00:00",
  "signals": {
   "candidates_passed": 0,
-  "candidates_seen_30d": 356,
+  "candidates_seen_30d": 363,
   "feeds_failing_3x": [
    "DoD Contracts",
    "GDELT SpaceX",
@@ -87,10 +87,10 @@
    "robots": "허용",
    "feed": "https://dronedj.com/feed/",
    "has_dates": true,
-   "items_7d": 16,
+   "items_7d": 14,
    "kw_ratio": 0.0,
    "verdict": "부분(SpaceX 글 없음)",
-   "score": 122.4
+   "score": 108.0
   },
   {
    "domain": "whatsapp.com",
@@ -120,8 +120,8 @@
    ],
    "sample": "https://futureplc.com/future-member-terms-and-conditions/",
    "titles": [
-    "SpaceX launches classified mission for US Space Force from California",
-    "ISS astronauts look down on the snow-capped Himalayas | Space photo of the day for Nov. 20"
+    "This Week In Space podcast: Episode 237 — A Fond Farewell",
+    "'Star Trek: First Contact' at 30: Resistance is futile when it comes to the 'Next Generati"
    ],
    "robots": "허용",
    "feed": "https://futureplc.com/feed/",
@@ -139,8 +139,8 @@
    ],
    "sample": "https://go.future-advertising.com/Spacecom-Media-Kit.html",
    "titles": [
-    "SpaceX launches classified mission for US Space Force from California",
-    "ISS astronauts look down on the snow-capped Himalayas | Space photo of the day for Nov. 20"
+    "This Week In Space podcast: Episode 237 — A Fond Farewell",
+    "'Star Trek: First Contact' at 30: Resistance is futile when it comes to the 'Next Generati"
    ],
    "robots": "허용",
    "feed": "https://futureplc.com/feed/",
@@ -180,7 +180,7 @@
    "sample": "https://payments-na1.hubspot.com/payments/7TyXGqH4bm?referrer=PAYMENT_LINK&ref=broadbandbreakfast.com",
    "titles": [
     "U.S. Finalizes Spectrum Positions Early for WRC",
-    "T-Mobile to Acquire More 600 MegaHertz Spectrum"
+    "U.S. Finalizes Spectrum Positions Early for WRC"
    ],
    "robots": "허용",
    "feed": "",
@@ -251,7 +251,7 @@
    "name": "Hacker News SpaceX",
    "result": "성공",
    "items": 50,
-   "spacex_items": 6
+   "spacex_items": 7
   },
   {
    "name": "Federal Register SpaceX",
@@ -389,7 +389,7 @@
    "name": "Breaking Defense",
    "result": "성공",
    "items": 15,
-   "spacex_items": 0
+   "spacex_items": 1
   },
   {
    "name": "DefenseScoop",
@@ -412,14 +412,14 @@
   {
    "name": "The War Zone",
    "result": "성공",
-   "items": 42,
+   "items": 41,
    "spacex_items": 4
   },
   {
    "name": "Drive Tesla Canada",
    "result": "성공",
    "items": 10,
-   "spacex_items": 0
+   "spacex_items": 1
   },
   {
    "name": "Tesla Oracle",
@@ -467,23 +467,23 @@
    "name": "Hacker News Starlink",
    "result": "성공",
    "items": 50,
-   "spacex_items": 11
+   "spacex_items": 14
   }
  ],
  "blocked_cited": {
-  "twitter.com": 49,
+  "twitter.com": 51,
   "x.com": 47,
-  "t.co": 17,
+  "t.co": 16,
   "reddit.com": 12,
   "google.com": 11,
+  "arstechnica.com": 5,
   "cnbc.com": 4,
-  "arstechnica.com": 4,
-  "bloomberg.com": 4,
-  "theguardian.com": 2,
-  "yahoo.com": 2
+  "bloomberg.com": 3,
+  "reuters.com": 3,
+  "theguardian.com": 2
  },
  "stats": {
-  "requests": 160,
+  "requests": 162,
   "blocked_skipped": 0,
   "robots_denied": 2,
   "errors": 7,

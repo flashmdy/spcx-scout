@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-11-21T07:03:38+00:00",
- "count_48h": 33,
- "new_this_run": 3,
+ "generated_at": "2026-11-21T19:12:50+00:00",
+ "count_48h": 26,
+ "new_this_run": 6,
  "items": [
   {
    "title": "Self-Regulatory Organizations; 24X National Exchange LLC; Notice of Filing of a Proposed Rule Change To Adopt Rules To Govern the Trading of Options on the Exchange",
@@ -28,6 +28,86 @@
    ],
    "official": true,
    "score": 3
+  },
+  {
+   "title": "Live coverage: SpaceX to launch intelligence-gathering satellites for the National Reconnaissance Office",
+   "url": "https://spaceflightnow.com/2026/11/21/live-coverage-spacex-to-launch-intelligence-gathering-satellites-for-the-national-reconnaissance-office-3/",
+   "domains": [
+    "spaceflightnow.com"
+   ],
+   "published": "2026-11-21T16:50+00:00",
+   "topics": [
+    "발사·Starship"
+   ],
+   "official": false,
+   "score": 1
+  },
+  {
+   "title": "Qatar Executive Completes Starlink Wi-Fi Rollout Across its Gulfstream Fleet",
+   "url": "https://driveteslacanada.ca/news/qatar-executive-starlink-wifi-gulfstream-fleet/?utm_source=rss&utm_medium=rss&utm_campaign=qatar-executive-starlink-wifi-gulfstream-fleet",
+   "domains": [
+    "driveteslacanada.ca"
+   ],
+   "published": "2026-11-21T16:13+00:00",
+   "topics": [
+    "Starlink·통신"
+   ],
+   "official": false,
+   "score": 1
+  },
+  {
+   "title": "This Week In Space podcast: Episode 237 — A Fond Farewell",
+   "url": "https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-237-a-fond-farewell",
+   "domains": [
+    "space.com"
+   ],
+   "published": "2026-11-21T15:15+00:00",
+   "topics": [
+    "기타"
+   ],
+   "official": false,
+   "score": 1
+  },
+  {
+   "title": "Senate gearing up to investigate Ukraine’s access to Starshield",
+   "url": "https://breakingdefense.com/2026/11/senate-gearing-up-to-investigate-ukraines-access-to-starshield/",
+   "domains": [
+    "breakingdefense.com"
+   ],
+   "published": "2026-11-21T15:06+00:00",
+   "topics": [
+    "정부·규제",
+    "국방"
+   ],
+   "official": false,
+   "score": 1
+  },
+  {
+   "title": "'Star Trek: First Contact' at 30: Resistance is futile when it comes to the 'Next Generation' crew's greatest big-screen adventure",
+   "url": "https://www.space.com/entertainment/space-movies-shows/star-trek-first-contact-at-30-resistance-is-futile-when-it-comes-to-the-next-generation-crews-greatest-big-screen-adventure",
+   "domains": [
+    "space.com"
+   ],
+   "published": "2026-11-21T15:00+00:00",
+   "topics": [
+    "발사·Starship"
+   ],
+   "official": false,
+   "score": 1
+  },
+  {
+   "title": "SpaceX will retire 1st Starship upper stage ever caught by 'chopsticks,' Elon Musk says",
+   "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-will-retire-1st-starship-upper-stage-ever-caught-by-chopsticks-elon-musk-says",
+   "domains": [
+    "space.com"
+   ],
+   "published": "2026-11-21T13:00+00:00",
+   "topics": [
+    "발사·Starship",
+    "테슬라·머스크"
+   ],
+   "official": false,
+   "score": 1
   },
   {
    "title": "SpaceX launches classified mission for US Space Force from California",
@@ -263,183 +343,6 @@
    "published": "2026-11-19T21:20+00:00",
    "topics": [
     "발사·Starship"
-   ],
-   "official": false,
-   "score": 1
-  },
-  {
-   "title": "Anthropic shares jump in Nasdaq trading debut after record IPO",
-   "url": "https://www.cbsnews.com/news/anthropic-ipo-nasdaq-debut-claude-ai/",
-   "domains": [
-    "cbsnews.com"
-   ],
-   "published": "2026-11-19T14:30-05:00",
-   "topics": [
-    "금융·IPO"
-   ],
-   "official": false,
-   "score": 1
-  },
-  {
-   "title": "Tesla expands Cybercab rides to Dallas",
-   "url": "https://driveteslacanada.ca/robotaxi/tesla-expands-cybercab-rides-dallas/?utm_source=rss&utm_medium=rss&utm_campaign=tesla-expands-cybercab-rides-dallas",
-   "domains": [
-    "driveteslacanada.ca"
-   ],
-   "published": "2026-11-19T17:11+00:00",
-   "topics": [
-    "테슬라·머스크"
-   ],
-   "official": false,
-   "score": 1
-  },
-  {
-   "title": "Elon Musk's SpaceXAI suffers chemical spill at Mississippi AI data center",
-   "url": "https://www.tomshardware.com/tech-industry/data-centers/elon-musks-spacexai-suffers-chemical-spill-at-mississippi-ai-data-center-up-to-6-000-gallons-of-propylene-glycol-heat-transfer-fluid-lost-environment-agency-says-no-threat-to-residents",
-   "domains": [
-    "tomshardware.com"
-   ],
-   "published": "2026-11-19T16:14+00:00",
-   "topics": [
-    "AI·xAI",
-    "테슬라·머스크"
-   ],
-   "official": false,
-   "score": 1
-  },
-  {
-   "title": "T-Mobile to Acquire More 600 MegaHertz Spectrum",
-   "url": "https://broadbandbreakfast.com/t-mobile-to-acquire-more-600-megahertz-spectrum/",
-   "domains": [
-    "broadbandbreakfast.com"
-   ],
-   "published": "2026-11-19T15:57+00:00",
-   "topics": [
-    "정부·규제",
-    "Starlink·통신"
-   ],
-   "official": false,
-   "score": 1
-  },
-  {
-   "title": "Positioning with Starlink Leo Satellites: A Blind Doppler Spectral Approach",
-   "url": "https://people.engineering.osu.edu/media/document/2023-08-11/kassas_positioning_with_starlink_leo_satellites_a_blind_doppler_spectral",
-   "domains": [
-    "osu.edu"
-   ],
-   "published": "2026-11-19T15:50+00:00",
-   "topics": [
-    "Starlink·통신"
-   ],
-   "official": false,
-   "score": 1
-  },
-  {
-   "title": "Elon Musk Reveals Starlink V2 Launch Plans and New Rooftop Cell Tower",
-   "url": "https://driveteslacanada.ca/news/starlink-direct-to-cell-v2/?utm_source=rss&utm_medium=rss&utm_campaign=starlink-direct-to-cell-v2",
-   "domains": [
-    "driveteslacanada.ca"
-   ],
-   "published": "2026-11-19T15:47+00:00",
-   "topics": [
-    "Starlink·통신",
-    "발사·Starship",
-    "테슬라·머스크"
-   ],
-   "official": false,
-   "score": 1
-  },
-  {
-   "title": "Ukraine defense-tech markeplace coordinator/investor Brave1: Remove Starlink geo-fencing and you’d see what we can do",
-   "url": "https://www.spaceintelreport.com/ukraine-defense-tech-markeplace-coordinator-investor-brave1-if-starlink-geo-fencing-were-removed-youd-see-what-we-can-do/?utm_source=rss&utm_medium=rss&utm_campaign=ukraine-defense-tech-markeplace-coordinator-investor-brave1-if-starlink-geo-fencing-were-removed-youd-see-what-we-can-do",
-   "domains": [
-    "spaceintelreport.com"
-   ],
-   "published": "2026-11-19T15:25+00:00",
-   "topics": [
-    "금융·IPO",
-    "국방",
-    "Starlink·통신"
-   ],
-   "official": false,
-   "score": 1
-  },
-  {
-   "title": "How to vote in Tesla’s 2026 Annual Meeting",
-   "url": "https://driveteslacanada.ca/news/how-to-vote-in-teslas-2026-annual-meeting/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-vote-in-teslas-2026-annual-meeting",
-   "domains": [
-    "driveteslacanada.ca"
-   ],
-   "published": "2026-11-19T14:57+00:00",
-   "topics": [
-    "테슬라·머스크"
-   ],
-   "official": false,
-   "score": 1
-  },
-  {
-   "title": "Anthropic's $81.3 billion IPO shatters SpaceX's record as rising rates and political headwinds shake the sector",
-   "url": "https://the-decoder.com/anthropics-81-3-billion-ipo-shatters-spacexs-record-as-rising-rates-and-political-headwinds-shake-the-sector/",
-   "domains": [
-    "the-decoder.com"
-   ],
-   "published": "2026-11-19T14:02+00:00",
-   "topics": [
-    "금융·IPO"
-   ],
-   "official": false,
-   "score": 1
-  },
-  {
-   "title": "As EU weighs $27.4B add-on for Ukrainian defense, Ukraine digital minister focuses on diversifying connectivity networks",
-   "url": "https://www.spaceintelreport.com/as-eu-weighs-27-4b-add-on-for-ukrainian-defense-ukraine-digital-minister-focuses-on-diversifying-connectivity-networks/?utm_source=rss&utm_medium=rss&utm_campaign=as-eu-weighs-27-4b-add-on-for-ukrainian-defense-ukraine-digital-minister-focuses-on-diversifying-connectivity-networks",
-   "domains": [
-    "spaceintelreport.com"
-   ],
-   "published": "2026-11-19T13:49+00:00",
-   "topics": [
-    "정부·규제",
-    "국방"
-   ],
-   "official": false,
-   "score": 1
-  },
-  {
-   "title": "Elon Musk explains the Flight 15 Booster 22 catch abort and FTS triggers (final moment pics and video)",
-   "url": "https://www.teslaoracle.com/2026/11/19/elon-musk-explains-the-flight-15-booster-22-catch-abort-and-fts-triggers-final-moment-pics-and-video/",
-   "domains": [
-    "teslaoracle.com"
-   ],
-   "published": "2026-11-19T13:43+00:00",
-   "topics": [
-    "발사·Starship",
-    "테슬라·머스크"
-   ],
-   "official": false,
-   "score": 1
-  },
-  {
-   "title": "Nonprofit Common Space will launch 1st 'humanitarian satellite' in 2027",
-   "url": "https://www.space.com/space-exploration/satellites/nonprofit-common-space-will-launch-1st-humanitarian-satellite-in-2027",
-   "domains": [
-    "space.com"
-   ],
-   "published": "2026-11-19T13:21+00:00",
-   "topics": [
-    "발사·Starship"
-   ],
-   "official": false,
-   "score": 1
-  },
-  {
-   "title": "Anthropic Set to Begin Trading as a $1.5 Trillion Company in the Biggest IPO on Record",
-   "url": "https://broadbandbreakfast.com/anthropic-set-to-begin-trading-as-a-1-5-trillion-company-in-the-biggest-ipo-on-record/",
-   "domains": [
-    "broadbandbreakfast.com"
-   ],
-   "published": "2026-11-19T13:08+00:00",
-   "topics": [
-    "금융·IPO"
    ],
    "official": false,
    "score": 1
