@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-20T20:13:54+00:00",
+ "generated_at": "2026-11-21T07:03:38+00:00",
  "signals": {
   "candidates_passed": 0,
-  "candidates_seen_30d": 354,
+  "candidates_seen_30d": 356,
   "feeds_failing_3x": [
    "DoD Contracts",
    "GDELT SpaceX",
@@ -18,7 +18,7 @@
  "top": [
   {
    "domain": "9to5mac.com",
-   "citations": 44,
+   "citations": 48,
    "cited_by": [
     "Electrek SpaceX"
    ],
@@ -33,11 +33,11 @@
    "items_7d": 100,
    "kw_ratio": 0.0,
    "verdict": "부분(SpaceX 글 없음)",
-   "score": 888.8
+   "score": 969.6
   },
   {
    "domain": "9to5google.com",
-   "citations": 33,
+   "citations": 36,
    "cited_by": [
     "Electrek SpaceX"
    ],
@@ -52,11 +52,11 @@
    "items_7d": 100,
    "kw_ratio": 0.0,
    "verdict": "부분(SpaceX 글 없음)",
-   "score": 666.6
+   "score": 727.2
   },
   {
    "domain": "9to5toys.com",
-   "citations": 33,
+   "citations": 36,
    "cited_by": [
     "Electrek SpaceX"
    ],
@@ -71,11 +71,11 @@
    "items_7d": 50,
    "kw_ratio": 0.0,
    "verdict": "부분(SpaceX 글 없음)",
-   "score": 336.6
+   "score": 367.2
   },
   {
    "domain": "dronedj.com",
-   "citations": 33,
+   "citations": 36,
    "cited_by": [
     "Electrek SpaceX"
    ],
@@ -90,11 +90,11 @@
    "items_7d": 16,
    "kw_ratio": 0.0,
    "verdict": "부분(SpaceX 글 없음)",
-   "score": 112.2
+   "score": 122.4
   },
   {
    "domain": "whatsapp.com",
-   "citations": 108,
+   "citations": 119,
    "cited_by": [
     "Space Intel Report",
     "Tesla Oracle"
@@ -110,18 +110,18 @@
    "items_7d": 0,
    "kw_ratio": 0.0,
    "verdict": "부분(피드 없음)",
-   "score": 10.8
+   "score": 11.9
   },
   {
    "domain": "futureplc.com",
-   "citations": 54,
+   "citations": 57,
    "cited_by": [
     "Space.com"
    ],
    "sample": "https://futureplc.com/future-member-terms-and-conditions/",
    "titles": [
-    "ISS astronauts look down on the snow-capped Himalayas | Space photo of the day for Nov. 20",
-    "I got to tour SpaceX's Starfactory facility in Starbase, Texas, and what I saw blew my min"
+    "SpaceX launches classified mission for US Space Force from California",
+    "ISS astronauts look down on the snow-capped Himalayas | Space photo of the day for Nov. 20"
    ],
    "robots": "허용",
    "feed": "https://futureplc.com/feed/",
@@ -129,18 +129,18 @@
    "items_7d": 0,
    "kw_ratio": 0.0,
    "verdict": "부분(날짜·최신성 미달)",
-   "score": 10.8
+   "score": 11.4
   },
   {
    "domain": "future-advertising.com",
-   "citations": 33,
+   "citations": 36,
    "cited_by": [
     "Space.com"
    ],
    "sample": "https://go.future-advertising.com/Spacecom-Media-Kit.html",
    "titles": [
-    "ISS astronauts look down on the snow-capped Himalayas | Space photo of the day for Nov. 20",
-    "I got to tour SpaceX's Starfactory facility in Starbase, Texas, and what I saw blew my min"
+    "SpaceX launches classified mission for US Space Force from California",
+    "ISS astronauts look down on the snow-capped Himalayas | Space photo of the day for Nov. 20"
    ],
    "robots": "허용",
    "feed": "https://futureplc.com/feed/",
@@ -148,11 +148,11 @@
    "items_7d": 0,
    "kw_ratio": 0.0,
    "verdict": "부분(날짜·최신성 미달)",
-   "score": 6.6
+   "score": 7.2
   },
   {
    "domain": "addtoany.com",
-   "citations": 65,
+   "citations": 71,
    "cited_by": [
     "Advanced Television",
     "Data Center Dynamics",
@@ -169,17 +169,17 @@
    "items_7d": 0,
    "kw_ratio": 0.0,
    "verdict": "부분(피드 없음)",
-   "score": 6.5
+   "score": 7.1
   },
   {
    "domain": "hubspot.com",
-   "citations": 48,
+   "citations": 49,
    "cited_by": [
     "Broadband Breakfast"
    ],
    "sample": "https://payments-na1.hubspot.com/payments/7TyXGqH4bm?referrer=PAYMENT_LINK&ref=broadbandbreakfast.com",
    "titles": [
-    "T-Mobile to Acquire More 600 MegaHertz Spectrum",
+    "U.S. Finalizes Spectrum Positions Early for WRC",
     "T-Mobile to Acquire More 600 MegaHertz Spectrum"
    ],
    "robots": "허용",
@@ -188,11 +188,11 @@
    "items_7d": 0,
    "kw_ratio": 0.0,
    "verdict": "부분(피드 없음)",
-   "score": 4.8
+   "score": 4.9
   },
   {
    "domain": "apple.news",
-   "citations": 33,
+   "citations": 36,
    "cited_by": [
     "Electrek SpaceX"
    ],
@@ -207,7 +207,7 @@
    "items_7d": 0,
    "kw_ratio": 0.0,
    "verdict": "부분(피드 없음)",
-   "score": 3.3
+   "score": 3.6
   }
  ],
  "seeds": [
@@ -251,7 +251,7 @@
    "name": "Hacker News SpaceX",
    "result": "성공",
    "items": 50,
-   "spacex_items": 5
+   "spacex_items": 6
   },
   {
    "name": "Federal Register SpaceX",
@@ -412,7 +412,7 @@
   {
    "name": "The War Zone",
    "result": "성공",
-   "items": 40,
+   "items": 42,
    "spacex_items": 4
   },
   {
@@ -467,7 +467,7 @@
    "name": "Hacker News Starlink",
    "result": "성공",
    "items": 50,
-   "spacex_items": 12
+   "spacex_items": 11
   }
  ],
  "blocked_cited": {
@@ -477,8 +477,8 @@
   "reddit.com": 12,
   "google.com": 11,
   "cnbc.com": 4,
+  "arstechnica.com": 4,
   "bloomberg.com": 4,
-  "arstechnica.com": 3,
   "theguardian.com": 2,
   "yahoo.com": 2
  },

@@ -1,8 +1,21 @@
 {
- "generated_at": "2026-11-20T20:13:54+00:00",
- "count_48h": 35,
- "new_this_run": 10,
+ "generated_at": "2026-11-21T07:03:38+00:00",
+ "count_48h": 33,
+ "new_this_run": 3,
  "items": [
+  {
+   "title": "Self-Regulatory Organizations; 24X National Exchange LLC; Notice of Filing of a Proposed Rule Change To Adopt Rules To Govern the Trading of Options on the Exchange",
+   "url": "https://www.federalregister.gov/documents/2026/11/23/2026-23748/self-regulatory-organizations-24x-national-exchange-llc-notice-of-filing-of-a-proposed-rule-change",
+   "domains": [
+    "federalregister.gov"
+   ],
+   "published": "2026-11-23T00:00+00:00",
+   "topics": [
+    "정부·규제"
+   ],
+   "official": true,
+   "score": 3
+  },
   {
    "title": "Self-Regulatory Organizations; Miami International Securities Exchange, LLC; Notice of Filing and Immediate Effectiveness of a Proposed Rule Change To Permit the Listing of Binary Options Overlying Ke",
    "url": "https://www.federalregister.gov/documents/2026/11/20/2026-23649/self-regulatory-organizations-miami-international-securities-exchange-llc-notice-of-filing-and",
@@ -17,17 +30,31 @@
    "score": 3
   },
   {
-   "title": "NASA Sets Coverage for Northrop Grumman CRS-25 Launch, Prelaunch",
-   "url": "https://www.nasa.gov/news-release/nasa-sets-coverage-for-northrop-grumman-crs-25-launch-prelaunch/",
+   "title": "SpaceX launches classified mission for US Space Force from California",
+   "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-falcon-9-classified-space-force-launch-ussf-317",
    "domains": [
-    "nasa.gov"
+    "space.com"
    ],
-   "published": "2026-11-18T22:19+00:00",
+   "published": "2026-11-21T05:28+00:00",
    "topics": [
+    "국방",
     "발사·Starship"
    ],
-   "official": true,
-   "score": 3
+   "official": false,
+   "score": 1
+  },
+  {
+   "title": "U.S. Finalizes Spectrum Positions Early for WRC",
+   "url": "https://broadbandbreakfast.com/u-s-finalizes-spectrum-positions-early-for-wrc/",
+   "domains": [
+    "broadbandbreakfast.com"
+   ],
+   "published": "2026-11-20T21:54+00:00",
+   "topics": [
+    "정부·규제"
+   ],
+   "official": false,
+   "score": 1
   },
   {
    "title": "Following Ship 42’s catch, SpaceX looks to the future",
@@ -413,58 +440,6 @@
    "published": "2026-11-19T13:08+00:00",
    "topics": [
     "금융·IPO"
-   ],
-   "official": false,
-   "score": 1
-  },
-  {
-   "title": "As Electorate Rejects Terrestrial Data Centers, Satellite Industry Considers Space Compute",
-   "url": "https://broadbandbreakfast.com/as-electorate-rejects-terrestrial-data-centers-satellite-industry-considers-space-compute/",
-   "domains": [
-    "broadbandbreakfast.com"
-   ],
-   "published": "2026-11-19T01:46+00:00",
-   "topics": [
-    "AI·xAI"
-   ],
-   "official": false,
-   "score": 1
-  },
-  {
-   "title": "Anthropic Prices IPO Shares At $83, Above Range",
-   "url": "https://news.crunchbase.com/public/ipo/anthropic-prices-ipo-ant-above-range/",
-   "domains": [
-    "crunchbase.com"
-   ],
-   "published": "2026-11-18T22:15+00:00",
-   "topics": [
-    "금융·IPO"
-   ],
-   "official": false,
-   "score": 1
-  },
-  {
-   "title": "Vulcan failure investigation focuses on ‘inadequate fuel supply’ to booster engines",
-   "url": "https://spaceflightnow.com/2026/11/18/vulcan-failure-investigation-focuses-on-inadequate-fuel-supply-to-booster-engines/",
-   "domains": [
-    "spaceflightnow.com"
-   ],
-   "published": "2026-11-18T21:11+00:00",
-   "topics": [
-    "발사·Starship"
-   ],
-   "official": false,
-   "score": 1
-  },
-  {
-   "title": "Senator Vows AI Hearings After Watchdog Gets Platforms to Plan Terrorist Attacks",
-   "url": "https://broadbandbreakfast.com/senator-vows-ai-hearings-after-watchdog-gets-platforms-to-plan-terrorist-attacks/",
-   "domains": [
-    "broadbandbreakfast.com"
-   ],
-   "published": "2026-11-18T20:45+00:00",
-   "topics": [
-    "AI·xAI"
    ],
    "official": false,
    "score": 1

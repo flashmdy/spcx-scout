@@ -1,33 +1,33 @@
 # SPCX 뉴스 모음 — 최근 48시간
 
-갱신: 2026-11-21 05:13 (한국 시간) · 글 35건 · 교차 확인 = 같은 소식을 낸 사이트 수 · 🏛 = 정부·공식 출처
+갱신: 2026-11-21 16:03 (한국 시간) · 글 33건 · 교차 확인 = 같은 소식을 낸 사이트 수 · 🏛 = 정부·공식 출처
 
-## 금융·IPO (5)
+## 금융·IPO (4)
 
 - [Anthropic shares jump in Nasdaq trading debut after record IPO](https://www.cbsnews.com/news/anthropic-ipo-nasdaq-debut-claude-ai/) — cbsnews.com · 11-19 23:30
 - [Ukraine defense-tech markeplace coordinator/investor Brave1: Remove Starlink geo-fencing and you’d see what we can do](https://www.spaceintelreport.com/ukraine-defense-tech-markeplace-coordinator-investor-brave1-if-starlink-geo-fencing-were-removed-youd-see-what-we-can-do/?utm_source=rss&utm_medium=rss&utm_campaign=ukraine-defense-tech-markeplace-coordinator-investor-brave1-if-starlink-geo-fencing-were-removed-youd-see-what-we-can-do) — spaceintelreport.com · 11-20 00:25
 - [Anthropic's $81.3 billion IPO shatters SpaceX's record as rising rates and political headwinds shake the sector](https://the-decoder.com/anthropics-81-3-billion-ipo-shatters-spacexs-record-as-rising-rates-and-political-headwinds-shake-the-sector/) — the-decoder.com · 11-19 23:02
 - [Anthropic Set to Begin Trading as a $1.5 Trillion Company in the Biggest IPO on Record](https://broadbandbreakfast.com/anthropic-set-to-begin-trading-as-a-1-5-trillion-company-in-the-biggest-ipo-on-record/) — broadbandbreakfast.com · 11-19 22:08
-- [Anthropic Prices IPO Shares At $83, Above Range](https://news.crunchbase.com/public/ipo/anthropic-prices-ipo-ant-above-range/) — crunchbase.com · 11-19 07:15
 
-## 정부·규제 (3)
+## 정부·규제 (5)
 
+- 🏛 [Self-Regulatory Organizations; 24X National Exchange LLC; Notice of Filing of a Proposed Rule Change To Adopt Rules To Govern the Trading of Options on the Exchange](https://www.federalregister.gov/documents/2026/11/23/2026-23748/self-regulatory-organizations-24x-national-exchange-llc-notice-of-filing-of-a-proposed-rule-change) — federalregister.gov · 11-23 09:00
 - 🏛 [Self-Regulatory Organizations; Miami International Securities Exchange, LLC; Notice of Filing and Immediate Effectiveness of a Proposed Rule Change To Permit the Listing of Binary Options Overlying Ke](https://www.federalregister.gov/documents/2026/11/20/2026-23649/self-regulatory-organizations-miami-international-securities-exchange-llc-notice-of-filing-and) — federalregister.gov · 11-20 09:00
+- [U.S. Finalizes Spectrum Positions Early for WRC](https://broadbandbreakfast.com/u-s-finalizes-spectrum-positions-early-for-wrc/) — broadbandbreakfast.com · 11-21 06:54
 - [T-Mobile to Acquire More 600 MegaHertz Spectrum](https://broadbandbreakfast.com/t-mobile-to-acquire-more-600-megahertz-spectrum/) — broadbandbreakfast.com · 11-20 00:57
 - [As EU weighs $27.4B add-on for Ukrainian defense, Ukraine digital minister focuses on diversifying connectivity networks](https://www.spaceintelreport.com/as-eu-weighs-27-4b-add-on-for-ukrainian-defense-ukraine-digital-minister-focuses-on-diversifying-connectivity-networks/?utm_source=rss&utm_medium=rss&utm_campaign=as-eu-weighs-27-4b-add-on-for-ukrainian-defense-ukraine-digital-minister-focuses-on-diversifying-connectivity-networks) — spaceintelreport.com · 11-19 22:49
 
-## 국방 (2)
+## 국방 (3)
 
+- [SpaceX launches classified mission for US Space Force from California](https://www.space.com/space-exploration/launches-spacecraft/spacex-falcon-9-classified-space-force-launch-ussf-317) — space.com · 11-21 14:28
 - [SpaceX scrubs launch of classified payload for the U.S. Space Force, targets Friday](https://spaceflightnow.com/2026/11/19/live-coverage-spacex-to-launch-classified-payload-for-the-u-s-space-force-2/) — spaceflightnow.com · 11-20 08:51
 - [ULA’s Latest Launch Failure Spells Trouble for Space Force](https://www.airandspaceforces.com/ula-launch-failure-trouble-space-force/) — airandspaceforces.com · 11-20 06:31
 
-## AI·xAI (5)
+## AI·xAI (3)
 
 - [SpaceX expresses interest in building data centers in Bulgaria](https://www.datacenterdynamics.com/en/news/spacex-expresses-interest-in-building-data-centers-in-bulgaria/) — datacenterdynamics.com · 11-21 00:47
 - [Tesla update 2026.44.1: hacker discovers transition from AI Computer to Super Intelligence, Grok sync, and more](https://www.teslaoracle.com/2026/11/20/tesla-update-2026-44-1-hacker-discovers-transition-from-ai-computer-to-super-intelligence-grok-sync-and-more/) — teslaoracle.com · 11-20 17:20
 - [Elon Musk's SpaceXAI suffers chemical spill at Mississippi AI data center](https://www.tomshardware.com/tech-industry/data-centers/elon-musks-spacexai-suffers-chemical-spill-at-mississippi-ai-data-center-up-to-6-000-gallons-of-propylene-glycol-heat-transfer-fluid-lost-environment-agency-says-no-threat-to-residents) — tomshardware.com · 11-20 01:14
-- [As Electorate Rejects Terrestrial Data Centers, Satellite Industry Considers Space Compute](https://broadbandbreakfast.com/as-electorate-rejects-terrestrial-data-centers-satellite-industry-considers-space-compute/) — broadbandbreakfast.com · 11-19 10:46
-- [Senator Vows AI Hearings After Watchdog Gets Platforms to Plan Terrorist Attacks](https://broadbandbreakfast.com/senator-vows-ai-hearings-after-watchdog-gets-platforms-to-plan-terrorist-attacks/) — broadbandbreakfast.com · 11-19 05:45
 
 ## Starlink·통신 (4)
 
@@ -36,9 +36,8 @@
 - [Positioning with Starlink Leo Satellites: A Blind Doppler Spectral Approach](https://people.engineering.osu.edu/media/document/2023-08-11/kassas_positioning_with_starlink_leo_satellites_a_blind_doppler_spectral) — osu.edu · 11-20 00:50
 - [Elon Musk Reveals Starlink V2 Launch Plans and New Rooftop Cell Tower](https://driveteslacanada.ca/news/starlink-direct-to-cell-v2/?utm_source=rss&utm_medium=rss&utm_campaign=starlink-direct-to-cell-v2) — driveteslacanada.ca · 11-20 00:47
 
-## 발사·Starship (9)
+## 발사·Starship (7)
 
-- 🏛 [NASA Sets Coverage for Northrop Grumman CRS-25 Launch, Prelaunch](https://www.nasa.gov/news-release/nasa-sets-coverage-for-northrop-grumman-crs-25-launch-prelaunch/) — nasa.gov · 11-19 07:19
 - [I got to tour SpaceX's Starfactory facility in Starbase, Texas, and what I saw blew my mind](https://www.space.com/space-exploration/private-spaceflight/i-got-to-tour-spacexs-starfactory-facility-in-starbase-texas-and-what-i-saw-blew-my-mind) — space.com · 11-20 22:00
 - [Lenders aim to bar SpaceX from launching $40B of chips into orbit](https://www.ft.com/content/33b5643c-2957-4d42-9116-5e34a3c54e29) — ft.com · 11-20 20:07
 - [SpaceX Dragon cargo capsule heads home to Earth from the ISS](https://www.space.com/space-exploration/launches-spacecraft/spacex-crs-35-dragon-iss-cargo-mission-return-to-earth) — space.com · 11-20 20:00
@@ -46,7 +45,6 @@
 - [Google Orders Heavy-Lift Launch for Project Suncatcher from Blue Origin](https://www.satellitetoday.com/launch/2026/11/19/google-orders-heavy-lift-launch-for-project-suncatcher-from-blue-origin/) — satellitetoday.com · 11-20 06:20
 - [Elon Musk explains the Flight 15 Booster 22 catch abort and FTS triggers (final moment pics and video)](https://www.teslaoracle.com/2026/11/19/elon-musk-explains-the-flight-15-booster-22-catch-abort-and-fts-triggers-final-moment-pics-and-video/) — teslaoracle.com · 11-19 22:43
 - [Nonprofit Common Space will launch 1st 'humanitarian satellite' in 2027](https://www.space.com/space-exploration/satellites/nonprofit-common-space-will-launch-1st-humanitarian-satellite-in-2027) — space.com · 11-19 22:21
-- [Vulcan failure investigation focuses on ‘inadequate fuel supply’ to booster engines](https://spaceflightnow.com/2026/11/18/vulcan-failure-investigation-focuses-on-inadequate-fuel-supply-to-booster-engines/) — spaceflightnow.com · 11-19 06:11
 
 ## 테슬라·머스크 (3)
 
