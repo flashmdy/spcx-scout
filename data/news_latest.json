@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-11-21T19:12:50+00:00",
- "count_48h": 26,
- "new_this_run": 6,
+ "generated_at": "2026-11-22T06:44:52+00:00",
+ "count_48h": 20,
+ "new_this_run": 0,
  "items": [
   {
    "title": "Self-Regulatory Organizations; 24X National Exchange LLC; Notice of Filing of a Proposed Rule Change To Adopt Rules To Govern the Trading of Options on the Exchange",
@@ -10,19 +10,6 @@
     "federalregister.gov"
    ],
    "published": "2026-11-23T00:00+00:00",
-   "topics": [
-    "정부·규제"
-   ],
-   "official": true,
-   "score": 3
-  },
-  {
-   "title": "Self-Regulatory Organizations; Miami International Securities Exchange, LLC; Notice of Filing and Immediate Effectiveness of a Proposed Rule Change To Permit the Listing of Binary Options Overlying Ke",
-   "url": "https://www.federalregister.gov/documents/2026/11/20/2026-23649/self-regulatory-organizations-miami-international-securities-exchange-llc-notice-of-filing-and",
-   "domains": [
-    "federalregister.gov"
-   ],
-   "published": "2026-11-20T00:00+00:00",
    "topics": [
     "정부·규제"
    ],
@@ -276,73 +263,6 @@
    "published": "2026-11-20T07:09+00:00",
    "topics": [
     "Starlink·통신"
-   ],
-   "official": false,
-   "score": 1
-  },
-  {
-   "title": "SpaceX scrubs launch of classified payload for the U.S. Space Force, targets Friday",
-   "url": "https://spaceflightnow.com/2026/11/19/live-coverage-spacex-to-launch-classified-payload-for-the-u-s-space-force-2/",
-   "domains": [
-    "spaceflightnow.com"
-   ],
-   "published": "2026-11-19T23:51+00:00",
-   "topics": [
-    "국방",
-    "발사·Starship"
-   ],
-   "official": false,
-   "score": 1
-  },
-  {
-   "title": "Elon Musk says SpaceX has a plan to eliminate cell phone dead zones",
-   "url": "https://techcrunch.com/2026/11/19/elon-musk-says-spacex-has-a-plan-to-eliminate-cell-phone-dead-zones/",
-   "domains": [
-    "techcrunch.com"
-   ],
-   "published": "2026-11-19T23:37+00:00",
-   "topics": [
-    "테슬라·머스크"
-   ],
-   "official": false,
-   "score": 1
-  },
-  {
-   "title": "The view from the tower: Watch Starship come in for chopsticks catch in epic slo-mo video",
-   "url": "https://www.space.com/space-exploration/launches-spacecraft/the-view-from-the-tower-watch-starship-come-in-for-chopsticks-catch-in-epic-slo-mo-video",
-   "domains": [
-    "space.com"
-   ],
-   "published": "2026-11-19T22:00+00:00",
-   "topics": [
-    "발사·Starship"
-   ],
-   "official": false,
-   "score": 1
-  },
-  {
-   "title": "ULA’s Latest Launch Failure Spells Trouble for Space Force",
-   "url": "https://www.airandspaceforces.com/ula-launch-failure-trouble-space-force/",
-   "domains": [
-    "airandspaceforces.com"
-   ],
-   "published": "2026-11-19T21:31+00:00",
-   "topics": [
-    "국방",
-    "발사·Starship"
-   ],
-   "official": false,
-   "score": 1
-  },
-  {
-   "title": "Google Orders Heavy-Lift Launch for Project Suncatcher from Blue Origin",
-   "url": "https://www.satellitetoday.com/launch/2026/11/19/google-orders-heavy-lift-launch-for-project-suncatcher-from-blue-origin/",
-   "domains": [
-    "satellitetoday.com"
-   ],
-   "published": "2026-11-19T21:20+00:00",
-   "topics": [
-    "발사·Starship"
    ],
    "official": false,
    "score": 1

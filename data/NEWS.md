@@ -1,19 +1,16 @@
 # SPCX 뉴스 모음 — 최근 48시간
 
-갱신: 2026-11-22 04:12 (한국 시간) · 글 26건 · 교차 확인 = 같은 소식을 낸 사이트 수 · 🏛 = 정부·공식 출처
+갱신: 2026-11-22 15:44 (한국 시간) · 글 20건 · 교차 확인 = 같은 소식을 낸 사이트 수 · 🏛 = 정부·공식 출처
 
-## 정부·규제 (4)
+## 정부·규제 (3)
 
 - 🏛 [Self-Regulatory Organizations; 24X National Exchange LLC; Notice of Filing of a Proposed Rule Change To Adopt Rules To Govern the Trading of Options on the Exchange](https://www.federalregister.gov/documents/2026/11/23/2026-23748/self-regulatory-organizations-24x-national-exchange-llc-notice-of-filing-of-a-proposed-rule-change) — federalregister.gov · 11-23 09:00
-- 🏛 [Self-Regulatory Organizations; Miami International Securities Exchange, LLC; Notice of Filing and Immediate Effectiveness of a Proposed Rule Change To Permit the Listing of Binary Options Overlying Ke](https://www.federalregister.gov/documents/2026/11/20/2026-23649/self-regulatory-organizations-miami-international-securities-exchange-llc-notice-of-filing-and) — federalregister.gov · 11-20 09:00
 - [Senate gearing up to investigate Ukraine’s access to Starshield](https://breakingdefense.com/2026/11/senate-gearing-up-to-investigate-ukraines-access-to-starshield/) — breakingdefense.com · 11-22 00:06
 - [U.S. Finalizes Spectrum Positions Early for WRC](https://broadbandbreakfast.com/u-s-finalizes-spectrum-positions-early-for-wrc/) — broadbandbreakfast.com · 11-21 06:54
 
-## 국방 (3)
+## 국방 (1)
 
 - [SpaceX launches classified mission for US Space Force from California](https://www.space.com/space-exploration/launches-spacecraft/spacex-falcon-9-classified-space-force-launch-ussf-317) — space.com · 11-21 14:28
-- [SpaceX scrubs launch of classified payload for the U.S. Space Force, targets Friday](https://spaceflightnow.com/2026/11/19/live-coverage-spacex-to-launch-classified-payload-for-the-u-s-space-force-2/) — spaceflightnow.com · 11-20 08:51
-- [ULA’s Latest Launch Failure Spells Trouble for Space Force](https://www.airandspaceforces.com/ula-launch-failure-trouble-space-force/) — airandspaceforces.com · 11-20 06:31
 
 ## AI·xAI (2)
 
@@ -26,7 +23,7 @@
 - [Telecom veteran bets airships in stratosphere can beat Starlink in space](https://www.lightreading.com/satellite/telecom-veteran-bets-airships-in-stratosphere-can-beat-starlink-in-space) — lightreading.com · 11-20 17:00
 - [Danish Soldiers Are Sneaking Starlink Terminals into Greenland](https://europeanspaceflight.com/danish-soldiers-are-sneaking-starlink-terminals-into-greenland/) — europeanspaceflight.com · 11-20 16:09
 
-## 발사·Starship (8)
+## 발사·Starship (6)
 
 - [Live coverage: SpaceX to launch intelligence-gathering satellites for the National Reconnaissance Office](https://spaceflightnow.com/2026/11/21/live-coverage-spacex-to-launch-intelligence-gathering-satellites-for-the-national-reconnaissance-office-3/) — spaceflightnow.com · 11-22 01:50
 - ['Star Trek: First Contact' at 30: Resistance is futile when it comes to the 'Next Generation' crew's greatest big-screen adventure](https://www.space.com/entertainment/space-movies-shows/star-trek-first-contact-at-30-resistance-is-futile-when-it-comes-to-the-next-generation-crews-greatest-big-screen-adventure) — space.com · 11-22 00:00
@@ -34,12 +31,6 @@
 - [I got to tour SpaceX's Starfactory facility in Starbase, Texas, and what I saw blew my mind](https://www.space.com/space-exploration/private-spaceflight/i-got-to-tour-spacexs-starfactory-facility-in-starbase-texas-and-what-i-saw-blew-my-mind) — space.com · 11-20 22:00
 - [Lenders aim to bar SpaceX from launching $40B of chips into orbit](https://www.ft.com/content/33b5643c-2957-4d42-9116-5e34a3c54e29) — ft.com · 11-20 20:07
 - [SpaceX Dragon cargo capsule heads home to Earth from the ISS](https://www.space.com/space-exploration/launches-spacecraft/spacex-crs-35-dragon-iss-cargo-mission-return-to-earth) — space.com · 11-20 20:00
-- [The view from the tower: Watch Starship come in for chopsticks catch in epic slo-mo video](https://www.space.com/space-exploration/launches-spacecraft/the-view-from-the-tower-watch-starship-come-in-for-chopsticks-catch-in-epic-slo-mo-video) — space.com · 11-20 07:00
-- [Google Orders Heavy-Lift Launch for Project Suncatcher from Blue Origin](https://www.satellitetoday.com/launch/2026/11/19/google-orders-heavy-lift-launch-for-project-suncatcher-from-blue-origin/) — satellitetoday.com · 11-20 06:20
-
-## 테슬라·머스크 (1)
-
-- [Elon Musk says SpaceX has a plan to eliminate cell phone dead zones](https://techcrunch.com/2026/11/19/elon-musk-says-spacex-has-a-plan-to-eliminate-cell-phone-dead-zones/) — techcrunch.com · 11-20 08:37
 
 ## 기타 (5)
 
