@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-22T06:44:52+00:00",
+ "generated_at": "2026-11-22T19:36:22+00:00",
  "signals": {
   "candidates_passed": 0,
-  "candidates_seen_30d": 364,
+  "candidates_seen_30d": 367,
   "feeds_failing_3x": [
    "DoD Contracts",
    "GDELT SpaceX",
@@ -87,10 +87,10 @@
    "robots": "허용",
    "feed": "https://dronedj.com/feed/",
    "has_dates": true,
-   "items_7d": 14,
+   "items_7d": 13,
    "kw_ratio": 0.0,
    "verdict": "부분(SpaceX 글 없음)",
-   "score": 117.0
+   "score": 109.2
   },
   {
    "domain": "whatsapp.com",
@@ -120,8 +120,8 @@
    ],
    "sample": "https://futureplc.com/future-member-terms-and-conditions/",
    "titles": [
-    "This Week In Space podcast: Episode 237 — A Fond Farewell",
-    "'Star Trek: First Contact' at 30: Resistance is futile when it comes to the 'Next Generati"
+    "SpaceX sends classified US spy satellites to orbit in early-morning launch from California",
+    "This Week In Space podcast: Episode 237 — A Fond Farewell"
    ],
    "robots": "허용",
    "feed": "https://futureplc.com/feed/",
@@ -139,8 +139,8 @@
    ],
    "sample": "https://go.future-advertising.com/Spacecom-Media-Kit.html",
    "titles": [
-    "This Week In Space podcast: Episode 237 — A Fond Farewell",
-    "'Star Trek: First Contact' at 30: Resistance is futile when it comes to the 'Next Generati"
+    "SpaceX sends classified US spy satellites to orbit in early-morning launch from California",
+    "This Week In Space podcast: Episode 237 — A Fond Farewell"
    ],
    "robots": "허용",
    "feed": "https://futureplc.com/feed/",
@@ -251,7 +251,7 @@
    "name": "Hacker News SpaceX",
    "result": "성공",
    "items": 50,
-   "spacex_items": 7
+   "spacex_items": 8
   },
   {
    "name": "Federal Register SpaceX",
@@ -267,9 +267,9 @@
   },
   {
    "name": "NASASpaceflight",
-   "result": "오류: HTTPError",
-   "items": 0,
-   "spacex_items": 0
+   "result": "성공",
+   "items": 10,
+   "spacex_items": 6
   },
   {
    "name": "Spaceflight Now",
@@ -341,7 +341,7 @@
    "name": "NASA",
    "result": "성공",
    "items": 10,
-   "spacex_items": 0
+   "spacex_items": 1
   },
   {
    "name": "US Space Force",
@@ -381,9 +381,9 @@
   },
   {
    "name": "Fierce Network",
-   "result": "robots 거부",
-   "items": 0,
-   "spacex_items": 0
+   "result": "성공",
+   "items": 25,
+   "spacex_items": 1
   },
   {
    "name": "Breaking Defense",
@@ -419,13 +419,13 @@
    "name": "Drive Tesla Canada",
    "result": "성공",
    "items": 10,
-   "spacex_items": 1
+   "spacex_items": 2
   },
   {
    "name": "Tesla Oracle",
    "result": "성공",
    "items": 10,
-   "spacex_items": 8
+   "spacex_items": 7
   },
   {
    "name": "VentureBeat",
@@ -467,26 +467,26 @@
    "name": "Hacker News Starlink",
    "result": "성공",
    "items": 50,
-   "spacex_items": 15
+   "spacex_items": 12
   }
  ],
  "blocked_cited": {
-  "twitter.com": 47,
-  "x.com": 42,
+  "twitter.com": 51,
+  "x.com": 48,
+  "t.co": 15,
   "reddit.com": 13,
-  "t.co": 11,
-  "google.com": 11,
+  "google.com": 10,
   "arstechnica.com": 5,
   "cnbc.com": 4,
-  "reuters.com": 3,
-  "bloomberg.com": 2,
+  "reuters.com": 4,
+  "bloomberg.com": 3,
   "theguardian.com": 2
  },
  "stats": {
-  "requests": 157,
+  "requests": 164,
   "blocked_skipped": 0,
-  "robots_denied": 3,
-  "errors": 8,
+  "robots_denied": 2,
+  "errors": 7,
   "blocked_contacted": 0
  }
 }

@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-11-22T06:44:52+00:00",
- "count_48h": 20,
- "new_this_run": 0,
+ "generated_at": "2026-11-22T19:36:22+00:00",
+ "count_48h": 13,
+ "new_this_run": 3,
  "items": [
   {
    "title": "Self-Regulatory Organizations; 24X National Exchange LLC; Notice of Filing of a Proposed Rule Change To Adopt Rules To Govern the Trading of Options on the Exchange",
@@ -15,6 +15,45 @@
    ],
    "official": true,
    "score": 3
+  },
+  {
+   "title": "65 Years of Human Spaceflight at NASA Johnson",
+   "url": "https://www.nasa.gov/centers-and-facilities/johnson/65-years-of-human-spaceflight-at-nasa-johnson/",
+   "domains": [
+    "nasa.gov"
+   ],
+   "published": "2026-11-22T19:13+00:00",
+   "topics": [
+    "발사·Starship"
+   ],
+   "official": true,
+   "score": 3
+  },
+  {
+   "title": "Drive Tesla Download: Top Stories for November 16-22",
+   "url": "https://driveteslacanada.ca/news/drive-tesla-download-november-16-22/?utm_source=rss&utm_medium=rss&utm_campaign=drive-tesla-download-november-16-22",
+   "domains": [
+    "driveteslacanada.ca"
+   ],
+   "published": "2026-11-22T16:22+00:00",
+   "topics": [
+    "테슬라·머스크"
+   ],
+   "official": false,
+   "score": 1
+  },
+  {
+   "title": "SpaceX sends classified US spy satellites to orbit in early-morning launch from California coast (video)",
+   "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-spy-satellite-launch-nrol-136-proliferated-architecture",
+   "domains": [
+    "space.com"
+   ],
+   "published": "2026-11-22T16:05+00:00",
+   "topics": [
+    "발사·Starship"
+   ],
+   "official": false,
+   "score": 1
   },
   {
    "title": "Live coverage: SpaceX to launch intelligence-gathering satellites for the National Reconnaissance Office",
@@ -132,137 +171,6 @@
    "published": "2026-11-20T19:49+00:00",
    "topics": [
     "기타"
-   ],
-   "official": false,
-   "score": 1
-  },
-  {
-   "title": "Chips can survive the space environment — can their financing?",
-   "url": "https://techcrunch.com/2026/11/20/chips-can-survive-the-space-environment-can-their-financing/",
-   "domains": [
-    "techcrunch.com"
-   ],
-   "published": "2026-11-20T17:40+00:00",
-   "topics": [
-    "기타"
-   ],
-   "official": false,
-   "score": 1
-  },
-  {
-   "title": "SpaceX expresses interest in building data centers in Bulgaria",
-   "url": "https://www.datacenterdynamics.com/en/news/spacex-expresses-interest-in-building-data-centers-in-bulgaria/",
-   "domains": [
-    "datacenterdynamics.com"
-   ],
-   "published": "2026-11-20T15:47+00:00",
-   "topics": [
-    "AI·xAI"
-   ],
-   "official": false,
-   "score": 1
-  },
-  {
-   "title": "ISS astronauts look down on the snow-capped Himalayas | Space photo of the day for Nov. 20, 2026",
-   "url": "https://www.space.com/astronomy/earth/iss-astronauts-look-down-on-the-snow-capped-himalayas-space-photo-of-the-day-for-nov-20-2026",
-   "domains": [
-    "space.com"
-   ],
-   "published": "2026-11-20T15:00+00:00",
-   "topics": [
-    "기타"
-   ],
-   "official": false,
-   "score": 1
-  },
-  {
-   "title": "I got to tour SpaceX's Starfactory facility in Starbase, Texas, and what I saw blew my mind",
-   "url": "https://www.space.com/space-exploration/private-spaceflight/i-got-to-tour-spacexs-starfactory-facility-in-starbase-texas-and-what-i-saw-blew-my-mind",
-   "domains": [
-    "space.com"
-   ],
-   "published": "2026-11-20T13:00+00:00",
-   "topics": [
-    "발사·Starship"
-   ],
-   "official": false,
-   "score": 1
-  },
-  {
-   "title": "5 Interesting Startup Deals You May Have Missed: Reflecting Sunlight From Space, Better Breathing And Smarter Garbage Trucks",
-   "url": "https://news.crunchbase.com/venture/interesting-startup-deals-ai-solar-healthcare-space-tech/",
-   "domains": [
-    "crunchbase.com"
-   ],
-   "published": "2026-11-20T12:00+00:00",
-   "topics": [
-    "기타"
-   ],
-   "official": false,
-   "score": 1
-  },
-  {
-   "title": "Lenders aim to bar SpaceX from launching $40B of chips into orbit",
-   "url": "https://www.ft.com/content/33b5643c-2957-4d42-9116-5e34a3c54e29",
-   "domains": [
-    "ft.com"
-   ],
-   "published": "2026-11-20T11:07+00:00",
-   "topics": [
-    "발사·Starship"
-   ],
-   "official": false,
-   "score": 1
-  },
-  {
-   "title": "SpaceX Dragon cargo capsule heads home to Earth from the ISS",
-   "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-crs-35-dragon-iss-cargo-mission-return-to-earth",
-   "domains": [
-    "space.com"
-   ],
-   "published": "2026-11-20T11:00+00:00",
-   "topics": [
-    "발사·Starship"
-   ],
-   "official": false,
-   "score": 1
-  },
-  {
-   "title": "Tesla update 2026.44.1: hacker discovers transition from AI Computer to Super Intelligence, Grok sync, and more",
-   "url": "https://www.teslaoracle.com/2026/11/20/tesla-update-2026-44-1-hacker-discovers-transition-from-ai-computer-to-super-intelligence-grok-sync-and-more/",
-   "domains": [
-    "teslaoracle.com"
-   ],
-   "published": "2026-11-20T08:20+00:00",
-   "topics": [
-    "AI·xAI",
-    "테슬라·머스크"
-   ],
-   "official": false,
-   "score": 1
-  },
-  {
-   "title": "Telecom veteran bets airships in stratosphere can beat Starlink in space",
-   "url": "https://www.lightreading.com/satellite/telecom-veteran-bets-airships-in-stratosphere-can-beat-starlink-in-space",
-   "domains": [
-    "lightreading.com"
-   ],
-   "published": "2026-11-20T08:00+00:00",
-   "topics": [
-    "Starlink·통신"
-   ],
-   "official": false,
-   "score": 1
-  },
-  {
-   "title": "Danish Soldiers Are Sneaking Starlink Terminals into Greenland",
-   "url": "https://europeanspaceflight.com/danish-soldiers-are-sneaking-starlink-terminals-into-greenland/",
-   "domains": [
-    "europeanspaceflight.com"
-   ],
-   "published": "2026-11-20T07:09+00:00",
-   "topics": [
-    "Starlink·통신"
    ],
    "official": false,
    "score": 1
