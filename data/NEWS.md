@@ -1,24 +1,21 @@
 # SPCX 뉴스 모음 — 최근 48시간
 
-갱신: 2026-11-23 04:36 (한국 시간) · 글 13건 · 교차 확인 = 같은 소식을 낸 사이트 수 · 🏛 = 정부·공식 출처
+갱신: 2026-11-23 16:33 (한국 시간) · 글 13건 · 교차 확인 = 같은 소식을 낸 사이트 수 · 🏛 = 정부·공식 출처
 
-## 정부·규제 (3)
+## 정부·규제 (2)
 
 - 🏛 [Self-Regulatory Organizations; 24X National Exchange LLC; Notice of Filing of a Proposed Rule Change To Adopt Rules To Govern the Trading of Options on the Exchange](https://www.federalregister.gov/documents/2026/11/23/2026-23748/self-regulatory-organizations-24x-national-exchange-llc-notice-of-filing-of-a-proposed-rule-change) — federalregister.gov · 11-23 09:00
 - [Senate gearing up to investigate Ukraine’s access to Starshield](https://breakingdefense.com/2026/11/senate-gearing-up-to-investigate-ukraines-access-to-starshield/) — breakingdefense.com · 11-22 00:06
-- [U.S. Finalizes Spectrum Positions Early for WRC](https://broadbandbreakfast.com/u-s-finalizes-spectrum-positions-early-for-wrc/) — broadbandbreakfast.com · 11-21 06:54
-
-## 국방 (1)
-
-- [SpaceX launches classified mission for US Space Force from California](https://www.space.com/space-exploration/launches-spacecraft/spacex-falcon-9-classified-space-force-launch-ussf-317) — space.com · 11-21 14:28
 
 ## Starlink·통신 (1)
 
 - [Qatar Executive Completes Starlink Wi-Fi Rollout Across its Gulfstream Fleet](https://driveteslacanada.ca/news/qatar-executive-starlink-wifi-gulfstream-fleet/?utm_source=rss&utm_medium=rss&utm_campaign=qatar-executive-starlink-wifi-gulfstream-fleet) — driveteslacanada.ca · 11-22 01:13
 
-## 발사·Starship (5)
+## 발사·Starship (7)
 
 - 🏛 [65 Years of Human Spaceflight at NASA Johnson](https://www.nasa.gov/centers-and-facilities/johnson/65-years-of-human-spaceflight-at-nasa-johnson/) — nasa.gov · 11-23 04:13
+- [Weekly ISS update: Canadarm2 joint heads home aboard Dragon](https://spaceq.ca/weekly-iss-update-canadarm2-part-heads-home-aboard-dragon/) — spaceq.ca · 11-23 14:10
+- [Watch live today: Amazon launching 1st batch of internet satellites since Vulcan Centaur failure](https://www.space.com/space-exploration/launches-spacecraft/arianespace-ariane-6-amazon-leo-internet-satellite-launch) — space.com · 11-23 07:00
 - [SpaceX sends classified US spy satellites to orbit in early-morning launch from California coast (video)](https://www.space.com/space-exploration/launches-spacecraft/spacex-spy-satellite-launch-nrol-136-proliferated-architecture) — space.com · 11-23 01:05
 - [Live coverage: SpaceX to launch intelligence-gathering satellites for the National Reconnaissance Office](https://spaceflightnow.com/2026/11/21/live-coverage-spacex-to-launch-intelligence-gathering-satellites-for-the-national-reconnaissance-office-3/) — spaceflightnow.com · 11-22 01:50
 - ['Star Trek: First Contact' at 30: Resistance is futile when it comes to the 'Next Generation' crew's greatest big-screen adventure](https://www.space.com/entertainment/space-movies-shows/star-trek-first-contact-at-30-resistance-is-futile-when-it-comes-to-the-next-generation-crews-greatest-big-screen-adventure) — space.com · 11-22 00:00
@@ -30,7 +27,7 @@
 
 ## 기타 (2)
 
+- [What’s Happening in Space Policy November 22-29, 2026](https://spacepolicyonline.com/news/whats-happening-in-space-policy-november-22-29-2026/) — spacepolicyonline.com · 11-23 06:50
 - [This Week In Space podcast: Episode 237 — A Fond Farewell](https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-237-a-fond-farewell) — space.com · 11-22 00:15
-- [Following Ship 42’s catch, SpaceX looks to the future](https://www.nasaspaceflight.com/2026/11/ship-42-catch-future/) — nasaspaceflight.com · 11-21 04:49
 
 ※ 제목·링크 모음입니다. 내용 확인과 신뢰도 판정은 봇·사람이 따로 합니다. 정보 제공용이며 투자 자문이 아닙니다.

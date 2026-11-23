@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-22T19:36:22+00:00",
+ "generated_at": "2026-11-23T07:33:59+00:00",
  "signals": {
   "candidates_passed": 0,
-  "candidates_seen_30d": 367,
+  "candidates_seen_30d": 372,
   "feeds_failing_3x": [
    "DoD Contracts",
    "GDELT SpaceX",
@@ -18,7 +18,7 @@
  "top": [
   {
    "domain": "9to5mac.com",
-   "citations": 52,
+   "citations": 56,
    "cited_by": [
     "Electrek SpaceX"
    ],
@@ -33,11 +33,11 @@
    "items_7d": 100,
    "kw_ratio": 0.0,
    "verdict": "부분(SpaceX 글 없음)",
-   "score": 1050.4
+   "score": 1131.2
   },
   {
    "domain": "9to5google.com",
-   "citations": 39,
+   "citations": 42,
    "cited_by": [
     "Electrek SpaceX"
    ],
@@ -52,11 +52,11 @@
    "items_7d": 100,
    "kw_ratio": 0.0,
    "verdict": "부분(SpaceX 글 없음)",
-   "score": 787.8
+   "score": 848.4
   },
   {
    "domain": "9to5toys.com",
-   "citations": 39,
+   "citations": 42,
    "cited_by": [
     "Electrek SpaceX"
    ],
@@ -71,11 +71,11 @@
    "items_7d": 50,
    "kw_ratio": 0.0,
    "verdict": "부분(SpaceX 글 없음)",
-   "score": 397.8
+   "score": 428.4
   },
   {
    "domain": "dronedj.com",
-   "citations": 39,
+   "citations": 42,
    "cited_by": [
     "Electrek SpaceX"
    ],
@@ -90,11 +90,11 @@
    "items_7d": 13,
    "kw_ratio": 0.0,
    "verdict": "부분(SpaceX 글 없음)",
-   "score": 109.2
+   "score": 117.6
   },
   {
    "domain": "whatsapp.com",
-   "citations": 130,
+   "citations": 140,
    "cited_by": [
     "Space Intel Report",
     "Tesla Oracle"
@@ -110,18 +110,18 @@
    "items_7d": 0,
    "kw_ratio": 0.0,
    "verdict": "부분(피드 없음)",
-   "score": 13.0
+   "score": 14.0
   },
   {
    "domain": "futureplc.com",
-   "citations": 60,
+   "citations": 63,
    "cited_by": [
     "Space.com"
    ],
    "sample": "https://futureplc.com/future-member-terms-and-conditions/",
    "titles": [
-    "SpaceX sends classified US spy satellites to orbit in early-morning launch from California",
-    "This Week In Space podcast: Episode 237 — A Fond Farewell"
+    "Watch live today: Amazon launching 1st batch of internet satellites since Vulcan Centaur f",
+    "SpaceX launches 2 rockets from same pad 32 hours apart, smashing turnaround record (video)"
    ],
    "robots": "허용",
    "feed": "https://futureplc.com/feed/",
@@ -129,30 +129,11 @@
    "items_7d": 0,
    "kw_ratio": 0.0,
    "verdict": "부분(날짜·최신성 미달)",
-   "score": 12.0
-  },
-  {
-   "domain": "future-advertising.com",
-   "citations": 39,
-   "cited_by": [
-    "Space.com"
-   ],
-   "sample": "https://go.future-advertising.com/Spacecom-Media-Kit.html",
-   "titles": [
-    "SpaceX sends classified US spy satellites to orbit in early-morning launch from California",
-    "This Week In Space podcast: Episode 237 — A Fond Farewell"
-   ],
-   "robots": "허용",
-   "feed": "https://futureplc.com/feed/",
-   "has_dates": true,
-   "items_7d": 0,
-   "kw_ratio": 0.0,
-   "verdict": "부분(날짜·최신성 미달)",
-   "score": 7.8
+   "score": 12.6
   },
   {
    "domain": "addtoany.com",
-   "citations": 77,
+   "citations": 84,
    "cited_by": [
     "Advanced Television",
     "Data Center Dynamics",
@@ -160,8 +141,8 @@
    ],
    "sample": "https://www.addtoany.com/add_to/facebook?linkurl=https%3A%2F%2Fwww.advanced-television.com%2F2026%2F11%2F09%2Fviasat-our-new-satellites-will-drive-broadband%2F&linkname=Viasat%3A%20%E2%80%9COur%20new%20satellites%20will%20drive%20broadband%E2%80%9D",
    "titles": [
-    "Senate Appropriators Release $1.072 Trillion Defense Bill",
-    "What’s Happening in Space Policy November 15-21, 2026"
+    "What’s Happening in Space Policy November 22-29, 2026",
+    "Senate Appropriators Release $1.072 Trillion Defense Bill"
    ],
    "robots": "허용",
    "feed": "",
@@ -169,11 +150,30 @@
    "items_7d": 0,
    "kw_ratio": 0.0,
    "verdict": "부분(피드 없음)",
-   "score": 7.7
+   "score": 8.4
+  },
+  {
+   "domain": "future-advertising.com",
+   "citations": 42,
+   "cited_by": [
+    "Space.com"
+   ],
+   "sample": "https://go.future-advertising.com/Spacecom-Media-Kit.html",
+   "titles": [
+    "Watch live today: Amazon launching 1st batch of internet satellites since Vulcan Centaur f",
+    "SpaceX launches 2 rockets from same pad 32 hours apart, smashing turnaround record (video)"
+   ],
+   "robots": "허용",
+   "feed": "https://futureplc.com/feed/",
+   "has_dates": true,
+   "items_7d": 0,
+   "kw_ratio": 0.0,
+   "verdict": "부분(날짜·최신성 미달)",
+   "score": 8.4
   },
   {
    "domain": "hubspot.com",
-   "citations": 50,
+   "citations": 51,
    "cited_by": [
     "Broadband Breakfast"
    ],
@@ -188,11 +188,11 @@
    "items_7d": 0,
    "kw_ratio": 0.0,
    "verdict": "부분(피드 없음)",
-   "score": 5.0
+   "score": 5.1
   },
   {
    "domain": "apple.news",
-   "citations": 39,
+   "citations": 42,
    "cited_by": [
     "Electrek SpaceX"
    ],
@@ -207,7 +207,7 @@
    "items_7d": 0,
    "kw_ratio": 0.0,
    "verdict": "부분(피드 없음)",
-   "score": 3.9
+   "score": 4.2
   }
  ],
  "seeds": [
@@ -239,7 +239,7 @@
    "name": "Space.com",
    "result": "성공",
    "items": 50,
-   "spacex_items": 14
+   "spacex_items": 15
   },
   {
    "name": "Advanced Television",
@@ -251,7 +251,7 @@
    "name": "Hacker News SpaceX",
    "result": "성공",
    "items": 50,
-   "spacex_items": 8
+   "spacex_items": 10
   },
   {
    "name": "Federal Register SpaceX",
@@ -269,7 +269,7 @@
    "name": "NASASpaceflight",
    "result": "성공",
    "items": 10,
-   "spacex_items": 6
+   "spacex_items": 5
   },
   {
    "name": "Spaceflight Now",
@@ -281,7 +281,7 @@
    "name": "SpacePolicyOnline",
    "result": "성공",
    "items": 10,
-   "spacex_items": 5
+   "spacex_items": 6
   },
   {
    "name": "Payload",
@@ -323,7 +323,7 @@
    "name": "SpaceQ",
    "result": "성공",
    "items": 10,
-   "spacex_items": 0
+   "spacex_items": 1
   },
   {
    "name": "Spaceflight Insider",
@@ -412,8 +412,8 @@
   {
    "name": "The War Zone",
    "result": "성공",
-   "items": 41,
-   "spacex_items": 4
+   "items": 34,
+   "spacex_items": 3
   },
   {
    "name": "Drive Tesla Canada",
@@ -467,26 +467,26 @@
    "name": "Hacker News Starlink",
    "result": "성공",
    "items": 50,
-   "spacex_items": 12
+   "spacex_items": 14
   }
  ],
  "blocked_cited": {
-  "twitter.com": 51,
-  "x.com": 48,
-  "t.co": 15,
+  "twitter.com": 52,
+  "x.com": 49,
   "reddit.com": 13,
+  "t.co": 13,
   "google.com": 10,
   "arstechnica.com": 5,
   "cnbc.com": 4,
-  "reuters.com": 4,
-  "bloomberg.com": 3,
+  "bloomberg.com": 4,
+  "reuters.com": 3,
   "theguardian.com": 2
  },
  "stats": {
-  "requests": 164,
+  "requests": 165,
   "blocked_skipped": 0,
   "robots_denied": 2,
-  "errors": 7,
+  "errors": 6,
   "blocked_contacted": 0
  }
 }
