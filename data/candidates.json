@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-23T07:33:59+00:00",
+ "generated_at": "2026-11-23T23:51:33+00:00",
  "signals": {
   "candidates_passed": 0,
-  "candidates_seen_30d": 372,
+  "candidates_seen_30d": 384,
   "feeds_failing_3x": [
    "DoD Contracts",
    "GDELT SpaceX",
@@ -87,10 +87,29 @@
    "robots": "허용",
    "feed": "https://dronedj.com/feed/",
    "has_dates": true,
-   "items_7d": 13,
+   "items_7d": 15,
    "kw_ratio": 0.0,
    "verdict": "부분(SpaceX 글 없음)",
-   "score": 117.6
+   "score": 134.4
+  },
+  {
+   "domain": "hubspot.com",
+   "citations": 51,
+   "cited_by": [
+    "Broadband Breakfast"
+   ],
+   "sample": "https://payments-na1.hubspot.com/payments/7TyXGqH4bm?referrer=PAYMENT_LINK&ref=broadbandbreakfast.com",
+   "titles": [
+    "U.S. Finalizes Spectrum Positions Early for WRC",
+    "U.S. Finalizes Spectrum Positions Early for WRC"
+   ],
+   "robots": "허용",
+   "feed": "https://hubspot.com/feed/",
+   "has_dates": true,
+   "items_7d": 4,
+   "kw_ratio": 0.0,
+   "verdict": "부분(SpaceX 글 없음)",
+   "score": 51.0
   },
   {
    "domain": "whatsapp.com",
@@ -120,8 +139,8 @@
    ],
    "sample": "https://futureplc.com/future-member-terms-and-conditions/",
    "titles": [
-    "Watch live today: Amazon launching 1st batch of internet satellites since Vulcan Centaur f",
-    "SpaceX launches 2 rockets from same pad 32 hours apart, smashing turnaround record (video)"
+    "On this day in space! Nov. 23, 2015: Blue Origin sticks 1st-ever rocket landing from space",
+    "Ariane 6 rocket launching 36 Amazon Leo satellites to orbit on Nov. 24 after delay: Watch "
    ],
    "robots": "허용",
    "feed": "https://futureplc.com/feed/",
@@ -133,7 +152,7 @@
   },
   {
    "domain": "addtoany.com",
-   "citations": 84,
+   "citations": 86,
    "cited_by": [
     "Advanced Television",
     "Data Center Dynamics",
@@ -141,8 +160,8 @@
    ],
    "sample": "https://www.addtoany.com/add_to/facebook?linkurl=https%3A%2F%2Fwww.advanced-television.com%2F2026%2F11%2F09%2Fviasat-our-new-satellites-will-drive-broadband%2F&linkname=Viasat%3A%20%E2%80%9COur%20new%20satellites%20will%20drive%20broadband%E2%80%9D",
    "titles": [
-    "What’s Happening in Space Policy November 22-29, 2026",
-    "Senate Appropriators Release $1.072 Trillion Defense Bill"
+    "SpaceX future funding threat from Democrats",
+    "Philippines wants SpaceX launches"
    ],
    "robots": "허용",
    "feed": "",
@@ -150,7 +169,7 @@
    "items_7d": 0,
    "kw_ratio": 0.0,
    "verdict": "부분(피드 없음)",
-   "score": 8.4
+   "score": 8.6
   },
   {
    "domain": "future-advertising.com",
@@ -160,8 +179,8 @@
    ],
    "sample": "https://go.future-advertising.com/Spacecom-Media-Kit.html",
    "titles": [
-    "Watch live today: Amazon launching 1st batch of internet satellites since Vulcan Centaur f",
-    "SpaceX launches 2 rockets from same pad 32 hours apart, smashing turnaround record (video)"
+    "On this day in space! Nov. 23, 2015: Blue Origin sticks 1st-ever rocket landing from space",
+    "Ariane 6 rocket launching 36 Amazon Leo satellites to orbit on Nov. 24 after delay: Watch "
    ],
    "robots": "허용",
    "feed": "https://futureplc.com/feed/",
@@ -170,25 +189,6 @@
    "kw_ratio": 0.0,
    "verdict": "부분(날짜·최신성 미달)",
    "score": 8.4
-  },
-  {
-   "domain": "hubspot.com",
-   "citations": 51,
-   "cited_by": [
-    "Broadband Breakfast"
-   ],
-   "sample": "https://payments-na1.hubspot.com/payments/7TyXGqH4bm?referrer=PAYMENT_LINK&ref=broadbandbreakfast.com",
-   "titles": [
-    "U.S. Finalizes Spectrum Positions Early for WRC",
-    "U.S. Finalizes Spectrum Positions Early for WRC"
-   ],
-   "robots": "허용",
-   "feed": "",
-   "has_dates": false,
-   "items_7d": 0,
-   "kw_ratio": 0.0,
-   "verdict": "부분(피드 없음)",
-   "score": 5.1
   },
   {
    "domain": "apple.news",
@@ -233,25 +233,25 @@
    "name": "CBS News Technology",
    "result": "성공",
    "items": 30,
-   "spacex_items": 4
+   "spacex_items": 3
   },
   {
    "name": "Space.com",
    "result": "성공",
    "items": 50,
-   "spacex_items": 15
+   "spacex_items": 12
   },
   {
    "name": "Advanced Television",
    "result": "성공",
    "items": 10,
-   "spacex_items": 0
+   "spacex_items": 2
   },
   {
    "name": "Hacker News SpaceX",
    "result": "성공",
    "items": 50,
-   "spacex_items": 10
+   "spacex_items": 13
   },
   {
    "name": "Federal Register SpaceX",
@@ -262,20 +262,20 @@
   {
    "name": "SpaceNews",
    "result": "성공",
-   "items": 16,
+   "items": 15,
    "spacex_items": 0
   },
   {
    "name": "NASASpaceflight",
    "result": "성공",
    "items": 10,
-   "spacex_items": 5
+   "spacex_items": 6
   },
   {
    "name": "Spaceflight Now",
    "result": "성공",
    "items": 10,
-   "spacex_items": 8
+   "spacex_items": 9
   },
   {
    "name": "SpacePolicyOnline",
@@ -287,7 +287,7 @@
    "name": "Payload",
    "result": "성공",
    "items": 13,
-   "spacex_items": 3
+   "spacex_items": 2
   },
   {
    "name": "Universe Today",
@@ -299,19 +299,19 @@
    "name": "Via Satellite",
    "result": "성공",
    "items": 10,
-   "spacex_items": 1
+   "spacex_items": 2
   },
   {
    "name": "European Spaceflight",
    "result": "성공",
    "items": 10,
-   "spacex_items": 2
+   "spacex_items": 3
   },
   {
    "name": "Space Intel Report",
    "result": "성공",
    "items": 10,
-   "spacex_items": 3
+   "spacex_items": 2
   },
   {
    "name": "Orbital Today",
@@ -334,8 +334,8 @@
   {
    "name": "Everyday Astronaut",
    "result": "성공",
-   "items": 10,
-   "spacex_items": 10
+   "items": 0,
+   "spacex_items": 0
   },
   {
    "name": "NASA",
@@ -365,13 +365,13 @@
    "name": "Broadband Breakfast",
    "result": "성공",
    "items": 15,
-   "spacex_items": 1
+   "spacex_items": 2
   },
   {
    "name": "Light Reading",
    "result": "성공",
    "items": 50,
-   "spacex_items": 5
+   "spacex_items": 7
   },
   {
    "name": "RCR Wireless",
@@ -401,7 +401,7 @@
    "name": "Air & Space Forces",
    "result": "성공",
    "items": 9,
-   "spacex_items": 1
+   "spacex_items": 2
   },
   {
    "name": "Defense News",
@@ -412,14 +412,14 @@
   {
    "name": "The War Zone",
    "result": "성공",
-   "items": 34,
+   "items": 33,
    "spacex_items": 3
   },
   {
    "name": "Drive Tesla Canada",
    "result": "성공",
    "items": 10,
-   "spacex_items": 2
+   "spacex_items": 5
   },
   {
    "name": "Tesla Oracle",
@@ -437,7 +437,7 @@
    "name": "The Decoder",
    "result": "성공",
    "items": 10,
-   "spacex_items": 0
+   "spacex_items": 1
   },
   {
    "name": "Data Center Dynamics",
@@ -449,7 +449,7 @@
    "name": "Crunchbase News",
    "result": "성공",
    "items": 10,
-   "spacex_items": 3
+   "spacex_items": 4
   },
   {
    "name": "GDELT SpaceX",
@@ -467,26 +467,26 @@
    "name": "Hacker News Starlink",
    "result": "성공",
    "items": 50,
-   "spacex_items": 14
+   "spacex_items": 27
   }
  ],
  "blocked_cited": {
+  "x.com": 56,
   "twitter.com": 52,
-  "x.com": 49,
-  "reddit.com": 13,
-  "t.co": 13,
+  "t.co": 16,
+  "reddit.com": 15,
   "google.com": 10,
-  "arstechnica.com": 5,
+  "arstechnica.com": 8,
+  "bloomberg.com": 6,
   "cnbc.com": 4,
-  "bloomberg.com": 4,
-  "reuters.com": 3,
-  "theguardian.com": 2
+  "reuters.com": 4,
+  "theguardian.com": 3
  },
  "stats": {
-  "requests": 165,
+  "requests": 168,
   "blocked_skipped": 0,
   "robots_denied": 2,
-  "errors": 6,
+  "errors": 7,
   "blocked_contacted": 0
  }
 }
