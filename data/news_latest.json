@@ -1,8 +1,21 @@
 {
- "generated_at": "2026-11-24T09:51:25+00:00",
- "count_48h": 37,
- "new_this_run": 3,
+ "generated_at": "2026-11-24T22:24:41+00:00",
+ "count_48h": 45,
+ "new_this_run": 13,
  "items": [
+  {
+   "title": "NASA’s Northrop Grumman CRS-25 Mission Overview",
+   "url": "https://www.nasa.gov/missions/station/nasas-northrop-grumman-crs-25-mission-overview/",
+   "domains": [
+    "nasa.gov"
+   ],
+   "published": "2026-11-24T19:09+00:00",
+   "topics": [
+    "기타"
+   ],
+   "official": true,
+   "score": 3
+  },
   {
    "title": "Self-Regulatory Organizations; 24X National Exchange LLC; Notice of Filing of a Proposed Rule Change To Adopt Rules To Govern the Trading of Options on the Exchange",
    "url": "https://www.federalregister.gov/documents/2026/11/23/2026-23748/self-regulatory-organizations-24x-national-exchange-llc-notice-of-filing-of-a-proposed-rule-change",
@@ -17,17 +30,162 @@
    "score": 3
   },
   {
-   "title": "65 Years of Human Spaceflight at NASA Johnson",
-   "url": "https://www.nasa.gov/centers-and-facilities/johnson/65-years-of-human-spaceflight-at-nasa-johnson/",
+   "title": "'Blade Runner 2099' executive producers talk architectural easter eggs and franchise continuity for Prime Video's new sci-fi series (interview)",
+   "url": "https://www.space.com/entertainment/blade-runner-2099-executive-producers-talk-architectural-easter-eggs-and-franchise-continuity-for-prime-videos-new-sci-fi-series-interview",
    "domains": [
-    "nasa.gov"
+    "space.com"
    ],
-   "published": "2026-11-22T19:13+00:00",
+   "published": "2026-11-24T21:00+00:00",
+   "topics": [
+    "기타"
+   ],
+   "official": false,
+   "score": 1
+  },
+  {
+   "title": "NTIA, SpaceX agreement 'undermines' goal of BEAD – FBA",
+   "url": "https://www.lightreading.com/broadband/ntia-spacex-agreement-undermines-goal-of-bead-fba",
+   "domains": [
+    "lightreading.com"
+   ],
+   "published": "2026-11-24T19:58+00:00",
+   "topics": [
+    "기타"
+   ],
+   "official": false,
+   "score": 1
+  },
+  {
+   "title": "Tesla's Unsupervised FSD future likely to bring Starlink to every model",
+   "url": "https://www.teslarati.com/tesla-starlink-built-in-ai5/",
+   "domains": [
+    "teslarati.com"
+   ],
+   "published": "2026-11-24T16:37+00:00",
+   "topics": [
+    "Starlink·통신",
+    "테슬라·머스크"
+   ],
+   "official": false,
+   "score": 1
+  },
+  {
+   "title": "Why Mega-Constellations Have a Hidden Space Junk Blind Spot",
+   "url": "https://www.universetoday.com/articles/why-mega-constellations-have-a-hidden-space-junk-blind-spot",
+   "domains": [
+    "universetoday.com"
+   ],
+   "published": "2026-11-24T15:43+00:00",
+   "topics": [
+    "기타"
+   ],
+   "official": false,
+   "score": 1
+  },
+  {
+   "title": "Starlink Giving Up All BEAD Money But Keeping Locations in States That Embrace NTIA’s New Contract Model",
+   "url": "https://broadbandbreakfast.com/starlink-giving-up-all-bead-money-but-keeping-locations-in-states-that-embrace-ntias-new-contract-model/",
+   "domains": [
+    "broadbandbreakfast.com"
+   ],
+   "published": "2026-11-24T15:07+00:00",
+   "topics": [
+    "Starlink·통신"
+   ],
+   "official": false,
+   "score": 1
+  },
+  {
+   "title": "Tesla and SpaceX Appoint Five Directors to Lead Merger Talks: Report",
+   "url": "https://driveteslacanada.ca/news/tesla-spacex-merger-committees/?utm_source=rss&utm_medium=rss&utm_campaign=tesla-spacex-merger-committees",
+   "domains": [
+    "driveteslacanada.ca"
+   ],
+   "published": "2026-11-24T14:44+00:00",
+   "topics": [
+    "테슬라·머스크"
+   ],
+   "official": false,
+   "score": 1
+  },
+  {
+   "title": "Tesla (TSLA), SpaceX race for year-end merger deal before new Congress",
+   "url": "https://electrek.co/2026/11/24/tesla-spacex-merger-year-end-deadline-new-congress/",
+   "domains": [
+    "electrek.co"
+   ],
+   "published": "2026-11-24T14:43+00:00",
+   "topics": [
+    "정부·규제",
+    "테슬라·머스크"
+   ],
+   "official": false,
+   "score": 1
+  },
+  {
+   "title": "TSMC files application for proposed 2nm chip fab in Brazos County, Texas",
+   "url": "https://www.datacenterdynamics.com/en/news/tsmc-files-application-for-proposed-2nm-chip-fab-in-brazos-county-texas/",
+   "domains": [
+    "datacenterdynamics.com"
+   ],
+   "published": "2026-11-24T14:10+00:00",
+   "topics": [
+    "기타"
+   ],
+   "official": false,
+   "score": 1
+  },
+  {
+   "title": "Quantum Space Goes Public as SPACs Return",
+   "url": "https://payloadspace.com/quantum-space-goes-public-as-spacs-return/",
+   "domains": [
+    "payloadspace.com"
+   ],
+   "published": "2026-11-24T13:55+00:00",
+   "topics": [
+    "기타"
+   ],
+   "official": false,
+   "score": 1
+  },
+  {
+   "title": "Russia launches Progress 97 cargo ship to the International Space Station (video)",
+   "url": "https://www.space.com/space-exploration/international-space-station/russia-progress-97-cargo-launch-international-space-station",
+   "domains": [
+    "space.com"
+   ],
+   "published": "2026-11-24T13:16+00:00",
    "topics": [
     "발사·Starship"
    ],
-   "official": true,
-   "score": 3
+   "official": false,
+   "score": 1
+  },
+  {
+   "title": "Elon Musk says SpaceX and Tesla exploring largest merger in history",
+   "url": "https://www.aljazeera.com/economy/2026/10/21/elon-musk-says-spacex-and-tesla-exploring-largest-merger-in",
+   "domains": [
+    "aljazeera.com"
+   ],
+   "published": "2026-11-24T12:33+00:00",
+   "topics": [
+    "테슬라·머스크"
+   ],
+   "official": false,
+   "score": 1
+  },
+  {
+   "title": "Why Amazon's Rival to Starlink Is Struggling to Catch Up With SpaceX",
+   "url": "https://www.wsj.com/tech/amazon-leo-starlink-rival-5bb0e6a0",
+   "domains": [
+    "wsj.com"
+   ],
+   "published": "2026-11-24T10:30+00:00",
+   "topics": [
+    "Starlink·통신"
+   ],
+   "official": false,
+   "score": 1
   },
   {
    "title": "FSD v15’s ‘Tesla Reality View’ AI driving visualizations are actually mind-bending (videos)",
@@ -369,123 +527,6 @@
    "published": "2026-11-23T14:00+00:00",
    "topics": [
     "Starlink·통신"
-   ],
-   "official": false,
-   "score": 1
-  },
-  {
-   "title": "Most Unicorns Are Worth More Than Their Last Funding-Round Valuations, Crunchbase Estimates",
-   "url": "https://news.crunchbase.com/venture/unicorn-startup-current-valuations-thinking-machines-sierra-crunchbase/",
-   "domains": [
-    "crunchbase.com"
-   ],
-   "published": "2026-11-23T12:00+00:00",
-   "topics": [
-    "금융·IPO"
-   ],
-   "official": false,
-   "score": 1
-  },
-  {
-   "title": "Kyivstar open to more D2D partners beyond Starlink",
-   "url": "https://www.lightreading.com/satellite/kyivstar-open-to-more-d2d-partners-but-currently-sees-no-starlink-alternative",
-   "domains": [
-    "lightreading.com"
-   ],
-   "published": "2026-11-23T10:30+00:00",
-   "topics": [
-    "Starlink·통신"
-   ],
-   "official": false,
-   "score": 1
-  },
-  {
-   "title": "Weekly ISS update: Canadarm2 joint heads home aboard Dragon",
-   "url": "https://spaceq.ca/weekly-iss-update-canadarm2-part-heads-home-aboard-dragon/",
-   "domains": [
-    "spaceq.ca"
-   ],
-   "published": "2026-11-23T05:10+00:00",
-   "topics": [
-    "발사·Starship"
-   ],
-   "official": false,
-   "score": 1
-  },
-  {
-   "title": "SpaceX future funding threat from Democrats",
-   "url": "https://www.advanced-television.com/2026/11/23/spacex-future-funding-threat-from-democrats/",
-   "domains": [
-    "advanced-television.com"
-   ],
-   "published": "2026-11-23T01:06+00:00",
-   "topics": [
-    "금융·IPO"
-   ],
-   "official": false,
-   "score": 1
-  },
-  {
-   "title": "Philippines wants SpaceX launches",
-   "url": "https://www.advanced-television.com/2026/11/23/philippines-wants-spacex-launches/",
-   "domains": [
-    "advanced-television.com"
-   ],
-   "published": "2026-11-23T00:38+00:00",
-   "topics": [
-    "발사·Starship"
-   ],
-   "official": false,
-   "score": 1
-  },
-  {
-   "title": "Watch live today: Amazon launching 1st batch of internet satellites since Vulcan Centaur failure",
-   "url": "https://www.space.com/space-exploration/launches-spacecraft/arianespace-ariane-6-amazon-leo-internet-satellite-launch",
-   "domains": [
-    "space.com"
-   ],
-   "published": "2026-11-22T22:00+00:00",
-   "topics": [
-    "발사·Starship"
-   ],
-   "official": false,
-   "score": 1
-  },
-  {
-   "title": "What’s Happening in Space Policy November 22-29, 2026",
-   "url": "https://spacepolicyonline.com/news/whats-happening-in-space-policy-november-22-29-2026/",
-   "domains": [
-    "spacepolicyonline.com"
-   ],
-   "published": "2026-11-22T21:50+00:00",
-   "topics": [
-    "기타"
-   ],
-   "official": false,
-   "score": 1
-  },
-  {
-   "title": "Drive Tesla Download: Top Stories for November 16-22",
-   "url": "https://driveteslacanada.ca/news/drive-tesla-download-november-16-22/?utm_source=rss&utm_medium=rss&utm_campaign=drive-tesla-download-november-16-22",
-   "domains": [
-    "driveteslacanada.ca"
-   ],
-   "published": "2026-11-22T16:22+00:00",
-   "topics": [
-    "테슬라·머스크"
-   ],
-   "official": false,
-   "score": 1
-  },
-  {
-   "title": "SpaceX sends classified US spy satellites to orbit in early-morning launch from California coast (video)",
-   "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-spy-satellite-launch-nrol-136-proliferated-architecture",
-   "domains": [
-    "space.com"
-   ],
-   "published": "2026-11-22T16:05+00:00",
-   "topics": [
-    "발사·Starship"
    ],
    "official": false,
    "score": 1

@@ -1,15 +1,16 @@
 # SPCX 뉴스 모음 — 최근 48시간
 
-갱신: 2026-11-24 18:51 (한국 시간) · 글 37건 · 교차 확인 = 같은 소식을 낸 사이트 수 · 🏛 = 정부·공식 출처
+갱신: 2026-11-25 07:24 (한국 시간) · 글 45건 · 교차 확인 = 같은 소식을 낸 사이트 수 · 🏛 = 정부·공식 출처
 
 ## 금융·IPO (2)
 
 - [Most Unicorns Are Worth More Than Their Last Funding-Round Valuations, Crunchbase Estimates](https://news.crunchbase.com/venture/unicorn-startup-current-valuations-thinking-machines-sierra-crunchbase/) — crunchbase.com · 11-23 21:00
 - [SpaceX future funding threat from Democrats](https://www.advanced-television.com/2026/11/23/spacex-future-funding-threat-from-democrats/) — advanced-television.com · 11-23 10:06
 
-## 정부·규제 (3)
+## 정부·규제 (4)
 
 - 🏛 [Self-Regulatory Organizations; 24X National Exchange LLC; Notice of Filing of a Proposed Rule Change To Adopt Rules To Govern the Trading of Options on the Exchange](https://www.federalregister.gov/documents/2026/11/23/2026-23748/self-regulatory-organizations-24x-national-exchange-llc-notice-of-filing-of-a-proposed-rule-change) — federalregister.gov · 11-23 09:00
+- [Tesla (TSLA), SpaceX race for year-end merger deal before new Congress](https://electrek.co/2026/11/24/tesla-spacex-merger-year-end-deadline-new-congress/) — electrek.co · 11-24 23:43
 - [‘Spectrum is Power,’ Europe Eyes Place in D2D Race](https://www.satellitetoday.com/connectivity/2026/11/23/spectrum-is-power-europe-eyes-place-in-d2d-race/) — satellitetoday.com · 11-24 06:28
 - [FCC Backs AT&T in Regulatory Battle with California over Aging Copper Networks](https://broadbandbreakfast.com/fcc-backs-at-t-in-regulatory-battle-with-california-over-aging-copper-networks/) — broadbandbreakfast.com · 11-23 23:01
 
@@ -28,8 +29,11 @@
 - [Tesla and SpaceXAI CEO Elon Musk reacts to Jensen Huang’s NVIDIA return](https://www.teslarati.com/tesla-spacexai-ceo-elon-musk-reacts-jensen-huangs-nvidia-return/) — teslarati.com · 11-24 01:35
 - [States Sue SpaceX Over Grok Deepfakes](https://www.wired.com/story/states-sue-spacex-over-grok-deepfakes/) — wired.com · 11-23 23:59
 
-## Starlink·통신 (6)
+## Starlink·통신 (9)
 
+- [Tesla's Unsupervised FSD future likely to bring Starlink to every model](https://www.teslarati.com/tesla-starlink-built-in-ai5/) — teslarati.com · 11-25 01:37
+- [Starlink Giving Up All BEAD Money But Keeping Locations in States That Embrace NTIA’s New Contract Model](https://broadbandbreakfast.com/starlink-giving-up-all-bead-money-but-keeping-locations-in-states-that-embrace-ntias-new-contract-model/) — broadbandbreakfast.com · 11-25 00:07
+- [Why Amazon's Rival to Starlink Is Struggling to Catch Up With SpaceX](https://www.wsj.com/tech/amazon-leo-starlink-rival-5bb0e6a0) — wsj.com · 11-24 19:30
 - [Aer Lingus Begins Free Starlink Wi-Fi Rollout on European Flights](https://driveteslacanada.ca/news/aer-lingus-starlink-short-haul/?utm_source=rss&utm_medium=rss&utm_campaign=aer-lingus-starlink-short-haul) — driveteslacanada.ca · 11-24 04:35
 - [Starlink Offers Free Residential Services to Florida Flood Victims Through December 20](https://driveteslacanada.ca/news/starlink-offers-free-residential-services-to-florida-flood-victims-through-december-20/?utm_source=rss&utm_medium=rss&utm_campaign=starlink-offers-free-residential-services-to-florida-flood-victims-through-december-20) — driveteslacanada.ca · 11-24 01:04
 - [Colombia files charges against Starlink over prison signals](https://www.upi.com/Top_News/World-News/2026/11/23/latam-colombia-starlink-prison-signals/5851795443163/) — upi.com · 11-24 01:01
@@ -37,9 +41,9 @@
 - [Most new Starlink subs can score better deals under dynamic pricing model – Navi](https://www.lightreading.com/satellite/most-new-starlink-subs-can-score-better-deals-under-dynamic-pricing-model-navi) — lightreading.com · 11-23 23:00
 - [Kyivstar open to more D2D partners beyond Starlink](https://www.lightreading.com/satellite/kyivstar-open-to-more-d2d-partners-but-currently-sees-no-starlink-alternative) — lightreading.com · 11-23 19:30
 
-## 발사·Starship (11)
+## 발사·Starship (9)
 
-- 🏛 [65 Years of Human Spaceflight at NASA Johnson](https://www.nasa.gov/centers-and-facilities/johnson/65-years-of-human-spaceflight-at-nasa-johnson/) — nasa.gov · 11-23 04:13
+- [Russia launches Progress 97 cargo ship to the International Space Station (video)](https://www.space.com/space-exploration/international-space-station/russia-progress-97-cargo-launch-international-space-station) — space.com · 11-24 22:16
 - [Northrop books sixth Falcon 9 for Cygnus as Antares 330 waits](https://www.nasaspaceflight.com/2026/11/northrop-sixth-f9-cygnus-antares-waits/) — nasaspaceflight.com · 11-24 08:28
 - [3 Launches in 2 Weeks: Space Data Network ‘Backbone’ Takes Shape](https://www.airandspaceforces.com/space-force-data-network-backbone-takes-shape/) — airandspaceforces.com · 11-24 07:24
 - [Live coverage: Arianespace to launch Amazon Leo sats amid rocket crunch](https://spaceflightnow.com/2026/11/23/live-coverage-arianespaces-launches-amazon-leo-sats-amid-rocket-crunch/) — spaceflightnow.com · 11-24 07:14
@@ -48,19 +52,23 @@
 - [On this day in space! Nov. 23, 2015: Blue Origin sticks 1st-ever rocket landing from space with its suborbital New Shepard rocket](https://www.space.com/space-exploration/on-this-day-in-space-november-23-2026) — space.com · 11-24 03:10
 - [Weekly ISS update: Canadarm2 joint heads home aboard Dragon](https://spaceq.ca/weekly-iss-update-canadarm2-part-heads-home-aboard-dragon/) — spaceq.ca · 11-23 14:10
 - [Philippines wants SpaceX launches](https://www.advanced-television.com/2026/11/23/philippines-wants-spacex-launches/) — advanced-television.com · 11-23 09:38
-- [Watch live today: Amazon launching 1st batch of internet satellites since Vulcan Centaur failure](https://www.space.com/space-exploration/launches-spacecraft/arianespace-ariane-6-amazon-leo-internet-satellite-launch) — space.com · 11-23 07:00
-- [SpaceX sends classified US spy satellites to orbit in early-morning launch from California coast (video)](https://www.space.com/space-exploration/launches-spacecraft/spacex-spy-satellite-launch-nrol-136-proliferated-architecture) — space.com · 11-23 01:05
 
-## 테슬라·머스크 (3)
+## 테슬라·머스크 (4)
 
+- [Tesla and SpaceX Appoint Five Directors to Lead Merger Talks: Report](https://driveteslacanada.ca/news/tesla-spacex-merger-committees/?utm_source=rss&utm_medium=rss&utm_campaign=tesla-spacex-merger-committees) — driveteslacanada.ca · 11-24 23:44
+- [Elon Musk says SpaceX and Tesla exploring largest merger in history](https://www.aljazeera.com/economy/2026/10/21/elon-musk-says-spacex-and-tesla-exploring-largest-merger-in) — aljazeera.com · 11-24 21:33
 - [Elon Musk Faces an A.I. Dilemma at SpaceX](https://www.nytimes.com/2026/11/23/business/elon-musk-ai-anthropic-google.html) — nytimes.com · 11-24 03:52
 - [Tesla Confirms Cybercab Is Designed for Highway Driving Up to 85 MPH](https://driveteslacanada.ca/news/tesla-cybercab-first-responder-plan-v1-3/?utm_source=rss&utm_medium=rss&utm_campaign=tesla-cybercab-first-responder-plan-v1-3) — driveteslacanada.ca · 11-24 00:21
-- [Drive Tesla Download: Top Stories for November 16-22](https://driveteslacanada.ca/news/drive-tesla-download-november-16-22/?utm_source=rss&utm_medium=rss&utm_campaign=drive-tesla-download-november-16-22) — driveteslacanada.ca · 11-23 01:22
 
-## 기타 (3)
+## 기타 (8)
 
+- 🏛 [NASA’s Northrop Grumman CRS-25 Mission Overview](https://www.nasa.gov/missions/station/nasas-northrop-grumman-crs-25-mission-overview/) — nasa.gov · 11-25 04:09
+- ['Blade Runner 2099' executive producers talk architectural easter eggs and franchise continuity for Prime Video's new sci-fi series (interview)](https://www.space.com/entertainment/blade-runner-2099-executive-producers-talk-architectural-easter-eggs-and-franchise-continuity-for-prime-videos-new-sci-fi-series-interview) — space.com · 11-25 06:00
+- [NTIA, SpaceX agreement 'undermines' goal of BEAD – FBA](https://www.lightreading.com/broadband/ntia-spacex-agreement-undermines-goal-of-bead-fba) — lightreading.com · 11-25 04:58
+- [Why Mega-Constellations Have a Hidden Space Junk Blind Spot](https://www.universetoday.com/articles/why-mega-constellations-have-a-hidden-space-junk-blind-spot) — universetoday.com · 11-25 00:43
+- [TSMC files application for proposed 2nm chip fab in Brazos County, Texas](https://www.datacenterdynamics.com/en/news/tsmc-files-application-for-proposed-2nm-chip-fab-in-brazos-county-texas/) — datacenterdynamics.com · 11-24 23:10
+- [Quantum Space Goes Public as SPACs Return](https://payloadspace.com/quantum-space-goes-public-as-spacs-return/) — payloadspace.com · 11-24 22:55
 - [SpaceX Declines Bead Winnings, Wants to Serve Locations at No Cost](https://broadbandbreakfast.com/spacex-declines-bead-winnings-wants-to-serve-locations-at-no-cost/) — broadbandbreakfast.com · 11-24 09:41
 - [As it happened: NG-25 preview news teleconference](https://spaceflightnow.com/2026/11/23/as-it-happened-ng-25-preview-news-teleconference/) — spaceflightnow.com · 11-24 03:00
-- [What’s Happening in Space Policy November 22-29, 2026](https://spacepolicyonline.com/news/whats-happening-in-space-policy-november-22-29-2026/) — spacepolicyonline.com · 11-23 06:50
 
 ※ 제목·링크 모음입니다. 내용 확인과 신뢰도 판정은 봇·사람이 따로 합니다. 정보 제공용이며 투자 자문이 아닙니다.

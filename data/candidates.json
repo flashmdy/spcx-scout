@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-24T09:51:25+00:00",
+ "generated_at": "2026-11-24T22:24:41+00:00",
  "signals": {
   "candidates_passed": 0,
-  "candidates_seen_30d": 386,
+  "candidates_seen_30d": 392,
   "feeds_failing_3x": [
    "DoD Contracts",
    "GDELT SpaceX",
@@ -24,8 +24,8 @@
    ],
    "sample": "https://9to5mac.com/",
    "titles": [
-    "SpaceX could announce $1.5 trillion Tesla merger in December: report",
-    "What does a blue Texas sweep mean for Elon Musk, Tesla & SpaceX?"
+    "Tesla (TSLA), SpaceX race for year-end merger deal before new Congress",
+    "SpaceX could announce $1.5 trillion Tesla merger in December: report"
    ],
    "robots": "허용",
    "feed": "https://9to5mac.com/feed/",
@@ -43,8 +43,8 @@
    ],
    "sample": "https://9to5google.com/",
    "titles": [
-    "SpaceX could announce $1.5 trillion Tesla merger in December: report",
-    "What does a blue Texas sweep mean for Elon Musk, Tesla & SpaceX?"
+    "Tesla (TSLA), SpaceX race for year-end merger deal before new Congress",
+    "SpaceX could announce $1.5 trillion Tesla merger in December: report"
    ],
    "robots": "허용",
    "feed": "https://9to5google.com/feed/",
@@ -62,8 +62,8 @@
    ],
    "sample": "https://9to5toys.com/",
    "titles": [
-    "SpaceX could announce $1.5 trillion Tesla merger in December: report",
-    "What does a blue Texas sweep mean for Elon Musk, Tesla & SpaceX?"
+    "Tesla (TSLA), SpaceX race for year-end merger deal before new Congress",
+    "SpaceX could announce $1.5 trillion Tesla merger in December: report"
    ],
    "robots": "허용",
    "feed": "https://9to5toys.com/feed/",
@@ -81,16 +81,16 @@
    ],
    "sample": "https://dronedj.com",
    "titles": [
-    "SpaceX could announce $1.5 trillion Tesla merger in December: report",
-    "What does a blue Texas sweep mean for Elon Musk, Tesla & SpaceX?"
+    "Tesla (TSLA), SpaceX race for year-end merger deal before new Congress",
+    "SpaceX could announce $1.5 trillion Tesla merger in December: report"
    ],
    "robots": "허용",
    "feed": "https://dronedj.com/feed/",
    "has_dates": true,
-   "items_7d": 14,
+   "items_7d": 15,
    "kw_ratio": 0.0,
    "verdict": "부분(SpaceX 글 없음)",
-   "score": 135.0
+   "score": 144.0
   },
   {
    "domain": "hubspot.com",
@@ -101,7 +101,7 @@
    "sample": "https://payments-na1.hubspot.com/payments/7TyXGqH4bm?referrer=PAYMENT_LINK&ref=broadbandbreakfast.com",
    "titles": [
     "SpaceX Declines BEAD Winnings, Wants to Serve Locations at No Cost",
-    "U.S. Finalizes Spectrum Positions Early for WRC"
+    "SpaceX Declines BEAD Winnings, Wants to Serve Locations at No Cost"
    ],
    "robots": "허용",
    "feed": "https://hubspot.com/feed/",
@@ -119,8 +119,8 @@
    ],
    "sample": "https://www.informatechtarget.com/",
    "titles": [
-    "Most new Starlink subs can score better deals under dynamic pricing model – Navi",
-    "Kyivstar open to more D2D partners beyond Starlink"
+    "NTIA, SpaceX agreement 'undermines' goal of BEAD – FBA",
+    "Most new Starlink subs can score better deals under dynamic pricing model – Navi"
    ],
    "robots": "허용",
    "feed": "https://informatechtarget.com/feed/",
@@ -158,8 +158,8 @@
    ],
    "sample": "https://futureplc.com/future-member-terms-and-conditions/",
    "titles": [
-    "On this day in space! Nov. 23, 2015: Blue Origin sticks 1st-ever rocket landing from space",
-    "Ariane 6 rocket launching 36 Amazon Leo satellites to orbit on Nov. 24 after delay: Watch "
+    "'Blade Runner 2099' executive producers talk architectural easter eggs and franchise conti",
+    "Russia launches Progress 97 cargo ship to the International Space Station (video)"
    ],
    "robots": "허용",
    "feed": "https://futureplc.com/feed/",
@@ -198,8 +198,8 @@
    ],
    "sample": "https://go.future-advertising.com/Spacecom-Media-Kit.html",
    "titles": [
-    "On this day in space! Nov. 23, 2015: Blue Origin sticks 1st-ever rocket landing from space",
-    "Ariane 6 rocket launching 36 Amazon Leo satellites to orbit on Nov. 24 after delay: Watch "
+    "'Blade Runner 2099' executive producers talk architectural easter eggs and franchise conti",
+    "Russia launches Progress 97 cargo ship to the International Space Station (video)"
    ],
    "robots": "허용",
    "feed": "https://futureplc.com/feed/",
@@ -226,8 +226,8 @@
   {
    "name": "Electrek SpaceX",
    "result": "성공",
-   "items": 79,
-   "spacex_items": 73
+   "items": 80,
+   "spacex_items": 74
   },
   {
    "name": "CBS News Technology",
@@ -239,7 +239,7 @@
    "name": "Space.com",
    "result": "성공",
    "items": 50,
-   "spacex_items": 12
+   "spacex_items": 13
   },
   {
    "name": "Advanced Television",
@@ -251,7 +251,7 @@
    "name": "Hacker News SpaceX",
    "result": "성공",
    "items": 50,
-   "spacex_items": 13
+   "spacex_items": 12
   },
   {
    "name": "Federal Register SpaceX",
@@ -262,14 +262,14 @@
   {
    "name": "SpaceNews",
    "result": "성공",
-   "items": 15,
+   "items": 14,
    "spacex_items": 0
   },
   {
    "name": "NASASpaceflight",
    "result": "성공",
    "items": 10,
-   "spacex_items": 6
+   "spacex_items": 4
   },
   {
    "name": "Spaceflight Now",
@@ -281,7 +281,7 @@
    "name": "SpacePolicyOnline",
    "result": "성공",
    "items": 10,
-   "spacex_items": 6
+   "spacex_items": 5
   },
   {
    "name": "Payload",
@@ -293,7 +293,7 @@
    "name": "Universe Today",
    "result": "성공",
    "items": 20,
-   "spacex_items": 0
+   "spacex_items": 1
   },
   {
    "name": "Via Satellite",
@@ -365,7 +365,7 @@
    "name": "Broadband Breakfast",
    "result": "성공",
    "items": 15,
-   "spacex_items": 3
+   "spacex_items": 2
   },
   {
    "name": "Light Reading",
@@ -383,13 +383,13 @@
    "name": "Fierce Network",
    "result": "성공",
    "items": 25,
-   "spacex_items": 1
+   "spacex_items": 2
   },
   {
    "name": "Breaking Defense",
    "result": "성공",
    "items": 15,
-   "spacex_items": 1
+   "spacex_items": 0
   },
   {
    "name": "DefenseScoop",
@@ -401,7 +401,7 @@
    "name": "Air & Space Forces",
    "result": "성공",
    "items": 9,
-   "spacex_items": 2
+   "spacex_items": 1
   },
   {
    "name": "Defense News",
@@ -412,14 +412,14 @@
   {
    "name": "The War Zone",
    "result": "성공",
-   "items": 32,
+   "items": 35,
    "spacex_items": 3
   },
   {
    "name": "Drive Tesla Canada",
    "result": "성공",
    "items": 10,
-   "spacex_items": 5
+   "spacex_items": 1
   },
   {
    "name": "Tesla Oracle",
@@ -449,7 +449,7 @@
    "name": "Crunchbase News",
    "result": "성공",
    "items": 10,
-   "spacex_items": 4
+   "spacex_items": 3
   },
   {
    "name": "GDELT SpaceX",
@@ -467,26 +467,26 @@
    "name": "Hacker News Starlink",
    "result": "성공",
    "items": 50,
-   "spacex_items": 17
+   "spacex_items": 36
   }
  ],
  "blocked_cited": {
-  "x.com": 57,
-  "twitter.com": 51,
-  "t.co": 16,
-  "reddit.com": 15,
+  "twitter.com": 50,
+  "x.com": 49,
+  "reddit.com": 14,
+  "t.co": 13,
   "google.com": 11,
-  "arstechnica.com": 7,
+  "arstechnica.com": 6,
   "bloomberg.com": 6,
+  "reuters.com": 5,
   "cnbc.com": 4,
-  "yahoo.com": 3,
-  "reuters.com": 3
+  "theguardian.com": 2
  },
  "stats": {
-  "requests": 167,
+  "requests": 164,
   "blocked_skipped": 0,
   "robots_denied": 2,
-  "errors": 6,
+  "errors": 7,
   "blocked_contacted": 0
  }
 }
