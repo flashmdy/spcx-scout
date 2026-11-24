@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-11-23T23:51:33+00:00",
- "count_48h": 35,
- "new_this_run": 28,
+ "generated_at": "2026-11-24T09:51:25+00:00",
+ "count_48h": 37,
+ "new_this_run": 3,
  "items": [
   {
    "title": "Self-Regulatory Organizations; 24X National Exchange LLC; Notice of Filing of a Proposed Rule Change To Adopt Rules To Govern the Trading of Options on the Exchange",
@@ -28,6 +28,33 @@
    ],
    "official": true,
    "score": 3
+  },
+  {
+   "title": "FSD v15’s ‘Tesla Reality View’ AI driving visualizations are actually mind-bending (videos)",
+   "url": "https://www.teslaoracle.com/2026/11/23/fsd-v15s-tesla-reality-view-ai-driving-visualizations-are-actually-mind-bending-videos/",
+   "domains": [
+    "teslaoracle.com"
+   ],
+   "published": "2026-11-24T05:02+00:00",
+   "topics": [
+    "AI·xAI",
+    "테슬라·머스크"
+   ],
+   "official": false,
+   "score": 1
+  },
+  {
+   "title": "SpaceX Declines Bead Winnings, Wants to Serve Locations at No Cost",
+   "url": "https://broadbandbreakfast.com/spacex-declines-bead-winnings-wants-to-serve-locations-at-no-cost/",
+   "domains": [
+    "broadbandbreakfast.com"
+   ],
+   "published": "2026-11-24T00:41+00:00",
+   "topics": [
+    "기타"
+   ],
+   "official": false,
+   "score": 1
   },
   {
    "title": "Northrop books sixth Falcon 9 for Cygnus as Antares 330 waits",

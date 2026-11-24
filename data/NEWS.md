@@ -1,6 +1,6 @@
 # SPCX 뉴스 모음 — 최근 48시간
 
-갱신: 2026-11-24 08:51 (한국 시간) · 글 35건 · 교차 확인 = 같은 소식을 낸 사이트 수 · 🏛 = 정부·공식 출처
+갱신: 2026-11-24 18:51 (한국 시간) · 글 37건 · 교차 확인 = 같은 소식을 낸 사이트 수 · 🏛 = 정부·공식 출처
 
 ## 금융·IPO (2)
 
@@ -20,8 +20,9 @@
 - [Telesat Takes on Starlink With New Canadian Military Satellite Project](https://driveteslacanada.ca/news/telesat-lightspeed-arctic-antennas/?utm_source=rss&utm_medium=rss&utm_campaign=telesat-lightspeed-arctic-antennas) — driveteslacanada.ca · 11-24 01:56
 - [Eutelsat Wins $60 Million US Space Force Contract](https://europeanspaceflight.com/eutelsat-wins-60-million-us-space-force-contract/) — europeanspaceflight.com · 11-24 00:02
 
-## AI·xAI (4)
+## AI·xAI (5)
 
+- [FSD v15’s ‘Tesla Reality View’ AI driving visualizations are actually mind-bending (videos)](https://www.teslaoracle.com/2026/11/23/fsd-v15s-tesla-reality-view-ai-driving-visualizations-are-actually-mind-bending-videos/) — teslaoracle.com · 11-24 14:02
 - [Anthropic's appetite for compute is pushing xAI toward a rent-over-build strategy](https://the-decoder.com/anthropics-appetite-for-compute-is-pushing-xai-toward-a-rent-over-build-strategy/) — the-decoder.com · 11-24 03:47
 - [Apollo and Goldman Sachs lead $44bn SpaceX GPU financing deal](https://www.datacenterdynamics.com/en/news/apollo-and-goldman-sachs-lead-44bn-spacex-gpu-financing-deal/) — datacenterdynamics.com · 11-24 02:14
 - [Tesla and SpaceXAI CEO Elon Musk reacts to Jensen Huang’s NVIDIA return](https://www.teslarati.com/tesla-spacexai-ceo-elon-musk-reacts-jensen-huangs-nvidia-return/) — teslarati.com · 11-24 01:35
@@ -56,8 +57,9 @@
 - [Tesla Confirms Cybercab Is Designed for Highway Driving Up to 85 MPH](https://driveteslacanada.ca/news/tesla-cybercab-first-responder-plan-v1-3/?utm_source=rss&utm_medium=rss&utm_campaign=tesla-cybercab-first-responder-plan-v1-3) — driveteslacanada.ca · 11-24 00:21
 - [Drive Tesla Download: Top Stories for November 16-22](https://driveteslacanada.ca/news/drive-tesla-download-november-16-22/?utm_source=rss&utm_medium=rss&utm_campaign=drive-tesla-download-november-16-22) — driveteslacanada.ca · 11-23 01:22
 
-## 기타 (2)
+## 기타 (3)
 
+- [SpaceX Declines Bead Winnings, Wants to Serve Locations at No Cost](https://broadbandbreakfast.com/spacex-declines-bead-winnings-wants-to-serve-locations-at-no-cost/) — broadbandbreakfast.com · 11-24 09:41
 - [As it happened: NG-25 preview news teleconference](https://spaceflightnow.com/2026/11/23/as-it-happened-ng-25-preview-news-teleconference/) — spaceflightnow.com · 11-24 03:00
 - [What’s Happening in Space Policy November 22-29, 2026](https://spacepolicyonline.com/news/whats-happening-in-space-policy-november-22-29-2026/) — spacepolicyonline.com · 11-23 06:50
 

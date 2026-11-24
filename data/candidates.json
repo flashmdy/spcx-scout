@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-23T23:51:33+00:00",
+ "generated_at": "2026-11-24T09:51:25+00:00",
  "signals": {
   "candidates_passed": 0,
-  "candidates_seen_30d": 384,
+  "candidates_seen_30d": 386,
   "feeds_failing_3x": [
    "DoD Contracts",
    "GDELT SpaceX",
@@ -18,7 +18,7 @@
  "top": [
   {
    "domain": "9to5mac.com",
-   "citations": 56,
+   "citations": 60,
    "cited_by": [
     "Electrek SpaceX"
    ],
@@ -33,11 +33,11 @@
    "items_7d": 100,
    "kw_ratio": 0.0,
    "verdict": "부분(SpaceX 글 없음)",
-   "score": 1131.2
+   "score": 1212.0
   },
   {
    "domain": "9to5google.com",
-   "citations": 42,
+   "citations": 45,
    "cited_by": [
     "Electrek SpaceX"
    ],
@@ -52,11 +52,11 @@
    "items_7d": 100,
    "kw_ratio": 0.0,
    "verdict": "부분(SpaceX 글 없음)",
-   "score": 848.4
+   "score": 909.0
   },
   {
    "domain": "9to5toys.com",
-   "citations": 42,
+   "citations": 45,
    "cited_by": [
     "Electrek SpaceX"
    ],
@@ -71,11 +71,11 @@
    "items_7d": 50,
    "kw_ratio": 0.0,
    "verdict": "부분(SpaceX 글 없음)",
-   "score": 428.4
+   "score": 459.0
   },
   {
    "domain": "dronedj.com",
-   "citations": 42,
+   "citations": 45,
    "cited_by": [
     "Electrek SpaceX"
    ],
@@ -87,20 +87,20 @@
    "robots": "허용",
    "feed": "https://dronedj.com/feed/",
    "has_dates": true,
-   "items_7d": 15,
+   "items_7d": 14,
    "kw_ratio": 0.0,
    "verdict": "부분(SpaceX 글 없음)",
-   "score": 134.4
+   "score": 135.0
   },
   {
    "domain": "hubspot.com",
-   "citations": 51,
+   "citations": 53,
    "cited_by": [
     "Broadband Breakfast"
    ],
    "sample": "https://payments-na1.hubspot.com/payments/7TyXGqH4bm?referrer=PAYMENT_LINK&ref=broadbandbreakfast.com",
    "titles": [
-    "U.S. Finalizes Spectrum Positions Early for WRC",
+    "SpaceX Declines BEAD Winnings, Wants to Serve Locations at No Cost",
     "U.S. Finalizes Spectrum Positions Early for WRC"
    ],
    "robots": "허용",
@@ -109,11 +109,30 @@
    "items_7d": 4,
    "kw_ratio": 0.0,
    "verdict": "부분(SpaceX 글 없음)",
-   "score": 51.0
+   "score": 53.0
+  },
+  {
+   "domain": "informatechtarget.com",
+   "citations": 45,
+   "cited_by": [
+    "Light Reading"
+   ],
+   "sample": "https://www.informatechtarget.com/",
+   "titles": [
+    "Most new Starlink subs can score better deals under dynamic pricing model – Navi",
+    "Kyivstar open to more D2D partners beyond Starlink"
+   ],
+   "robots": "허용",
+   "feed": "https://informatechtarget.com/feed/",
+   "has_dates": true,
+   "items_7d": 1,
+   "kw_ratio": 0.0,
+   "verdict": "부분(SpaceX 글 없음)",
+   "score": 18.0
   },
   {
    "domain": "whatsapp.com",
-   "citations": 140,
+   "citations": 150,
    "cited_by": [
     "Space Intel Report",
     "Tesla Oracle"
@@ -129,11 +148,11 @@
    "items_7d": 0,
    "kw_ratio": 0.0,
    "verdict": "부분(피드 없음)",
-   "score": 14.0
+   "score": 15.0
   },
   {
    "domain": "futureplc.com",
-   "citations": 63,
+   "citations": 66,
    "cited_by": [
     "Space.com"
    ],
@@ -148,11 +167,11 @@
    "items_7d": 0,
    "kw_ratio": 0.0,
    "verdict": "부분(날짜·최신성 미달)",
-   "score": 12.6
+   "score": 13.2
   },
   {
    "domain": "addtoany.com",
-   "citations": 86,
+   "citations": 93,
    "cited_by": [
     "Advanced Television",
     "Data Center Dynamics",
@@ -160,8 +179,8 @@
    ],
    "sample": "https://www.addtoany.com/add_to/facebook?linkurl=https%3A%2F%2Fwww.advanced-television.com%2F2026%2F11%2F09%2Fviasat-our-new-satellites-will-drive-broadband%2F&linkname=Viasat%3A%20%E2%80%9COur%20new%20satellites%20will%20drive%20broadband%E2%80%9D",
    "titles": [
-    "SpaceX future funding threat from Democrats",
-    "Philippines wants SpaceX launches"
+    "What’s Happening in Space Policy November 22-29, 2026",
+    "Senate Appropriators Release $1.072 Trillion Defense Bill"
    ],
    "robots": "허용",
    "feed": "",
@@ -169,11 +188,11 @@
    "items_7d": 0,
    "kw_ratio": 0.0,
    "verdict": "부분(피드 없음)",
-   "score": 8.6
+   "score": 9.3
   },
   {
    "domain": "future-advertising.com",
-   "citations": 42,
+   "citations": 45,
    "cited_by": [
     "Space.com"
    ],
@@ -188,26 +207,7 @@
    "items_7d": 0,
    "kw_ratio": 0.0,
    "verdict": "부분(날짜·최신성 미달)",
-   "score": 8.4
-  },
-  {
-   "domain": "apple.news",
-   "citations": 42,
-   "cited_by": [
-    "Electrek SpaceX"
-   ],
-   "sample": "https://apple.news/TDaZAAzogTHK5rrJYn3D6eQ",
-   "titles": [
-    "SpaceX could announce $1.5 trillion Tesla merger in December: report",
-    "What does a blue Texas sweep mean for Elon Musk, Tesla & SpaceX?"
-   ],
-   "robots": "허용",
-   "feed": "",
-   "has_dates": false,
-   "items_7d": 0,
-   "kw_ratio": 0.0,
-   "verdict": "부분(피드 없음)",
-   "score": 4.2
+   "score": 9.0
   }
  ],
  "seeds": [
@@ -245,7 +245,7 @@
    "name": "Advanced Television",
    "result": "성공",
    "items": 10,
-   "spacex_items": 2
+   "spacex_items": 0
   },
   {
    "name": "Hacker News SpaceX",
@@ -365,13 +365,13 @@
    "name": "Broadband Breakfast",
    "result": "성공",
    "items": 15,
-   "spacex_items": 2
+   "spacex_items": 3
   },
   {
    "name": "Light Reading",
    "result": "성공",
    "items": 50,
-   "spacex_items": 7
+   "spacex_items": 6
   },
   {
    "name": "RCR Wireless",
@@ -412,7 +412,7 @@
   {
    "name": "The War Zone",
    "result": "성공",
-   "items": 33,
+   "items": 32,
    "spacex_items": 3
   },
   {
@@ -425,7 +425,7 @@
    "name": "Tesla Oracle",
    "result": "성공",
    "items": 10,
-   "spacex_items": 7
+   "spacex_items": 8
   },
   {
    "name": "VentureBeat",
@@ -467,26 +467,26 @@
    "name": "Hacker News Starlink",
    "result": "성공",
    "items": 50,
-   "spacex_items": 27
+   "spacex_items": 17
   }
  ],
  "blocked_cited": {
-  "x.com": 56,
-  "twitter.com": 52,
+  "x.com": 57,
+  "twitter.com": 51,
   "t.co": 16,
   "reddit.com": 15,
-  "google.com": 10,
-  "arstechnica.com": 8,
+  "google.com": 11,
+  "arstechnica.com": 7,
   "bloomberg.com": 6,
   "cnbc.com": 4,
-  "reuters.com": 4,
-  "theguardian.com": 3
+  "yahoo.com": 3,
+  "reuters.com": 3
  },
  "stats": {
-  "requests": 168,
+  "requests": 167,
   "blocked_skipped": 0,
   "robots_denied": 2,
-  "errors": 7,
+  "errors": 6,
   "blocked_contacted": 0
  }
 }
