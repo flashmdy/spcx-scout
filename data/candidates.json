@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-24T22:24:41+00:00",
+ "generated_at": "2026-11-25T08:29:17+00:00",
  "signals": {
   "candidates_passed": 0,
-  "candidates_seen_30d": 392,
+  "candidates_seen_30d": 393,
   "feeds_failing_3x": [
    "DoD Contracts",
    "GDELT SpaceX",
@@ -18,7 +18,7 @@
  "top": [
   {
    "domain": "9to5mac.com",
-   "citations": 60,
+   "citations": 64,
    "cited_by": [
     "Electrek SpaceX"
    ],
@@ -33,11 +33,11 @@
    "items_7d": 100,
    "kw_ratio": 0.0,
    "verdict": "부분(SpaceX 글 없음)",
-   "score": 1212.0
+   "score": 1292.8
   },
   {
    "domain": "9to5google.com",
-   "citations": 45,
+   "citations": 48,
    "cited_by": [
     "Electrek SpaceX"
    ],
@@ -52,11 +52,11 @@
    "items_7d": 100,
    "kw_ratio": 0.0,
    "verdict": "부분(SpaceX 글 없음)",
-   "score": 909.0
+   "score": 969.6
   },
   {
    "domain": "9to5toys.com",
-   "citations": 45,
+   "citations": 48,
    "cited_by": [
     "Electrek SpaceX"
    ],
@@ -71,11 +71,11 @@
    "items_7d": 50,
    "kw_ratio": 0.0,
    "verdict": "부분(SpaceX 글 없음)",
-   "score": 459.0
+   "score": 489.6
   },
   {
    "domain": "dronedj.com",
-   "citations": 45,
+   "citations": 48,
    "cited_by": [
     "Electrek SpaceX"
    ],
@@ -87,21 +87,21 @@
    "robots": "허용",
    "feed": "https://dronedj.com/feed/",
    "has_dates": true,
-   "items_7d": 15,
+   "items_7d": 16,
    "kw_ratio": 0.0,
    "verdict": "부분(SpaceX 글 없음)",
-   "score": 144.0
+   "score": 163.2
   },
   {
    "domain": "hubspot.com",
-   "citations": 53,
+   "citations": 56,
    "cited_by": [
     "Broadband Breakfast"
    ],
    "sample": "https://payments-na1.hubspot.com/payments/7TyXGqH4bm?referrer=PAYMENT_LINK&ref=broadbandbreakfast.com",
    "titles": [
-    "SpaceX Declines BEAD Winnings, Wants to Serve Locations at No Cost",
-    "SpaceX Declines BEAD Winnings, Wants to Serve Locations at No Cost"
+    "Fiber ISPs, Advocates Don’t Like SpaceX’s BEAD Deal",
+    "FCC to Vote on Satellite Reciprocity, Spectrum Sharing"
    ],
    "robots": "허용",
    "feed": "https://hubspot.com/feed/",
@@ -109,11 +109,11 @@
    "items_7d": 4,
    "kw_ratio": 0.0,
    "verdict": "부분(SpaceX 글 없음)",
-   "score": 53.0
+   "score": 56.0
   },
   {
    "domain": "informatechtarget.com",
-   "citations": 45,
+   "citations": 48,
    "cited_by": [
     "Light Reading"
    ],
@@ -128,11 +128,11 @@
    "items_7d": 1,
    "kw_ratio": 0.0,
    "verdict": "부분(SpaceX 글 없음)",
-   "score": 18.0
+   "score": 19.2
   },
   {
    "domain": "whatsapp.com",
-   "citations": 150,
+   "citations": 160,
    "cited_by": [
     "Space Intel Report",
     "Tesla Oracle"
@@ -148,18 +148,18 @@
    "items_7d": 0,
    "kw_ratio": 0.0,
    "verdict": "부분(피드 없음)",
-   "score": 15.0
+   "score": 16.0
   },
   {
    "domain": "futureplc.com",
-   "citations": 66,
+   "citations": 69,
    "cited_by": [
     "Space.com"
    ],
    "sample": "https://futureplc.com/future-member-terms-and-conditions/",
    "titles": [
-    "'Blade Runner 2099' executive producers talk architectural easter eggs and franchise conti",
-    "Russia launches Progress 97 cargo ship to the International Space Station (video)"
+    "SpaceX launches secretive spy satellites from California for US Space Force (video)",
+    "'Blade Runner 2099' executive producers talk architectural easter eggs and franchise conti"
    ],
    "robots": "허용",
    "feed": "https://futureplc.com/feed/",
@@ -167,11 +167,11 @@
    "items_7d": 0,
    "kw_ratio": 0.0,
    "verdict": "부분(날짜·최신성 미달)",
-   "score": 13.2
+   "score": 13.8
   },
   {
    "domain": "addtoany.com",
-   "citations": 93,
+   "citations": 98,
    "cited_by": [
     "Advanced Television",
     "Data Center Dynamics",
@@ -188,18 +188,18 @@
    "items_7d": 0,
    "kw_ratio": 0.0,
    "verdict": "부분(피드 없음)",
-   "score": 9.3
+   "score": 9.8
   },
   {
    "domain": "future-advertising.com",
-   "citations": 45,
+   "citations": 48,
    "cited_by": [
     "Space.com"
    ],
    "sample": "https://go.future-advertising.com/Spacecom-Media-Kit.html",
    "titles": [
-    "'Blade Runner 2099' executive producers talk architectural easter eggs and franchise conti",
-    "Russia launches Progress 97 cargo ship to the International Space Station (video)"
+    "SpaceX launches secretive spy satellites from California for US Space Force (video)",
+    "'Blade Runner 2099' executive producers talk architectural easter eggs and franchise conti"
    ],
    "robots": "허용",
    "feed": "https://futureplc.com/feed/",
@@ -207,7 +207,7 @@
    "items_7d": 0,
    "kw_ratio": 0.0,
    "verdict": "부분(날짜·최신성 미달)",
-   "score": 9.0
+   "score": 9.6
   }
  ],
  "seeds": [
@@ -239,7 +239,7 @@
    "name": "Space.com",
    "result": "성공",
    "items": 50,
-   "spacex_items": 13
+   "spacex_items": 14
   },
   {
    "name": "Advanced Television",
@@ -251,7 +251,7 @@
    "name": "Hacker News SpaceX",
    "result": "성공",
    "items": 50,
-   "spacex_items": 12
+   "spacex_items": 9
   },
   {
    "name": "Federal Register SpaceX",
@@ -281,7 +281,7 @@
    "name": "SpacePolicyOnline",
    "result": "성공",
    "items": 10,
-   "spacex_items": 5
+   "spacex_items": 4
   },
   {
    "name": "Payload",
@@ -323,7 +323,7 @@
    "name": "SpaceQ",
    "result": "성공",
    "items": 10,
-   "spacex_items": 1
+   "spacex_items": 2
   },
   {
    "name": "Spaceflight Insider",
@@ -365,7 +365,7 @@
    "name": "Broadband Breakfast",
    "result": "성공",
    "items": 15,
-   "spacex_items": 2
+   "spacex_items": 4
   },
   {
    "name": "Light Reading",
@@ -412,7 +412,7 @@
   {
    "name": "The War Zone",
    "result": "성공",
-   "items": 35,
+   "items": 36,
    "spacex_items": 3
   },
   {
@@ -467,23 +467,23 @@
    "name": "Hacker News Starlink",
    "result": "성공",
    "items": 50,
-   "spacex_items": 36
+   "spacex_items": 21
   }
  ],
  "blocked_cited": {
   "twitter.com": 50,
-  "x.com": 49,
+  "x.com": 48,
   "reddit.com": 14,
   "t.co": 13,
   "google.com": 11,
-  "arstechnica.com": 6,
-  "bloomberg.com": 6,
-  "reuters.com": 5,
-  "cnbc.com": 4,
-  "theguardian.com": 2
+  "arstechnica.com": 5,
+  "bloomberg.com": 5,
+  "cnbc.com": 3,
+  "pcmag.com": 2,
+  "yahoo.com": 2
  },
  "stats": {
-  "requests": 164,
+  "requests": 166,
   "blocked_skipped": 0,
   "robots_denied": 2,
   "errors": 7,

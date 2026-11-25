@@ -1,21 +1,21 @@
 # SPCX 뉴스 모음 — 최근 48시간
 
-갱신: 2026-11-25 07:24 (한국 시간) · 글 45건 · 교차 확인 = 같은 소식을 낸 사이트 수 · 🏛 = 정부·공식 출처
+갱신: 2026-11-25 17:29 (한국 시간) · 글 48건 · 교차 확인 = 같은 소식을 낸 사이트 수 · 🏛 = 정부·공식 출처
 
-## 금융·IPO (2)
+## 금융·IPO (1)
 
 - [Most Unicorns Are Worth More Than Their Last Funding-Round Valuations, Crunchbase Estimates](https://news.crunchbase.com/venture/unicorn-startup-current-valuations-thinking-machines-sierra-crunchbase/) — crunchbase.com · 11-23 21:00
-- [SpaceX future funding threat from Democrats](https://www.advanced-television.com/2026/11/23/spacex-future-funding-threat-from-democrats/) — advanced-television.com · 11-23 10:06
 
 ## 정부·규제 (4)
 
-- 🏛 [Self-Regulatory Organizations; 24X National Exchange LLC; Notice of Filing of a Proposed Rule Change To Adopt Rules To Govern the Trading of Options on the Exchange](https://www.federalregister.gov/documents/2026/11/23/2026-23748/self-regulatory-organizations-24x-national-exchange-llc-notice-of-filing-of-a-proposed-rule-change) — federalregister.gov · 11-23 09:00
+- [FCC to Vote on Satellite Reciprocity, Spectrum Sharing](https://broadbandbreakfast.com/fcc-to-vote-on-satellite-reciprocity-spectrum-sharing/) — broadbandbreakfast.com · 11-25 02:52
 - [Tesla (TSLA), SpaceX race for year-end merger deal before new Congress](https://electrek.co/2026/11/24/tesla-spacex-merger-year-end-deadline-new-congress/) — electrek.co · 11-24 23:43
 - [‘Spectrum is Power,’ Europe Eyes Place in D2D Race](https://www.satellitetoday.com/connectivity/2026/11/23/spectrum-is-power-europe-eyes-place-in-d2d-race/) — satellitetoday.com · 11-24 06:28
 - [FCC Backs AT&T in Regulatory Battle with California over Aging Copper Networks](https://broadbandbreakfast.com/fcc-backs-at-t-in-regulatory-battle-with-california-over-aging-copper-networks/) — broadbandbreakfast.com · 11-23 23:01
 
-## 국방 (4)
+## 국방 (5)
 
+- [SpaceX launches secretive spy satellites from California for US Space Force (video)](https://www.space.com/space-exploration/launches-spacecraft/spacex-launches-secretive-spy-satellites-from-california-for-us-space-force-video) — space.com · 11-25 07:37
 - [Live coverage: SpaceX to launch classified payload for the U.S. Space Force](https://spaceflightnow.com/2026/11/23/live-coverage-spacex-to-launch-classified-payload-for-the-u-s-space-force-3/) — spaceflightnow.com · 11-24 07:21
 - [Satellite Stalking and Orbital Defense With Blackswan Space CEO Marius Klimavičius](https://www.satellitetoday.com/podcast/2026/11/23/satellite-stalking-and-orbital-defense-with-blackswan-space-ceo-marius-klimavicius/) — satellitetoday.com · 11-24 05:55
 - [Telesat Takes on Starlink With New Canadian Military Satellite Project](https://driveteslacanada.ca/news/telesat-lightspeed-arctic-antennas/?utm_source=rss&utm_medium=rss&utm_campaign=telesat-lightspeed-arctic-antennas) — driveteslacanada.ca · 11-24 01:56
@@ -29,8 +29,10 @@
 - [Tesla and SpaceXAI CEO Elon Musk reacts to Jensen Huang’s NVIDIA return](https://www.teslarati.com/tesla-spacexai-ceo-elon-musk-reacts-jensen-huangs-nvidia-return/) — teslarati.com · 11-24 01:35
 - [States Sue SpaceX Over Grok Deepfakes](https://www.wired.com/story/states-sue-spacex-over-grok-deepfakes/) — wired.com · 11-23 23:59
 
-## Starlink·통신 (9)
+## Starlink·통신 (11)
 
+- [SpaceX rejects $738M fed subsidy, betting on Starlink alone](https://www.teslarati.com/spacex-starlink-rejects-fed-subsidy/) — teslarati.com · 11-25 17:05
+- [SpaceX declines about US$738 million in BEAD broadband subsidies – here’s why](https://driveteslacanada.ca/news/spacex-declines-bead-broadband-subsidies/?utm_source=rss&utm_medium=rss&utm_campaign=spacex-declines-bead-broadband-subsidies) — driveteslacanada.ca · 11-25 09:18
 - [Tesla's Unsupervised FSD future likely to bring Starlink to every model](https://www.teslarati.com/tesla-starlink-built-in-ai5/) — teslarati.com · 11-25 01:37
 - [Starlink Giving Up All BEAD Money But Keeping Locations in States That Embrace NTIA’s New Contract Model](https://broadbandbreakfast.com/starlink-giving-up-all-bead-money-but-keeping-locations-in-states-that-embrace-ntias-new-contract-model/) — broadbandbreakfast.com · 11-25 00:07
 - [Why Amazon's Rival to Starlink Is Struggling to Catch Up With SpaceX](https://www.wsj.com/tech/amazon-leo-starlink-rival-5bb0e6a0) — wsj.com · 11-24 19:30
@@ -41,8 +43,9 @@
 - [Most new Starlink subs can score better deals under dynamic pricing model – Navi](https://www.lightreading.com/satellite/most-new-starlink-subs-can-score-better-deals-under-dynamic-pricing-model-navi) — lightreading.com · 11-23 23:00
 - [Kyivstar open to more D2D partners beyond Starlink](https://www.lightreading.com/satellite/kyivstar-open-to-more-d2d-partners-but-currently-sees-no-starlink-alternative) — lightreading.com · 11-23 19:30
 
-## 발사·Starship (9)
+## 발사·Starship (8)
 
+- [Launch Preview: Russian, Chinese, and SpaceX rockets to launch space station missions](https://www.nasaspaceflight.com/2026/11/launch-preview-112426/) — nasaspaceflight.com · 11-25 10:06
 - [Russia launches Progress 97 cargo ship to the International Space Station (video)](https://www.space.com/space-exploration/international-space-station/russia-progress-97-cargo-launch-international-space-station) — space.com · 11-24 22:16
 - [Northrop books sixth Falcon 9 for Cygnus as Antares 330 waits](https://www.nasaspaceflight.com/2026/11/northrop-sixth-f9-cygnus-antares-waits/) — nasaspaceflight.com · 11-24 08:28
 - [3 Launches in 2 Weeks: Space Data Network ‘Backbone’ Takes Shape](https://www.airandspaceforces.com/space-force-data-network-backbone-takes-shape/) — airandspaceforces.com · 11-24 07:24
@@ -50,8 +53,6 @@
 - [NASA seeks to begin ‘intergalactic freight network’ with $1.3 billion block purchase of rockets, orbital transfer vehicles](https://spaceflightnow.com/2026/11/23/nasa-seeks-to-begin-intergalactic-freight-network-with-1-3-billion-block-purchase-of-rockets-orbital-transfer-vehicles/) — spaceflightnow.com · 11-24 06:49
 - [Progress MS-36 set to launch to ISS from Baikonur](https://www.nasaspaceflight.com/2026/11/progress-ms-36/) — nasaspaceflight.com · 11-24 06:32
 - [On this day in space! Nov. 23, 2015: Blue Origin sticks 1st-ever rocket landing from space with its suborbital New Shepard rocket](https://www.space.com/space-exploration/on-this-day-in-space-november-23-2026) — space.com · 11-24 03:10
-- [Weekly ISS update: Canadarm2 joint heads home aboard Dragon](https://spaceq.ca/weekly-iss-update-canadarm2-part-heads-home-aboard-dragon/) — spaceq.ca · 11-23 14:10
-- [Philippines wants SpaceX launches](https://www.advanced-television.com/2026/11/23/philippines-wants-spacex-launches/) — advanced-television.com · 11-23 09:38
 
 ## 테슬라·머스크 (4)
 
@@ -60,9 +61,11 @@
 - [Elon Musk Faces an A.I. Dilemma at SpaceX](https://www.nytimes.com/2026/11/23/business/elon-musk-ai-anthropic-google.html) — nytimes.com · 11-24 03:52
 - [Tesla Confirms Cybercab Is Designed for Highway Driving Up to 85 MPH](https://driveteslacanada.ca/news/tesla-cybercab-first-responder-plan-v1-3/?utm_source=rss&utm_medium=rss&utm_campaign=tesla-cybercab-first-responder-plan-v1-3) — driveteslacanada.ca · 11-24 00:21
 
-## 기타 (8)
+## 기타 (10)
 
 - 🏛 [NASA’s Northrop Grumman CRS-25 Mission Overview](https://www.nasa.gov/missions/station/nasas-northrop-grumman-crs-25-mission-overview/) — nasa.gov · 11-25 04:09
+- [Joshua Kutryk welcomes daughter from the space station](https://spaceq.ca/kutryk-welcomes-daughter-space-station/) — spaceq.ca · 11-25 09:01
+- [Fiber ISPs, Advocates Don’t Like SpaceX’s BEAD Deal](https://broadbandbreakfast.com/fiber-isps-advocates-dont-like-spacexs-bead-deal/) — broadbandbreakfast.com · 11-25 08:30
 - ['Blade Runner 2099' executive producers talk architectural easter eggs and franchise continuity for Prime Video's new sci-fi series (interview)](https://www.space.com/entertainment/blade-runner-2099-executive-producers-talk-architectural-easter-eggs-and-franchise-continuity-for-prime-videos-new-sci-fi-series-interview) — space.com · 11-25 06:00
 - [NTIA, SpaceX agreement 'undermines' goal of BEAD – FBA](https://www.lightreading.com/broadband/ntia-spacex-agreement-undermines-goal-of-bead-fba) — lightreading.com · 11-25 04:58
 - [Why Mega-Constellations Have a Hidden Space Junk Blind Spot](https://www.universetoday.com/articles/why-mega-constellations-have-a-hidden-space-junk-blind-spot) — universetoday.com · 11-25 00:43
