@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-11-25T08:29:17+00:00",
- "count_48h": 48,
- "new_this_run": 7,
+ "generated_at": "2026-11-25T21:39:39+00:00",
+ "count_48h": 42,
+ "new_this_run": 15,
  "items": [
   {
    "title": "NASA’s Northrop Grumman CRS-25 Mission Overview",
@@ -15,6 +15,209 @@
    ],
    "official": true,
    "score": 3
+  },
+  {
+   "title": "FCC approves SpaceX plan to put AI data centers in space",
+   "url": "https://techcrunch.com/2026/11/25/fcc-approves-spacex-plan-to-put-ai-data-centers-in-space/",
+   "domains": [
+    "techcrunch.com"
+   ],
+   "published": "2026-11-25T20:56+00:00",
+   "topics": [
+    "정부·규제",
+    "AI·xAI"
+   ],
+   "official": false,
+   "score": 1
+  },
+  {
+   "title": "FCC Approves SpaceX’s 1-Million Satellite Orbital Data Center Constellation",
+   "url": "https://www.satellitetoday.com/connectivity/2026/11/25/fcc-approves-spacexs-1-million-satellite-orbital-data-center-constellation/",
+   "domains": [
+    "satellitetoday.com"
+   ],
+   "published": "2026-11-25T20:39+00:00",
+   "topics": [
+    "정부·규제",
+    "AI·xAI",
+    "발사·Starship"
+   ],
+   "official": false,
+   "score": 1
+  },
+  {
+   "title": "SpaceX Gets FCC Approval to Launch Up to One Million Orbital Data Centers",
+   "url": "https://driveteslacanada.ca/news/spacex-fcc-starmind-orbital-data-centers/?utm_source=rss&utm_medium=rss&utm_campaign=spacex-fcc-starmind-orbital-data-centers",
+   "domains": [
+    "driveteslacanada.ca"
+   ],
+   "published": "2026-11-25T20:28+00:00",
+   "topics": [
+    "정부·규제",
+    "AI·xAI",
+    "발사·Starship"
+   ],
+   "official": false,
+   "score": 1
+  },
+  {
+   "title": "Italy becomes the 12th European country to approve FSD (Tesla Assisted Driving), watch the first impressions",
+   "url": "https://www.teslaoracle.com/2026/11/25/italy-becomes-the-12th-european-country-to-approve-fsd-tesla-assisted-driving-watch-the-first-impressions/",
+   "domains": [
+    "teslaoracle.com"
+   ],
+   "published": "2026-11-25T20:06+00:00",
+   "topics": [
+    "테슬라·머스크"
+   ],
+   "official": false,
+   "score": 1
+  },
+  {
+   "title": "SpaceX Starship debris becomes art in Ashley Zelinskie's 'The Weight of Space' (video, photos)",
+   "url": "https://www.space.com/entertainment/spacex-starship-debris-becomes-art-in-ashley-zelinskies-the-weight-of-space-video-photos",
+   "domains": [
+    "space.com"
+   ],
+   "published": "2026-11-25T19:00+00:00",
+   "topics": [
+    "발사·Starship"
+   ],
+   "official": false,
+   "score": 1
+  },
+  {
+   "title": "SpaceX OK'd to deploy up to 1M AI satellites, complete constellation by 2040",
+   "url": "https://www.lightreading.com/satellite/spacex-ok-d-to-deploy-up-to-1m-ai-satellites-complete-constellation-by-2040",
+   "domains": [
+    "lightreading.com"
+   ],
+   "published": "2026-11-25T18:58+00:00",
+   "topics": [
+    "AI·xAI"
+   ],
+   "official": false,
+   "score": 1
+  },
+  {
+   "title": "Green light for Starmind: SpaceX gets approval to deploy 1 million AI satellites",
+   "url": "https://www.space.com/space-exploration/launches-spacecraft/green-light-for-starmind-spacex-gets-approval-to-deploy-1-million-ai-satellites",
+   "domains": [
+    "space.com"
+   ],
+   "published": "2026-11-25T18:49+00:00",
+   "topics": [
+    "AI·xAI"
+   ],
+   "official": false,
+   "score": 1
+  },
+  {
+   "title": "FCC Approves SpaceX to Launch 1 Million Orbital Data Centers",
+   "url": "https://broadbandbreakfast.com/fcc-approves-spacex-to-launch-1-million-orbital-data-centers/",
+   "domains": [
+    "broadbandbreakfast.com"
+   ],
+   "published": "2026-11-25T17:38+00:00",
+   "topics": [
+    "정부·규제",
+    "AI·xAI",
+    "발사·Starship"
+   ],
+   "official": false,
+   "score": 1
+  },
+  {
+   "title": "FCC greenlights SpaceX plan to deploy up to 1M AI satellites",
+   "url": "https://www.lightreading.com/satellite/fcc-greenlights-spacex-plan-to-deploy-up-to-1m-ai-satellites",
+   "domains": [
+    "lightreading.com"
+   ],
+   "published": "2026-11-25T16:58+00:00",
+   "topics": [
+    "정부·규제",
+    "AI·xAI"
+   ],
+   "official": false,
+   "score": 1
+  },
+  {
+   "title": "Starlink Mini Price slashed to $149 in Canada, $99 in the U.S.",
+   "url": "https://driveteslacanada.ca/news/starlink-mini-price-cut-canada/?utm_source=rss&utm_medium=rss&utm_campaign=starlink-mini-price-cut-canada",
+   "domains": [
+    "driveteslacanada.ca"
+   ],
+   "published": "2026-11-25T14:53+00:00",
+   "topics": [
+    "Starlink·통신"
+   ],
+   "official": false,
+   "score": 1
+  },
+  {
+   "title": "FBA Urges NTIA to Reopen Starlink BEAD Locations to Competition",
+   "url": "https://broadbandbreakfast.com/fba-urges-ntia-to-reopen-starlink-bead-locations-to-competition/",
+   "domains": [
+    "broadbandbreakfast.com"
+   ],
+   "published": "2026-11-25T14:47+00:00",
+   "topics": [
+    "Starlink·통신"
+   ],
+   "official": false,
+   "score": 1
+  },
+  {
+   "title": "Watch live: Europe unveils 1st close-up views of asteroid Dimorphos after NASA's DART impact",
+   "url": "https://www.space.com/space-exploration/asteroid-comet-missions/watch-live-europe-unveils-1st-close-up-views-of-asteroid-dimorphos-after-nasas-dart-impact",
+   "domains": [
+    "space.com"
+   ],
+   "published": "2026-11-25T14:00+00:00",
+   "topics": [
+    "기타"
+   ],
+   "official": false,
+   "score": 1
+  },
+  {
+   "title": "Cerberus to Acquire Airbus US Space & Defense",
+   "url": "https://payloadspace.com/cerberus-to-acquire-airbus-us-space-defense/",
+   "domains": [
+    "payloadspace.com"
+   ],
+   "published": "2026-11-25T13:16+00:00",
+   "topics": [
+    "국방"
+   ],
+   "official": false,
+   "score": 1
+  },
+  {
+   "title": "The Art of The Terrible Startup Name",
+   "url": "https://news.crunchbase.com/startups/bad-startup-name-examples-advice-grok/",
+   "domains": [
+    "crunchbase.com"
+   ],
+   "published": "2026-11-25T12:00+00:00",
+   "topics": [
+    "기타"
+   ],
+   "official": false,
+   "score": 1
+  },
+  {
+   "title": "Exaion signs $79m GPUaaS contract with US customer",
+   "url": "https://www.datacenterdynamics.com/en/news/exaion-signs-79m-gpuaas-contract-with-us-customer/",
+   "domains": [
+    "datacenterdynamics.com"
+   ],
+   "published": "2026-11-25T11:52+00:00",
+   "topics": [
+    "AI·xAI"
+   ],
+   "official": false,
+   "score": 1
   },
   {
    "title": "SpaceX rejects $738M fed subsidy, betting on Starlink alone",
@@ -329,205 +532,6 @@
    "topics": [
     "국방",
     "발사·Starship"
-   ],
-   "official": false,
-   "score": 1
-  },
-  {
-   "title": "Live coverage: Arianespace to launch Amazon Leo sats amid rocket crunch",
-   "url": "https://spaceflightnow.com/2026/11/23/live-coverage-arianespaces-launches-amazon-leo-sats-amid-rocket-crunch/",
-   "domains": [
-    "spaceflightnow.com"
-   ],
-   "published": "2026-11-23T22:14+00:00",
-   "topics": [
-    "발사·Starship"
-   ],
-   "official": false,
-   "score": 1
-  },
-  {
-   "title": "NASA seeks to begin ‘intergalactic freight network’ with $1.3 billion block purchase of rockets, orbital transfer vehicles",
-   "url": "https://spaceflightnow.com/2026/11/23/nasa-seeks-to-begin-intergalactic-freight-network-with-1-3-billion-block-purchase-of-rockets-orbital-transfer-vehicles/",
-   "domains": [
-    "spaceflightnow.com"
-   ],
-   "published": "2026-11-23T21:49+00:00",
-   "topics": [
-    "발사·Starship"
-   ],
-   "official": false,
-   "score": 1
-  },
-  {
-   "title": "Progress MS-36 set to launch to ISS from Baikonur",
-   "url": "https://www.nasaspaceflight.com/2026/11/progress-ms-36/",
-   "domains": [
-    "nasaspaceflight.com"
-   ],
-   "published": "2026-11-23T21:32+00:00",
-   "topics": [
-    "발사·Starship"
-   ],
-   "official": false,
-   "score": 1
-  },
-  {
-   "title": "‘Spectrum is Power,’ Europe Eyes Place in D2D Race",
-   "url": "https://www.satellitetoday.com/connectivity/2026/11/23/spectrum-is-power-europe-eyes-place-in-d2d-race/",
-   "domains": [
-    "satellitetoday.com"
-   ],
-   "published": "2026-11-23T21:28+00:00",
-   "topics": [
-    "정부·규제"
-   ],
-   "official": false,
-   "score": 1
-  },
-  {
-   "title": "Satellite Stalking and Orbital Defense With Blackswan Space CEO Marius Klimavičius",
-   "url": "https://www.satellitetoday.com/podcast/2026/11/23/satellite-stalking-and-orbital-defense-with-blackswan-space-ceo-marius-klimavicius/",
-   "domains": [
-    "satellitetoday.com"
-   ],
-   "published": "2026-11-23T20:55+00:00",
-   "topics": [
-    "국방",
-    "발사·Starship"
-   ],
-   "official": false,
-   "score": 1
-  },
-  {
-   "title": "Aer Lingus Begins Free Starlink Wi-Fi Rollout on European Flights",
-   "url": "https://driveteslacanada.ca/news/aer-lingus-starlink-short-haul/?utm_source=rss&utm_medium=rss&utm_campaign=aer-lingus-starlink-short-haul",
-   "domains": [
-    "driveteslacanada.ca"
-   ],
-   "published": "2026-11-23T19:35+00:00",
-   "topics": [
-    "Starlink·통신",
-    "발사·Starship"
-   ],
-   "official": false,
-   "score": 1
-  },
-  {
-   "title": "Elon Musk Faces an A.I. Dilemma at SpaceX",
-   "url": "https://www.nytimes.com/2026/11/23/business/elon-musk-ai-anthropic-google.html",
-   "domains": [
-    "nytimes.com"
-   ],
-   "published": "2026-11-23T18:52+00:00",
-   "topics": [
-    "테슬라·머스크"
-   ],
-   "official": false,
-   "score": 1
-  },
-  {
-   "title": "Anthropic's appetite for compute is pushing xAI toward a rent-over-build strategy",
-   "url": "https://the-decoder.com/anthropics-appetite-for-compute-is-pushing-xai-toward-a-rent-over-build-strategy/",
-   "domains": [
-    "the-decoder.com"
-   ],
-   "published": "2026-11-23T18:47+00:00",
-   "topics": [
-    "AI·xAI"
-   ],
-   "official": false,
-   "score": 1
-  },
-  {
-   "title": "On this day in space! Nov. 23, 2015: Blue Origin sticks 1st-ever rocket landing from space with its suborbital New Shepard rocket",
-   "url": "https://www.space.com/space-exploration/on-this-day-in-space-november-23-2026",
-   "domains": [
-    "space.com"
-   ],
-   "published": "2026-11-23T18:10+00:00",
-   "topics": [
-    "발사·Starship"
-   ],
-   "official": false,
-   "score": 1
-  },
-  {
-   "title": "As it happened: NG-25 preview news teleconference",
-   "url": "https://spaceflightnow.com/2026/11/23/as-it-happened-ng-25-preview-news-teleconference/",
-   "domains": [
-    "spaceflightnow.com"
-   ],
-   "published": "2026-11-23T18:00+00:00",
-   "topics": [
-    "기타"
-   ],
-   "official": false,
-   "score": 1
-  },
-  {
-   "title": "Apollo and Goldman Sachs lead $44bn SpaceX GPU financing deal",
-   "url": "https://www.datacenterdynamics.com/en/news/apollo-and-goldman-sachs-lead-44bn-spacex-gpu-financing-deal/",
-   "domains": [
-    "datacenterdynamics.com"
-   ],
-   "published": "2026-11-23T17:14+00:00",
-   "topics": [
-    "AI·xAI"
-   ],
-   "official": false,
-   "score": 1
-  },
-  {
-   "title": "Telesat Takes on Starlink With New Canadian Military Satellite Project",
-   "url": "https://driveteslacanada.ca/news/telesat-lightspeed-arctic-antennas/?utm_source=rss&utm_medium=rss&utm_campaign=telesat-lightspeed-arctic-antennas",
-   "domains": [
-    "driveteslacanada.ca"
-   ],
-   "published": "2026-11-23T16:56+00:00",
-   "topics": [
-    "국방",
-    "Starlink·통신"
-   ],
-   "official": false,
-   "score": 1
-  },
-  {
-   "title": "Tesla and SpaceXAI CEO Elon Musk reacts to Jensen Huang’s NVIDIA return",
-   "url": "https://www.teslarati.com/tesla-spacexai-ceo-elon-musk-reacts-jensen-huangs-nvidia-return/",
-   "domains": [
-    "teslarati.com"
-   ],
-   "published": "2026-11-23T16:35+00:00",
-   "topics": [
-    "AI·xAI",
-    "테슬라·머스크"
-   ],
-   "official": false,
-   "score": 1
-  },
-  {
-   "title": "Starlink Offers Free Residential Services to Florida Flood Victims Through December 20",
-   "url": "https://driveteslacanada.ca/news/starlink-offers-free-residential-services-to-florida-flood-victims-through-december-20/?utm_source=rss&utm_medium=rss&utm_campaign=starlink-offers-free-residential-services-to-florida-flood-victims-through-december-20",
-   "domains": [
-    "driveteslacanada.ca"
-   ],
-   "published": "2026-11-23T16:04+00:00",
-   "topics": [
-    "Starlink·통신"
-   ],
-   "official": false,
-   "score": 1
-  },
-  {
-   "title": "Colombia files charges against Starlink over prison signals",
-   "url": "https://www.upi.com/Top_News/World-News/2026/11/23/latam-colombia-starlink-prison-signals/5851795443163/",
-   "domains": [
-    "upi.com"
-   ],
-   "published": "2026-11-23T16:01+00:00",
-   "topics": [
-    "Starlink·통신"
    ],
    "official": false,
    "score": 1

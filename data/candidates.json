@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-25T08:29:17+00:00",
+ "generated_at": "2026-11-25T21:39:39+00:00",
  "signals": {
   "candidates_passed": 0,
-  "candidates_seen_30d": 393,
+  "candidates_seen_30d": 403,
   "feeds_failing_3x": [
    "DoD Contracts",
    "GDELT SpaceX",
@@ -100,35 +100,16 @@
    ],
    "sample": "https://payments-na1.hubspot.com/payments/7TyXGqH4bm?referrer=PAYMENT_LINK&ref=broadbandbreakfast.com",
    "titles": [
-    "Fiber ISPs, Advocates Don’t Like SpaceX’s BEAD Deal",
-    "FCC to Vote on Satellite Reciprocity, Spectrum Sharing"
+    "FCC Approves SpaceX to Launch 1 Million Orbital Data Centers",
+    "Fiber ISPs, Advocates Don’t Like SpaceX’s BEAD Deal"
    ],
    "robots": "허용",
    "feed": "https://hubspot.com/feed/",
    "has_dates": true,
-   "items_7d": 4,
+   "items_7d": 3,
    "kw_ratio": 0.0,
    "verdict": "부분(SpaceX 글 없음)",
-   "score": 56.0
-  },
-  {
-   "domain": "informatechtarget.com",
-   "citations": 48,
-   "cited_by": [
-    "Light Reading"
-   ],
-   "sample": "https://www.informatechtarget.com/",
-   "titles": [
-    "NTIA, SpaceX agreement 'undermines' goal of BEAD – FBA",
-    "Most new Starlink subs can score better deals under dynamic pricing model – Navi"
-   ],
-   "robots": "허용",
-   "feed": "https://informatechtarget.com/feed/",
-   "has_dates": true,
-   "items_7d": 1,
-   "kw_ratio": 0.0,
-   "verdict": "부분(SpaceX 글 없음)",
-   "score": 19.2
+   "score": 44.8
   },
   {
    "domain": "whatsapp.com",
@@ -158,8 +139,8 @@
    ],
    "sample": "https://futureplc.com/future-member-terms-and-conditions/",
    "titles": [
-    "SpaceX launches secretive spy satellites from California for US Space Force (video)",
-    "'Blade Runner 2099' executive producers talk architectural easter eggs and franchise conti"
+    "SpaceX Starship debris becomes art in Ashley Zelinskie's 'The Weight of Space' (video, pho",
+    "Green light for Starmind: SpaceX gets approval to deploy 1 million AI satellites"
    ],
    "robots": "허용",
    "feed": "https://futureplc.com/feed/",
@@ -198,11 +179,30 @@
    ],
    "sample": "https://go.future-advertising.com/Spacecom-Media-Kit.html",
    "titles": [
-    "SpaceX launches secretive spy satellites from California for US Space Force (video)",
-    "'Blade Runner 2099' executive producers talk architectural easter eggs and franchise conti"
+    "SpaceX Starship debris becomes art in Ashley Zelinskie's 'The Weight of Space' (video, pho",
+    "Green light for Starmind: SpaceX gets approval to deploy 1 million AI satellites"
    ],
    "robots": "허용",
    "feed": "https://futureplc.com/feed/",
+   "has_dates": true,
+   "items_7d": 0,
+   "kw_ratio": 0.0,
+   "verdict": "부분(날짜·최신성 미달)",
+   "score": 9.6
+  },
+  {
+   "domain": "informatechtarget.com",
+   "citations": 48,
+   "cited_by": [
+    "Light Reading"
+   ],
+   "sample": "https://www.informatechtarget.com/",
+   "titles": [
+    "SpaceX OK'd to deploy up to 1M AI satellites, complete constellation by 2040",
+    "FCC greenlights SpaceX plan to deploy up to 1M AI satellites"
+   ],
+   "robots": "허용",
+   "feed": "https://informatechtarget.com/feed/",
    "has_dates": true,
    "items_7d": 0,
    "kw_ratio": 0.0,
@@ -221,7 +221,7 @@
    "name": "TechCrunch SpaceX",
    "result": "성공",
    "items": 18,
-   "spacex_items": 15
+   "spacex_items": 16
   },
   {
    "name": "Electrek SpaceX",
@@ -239,7 +239,7 @@
    "name": "Space.com",
    "result": "성공",
    "items": 50,
-   "spacex_items": 14
+   "spacex_items": 13
   },
   {
    "name": "Advanced Television",
@@ -251,7 +251,7 @@
    "name": "Hacker News SpaceX",
    "result": "성공",
    "items": 50,
-   "spacex_items": 9
+   "spacex_items": 10
   },
   {
    "name": "Federal Register SpaceX",
@@ -262,14 +262,14 @@
   {
    "name": "SpaceNews",
    "result": "성공",
-   "items": 14,
+   "items": 12,
    "spacex_items": 0
   },
   {
    "name": "NASASpaceflight",
-   "result": "성공",
-   "items": 10,
-   "spacex_items": 4
+   "result": "오류: HTTPError",
+   "items": 0,
+   "spacex_items": 0
   },
   {
    "name": "Spaceflight Now",
@@ -299,7 +299,7 @@
    "name": "Via Satellite",
    "result": "성공",
    "items": 10,
-   "spacex_items": 2
+   "spacex_items": 3
   },
   {
    "name": "European Spaceflight",
@@ -341,7 +341,7 @@
    "name": "NASA",
    "result": "성공",
    "items": 10,
-   "spacex_items": 1
+   "spacex_items": 0
   },
   {
    "name": "US Space Force",
@@ -371,7 +371,7 @@
    "name": "Light Reading",
    "result": "성공",
    "items": 50,
-   "spacex_items": 6
+   "spacex_items": 7
   },
   {
    "name": "RCR Wireless",
@@ -381,9 +381,9 @@
   },
   {
    "name": "Fierce Network",
-   "result": "성공",
-   "items": 25,
-   "spacex_items": 2
+   "result": "robots 거부",
+   "items": 0,
+   "spacex_items": 0
   },
   {
    "name": "Breaking Defense",
@@ -412,14 +412,14 @@
   {
    "name": "The War Zone",
    "result": "성공",
-   "items": 36,
+   "items": 41,
    "spacex_items": 3
   },
   {
    "name": "Drive Tesla Canada",
    "result": "성공",
    "items": 10,
-   "spacex_items": 1
+   "spacex_items": 2
   },
   {
    "name": "Tesla Oracle",
@@ -437,7 +437,7 @@
    "name": "The Decoder",
    "result": "성공",
    "items": 10,
-   "spacex_items": 1
+   "spacex_items": 0
   },
   {
    "name": "Data Center Dynamics",
@@ -467,26 +467,26 @@
    "name": "Hacker News Starlink",
    "result": "성공",
    "items": 50,
-   "spacex_items": 21
+   "spacex_items": 16
   }
  ],
  "blocked_cited": {
-  "twitter.com": 50,
-  "x.com": 48,
+  "twitter.com": 43,
+  "x.com": 41,
   "reddit.com": 14,
-  "t.co": 13,
   "google.com": 11,
+  "t.co": 9,
   "arstechnica.com": 5,
-  "bloomberg.com": 5,
+  "fcc.gov": 3,
+  "bloomberg.com": 3,
   "cnbc.com": 3,
-  "pcmag.com": 2,
-  "yahoo.com": 2
+  "reuters.com": 2
  },
  "stats": {
-  "requests": 166,
+  "requests": 162,
   "blocked_skipped": 0,
   "robots_denied": 2,
-  "errors": 7,
+  "errors": 10,
   "blocked_contacted": 0
  }
 }
