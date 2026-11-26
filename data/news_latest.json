@@ -1,20 +1,115 @@
 {
- "generated_at": "2026-11-26T08:13:02+00:00",
- "count_48h": 42,
+ "generated_at": "2026-11-26T21:28:52+00:00",
+ "count_48h": 35,
  "new_this_run": 7,
  "items": [
   {
-   "title": "NASA’s Northrop Grumman CRS-25 Mission Overview",
-   "url": "https://www.nasa.gov/missions/station/nasas-northrop-grumman-crs-25-mission-overview/",
+   "title": "US approves SpaceX plan to send a million data satellites to space",
+   "url": "https://www.bbc.co.uk/news/articles/cwp836l8n1jgo",
    "domains": [
-    "nasa.gov"
+    "bbc.co.uk",
+    "bbc.com"
    ],
-   "published": "2026-11-24T19:09+00:00",
+   "published": "2026-11-26T01:42+00:00",
    "topics": [
     "기타"
    ],
-   "official": true,
-   "score": 3
+   "official": false,
+   "score": 2
+  },
+  {
+   "title": "Starlink offers 50% off Residential service in Canada and U.S. for Black Friday",
+   "url": "https://driveteslacanada.ca/news/starlink-black-friday-50-off-residential-canada/?utm_source=rss&utm_medium=rss&utm_campaign=starlink-black-friday-50-off-residential-canada",
+   "domains": [
+    "driveteslacanada.ca"
+   ],
+   "published": "2026-11-26T20:58+00:00",
+   "topics": [
+    "Starlink·통신"
+   ],
+   "official": false,
+   "score": 1
+  },
+  {
+   "title": "'Star Trek IV: The Voyage Home' at 40: 'Trek' has never been as joyous or fun as in 'the one with the whales'",
+   "url": "https://www.space.com/entertainment/space-movies-shows/star-trek-iv-the-voyage-home-at-40-trek-has-never-been-as-joyous-or-fun-as-in-the-one-with-the-whales",
+   "domains": [
+    "space.com"
+   ],
+   "published": "2026-11-26T18:00+00:00",
+   "topics": [
+    "기타"
+   ],
+   "official": false,
+   "score": 1
+  },
+  {
+   "title": "Starlink could come to BC Ferries under new government mandate",
+   "url": "https://driveteslacanada.ca/news/bc-ferries-passenger-wifi-starlink-mandate/?utm_source=rss&utm_medium=rss&utm_campaign=bc-ferries-passenger-wifi-starlink-mandate",
+   "domains": [
+    "driveteslacanada.ca"
+   ],
+   "published": "2026-11-26T16:51+00:00",
+   "topics": [
+    "Starlink·통신"
+   ],
+   "official": false,
+   "score": 1
+  },
+  {
+   "title": "One in 25 Starlink IPs Is a Residential Proxy",
+   "url": "https://iptrust.co/blog/one-in-25-starlink-ips-is-a-residential-proxy",
+   "domains": [
+    "iptrust.co"
+   ],
+   "published": "2026-11-26T15:08+00:00",
+   "topics": [
+    "Starlink·통신"
+   ],
+   "official": false,
+   "score": 1
+  },
+  {
+   "title": "FCC clears SpaceX to deploy up to 1 million Starmind satellites for orbital AI data centers by 2040",
+   "url": "https://the-decoder.com/fcc-clears-spacex-to-deploy-up-to-1-million-starmind-satellites-for-orbital-ai-data-centers-by-2040/",
+   "domains": [
+    "the-decoder.com"
+   ],
+   "published": "2026-11-26T13:41+00:00",
+   "topics": [
+    "정부·규제",
+    "AI·xAI",
+    "발사·Starship"
+   ],
+   "official": false,
+   "score": 1
+  },
+  {
+   "title": "FCC says SpaceX can deploy 1M satellites for data centers in space",
+   "url": "https://www.npr.org/2026/11/26/g-s1-155940/fcc-spacex-satellites-data-centers-in-space",
+   "domains": [
+    "npr.org"
+   ],
+   "published": "2026-11-26T11:39+00:00",
+   "topics": [
+    "정부·규제",
+    "AI·xAI"
+   ],
+   "official": false,
+   "score": 1
+  },
+  {
+   "title": "Space plants with hot sauce: What ISS astronauts will be eating on Thanksgiving (video)",
+   "url": "https://www.space.com/space-exploration/human-spaceflight/space-plants-with-hot-sauce-what-iss-astronauts-will-be-eating-on-thanksgiving-video",
+   "domains": [
+    "space.com"
+   ],
+   "published": "2026-11-26T11:00+00:00",
+   "topics": [
+    "기타"
+   ],
+   "official": false,
+   "score": 1
   },
   {
    "title": "FCC OKs 1m Starmind constellation",
@@ -39,19 +134,6 @@
    "topics": [
     "정부·규제",
     "AI·xAI"
-   ],
-   "official": false,
-   "score": 1
-  },
-  {
-   "title": "US approves SpaceX plan to send a million data satellites to space",
-   "url": "https://www.bbc.co.uk/news/articles/cwp836l8n1jgo",
-   "domains": [
-    "bbc.co.uk"
-   ],
-   "published": "2026-11-26T01:42+00:00",
-   "topics": [
-    "기타"
    ],
    "official": false,
    "score": 1
@@ -391,151 +473,6 @@
    "published": "2026-11-24T22:37+00:00",
    "topics": [
     "국방",
-    "발사·Starship"
-   ],
-   "official": false,
-   "score": 1
-  },
-  {
-   "title": "'Blade Runner 2099' executive producers talk architectural easter eggs and franchise continuity for Prime Video's new sci-fi series (interview)",
-   "url": "https://www.space.com/entertainment/blade-runner-2099-executive-producers-talk-architectural-easter-eggs-and-franchise-continuity-for-prime-videos-new-sci-fi-series-interview",
-   "domains": [
-    "space.com"
-   ],
-   "published": "2026-11-24T21:00+00:00",
-   "topics": [
-    "기타"
-   ],
-   "official": false,
-   "score": 1
-  },
-  {
-   "title": "NTIA, SpaceX agreement 'undermines' goal of BEAD – FBA",
-   "url": "https://www.lightreading.com/broadband/ntia-spacex-agreement-undermines-goal-of-bead-fba",
-   "domains": [
-    "lightreading.com"
-   ],
-   "published": "2026-11-24T19:58+00:00",
-   "topics": [
-    "기타"
-   ],
-   "official": false,
-   "score": 1
-  },
-  {
-   "title": "FCC to Vote on Satellite Reciprocity, Spectrum Sharing",
-   "url": "https://broadbandbreakfast.com/fcc-to-vote-on-satellite-reciprocity-spectrum-sharing/",
-   "domains": [
-    "broadbandbreakfast.com"
-   ],
-   "published": "2026-11-24T17:52+00:00",
-   "topics": [
-    "정부·규제"
-   ],
-   "official": false,
-   "score": 1
-  },
-  {
-   "title": "Tesla's Unsupervised FSD future likely to bring Starlink to every model",
-   "url": "https://www.teslarati.com/tesla-starlink-built-in-ai5/",
-   "domains": [
-    "teslarati.com"
-   ],
-   "published": "2026-11-24T16:37+00:00",
-   "topics": [
-    "Starlink·통신",
-    "테슬라·머스크"
-   ],
-   "official": false,
-   "score": 1
-  },
-  {
-   "title": "Why Mega-Constellations Have a Hidden Space Junk Blind Spot",
-   "url": "https://www.universetoday.com/articles/why-mega-constellations-have-a-hidden-space-junk-blind-spot",
-   "domains": [
-    "universetoday.com"
-   ],
-   "published": "2026-11-24T15:43+00:00",
-   "topics": [
-    "기타"
-   ],
-   "official": false,
-   "score": 1
-  },
-  {
-   "title": "Starlink Giving Up All BEAD Money But Keeping Locations in States That Embrace NTIA’s New Contract Model",
-   "url": "https://broadbandbreakfast.com/starlink-giving-up-all-bead-money-but-keeping-locations-in-states-that-embrace-ntias-new-contract-model/",
-   "domains": [
-    "broadbandbreakfast.com"
-   ],
-   "published": "2026-11-24T15:07+00:00",
-   "topics": [
-    "Starlink·통신"
-   ],
-   "official": false,
-   "score": 1
-  },
-  {
-   "title": "Tesla and SpaceX Appoint Five Directors to Lead Merger Talks: Report",
-   "url": "https://driveteslacanada.ca/news/tesla-spacex-merger-committees/?utm_source=rss&utm_medium=rss&utm_campaign=tesla-spacex-merger-committees",
-   "domains": [
-    "driveteslacanada.ca"
-   ],
-   "published": "2026-11-24T14:44+00:00",
-   "topics": [
-    "테슬라·머스크"
-   ],
-   "official": false,
-   "score": 1
-  },
-  {
-   "title": "Tesla (TSLA), SpaceX race for year-end merger deal before new Congress",
-   "url": "https://electrek.co/2026/11/24/tesla-spacex-merger-year-end-deadline-new-congress/",
-   "domains": [
-    "electrek.co"
-   ],
-   "published": "2026-11-24T14:43+00:00",
-   "topics": [
-    "정부·규제",
-    "테슬라·머스크"
-   ],
-   "official": false,
-   "score": 1
-  },
-  {
-   "title": "TSMC files application for proposed 2nm chip fab in Brazos County, Texas",
-   "url": "https://www.datacenterdynamics.com/en/news/tsmc-files-application-for-proposed-2nm-chip-fab-in-brazos-county-texas/",
-   "domains": [
-    "datacenterdynamics.com"
-   ],
-   "published": "2026-11-24T14:10+00:00",
-   "topics": [
-    "기타"
-   ],
-   "official": false,
-   "score": 1
-  },
-  {
-   "title": "Quantum Space Goes Public as SPACs Return",
-   "url": "https://payloadspace.com/quantum-space-goes-public-as-spacs-return/",
-   "domains": [
-    "payloadspace.com"
-   ],
-   "published": "2026-11-24T13:55+00:00",
-   "topics": [
-    "기타"
-   ],
-   "official": false,
-   "score": 1
-  },
-  {
-   "title": "Russia launches Progress 97 cargo ship to the International Space Station (video)",
-   "url": "https://www.space.com/space-exploration/international-space-station/russia-progress-97-cargo-launch-international-space-station",
-   "domains": [
-    "space.com"
-   ],
-   "published": "2026-11-24T13:16+00:00",
-   "topics": [
     "발사·Starship"
    ],
    "official": false,

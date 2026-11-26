@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-26T08:13:02+00:00",
+ "generated_at": "2026-11-26T21:28:52+00:00",
  "signals": {
-  "candidates_passed": 0,
-  "candidates_seen_30d": 403,
+  "candidates_passed": 1,
+  "candidates_seen_30d": 407,
   "feeds_failing_3x": [
    "DoD Contracts",
    "GDELT SpaceX",
@@ -69,9 +69,9 @@
    "feed": "https://9to5toys.com/feed/",
    "has_dates": true,
    "items_7d": 50,
-   "kw_ratio": 0.0,
-   "verdict": "부분(SpaceX 글 없음)",
-   "score": 520.2
+   "kw_ratio": 0.02,
+   "verdict": "기계 시험 통과(본문·신뢰도는 봇이 확인)",
+   "score": 572.22
   },
   {
    "domain": "dronedj.com",
@@ -139,8 +139,8 @@
    ],
    "sample": "https://futureplc.com/future-member-terms-and-conditions/",
    "titles": [
-    "SpaceX Starship debris becomes art in Ashley Zelinskie's 'The Weight of Space' (video, pho",
-    "Green light for Starmind: SpaceX gets approval to deploy 1 million AI satellites"
+    "'Star Trek IV: The Voyage Home' at 40: 'Trek' has never been as joyous or fun as in 'the o",
+    "Space plants with hot sauce: What ISS astronauts will be eating on Thanksgiving (video)"
    ],
    "robots": "허용",
    "feed": "https://futureplc.com/feed/",
@@ -179,8 +179,8 @@
    ],
    "sample": "https://go.future-advertising.com/Spacecom-Media-Kit.html",
    "titles": [
-    "SpaceX Starship debris becomes art in Ashley Zelinskie's 'The Weight of Space' (video, pho",
-    "Green light for Starmind: SpaceX gets approval to deploy 1 million AI satellites"
+    "'Star Trek IV: The Voyage Home' at 40: 'Trek' has never been as joyous or fun as in 'the o",
+    "Space plants with hot sauce: What ISS astronauts will be eating on Thanksgiving (video)"
    ],
    "robots": "허용",
    "feed": "https://futureplc.com/feed/",
@@ -239,7 +239,7 @@
    "name": "Space.com",
    "result": "성공",
    "items": 50,
-   "spacex_items": 13
+   "spacex_items": 10
   },
   {
    "name": "Advanced Television",
@@ -251,7 +251,7 @@
    "name": "Hacker News SpaceX",
    "result": "성공",
    "items": 50,
-   "spacex_items": 12
+   "spacex_items": 14
   },
   {
    "name": "Federal Register SpaceX",
@@ -262,7 +262,7 @@
   {
    "name": "SpaceNews",
    "result": "성공",
-   "items": 12,
+   "items": 13,
    "spacex_items": 0
   },
   {
@@ -305,7 +305,7 @@
    "name": "European Spaceflight",
    "result": "성공",
    "items": 10,
-   "spacex_items": 3
+   "spacex_items": 2
   },
   {
    "name": "Space Intel Report",
@@ -365,7 +365,7 @@
    "name": "Broadband Breakfast",
    "result": "성공",
    "items": 15,
-   "spacex_items": 5
+   "spacex_items": 3
   },
   {
    "name": "Light Reading",
@@ -412,7 +412,7 @@
   {
    "name": "The War Zone",
    "result": "성공",
-   "items": 41,
+   "items": 39,
    "spacex_items": 3
   },
   {
@@ -437,13 +437,13 @@
    "name": "The Decoder",
    "result": "성공",
    "items": 10,
-   "spacex_items": 0
+   "spacex_items": 1
   },
   {
    "name": "Data Center Dynamics",
    "result": "성공",
    "items": 20,
-   "spacex_items": 1
+   "spacex_items": 0
   },
   {
    "name": "Crunchbase News",
@@ -467,12 +467,12 @@
    "name": "Hacker News Starlink",
    "result": "성공",
    "items": 50,
-   "spacex_items": 16
+   "spacex_items": 15
   }
  ],
  "blocked_cited": {
-  "twitter.com": 49,
-  "x.com": 46,
+  "twitter.com": 47,
+  "x.com": 42,
   "reddit.com": 14,
   "t.co": 13,
   "google.com": 11,
@@ -480,10 +480,10 @@
   "arstechnica.com": 4,
   "bloomberg.com": 4,
   "cnbc.com": 4,
-  "reuters.com": 2
+  "reuters.com": 4
  },
  "stats": {
-  "requests": 167,
+  "requests": 166,
   "blocked_skipped": 0,
   "robots_denied": 2,
   "errors": 8,
