@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-25T21:39:39+00:00",
+ "generated_at": "2026-11-26T08:13:02+00:00",
  "signals": {
   "candidates_passed": 0,
   "candidates_seen_30d": 403,
@@ -18,7 +18,7 @@
  "top": [
   {
    "domain": "9to5mac.com",
-   "citations": 64,
+   "citations": 68,
    "cited_by": [
     "Electrek SpaceX"
    ],
@@ -33,11 +33,11 @@
    "items_7d": 100,
    "kw_ratio": 0.0,
    "verdict": "부분(SpaceX 글 없음)",
-   "score": 1292.8
+   "score": 1373.6
   },
   {
    "domain": "9to5google.com",
-   "citations": 48,
+   "citations": 51,
    "cited_by": [
     "Electrek SpaceX"
    ],
@@ -52,11 +52,11 @@
    "items_7d": 100,
    "kw_ratio": 0.0,
    "verdict": "부분(SpaceX 글 없음)",
-   "score": 969.6
+   "score": 1030.2
   },
   {
    "domain": "9to5toys.com",
-   "citations": 48,
+   "citations": 51,
    "cited_by": [
     "Electrek SpaceX"
    ],
@@ -71,11 +71,11 @@
    "items_7d": 50,
    "kw_ratio": 0.0,
    "verdict": "부분(SpaceX 글 없음)",
-   "score": 489.6
+   "score": 520.2
   },
   {
    "domain": "dronedj.com",
-   "citations": 48,
+   "citations": 51,
    "cited_by": [
     "Electrek SpaceX"
    ],
@@ -87,14 +87,14 @@
    "robots": "허용",
    "feed": "https://dronedj.com/feed/",
    "has_dates": true,
-   "items_7d": 16,
+   "items_7d": 15,
    "kw_ratio": 0.0,
    "verdict": "부분(SpaceX 글 없음)",
    "score": 163.2
   },
   {
    "domain": "hubspot.com",
-   "citations": 56,
+   "citations": 59,
    "cited_by": [
     "Broadband Breakfast"
    ],
@@ -109,11 +109,11 @@
    "items_7d": 3,
    "kw_ratio": 0.0,
    "verdict": "부분(SpaceX 글 없음)",
-   "score": 44.8
+   "score": 47.2
   },
   {
    "domain": "whatsapp.com",
-   "citations": 160,
+   "citations": 170,
    "cited_by": [
     "Space Intel Report",
     "Tesla Oracle"
@@ -129,11 +129,11 @@
    "items_7d": 0,
    "kw_ratio": 0.0,
    "verdict": "부분(피드 없음)",
-   "score": 16.0
+   "score": 17.0
   },
   {
    "domain": "futureplc.com",
-   "citations": 69,
+   "citations": 72,
    "cited_by": [
     "Space.com"
    ],
@@ -148,11 +148,11 @@
    "items_7d": 0,
    "kw_ratio": 0.0,
    "verdict": "부분(날짜·최신성 미달)",
-   "score": 13.8
+   "score": 14.4
   },
   {
    "domain": "addtoany.com",
-   "citations": 98,
+   "citations": 104,
    "cited_by": [
     "Advanced Television",
     "Data Center Dynamics",
@@ -160,8 +160,8 @@
    ],
    "sample": "https://www.addtoany.com/add_to/facebook?linkurl=https%3A%2F%2Fwww.advanced-television.com%2F2026%2F11%2F09%2Fviasat-our-new-satellites-will-drive-broadband%2F&linkname=Viasat%3A%20%E2%80%9COur%20new%20satellites%20will%20drive%20broadband%E2%80%9D",
    "titles": [
-    "What’s Happening in Space Policy November 22-29, 2026",
-    "Senate Appropriators Release $1.072 Trillion Defense Bill"
+    "FCC OKs 1m Starmind constellation",
+    "FCC Approves Elon Musk’s One Million Orbital Data Centers"
    ],
    "robots": "허용",
    "feed": "",
@@ -169,11 +169,11 @@
    "items_7d": 0,
    "kw_ratio": 0.0,
    "verdict": "부분(피드 없음)",
-   "score": 9.8
+   "score": 10.4
   },
   {
    "domain": "future-advertising.com",
-   "citations": 48,
+   "citations": 51,
    "cited_by": [
     "Space.com"
    ],
@@ -188,11 +188,11 @@
    "items_7d": 0,
    "kw_ratio": 0.0,
    "verdict": "부분(날짜·최신성 미달)",
-   "score": 9.6
+   "score": 10.2
   },
   {
    "domain": "informatechtarget.com",
-   "citations": 48,
+   "citations": 51,
    "cited_by": [
     "Light Reading"
    ],
@@ -207,7 +207,7 @@
    "items_7d": 0,
    "kw_ratio": 0.0,
    "verdict": "부분(날짜·최신성 미달)",
-   "score": 9.6
+   "score": 10.2
   }
  ],
  "seeds": [
@@ -245,13 +245,13 @@
    "name": "Advanced Television",
    "result": "성공",
    "items": 10,
-   "spacex_items": 0
+   "spacex_items": 1
   },
   {
    "name": "Hacker News SpaceX",
    "result": "성공",
    "items": 50,
-   "spacex_items": 10
+   "spacex_items": 12
   },
   {
    "name": "Federal Register SpaceX",
@@ -267,9 +267,9 @@
   },
   {
    "name": "NASASpaceflight",
-   "result": "오류: HTTPError",
-   "items": 0,
-   "spacex_items": 0
+   "result": "성공",
+   "items": 10,
+   "spacex_items": 4
   },
   {
    "name": "Spaceflight Now",
@@ -365,7 +365,7 @@
    "name": "Broadband Breakfast",
    "result": "성공",
    "items": 15,
-   "spacex_items": 4
+   "spacex_items": 5
   },
   {
    "name": "Light Reading",
@@ -381,9 +381,9 @@
   },
   {
    "name": "Fierce Network",
-   "result": "robots 거부",
-   "items": 0,
-   "spacex_items": 0
+   "result": "성공",
+   "items": 25,
+   "spacex_items": 2
   },
   {
    "name": "Breaking Defense",
@@ -471,22 +471,22 @@
   }
  ],
  "blocked_cited": {
-  "twitter.com": 43,
-  "x.com": 41,
+  "twitter.com": 49,
+  "x.com": 46,
   "reddit.com": 14,
+  "t.co": 13,
   "google.com": 11,
-  "t.co": 9,
-  "arstechnica.com": 5,
-  "fcc.gov": 3,
-  "bloomberg.com": 3,
-  "cnbc.com": 3,
+  "fcc.gov": 4,
+  "arstechnica.com": 4,
+  "bloomberg.com": 4,
+  "cnbc.com": 4,
   "reuters.com": 2
  },
  "stats": {
-  "requests": 162,
+  "requests": 167,
   "blocked_skipped": 0,
   "robots_denied": 2,
-  "errors": 10,
+  "errors": 8,
   "blocked_contacted": 0
  }
 }

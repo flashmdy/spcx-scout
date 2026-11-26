@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-11-25T21:39:39+00:00",
+ "generated_at": "2026-11-26T08:13:02+00:00",
  "count_48h": 42,
- "new_this_run": 15,
+ "new_this_run": 7,
  "items": [
   {
    "title": "NASA’s Northrop Grumman CRS-25 Mission Overview",
@@ -15,6 +15,104 @@
    ],
    "official": true,
    "score": 3
+  },
+  {
+   "title": "FCC OKs 1m Starmind constellation",
+   "url": "https://www.advanced-television.com/2026/11/26/fcc-oks-1m-starmind-constellation/",
+   "domains": [
+    "advanced-television.com"
+   ],
+   "published": "2026-11-26T07:00+00:00",
+   "topics": [
+    "정부·규제"
+   ],
+   "official": false,
+   "score": 1
+  },
+  {
+   "title": "SpaceX gets FCC approval for 1M satellites to build data centers in space",
+   "url": "https://www.cbsnews.com/news/spacex-fcc-approval-data-centers-space/",
+   "domains": [
+    "cbsnews.com"
+   ],
+   "published": "2026-11-26T05:39+00:00",
+   "topics": [
+    "정부·규제",
+    "AI·xAI"
+   ],
+   "official": false,
+   "score": 1
+  },
+  {
+   "title": "US approves SpaceX plan to send a million data satellites to space",
+   "url": "https://www.bbc.co.uk/news/articles/cwp836l8n1jgo",
+   "domains": [
+    "bbc.co.uk"
+   ],
+   "published": "2026-11-26T01:42+00:00",
+   "topics": [
+    "기타"
+   ],
+   "official": false,
+   "score": 1
+  },
+  {
+   "title": "FCC green lights SpaceX’s plan to launch 1 million ‘Starmind’ data center satellites",
+   "url": "https://spaceflightnow.com/2026/11/26/fcc-green-lights-spacexs-plan-to-launch-1-million-starmind-data-center-satellites/",
+   "domains": [
+    "spaceflightnow.com"
+   ],
+   "published": "2026-11-26T01:27+00:00",
+   "topics": [
+    "정부·규제",
+    "AI·xAI",
+    "발사·Starship"
+   ],
+   "official": false,
+   "score": 1
+  },
+  {
+   "title": "FCC Approves Elon Musk’s One Million Orbital Data Centers",
+   "url": "https://spacepolicyonline.com/news/fcc-approves-elon-musks-one-million-orbital-data-centers/",
+   "domains": [
+    "spacepolicyonline.com"
+   ],
+   "published": "2026-11-26T00:42+00:00",
+   "topics": [
+    "정부·규제",
+    "AI·xAI",
+    "발사·Starship",
+    "테슬라·머스크"
+   ],
+   "official": false,
+   "score": 1
+  },
+  {
+   "title": "SpaceX to contribute one share of its Class A common stock to every kid",
+   "url": "https://ir.spacex.com/updates/releases-details/2026/SpaceX-to-Invest-in-the-Next-Generation-of-Americans-2026-r_LYQ5cH94/default.aspx",
+   "domains": [
+    "spacex.com"
+   ],
+   "published": "2026-11-25T22:48+00:00",
+   "topics": [
+    "금융·IPO"
+   ],
+   "official": false,
+   "score": 1
+  },
+  {
+   "title": "SpaceX will donate shares to millions of American children, Musk to match",
+   "url": "https://driveteslacanada.ca/spacex/spacex-trump-accounts-share-donation/?utm_source=rss&utm_medium=rss&utm_campaign=spacex-trump-accounts-share-donation",
+   "domains": [
+    "driveteslacanada.ca"
+   ],
+   "published": "2026-11-25T21:47+00:00",
+   "topics": [
+    "금융·IPO",
+    "테슬라·머스크"
+   ],
+   "official": false,
+   "score": 1
   },
   {
    "title": "FCC approves SpaceX plan to put AI data centers in space",
@@ -438,99 +536,6 @@
    ],
    "published": "2026-11-24T13:16+00:00",
    "topics": [
-    "발사·Starship"
-   ],
-   "official": false,
-   "score": 1
-  },
-  {
-   "title": "Elon Musk says SpaceX and Tesla exploring largest merger in history",
-   "url": "https://www.aljazeera.com/economy/2026/10/21/elon-musk-says-spacex-and-tesla-exploring-largest-merger-in",
-   "domains": [
-    "aljazeera.com"
-   ],
-   "published": "2026-11-24T12:33+00:00",
-   "topics": [
-    "테슬라·머스크"
-   ],
-   "official": false,
-   "score": 1
-  },
-  {
-   "title": "Why Amazon's Rival to Starlink Is Struggling to Catch Up With SpaceX",
-   "url": "https://www.wsj.com/tech/amazon-leo-starlink-rival-5bb0e6a0",
-   "domains": [
-    "wsj.com"
-   ],
-   "published": "2026-11-24T10:30+00:00",
-   "topics": [
-    "Starlink·통신"
-   ],
-   "official": false,
-   "score": 1
-  },
-  {
-   "title": "FSD v15’s ‘Tesla Reality View’ AI driving visualizations are actually mind-bending (videos)",
-   "url": "https://www.teslaoracle.com/2026/11/23/fsd-v15s-tesla-reality-view-ai-driving-visualizations-are-actually-mind-bending-videos/",
-   "domains": [
-    "teslaoracle.com"
-   ],
-   "published": "2026-11-24T05:02+00:00",
-   "topics": [
-    "AI·xAI",
-    "테슬라·머스크"
-   ],
-   "official": false,
-   "score": 1
-  },
-  {
-   "title": "SpaceX Declines Bead Winnings, Wants to Serve Locations at No Cost",
-   "url": "https://broadbandbreakfast.com/spacex-declines-bead-winnings-wants-to-serve-locations-at-no-cost/",
-   "domains": [
-    "broadbandbreakfast.com"
-   ],
-   "published": "2026-11-24T00:41+00:00",
-   "topics": [
-    "기타"
-   ],
-   "official": false,
-   "score": 1
-  },
-  {
-   "title": "Northrop books sixth Falcon 9 for Cygnus as Antares 330 waits",
-   "url": "https://www.nasaspaceflight.com/2026/11/northrop-sixth-f9-cygnus-antares-waits/",
-   "domains": [
-    "nasaspaceflight.com"
-   ],
-   "published": "2026-11-23T23:28+00:00",
-   "topics": [
-    "발사·Starship"
-   ],
-   "official": false,
-   "score": 1
-  },
-  {
-   "title": "3 Launches in 2 Weeks: Space Data Network ‘Backbone’ Takes Shape",
-   "url": "https://www.airandspaceforces.com/space-force-data-network-backbone-takes-shape/",
-   "domains": [
-    "airandspaceforces.com"
-   ],
-   "published": "2026-11-23T22:24+00:00",
-   "topics": [
-    "발사·Starship"
-   ],
-   "official": false,
-   "score": 1
-  },
-  {
-   "title": "Live coverage: SpaceX to launch classified payload for the U.S. Space Force",
-   "url": "https://spaceflightnow.com/2026/11/23/live-coverage-spacex-to-launch-classified-payload-for-the-u-s-space-force-3/",
-   "domains": [
-    "spaceflightnow.com"
-   ],
-   "published": "2026-11-23T22:21+00:00",
-   "topics": [
-    "국방",
     "발사·Starship"
    ],
    "official": false,
