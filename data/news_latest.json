@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-11-26T21:28:52+00:00",
- "count_48h": 35,
- "new_this_run": 7,
+ "generated_at": "2026-11-27T08:26:23+00:00",
+ "count_48h": 30,
+ "new_this_run": 1,
  "items": [
   {
    "title": "US approves SpaceX plan to send a million data satellites to space",
@@ -16,6 +16,20 @@
    ],
    "official": false,
    "score": 2
+  },
+  {
+   "title": "FCC authorizes SpaceX to deploy up to 1 million Starmind AI satellites by 2040",
+   "url": "https://www.nasaspaceflight.com/2026/11/fcc-authorizes-spacex-1-million-starmind-2040/",
+   "domains": [
+    "nasaspaceflight.com"
+   ],
+   "published": "2026-11-26T22:40+00:00",
+   "topics": [
+    "정부·규제",
+    "AI·xAI"
+   ],
+   "official": false,
+   "score": 1
   },
   {
    "title": "Starlink offers 50% off Residential service in Canada and U.S. for Black Friday",
@@ -395,85 +409,6 @@
    "published": "2026-11-25T11:52+00:00",
    "topics": [
     "AI·xAI"
-   ],
-   "official": false,
-   "score": 1
-  },
-  {
-   "title": "SpaceX rejects $738M fed subsidy, betting on Starlink alone",
-   "url": "https://www.teslarati.com/spacex-starlink-rejects-fed-subsidy/",
-   "domains": [
-    "teslarati.com"
-   ],
-   "published": "2026-11-25T08:05+00:00",
-   "topics": [
-    "Starlink·통신"
-   ],
-   "official": false,
-   "score": 1
-  },
-  {
-   "title": "Launch Preview: Russian, Chinese, and SpaceX rockets to launch space station missions",
-   "url": "https://www.nasaspaceflight.com/2026/11/launch-preview-112426/",
-   "domains": [
-    "nasaspaceflight.com"
-   ],
-   "published": "2026-11-25T01:06+00:00",
-   "topics": [
-    "발사·Starship"
-   ],
-   "official": false,
-   "score": 1
-  },
-  {
-   "title": "SpaceX declines about US$738 million in BEAD broadband subsidies – here’s why",
-   "url": "https://driveteslacanada.ca/news/spacex-declines-bead-broadband-subsidies/?utm_source=rss&utm_medium=rss&utm_campaign=spacex-declines-bead-broadband-subsidies",
-   "domains": [
-    "driveteslacanada.ca"
-   ],
-   "published": "2026-11-25T00:18+00:00",
-   "topics": [
-    "Starlink·통신"
-   ],
-   "official": false,
-   "score": 1
-  },
-  {
-   "title": "Joshua Kutryk welcomes daughter from the space station",
-   "url": "https://spaceq.ca/kutryk-welcomes-daughter-space-station/",
-   "domains": [
-    "spaceq.ca"
-   ],
-   "published": "2026-11-25T00:01+00:00",
-   "topics": [
-    "기타"
-   ],
-   "official": false,
-   "score": 1
-  },
-  {
-   "title": "Fiber ISPs, Advocates Don’t Like SpaceX’s BEAD Deal",
-   "url": "https://broadbandbreakfast.com/fiber-isps-advocates-dont-like-spacexs-bead-deal/",
-   "domains": [
-    "broadbandbreakfast.com"
-   ],
-   "published": "2026-11-24T23:30+00:00",
-   "topics": [
-    "기타"
-   ],
-   "official": false,
-   "score": 1
-  },
-  {
-   "title": "SpaceX launches secretive spy satellites from California for US Space Force (video)",
-   "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-launches-secretive-spy-satellites-from-california-for-us-space-force-video",
-   "domains": [
-    "space.com"
-   ],
-   "published": "2026-11-24T22:37+00:00",
-   "topics": [
-    "국방",
-    "발사·Starship"
    ],
    "official": false,
    "score": 1
