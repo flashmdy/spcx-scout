@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-27T08:26:23+00:00",
+ "generated_at": "2026-11-27T21:15:09+00:00",
  "signals": {
   "candidates_passed": 0,
-  "candidates_seen_30d": 407,
+  "candidates_seen_30d": 418,
   "feeds_failing_3x": [
    "DoD Contracts",
    "GDELT SpaceX",
@@ -87,10 +87,10 @@
    "robots": "허용",
    "feed": "https://dronedj.com/feed/",
    "has_dates": true,
-   "items_7d": 13,
+   "items_7d": 15,
    "kw_ratio": 0.0,
    "verdict": "부분(SpaceX 글 없음)",
-   "score": 151.2
+   "score": 172.8
   },
   {
    "domain": "hubspot.com",
@@ -101,15 +101,15 @@
    "sample": "https://payments-na1.hubspot.com/payments/7TyXGqH4bm?referrer=PAYMENT_LINK&ref=broadbandbreakfast.com",
    "titles": [
     "FCC Approves SpaceX to Launch 1 Million Orbital Data Centers",
-    "Fiber ISPs, Advocates Don’t Like SpaceX’s BEAD Deal"
+    "FCC Approves SpaceX to Launch 1 Million Orbital Data Centers"
    ],
    "robots": "허용",
    "feed": "https://hubspot.com/feed/",
    "has_dates": true,
-   "items_7d": 3,
+   "items_7d": 2,
    "kw_ratio": 0.0,
    "verdict": "부분(SpaceX 글 없음)",
-   "score": 48.8
+   "score": 36.6
   },
   {
    "domain": "whatsapp.com",
@@ -121,7 +121,7 @@
    "sample": "https://api.whatsapp.com/send?text=MDA%20Space%20on%20Telesat%20Lightspeed%20delay%20and%20how%20it%27s%20positioning%20itself%20to%20win%20US%20and%20European%20military%20satellite%20business %0A%0A https%3A%2F%2Fwww.spaceintelreport.com%2Fmda-space-on-telesat-lightspeed-delay-and-how-its-positioning-itself-to-win-us-and-european-military-satellite-business%2F",
    "titles": [
     "Ukraine defense-tech markeplace coordinator/investor Brave1: Remove Starlink geo-fencing a",
-    "As EU weighs $27.4B add-on for Ukrainian defense, Ukraine digital minister focuses on dive"
+    "Tesla expands Dallas, TX, Robotaxi geofence by 83% just days after Cybercab launch, watch "
    ],
    "robots": "허용",
    "feed": "",
@@ -139,8 +139,8 @@
    ],
    "sample": "https://futureplc.com/future-member-terms-and-conditions/",
    "titles": [
-    "'Star Trek IV: The Voyage Home' at 40: 'Trek' has never been as joyous or fun as in 'the o",
-    "Space plants with hot sauce: What ISS astronauts will be eating on Thanksgiving (video)"
+    "Love Star Wars, Andy Weir or Ryan Gosling? These Lego Star Wars and Project Hail Mary sets",
+    "Dropping missiles from orbit? 2 European companies sign agreement to study the idea"
    ],
    "robots": "허용",
    "feed": "https://futureplc.com/feed/",
@@ -152,7 +152,7 @@
   },
   {
    "domain": "addtoany.com",
-   "citations": 109,
+   "citations": 111,
    "cited_by": [
     "Advanced Television",
     "Data Center Dynamics",
@@ -160,7 +160,7 @@
    ],
    "sample": "https://www.addtoany.com/add_to/facebook?linkurl=https%3A%2F%2Fwww.advanced-television.com%2F2026%2F11%2F09%2Fviasat-our-new-satellites-will-drive-broadband%2F&linkname=Viasat%3A%20%E2%80%9COur%20new%20satellites%20will%20drive%20broadband%E2%80%9D",
    "titles": [
-    "FCC OKs 1m Starmind constellation",
+    "Problems over SpaceX’s Louisiana plans",
     "FCC Approves Elon Musk’s One Million Orbital Data Centers"
    ],
    "robots": "허용",
@@ -169,7 +169,7 @@
    "items_7d": 0,
    "kw_ratio": 0.0,
    "verdict": "부분(피드 없음)",
-   "score": 10.9
+   "score": 11.1
   },
   {
    "domain": "future-advertising.com",
@@ -179,8 +179,8 @@
    ],
    "sample": "https://go.future-advertising.com/Spacecom-Media-Kit.html",
    "titles": [
-    "'Star Trek IV: The Voyage Home' at 40: 'Trek' has never been as joyous or fun as in 'the o",
-    "Space plants with hot sauce: What ISS astronauts will be eating on Thanksgiving (video)"
+    "Love Star Wars, Andy Weir or Ryan Gosling? These Lego Star Wars and Project Hail Mary sets",
+    "Dropping missiles from orbit? 2 European companies sign agreement to study the idea"
    ],
    "robots": "허용",
    "feed": "https://futureplc.com/feed/",
@@ -239,7 +239,7 @@
    "name": "Space.com",
    "result": "성공",
    "items": 50,
-   "spacex_items": 10
+   "spacex_items": 11
   },
   {
    "name": "Advanced Television",
@@ -251,7 +251,7 @@
    "name": "Hacker News SpaceX",
    "result": "성공",
    "items": 50,
-   "spacex_items": 16
+   "spacex_items": 19
   },
   {
    "name": "Federal Register SpaceX",
@@ -262,7 +262,7 @@
   {
    "name": "SpaceNews",
    "result": "성공",
-   "items": 13,
+   "items": 12,
    "spacex_items": 0
   },
   {
@@ -311,7 +311,7 @@
    "name": "Space Intel Report",
    "result": "성공",
    "items": 10,
-   "spacex_items": 2
+   "spacex_items": 1
   },
   {
    "name": "Orbital Today",
@@ -323,7 +323,7 @@
    "name": "SpaceQ",
    "result": "성공",
    "items": 10,
-   "spacex_items": 2
+   "spacex_items": 3
   },
   {
    "name": "Spaceflight Insider",
@@ -339,8 +339,8 @@
   },
   {
    "name": "NASA",
-   "result": "성공",
-   "items": 10,
+   "result": "오류: HTTPError",
+   "items": 0,
    "spacex_items": 0
   },
   {
@@ -365,7 +365,7 @@
    "name": "Broadband Breakfast",
    "result": "성공",
    "items": 15,
-   "spacex_items": 3
+   "spacex_items": 1
   },
   {
    "name": "Light Reading",
@@ -412,20 +412,20 @@
   {
    "name": "The War Zone",
    "result": "성공",
-   "items": 39,
-   "spacex_items": 3
+   "items": 35,
+   "spacex_items": 1
   },
   {
    "name": "Drive Tesla Canada",
    "result": "성공",
    "items": 10,
-   "spacex_items": 2
+   "spacex_items": 1
   },
   {
    "name": "Tesla Oracle",
    "result": "성공",
    "items": 10,
-   "spacex_items": 8
+   "spacex_items": 7
   },
   {
    "name": "VentureBeat",
@@ -437,13 +437,13 @@
    "name": "The Decoder",
    "result": "성공",
    "items": 10,
-   "spacex_items": 1
+   "spacex_items": 0
   },
   {
    "name": "Data Center Dynamics",
    "result": "성공",
    "items": 20,
-   "spacex_items": 0
+   "spacex_items": 2
   },
   {
    "name": "Crunchbase News",
@@ -471,22 +471,22 @@
   }
  ],
  "blocked_cited": {
-  "twitter.com": 48,
-  "x.com": 44,
-  "reddit.com": 14,
-  "t.co": 14,
-  "google.com": 11,
-  "reuters.com": 5,
+  "twitter.com": 45,
+  "x.com": 41,
+  "reddit.com": 13,
+  "t.co": 12,
+  "google.com": 9,
   "fcc.gov": 4,
   "bloomberg.com": 4,
   "arstechnica.com": 3,
-  "cnbc.com": 3
+  "cnbc.com": 3,
+  "reuters.com": 3
  },
  "stats": {
-  "requests": 165,
+  "requests": 161,
   "blocked_skipped": 0,
   "robots_denied": 2,
-  "errors": 8,
+  "errors": 9,
   "blocked_contacted": 0
  }
 }
