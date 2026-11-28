@@ -1,26 +1,18 @@
 # SPCX 뉴스 모음 — 최근 48시간
 
-갱신: 2026-11-28 06:15 (한국 시간) · 글 27건 · 교차 확인 = 같은 소식을 낸 사이트 수 · 🏛 = 정부·공식 출처
+갱신: 2026-11-28 16:44 (한국 시간) · 글 21건 · 교차 확인 = 같은 소식을 낸 사이트 수 · 🏛 = 정부·공식 출처
 
-## 금융·IPO (2)
-
-- [SpaceX to contribute one share of its Class A common stock to every kid](https://ir.spacex.com/updates/releases-details/2026/SpaceX-to-Invest-in-the-Next-Generation-of-Americans-2026-r_LYQ5cH94/default.aspx) — spacex.com · 11-26 07:48
-- [SpaceX will donate shares to millions of American children, Musk to match](https://driveteslacanada.ca/spacex/spacex-trump-accounts-share-donation/?utm_source=rss&utm_medium=rss&utm_campaign=spacex-trump-accounts-share-donation) — driveteslacanada.ca · 11-26 06:47
-
-## 정부·규제 (9)
+## 정부·규제 (5)
 
 - [FCC clears SpaceX Starmind data centre satellites to fly](https://spaceq.ca/spacex-starmind-fcc-million-orbital-data-centres/) — spaceq.ca · 11-28 03:28
 - [FCC approves SpaceX application to deploy one million satellites for data centers in space](https://www.datacenterdynamics.com/en/news/fcc-approves-spacex-application-to-deploy-one-million-satellites-for-data-centers-in-space/) — datacenterdynamics.com · 11-27 22:00
 - [FCC authorizes SpaceX to deploy up to 1 million Starmind AI satellites by 2040](https://www.nasaspaceflight.com/2026/11/fcc-authorizes-spacex-1-million-starmind-2040/) — nasaspaceflight.com · 11-27 07:40
 - [FCC clears SpaceX to deploy up to 1 million Starmind satellites for orbital AI data centers by 2040](https://the-decoder.com/fcc-clears-spacex-to-deploy-up-to-1-million-starmind-satellites-for-orbital-ai-data-centers-by-2040/) — the-decoder.com · 11-26 22:41
 - [FCC says SpaceX can deploy 1M satellites for data centers in space](https://www.npr.org/2026/11/26/g-s1-155940/fcc-spacex-satellites-data-centers-in-space) — npr.org · 11-26 20:39
-- [FCC OKs 1m Starmind constellation](https://www.advanced-television.com/2026/11/26/fcc-oks-1m-starmind-constellation/) — advanced-television.com · 11-26 16:00
-- [SpaceX gets FCC approval for 1M satellites to build data centers in space](https://www.cbsnews.com/news/spacex-fcc-approval-data-centers-space/) — cbsnews.com · 11-26 14:39
-- [FCC green lights SpaceX’s plan to launch 1 million ‘Starmind’ data center satellites](https://spaceflightnow.com/2026/11/26/fcc-green-lights-spacexs-plan-to-launch-1-million-starmind-data-center-satellites/) — spaceflightnow.com · 11-26 10:27
-- [FCC Approves Elon Musk’s One Million Orbital Data Centers](https://spacepolicyonline.com/news/fcc-approves-elon-musks-one-million-orbital-data-centers/) — spacepolicyonline.com · 11-26 09:42
 
-## AI·xAI (2)
+## AI·xAI (3)
 
+- [The ESO is Deeply Concerned About Space Data Centers, and the Rest of Us Should Be Too](https://www.universetoday.com/articles/the-eso-is-deeply-concerned-about-space-data-centers-and-the-rest-of-us-should-be-too) — universetoday.com · 11-28 07:51
 - [States sue SpaceX to stop Grok from generating child sex images, revenge porn](https://www.oag.state.va.us/media-center/news-releases/jay-jones/3162-attorneys-general-jones-and-rayfield-file-suit-against-spacex-parent-company-of-x-xai-and-grok-over-creation-and-promotion-of-child-exploitation-and-non-consensual-images-on-platform) — va.us · 11-28 04:42
 - [SpaceX installs $250m worth of Tesla Megapack batteries at Starbase data center site in Texas - report](https://www.datacenterdynamics.com/en/news/spacex-installs-250m-worth-of-tesla-megapack-batteries-at-starbase-data-center-site-in-texas-report/) — datacenterdynamics.com · 11-27 23:00
 
@@ -40,9 +32,8 @@
 
 - [Elon Musk will give every American kid a SpaceX share every year](https://www.teslarati.com/elon-musk-gift-spacex-share-kid/) — teslarati.com · 11-27 17:58
 
-## 기타 (7)
+## 기타 (6)
 
-- [US approves SpaceX plan to send a million data satellites to space](https://www.bbc.co.uk/news/articles/cwp836l8n1jgo) — bbc.co.uk · 11-26 10:42 · 교차 2곳
 - [Love Star Wars, Andy Weir or Ryan Gosling? These Lego Star Wars and Project Hail Mary sets are my favorites](https://www.space.com/entertainment/space-toys-lego/love-star-wars-andy-weir-or-ryan-gosling-these-lego-star-wars-and-project-hail-mary-sets-are-my-favorites) — space.com · 11-28 05:29
 - [SpaceX is not a monopoly, tech incumbents obviously lack urgency](https://blog.caseyhandmer.com/2026/11/25/spacex-is-not-a-monopoly-tech-incumbents-obviously-lack-urgency-and-other-harsh-truths/) — caseyhandmer.com · 11-28 02:50
 - [Artemis III astronauts meet their spacecraft | Space photo of the day for Nov. 27, 2026](https://www.space.com/space-exploration/artemis/artemis-iii-astronauts-meet-their-moonship-space-photo-of-the-day-for-nov-27-2026) — space.com · 11-28 00:00

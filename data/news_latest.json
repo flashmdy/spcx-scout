@@ -1,21 +1,20 @@
 {
- "generated_at": "2026-11-27T21:15:09+00:00",
- "count_48h": 27,
- "new_this_run": 12,
+ "generated_at": "2026-11-28T07:44:19+00:00",
+ "count_48h": 21,
+ "new_this_run": 1,
  "items": [
   {
-   "title": "US approves SpaceX plan to send a million data satellites to space",
-   "url": "https://www.bbc.co.uk/news/articles/cwp836l8n1jgo",
+   "title": "The ESO is Deeply Concerned About Space Data Centers, and the Rest of Us Should Be Too",
+   "url": "https://www.universetoday.com/articles/the-eso-is-deeply-concerned-about-space-data-centers-and-the-rest-of-us-should-be-too",
    "domains": [
-    "bbc.co.uk",
-    "bbc.com"
+    "universetoday.com"
    ],
-   "published": "2026-11-26T01:42+00:00",
+   "published": "2026-11-27T22:51+00:00",
    "topics": [
-    "기타"
+    "AI·xAI"
    ],
    "official": false,
-   "score": 2
+   "score": 1
   },
   {
    "title": "Love Star Wars, Andy Weir or Ryan Gosling? These Lego Star Wars and Project Hail Mary sets are my favorites",
@@ -281,91 +280,6 @@
    "published": "2026-11-26T11:00+00:00",
    "topics": [
     "기타"
-   ],
-   "official": false,
-   "score": 1
-  },
-  {
-   "title": "FCC OKs 1m Starmind constellation",
-   "url": "https://www.advanced-television.com/2026/11/26/fcc-oks-1m-starmind-constellation/",
-   "domains": [
-    "advanced-television.com"
-   ],
-   "published": "2026-11-26T07:00+00:00",
-   "topics": [
-    "정부·규제"
-   ],
-   "official": false,
-   "score": 1
-  },
-  {
-   "title": "SpaceX gets FCC approval for 1M satellites to build data centers in space",
-   "url": "https://www.cbsnews.com/news/spacex-fcc-approval-data-centers-space/",
-   "domains": [
-    "cbsnews.com"
-   ],
-   "published": "2026-11-26T05:39+00:00",
-   "topics": [
-    "정부·규제",
-    "AI·xAI"
-   ],
-   "official": false,
-   "score": 1
-  },
-  {
-   "title": "FCC green lights SpaceX’s plan to launch 1 million ‘Starmind’ data center satellites",
-   "url": "https://spaceflightnow.com/2026/11/26/fcc-green-lights-spacexs-plan-to-launch-1-million-starmind-data-center-satellites/",
-   "domains": [
-    "spaceflightnow.com"
-   ],
-   "published": "2026-11-26T01:27+00:00",
-   "topics": [
-    "정부·규제",
-    "AI·xAI",
-    "발사·Starship"
-   ],
-   "official": false,
-   "score": 1
-  },
-  {
-   "title": "FCC Approves Elon Musk’s One Million Orbital Data Centers",
-   "url": "https://spacepolicyonline.com/news/fcc-approves-elon-musks-one-million-orbital-data-centers/",
-   "domains": [
-    "spacepolicyonline.com"
-   ],
-   "published": "2026-11-26T00:42+00:00",
-   "topics": [
-    "정부·규제",
-    "AI·xAI",
-    "발사·Starship",
-    "테슬라·머스크"
-   ],
-   "official": false,
-   "score": 1
-  },
-  {
-   "title": "SpaceX to contribute one share of its Class A common stock to every kid",
-   "url": "https://ir.spacex.com/updates/releases-details/2026/SpaceX-to-Invest-in-the-Next-Generation-of-Americans-2026-r_LYQ5cH94/default.aspx",
-   "domains": [
-    "spacex.com"
-   ],
-   "published": "2026-11-25T22:48+00:00",
-   "topics": [
-    "금융·IPO"
-   ],
-   "official": false,
-   "score": 1
-  },
-  {
-   "title": "SpaceX will donate shares to millions of American children, Musk to match",
-   "url": "https://driveteslacanada.ca/spacex/spacex-trump-accounts-share-donation/?utm_source=rss&utm_medium=rss&utm_campaign=spacex-trump-accounts-share-donation",
-   "domains": [
-    "driveteslacanada.ca"
-   ],
-   "published": "2026-11-25T21:47+00:00",
-   "topics": [
-    "금융·IPO",
-    "테슬라·머스크"
    ],
    "official": false,
    "score": 1

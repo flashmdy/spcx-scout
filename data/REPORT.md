@@ -1,16 +1,16 @@
 # SPCX 출처 탐색 결과
 
-마지막 실행: **2026-11-28 06:15 (한국 시간)** · 6시간마다 자동 갱신
+마지막 실행: **2026-11-28 16:44 (한국 시간)** · 6시간마다 자동 갱신
 
 | 항목 | 값 |
 |---|---|
 | 차단 사이트 접속 | ✅ 0건 |
-| 씨앗 출처 성공 | 34/43 |
+| 씨앗 출처 성공 | 35/43 |
 | 기계 시험 통과 후보 | 0 |
-| 최근 30일 본 후보 | 418 |
+| 최근 30일 본 후보 | 423 |
 | 봇이 부를 일꾼 수 | 1 |
 | 3회 연속 실패 씨앗 | DoD Contracts, GDELT SpaceX, GDELT Starlink, Orbital Today, Spaceflight Insider, Telecompetitor, US Space Force, VentureBeat |
-| 뉴스 글(이번 새 글 / 48시간 / 보관 30일) | 12 / 27 / 424 |
+| 뉴스 글(이번 새 글 / 48시간 / 보관 30일) | 1 / 21 / 425 |
 
 📰 정리된 뉴스: [NEWS.md](NEWS.md) · 날짜별: [news 폴더](news/)
 
@@ -18,16 +18,16 @@
 
 | # | 사이트 | 판정 | 인용 | 7일 글 | SpaceX 비율 | 피드 |
 |---|---|---|---|---|---|---|
-| 1 | 9to5mac.com | △ 부분(SpaceX 글 없음) | 72 | 100 | 0% | [피드](https://9to5mac.com/feed/) |
-| 2 | 9to5google.com | △ 부분(SpaceX 글 없음) | 54 | 100 | 0% | [피드](https://9to5google.com/feed/) |
-| 3 | 9to5toys.com | △ 부분(SpaceX 글 없음) | 54 | 50 | 0% | [피드](https://9to5toys.com/feed/) |
-| 4 | dronedj.com | △ 부분(SpaceX 글 없음) | 54 | 15 | 0% | [피드](https://dronedj.com/feed/) |
-| 5 | hubspot.com | △ 부분(SpaceX 글 없음) | 61 | 2 | 0% | [피드](https://hubspot.com/feed/) |
-| 6 | whatsapp.com | △ 부분(피드 없음) | 180 | 0 | 0% | - |
-| 7 | futureplc.com | △ 부분(날짜·최신성 미달) | 75 | 0 | 0% | [피드](https://futureplc.com/feed/) |
-| 8 | addtoany.com | △ 부분(피드 없음) | 111 | 0 | 0% | - |
-| 9 | future-advertising.com | △ 부분(날짜·최신성 미달) | 54 | 0 | 0% | [피드](https://futureplc.com/feed/) |
-| 10 | informatechtarget.com | △ 부분(날짜·최신성 미달) | 54 | 0 | 0% | [피드](https://informatechtarget.com/feed/) |
+| 1 | 9to5mac.com | △ 부분(SpaceX 글 없음) | 76 | 100 | 0% | [피드](https://9to5mac.com/feed/) |
+| 2 | 9to5google.com | △ 부분(SpaceX 글 없음) | 57 | 100 | 0% | [피드](https://9to5google.com/feed/) |
+| 3 | 9to5toys.com | △ 부분(SpaceX 글 없음) | 57 | 50 | 0% | [피드](https://9to5toys.com/feed/) |
+| 4 | dronedj.com | △ 부분(SpaceX 글 없음) | 57 | 13 | 0% | [피드](https://dronedj.com/feed/) |
+| 5 | hubspot.com | △ 부분(SpaceX 글 없음) | 62 | 2 | 0% | [피드](https://hubspot.com/feed/) |
+| 6 | whatsapp.com | △ 부분(피드 없음) | 188 | 0 | 0% | - |
+| 7 | futureplc.com | △ 부분(날짜·최신성 미달) | 78 | 0 | 0% | [피드](https://futureplc.com/feed/) |
+| 8 | addtoany.com | △ 부분(피드 없음) | 118 | 0 | 0% | - |
+| 9 | future-advertising.com | △ 부분(날짜·최신성 미달) | 57 | 0 | 0% | [피드](https://futureplc.com/feed/) |
+| 10 | informatechtarget.com | △ 부분(날짜·최신성 미달) | 57 | 0 | 0% | [피드](https://informatechtarget.com/feed/) |
 
 ✅ 통과(본문·신뢰도는 봇이 따로 확인) · △ 부분 · ⛔ 접속 불가
 
@@ -37,7 +37,6 @@
 |---|---|
 | Orbital Today | 일시 중지(5회 연속 실패) |
 | Spaceflight Insider | 일시 중지(5회 연속 실패) |
-| NASA | 오류: HTTPError |
 | US Space Force | 일시 중지(5회 연속 실패) |
 | DoD Contracts | 일시 중지(5회 연속 실패) |
 | Telecompetitor | 일시 중지(5회 연속 실패) |
@@ -50,8 +49,8 @@
 | 출처 | 전체 | SpaceX |
 |---|---|---|
 | Electrek SpaceX | 80 | 74 |
+| Hacker News SpaceX | 50 | 21 |
 | Federal Register SpaceX | 20 | 20 |
-| Hacker News SpaceX | 50 | 19 |
 | TechCrunch SpaceX | 18 | 16 |
 | Hacker News Starlink | 50 | 13 |
 | Space.com | 50 | 11 |
@@ -63,21 +62,22 @@
 | SpacePolicyOnline | 10 | 4 |
 | CBS News Technology | 30 | 3 |
 | Via Satellite | 10 | 3 |
-| SpaceQ | 10 | 3 |
 | Crunchbase News | 10 | 3 |
 | Payload | 13 | 2 |
 | European Spaceflight | 10 | 2 |
+| SpaceQ | 10 | 2 |
 | Fierce Network | 25 | 2 |
 | Data Center Dynamics | 20 | 2 |
 | Advanced Television | 10 | 1 |
+| Universe Today | 20 | 1 |
 | Space Intel Report | 10 | 1 |
 | Broadband Breakfast | 15 | 1 |
 | Air & Space Forces | 9 | 1 |
 | The War Zone | 35 | 1 |
 | Drive Tesla Canada | 10 | 1 |
 | SpaceNews | 12 | 0 |
-| Universe Today | 20 | 0 |
 | Everyday Astronaut | 0 | 0 |
+| NASA | 10 | 0 |
 | RCR Wireless | 10 | 0 |
 | Breaking Defense | 15 | 0 |
 | DefenseScoop | 10 | 0 |
@@ -86,12 +86,13 @@
 
 ## 차단 사이트 인용 횟수 (접속 안 함)
 
-twitter.com 45, x.com 41, reddit.com 13, t.co 12, google.com 9, fcc.gov 4, bloomberg.com 4, arstechnica.com 3, cnbc.com 3, reuters.com 3
+twitter.com 43, x.com 41, reddit.com 13, t.co 12, google.com 9, fcc.gov 4, bloomberg.com 4, reuters.com 4, arstechnica.com 3, cnbc.com 3
 
 ## 최근 실행 10회
 
 | 시각(UTC) | 씨앗 성공 | 요청 | 오류 | 차단 접속 | 통과 |
 |---|---|---|---|---|---|
+| 2026-11-28 07:44 | 35/43 | 161 | 10 | 0 | 0 |
 | 2026-11-27 21:15 | 34/43 | 161 | 9 | 0 | 0 |
 | 2026-11-27 08:26 | 35/43 | 165 | 8 | 0 | 0 |
 | 2026-11-26 21:28 | 35/43 | 166 | 8 | 0 | 1 |
@@ -101,6 +102,5 @@ twitter.com 45, x.com 41, reddit.com 13, t.co 12, google.com 9, fcc.gov 4, bloom
 | 2026-11-24 22:24 | 35/43 | 164 | 7 | 0 | 0 |
 | 2026-11-24 09:51 | 35/43 | 167 | 6 | 0 | 0 |
 | 2026-11-23 23:51 | 35/43 | 168 | 7 | 0 | 0 |
-| 2026-11-23 07:33 | 35/43 | 165 | 6 | 0 | 0 |
 
 ※ 기계 시험은 접속·형식만 본 것입니다. 정보 제공용이며 투자 자문이 아닙니다.
